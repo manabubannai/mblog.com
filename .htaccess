@@ -1,0 +1,23 @@
+
+# Disable caching on SiteGround
+<IfModule mod_headers.c>
+  Header set Cache-Control "private"
+</IfModule>
+
+RewriteEngine On
+
+# 1) SEO: mblog.com/how-to-smoke-cannabis -> old.mblog.com/how-to-smoke-cannabis
+RewriteCond %{HTTP_HOST} ^mblog\.com$ [NC]
+RewriteRule ^how-to-smoke-cannabis/?$ https://old.mblog.com/how-to-smoke-cannabis [R=301,L]
+
+# 2) Redirect /index to /
+RewriteRule ^index$ / [R=301,L]
+
+# 3) Route clean slugs to post files
+# - Only apply if the request is not an existing file or directory
+# - /slug → /posts/slug.php
+# - Hides /posts and .php from public URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ posts/$1.php [L,QSA]
+
