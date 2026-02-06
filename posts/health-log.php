@@ -3,19 +3,25 @@
 <!-- 日本語のみに適応 -->
 <style>
   .jp-font {
-    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
-    font-size: 15.5px;
+    font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+    font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    letter-spacing: 0.03em;
-    line-height: 1.7;
+    line-height: 28px;
     color: #333;
     -webkit-font-smoothing: antialiased;
   }
 
   pre {
-    line-height: 1.7;
-    font-size: 16px;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-size: 13.5px;
+    line-height: 1.6;
+    padding: 15px !important;
+    background-color: #f8f8f8 !important;
+    border: 1px solid #eee !important;
+    border-radius: 4px;
+    color: #333;
+    white-space: pre-wrap;
   }
 </style>
 <script>
