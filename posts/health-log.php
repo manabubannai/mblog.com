@@ -17,7 +17,7 @@
     font-size: 13.5px;
     line-height: 1.6;
     padding: 15px !important;
-    background-color: #f8f8f8 !important;
+    /* background-color: #f8f8f8 !important; */
     border: 1px solid #eee !important;
     border-radius: 4px;
     color: #333;
