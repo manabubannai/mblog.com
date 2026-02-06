@@ -18,4 +18,4 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: public_html/ # サーバー側の適切なディレクトリに変更してください
+          server-dir: mblog.com/public_html/ # サーバー側の適切なディレクトリに変更してください
