@@ -3,14 +3,19 @@
 <!-- 日本語のみに適応 -->
 <style>
   .jp-font {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+    font-size: 15.5px;
     font-style: normal;
-    font-size: 15px;
-    font-family: Noto, Hiragino Sans, Helvetica, Arial, sans-serif;
-    text-rendering: optimizeLegibility;
-    background: transparent;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    line-height: 1.7;
+    color: #333;
     -webkit-font-smoothing: antialiased;
-    line-height: 0;
-    color: rgb(51, 51, 51);
+  }
+
+  pre {
+    line-height: 1.7;
+    font-size: 16px;
   }
 </style>
 <script>
