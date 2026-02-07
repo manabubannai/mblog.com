@@ -104,12 +104,12 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-07</h2>
   <pre>
 ■ Body Check Day
-<img src="img/health-log/20260207_front.jpg" alt="https://mblog.com/img/health-log/20260207_front.jpg">
-<img src="img/health-log/20260207_side.jpg" alt="https://mblog.com/img/health-log/20260207_side.jpg">
-<img src="img/health-log/20260207_back.jpg" alt="https://mblog.com/img/health-log/20260207_back.jpg">
-*source: https://mblog.com/img/health-log/20260207_front.jpg
-*source: https://mblog.com/img/health-log/20260207_side.jpg
-*source: https://mblog.com/img/health-log/20260207_back.jpg
+<img src="img/health-log/20260207_front.JPG" alt="https://mblog.com/img/health-log/20260207_front.JPG">
+<img src="img/health-log/20260207_side.JPG" alt="https://mblog.com/img/health-log/20260207_side.JPG">
+<img src="img/health-log/20260207_back.JPG" alt="https://mblog.com/img/health-log/20260207_back.JPG">
+*source: https://mblog.com/img/health-log/20260207_front.JPG
+*source: https://mblog.com/img/health-log/20260207_side.JPG
+*source: https://mblog.com/img/health-log/20260207_back.JPG
 
 ■ Morning Check
 Sleep : 00:00 - 8:00
