@@ -17,7 +17,6 @@
     font-size: 13.5px;
     line-height: 1.6;
     padding: 15px !important;
-    /* background-color: #f8f8f8 !important; */
     border: 1px solid #eee !important;
     border-radius: 4px;
     color: #333;
@@ -66,6 +65,9 @@ font-weight: 600;
 ・その③ : 肉体と精神エネルギーの強化
 →最も効果の高い施策をAIに聞きつつ実行
 
+✓ 直近のゴール
+体重：67kg、BIG3スコア：350
+
 ■ ルーティン
 8時半 : 起床
 9時：日光、朝食
@@ -98,6 +100,82 @@ Calcium AKG 700 mg (Codeage)
 Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
+
+  <h2># 2026-02-07</h2>
+  <pre>
+■ Body Check Day
+<img src="img/health-log/20260207_front.jpg" alt="https://mblog.com/img/health-log/20260207_front.jpg">
+<img src="img/health-log/20260207_side.jpg" alt="https://mblog.com/img/health-log/20260207_side.jpg">
+<img src="img/health-log/20260207_back.jpg" alt="https://mblog.com/img/health-log/20260207_back.jpg">
+*source: https://mblog.com/img/health-log/20260207_front.jpg
+*source: https://mblog.com/img/health-log/20260207_side.jpg
+*source: https://mblog.com/img/health-log/20260207_back.jpg
+
+■ Morning Check
+Sleep : 00:00 - 8:00
+Body : 8/10
+Mind : 8/10
+Spirit : 7/10
+
+※note : Still a little bit of gas in my stomach.
+
+■ Food
+Morning 9:00 : ゆで卵 2つ、テンペ 100g、ライスベリー 150g, edamame 20g、さつまいも 60g、アボカド 10g、赤玉ねぎのピクルス少々、ミニトマト 3つ
+
+Lunch 14:00：テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）
+
+Dinner 20:00：サーモン寿司３つ、おでんの大根、焼き鳥の鶏レバー、親子丼、厚揚げ豆腐１つ、お茶200ml、ティラミス
+
+※note : おへその左上あたりに違和感。夕飯後に感じたこと。
+
+■ Workout
+Back Day 63 kg
+16:20 ~ 17:50
+
+*note : Today's goal -> Improve the form
+*note: I add my feelings to my log since AI can't sense emotions. This improves the data and AI responses.
+
+1. Chinning
+0, 10, 10
+
+2. Deadlift
+60kg x 7
+80kg x 3
+80kg x 4
+※note : 背骨の痛みが完治していないので、MAXにはトライしなかった。
+※note : 背骨の痛みを避ける為、基本は4セット以下にする。
+
+3. Bent Over Rowing without Smith Machine
+40kg x 10
+50kg x 10
+70kg x 8
+60kg x 10
+55kg x 8
+50kg x 10
+※note : Because of back pain, I didn't try heavy weight.
+
+4. T-bar Rowing
+35kg x 12 ← 達成でした。重さを上げる。
+40kg x 10
+
+5. Lat Pulldown
+47kg x 10 (Slow)
+47kg x (8 + 2c) (Slow)
+47kg x (7 + 3c) (Slow)
+
+■ Substances
+Collagen (Great Lakes) 20g with breakfast
+Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
+NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
+Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner
+Creatine 5g (Thorne) after workout
+整腸剤 21:30 （※飲んだ直後に、おなかの不調が治った）
+Cannabis : Indica 0.5g 19:00,
+
+■ Note
+*Note: Health log を更新したときに、AIに自動で「PFCバランス」を出力するよう設定する
+</pre>
 
   <h2># 2026-02-06</h2>
   <pre>
@@ -153,6 +231,7 @@ Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
 NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
 Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner
 Creatine 5g (Thorne) after workout
+Cannabis : Indica 0.3g 19:00, 2g 22:00
 
 ■ Note
 サプリを大幅に変更した。
@@ -205,6 +284,12 @@ https://gemini.google.com/share/495415a72dfb
 ※体力やメンタル強化に注力する方法
 Health Logを作り、かつAI相談もしつつ、自分専用の健康プランを作る
 https://mblog.com/health-log
+
+■ AIからのフィードバック
+>> 「おへその違和感・ガス」への対策
+>> ログにある「おへそ周りの違和感」と「プロテイン中止による改善」から、以下の可能性が考えられます。
+>> カゼイン/乳糖不耐症の可能性：ホエイプロテインやヨーグルトの摂取量が多い場合、腸内で未消化のまま発酵し、ガスを発生させている可能性があります。
+朝のヨーグルトを停止してみる。
 </pre>
 
   <h2># 2026-02-05</h2>
