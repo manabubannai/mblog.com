@@ -109,7 +109,7 @@ NAC 500 mg (Thorne)
 
 ■ Food
 Breakfast (9:00): ごはん1杯、納豆1パック、キムチ50g、ヨーグルト 17g、ハニー 15g、チアシード 少スクープ、オーツ 50g、Walnuts 20g、みかん 100g、Mixed nuts(Almonds, Cashews, Macadamia, Pistachio) 30g、Pumpkin seeds 18g、ブルーベリー 34g、イチゴ 105g
-Lunch (14:00): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g、サラダ40g）、酵素オレンジジュース 220ml
+Lunch (14:00): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、酵素オレンジジュース 220ml
 Dinner (21:00): サーモン 120g, ミックスライス 200g, ブロッコリー 50g, ケール 40g, キムチ 20g
 
 ■ Workout
