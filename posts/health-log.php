@@ -101,6 +101,52 @@ Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
 
+  <h2># 2026-02-08</h2>
+  <pre>
+Sleep：00:00 - 09:00
+Body：9/10
+Mind：9/10
+Spirit：7/10
+
+■ Food
+Breakfast 10:40：納豆2パック、キムチ 100g、目玉焼き2つ
+Lunch 14:30：MKレストラン（野菜セット半分、黒豚セット半分、豚肉のライス、うどん少々、ヌードル少々）
+Dinner：カレー少し、ごはん1杯
+
+■ Substances
+Collagen (Great Lakes) 20g with breakfast
+Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
+NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
+Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner
+Creatine 5g (Thorne) after workout
+整腸剤 (Before Breakfast & Before sleep)
+Cannabis : Sativa 0.5g 19:00
+
+■ Workout
+Rest Day
+
+■ Treatment
+Meditation (First thing in the morning)
+
+■ Note
+✓ マナブ・カンパニーの創業
+・創業者：マナブ
+・代表取締役：AI
+・CFO：AI
+・CMO：AI
+・従業員：AI
+→ これを Open Claw で全自動化
+Health Log を軸にしたインフルエンサー事業
+ブログ運営や、各種SNSの発信は、全てAIエージェントの意思決定に従う。
+新規ドメインを取る：mblog-ai.com
+
+〜〜
+
+意思決定の指針：”健康を優先”
+
+※note：タニタの体重計を買う。もしくは、性能が良ければ他プロダクトでも良い。
+</pre>
   <h2># 2026-02-07</h2>
   <pre>
 ■ Body Check Day
