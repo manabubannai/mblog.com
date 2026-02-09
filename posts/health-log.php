@@ -58,7 +58,7 @@ font-weight: 600;
 
   <p>
     <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
-    <a id="copyLast30Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 30 days</a>
+    <a id="copyLast7Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 7 days</a>
   </p>
 
   <pre>
@@ -2048,9 +2048,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
   }
 
-  const btn30 = document.getElementById("copyLast30Btn");
-  if (btn30) {
-    btn30.onclick = () => {
+  const btn7 = document.getElementById("copyLast7Btn");
+  if (btn7) {
+    btn7.onclick = () => {
         const container = document.getElementById("copy-target");
         let textToCopy = "";
 
@@ -2060,12 +2060,12 @@ document.addEventListener('DOMContentLoaded', () => {
           textToCopy += "■ Goals & Routine\n" + firstPre.textContent + "\n\n" + "=".repeat(20) + "\n\n";
         }
 
-        // 2. Get Last 30 Daily Logs
+        // 2. Get Last 7 Daily Logs
         const allH2s = Array.from(container.querySelectorAll('h2'));
         const dateHeaders = allH2s.filter(h => h.textContent.trim().startsWith('#'));
         
-        // Take top 30 (Reverse Chronological)
-        const targetHeaders = dateHeaders.slice(0, 30);
+        // Take top 7 (Reverse Chronological)
+        const targetHeaders = dateHeaders.slice(0, 7);
 
         targetHeaders.forEach((h2) => {
           textToCopy += h2.textContent + "\n"; // Date Header
@@ -2084,7 +2084,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         if (textToCopy) {
-          navigator.clipboard.writeText(textToCopy).then(() => alert("Last 30 days data has been copied"));
+          navigator.clipboard.writeText(textToCopy).then(() => alert("Last 7 days data has been copied"));
         } else {
           alert("No data found to copy.");
         }
