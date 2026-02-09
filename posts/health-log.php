@@ -117,10 +117,21 @@ NAC 500 mg (Thorne)
 - Dinner (18:12): The Salad Concept Regular Salad (Lettuce 100g, Boiled Egg 50g, Pumpkin 50g, Cucumber 30g, Sunflower Seeds 10g, Carrot 30g, Avocado 80g, Soy Sauce Dressing 30ml) [Total: ~362kcal, P: 12.2g, F: 24g, C: 23g]
   *Feedback from AI: Low Protein. Need to add chicken breast or protein shake.
 
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+- Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
+- NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
+- Creatine 5g (Thorne) after workout
+- 整腸剤 (Before Breakfast)
+
+■ Treatment
+- Meditation (First thing in the morning)
+
 ■ Notes
 - 整腸剤を朝食前に飲んだ。
 - My stomach gas is getting better, maybe because of reducing the carbs that I take.
 - 本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
+- 左上と左下の奥歯の抜歯をした。
 </pre>
 
   <h2># 2026-02-08</h2>
