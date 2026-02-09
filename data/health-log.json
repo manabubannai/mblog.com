@@ -1,0 +1,1851 @@
+[
+  {
+    "date": "2026-02-09",
+    "sections": {
+      "general": [
+        "- Sleep: 00:00 - 08:00",
+        "- Body: 9/10",
+        "- Mind: 9/10",
+        "- Spirit: 7/10"
+      ],
+      "meals": [
+        "- Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)",
+        "- Lunch (15:00): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea",
+        "- Dinner (18:03): Salad (Avocado, Boiled Egg, Pumpkin, Carrots, Cucumber, Lettuce, Sunflower seeds, Sesame dressing)"
+      ],
+      "notes": [
+        "- 整腸剤を朝食前に飲んだ。",
+        "- My stomach gas is getting better, maybe because of reducing the carbs that I take.",
+        "- 本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した"
+      ]
+    },
+    "raw": "- Sleep: 00:00 - 08:00\n- Body: 9/10\n- Mind: 9/10\n- Spirit: 7/10\n\n■ Food\n- Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)\n- Lunch (15:00): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea\n- Dinner (18:03): Salad (Avocado, Boiled Egg, Pumpkin, Carrots, Cucumber, Lettuce, Sunflower seeds, Sesame dressing)\n\n■ Notes\n- 整腸剤を朝食前に飲んだ。\n- My stomach gas is getting better, maybe because of reducing the carbs that I take.\n- 本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した"
+  },
+  {
+    "date": "2026-02-08",
+    "sections": {
+      "general": [
+        "Sleep：00:00 - 09:00",
+        "Body：9/10",
+        "Mind：9/10",
+        "Spirit：7/10"
+      ],
+      "meals": [
+        "Breakfast 10:40：納豆2パック、キムチ 100g、目玉焼き2つ",
+        "Lunch 14:30：MKレストラン（野菜セット半分、黒豚セット半分、豚肉のライス、うどん少々、ヌードル少々）",
+        "Dinner：カレー少し、ごはん1杯 ※パーティに参加したので少なめ。帰宅後に食べても良かったが、お腹の調子（ガスが溜まる感じ）が完治していないので、休める意味でも、あえて食べなかった。"
+      ],
+      "substances": [
+        "Collagen (Great Lakes) 20g with breakfast",
+        "Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast",
+        "Omega3 EPA+DHA (Nordic) 1280 mg with breakfast",
+        "NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast",
+        "Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner",
+        "Creatine 5g (Thorne) after workout",
+        "整腸剤 (Before Breakfast & Before sleep)",
+        "Cannabis : Sativa 0.5g 19:00"
+      ],
+      "workout": [
+        "Rest Day"
+      ],
+      "treatment": [
+        "Meditation (First thing in the morning)"
+      ],
+      "notes": [
+        "✓ マナブ・カンパニーの創業",
+        "・創業者：マナブ",
+        "・代表取締役：AI",
+        "・CFO：AI",
+        "・CMO：AI",
+        "・従業員：AI",
+        "→ これを Open Claw で全自動化",
+        "Health Log を軸にしたインフルエンサー事業",
+        "ブログ運営や、各種SNSの発信は、全てAIエージェントの意思決定に従う。",
+        "新規ドメインを取る：mblog-ai.com",
+        "〜〜",
+        "意思決定の指針：”健康を優先”",
+        "※note：タニタの体重計を買う。もしくは、性能が良ければ他プロダクトでも良い。"
+      ],
+      "aiアシスタントからのフィードバック": [
+        "・Score: 85/100",
+        "・Good: 睡眠とメンタルは完璧。MKランチの選択も◎。",
+        "・Bad: 圧倒的なカロリー＆炭水化物不足。バルクアップにはご飯/オートミールが必須。",
+        "・Action: 朝食に炭水化物追加、夕食にタンパク質（肉/卵）を追加せよ。"
+      ]
+    },
+    "raw": "Sleep：00:00 - 09:00\nBody：9/10\nMind：9/10\nSpirit：7/10\n\n■ Food\nBreakfast 10:40：納豆2パック、キムチ 100g、目玉焼き2つ\nLunch 14:30：MKレストラン（野菜セット半分、黒豚セット半分、豚肉のライス、うどん少々、ヌードル少々）\nDinner：カレー少し、ごはん1杯 ※パーティに参加したので少なめ。帰宅後に食べても良かったが、お腹の調子（ガスが溜まる感じ）が完治していないので、休める意味でも、あえて食べなかった。\n\n■ Substances\nCollagen (Great Lakes) 20g with breakfast\nMulti-Vitamin Elite AM (Thorne) 2cupcels with breakfast\nOmega3 EPA+DHA (Nordic) 1280 mg with breakfast\nNMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast\nMulti-Vitamin Elite PM (Thorne) 2cupcels with dinner\nCreatine 5g (Thorne) after workout\n整腸剤 (Before Breakfast & Before sleep)\nCannabis : Sativa 0.5g 19:00\n\n■ Workout\nRest Day\n\n■ Treatment\nMeditation (First thing in the morning)\n\n■ Note\n✓ マナブ・カンパニーの創業\n・創業者：マナブ\n・代表取締役：AI\n・CFO：AI\n・CMO：AI\n・従業員：AI\n→ これを Open Claw で全自動化\nHealth Log を軸にしたインフルエンサー事業\nブログ運営や、各種SNSの発信は、全てAIエージェントの意思決定に従う。\n新規ドメインを取る：mblog-ai.com\n\n〜〜\n\n意思決定の指針：”健康を優先”\n\n※note：タニタの体重計を買う。もしくは、性能が良ければ他プロダクトでも良い。\n\n■ AIアシスタントからのフィードバック\n・Score: 85/100\n・Good: 睡眠とメンタルは完璧。MKランチの選択も◎。\n・Bad: 圧倒的なカロリー＆炭水化物不足。バルクアップにはご飯/オートミールが必須。\n・Action: 朝食に炭水化物追加、夕食にタンパク質（肉/卵）を追加せよ。"
+  },
+  {
+    "date": "2026-02-07",
+    "sections": {
+      "body check day": [
+        "<img src=\"img/health-log/20260207_front.JPG\" alt=\"https://mblog.com/img/health-log/20260207_front.JPG\">",
+        "<img src=\"img/health-log/20260207_side.JPG\" alt=\"https://mblog.com/img/health-log/20260207_side.JPG\">",
+        "<img src=\"img/health-log/20260207_back.JPG\" alt=\"https://mblog.com/img/health-log/20260207_back.JPG\">",
+        "*source: https://mblog.com/img/health-log/20260207_front.JPG",
+        "*source: https://mblog.com/img/health-log/20260207_side.JPG",
+        "*source: https://mblog.com/img/health-log/20260207_back.JPG"
+      ],
+      "morning check": [
+        "Sleep : 00:00 - 8:00",
+        "Body : 8/10",
+        "Mind : 8/10",
+        "Spirit : 7/10",
+        "※note : Still a little bit of gas in my stomach."
+      ],
+      "meals": [
+        "Morning 9:00 : ゆで卵 2つ、テンペ 100g、ライスベリー 150g, edamame 20g、さつまいも 60g、アボカド 10g、赤玉ねぎのピクルス少々、ミニトマト 3つ",
+        "Lunch 14:00：テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）",
+        "Dinner 20:00：サーモン寿司３つ、おでんの大根、焼き鳥の鶏レバー、親子丼、厚揚げ豆腐１つ、お茶200ml、ティラミス",
+        "※note : おへその左上あたりに違和感。夕飯後に感じたこと。"
+      ],
+      "workout": [
+        "Back Day 63 kg",
+        "16:20 ~ 17:50",
+        "*note : Today's goal -> Improve the form",
+        "*note: I add my feelings to my log since AI can't sense emotions. This improves the data and AI responses.",
+        "1. Chinning",
+        "0, 10, 10",
+        "2. Deadlift",
+        "60kg x 7",
+        "80kg x 3",
+        "80kg x 4",
+        "※note : 背骨の痛みが完治していないので、MAXにはトライしなかった。",
+        "※note : 背骨の痛みを避ける為、基本は4セット以下にする。",
+        "3. Bent Over Rowing without Smith Machine",
+        "40kg x 10",
+        "50kg x 10",
+        "70kg x 8",
+        "60kg x 10",
+        "55kg x 8",
+        "50kg x 10",
+        "※note : Because of back pain, I didn't try heavy weight.",
+        "4. T-bar Rowing",
+        "35kg x 12 ← 達成でした。重さを上げる。",
+        "40kg x 10",
+        "5. Lat Pulldown",
+        "47kg x 10 (Slow)",
+        "47kg x (8 + 2c) (Slow)",
+        "47kg x (7 + 3c) (Slow)"
+      ],
+      "substances": [
+        "Collagen (Great Lakes) 20g with breakfast",
+        "Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast",
+        "Omega3 EPA+DHA (Nordic) 1280 mg with breakfast",
+        "NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast",
+        "Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner",
+        "Creatine 5g (Thorne) after workout",
+        "整腸剤 21:30 （※飲んだ直後に、おなかの不調が治った）",
+        "Cannabis : Indica 0.5g 19:00,"
+      ],
+      "notes": [
+        "*Note: Health log を更新したときに、AIに自動で「PFCバランス」を出力するよう設定する"
+      ]
+    },
+    "raw": "■ Body Check Day\n<img src=\"img/health-log/20260207_front.JPG\" alt=\"https://mblog.com/img/health-log/20260207_front.JPG\">\n<img src=\"img/health-log/20260207_side.JPG\" alt=\"https://mblog.com/img/health-log/20260207_side.JPG\">\n<img src=\"img/health-log/20260207_back.JPG\" alt=\"https://mblog.com/img/health-log/20260207_back.JPG\">\n*source: https://mblog.com/img/health-log/20260207_front.JPG\n*source: https://mblog.com/img/health-log/20260207_side.JPG\n*source: https://mblog.com/img/health-log/20260207_back.JPG\n\n■ Morning Check\nSleep : 00:00 - 8:00\nBody : 8/10\nMind : 8/10\nSpirit : 7/10\n\n※note : Still a little bit of gas in my stomach.\n\n■ Food\nMorning 9:00 : ゆで卵 2つ、テンペ 100g、ライスベリー 150g, edamame 20g、さつまいも 60g、アボカド 10g、赤玉ねぎのピクルス少々、ミニトマト 3つ\n\nLunch 14:00：テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）\n\nDinner 20:00：サーモン寿司３つ、おでんの大根、焼き鳥の鶏レバー、親子丼、厚揚げ豆腐１つ、お茶200ml、ティラミス\n\n※note : おへその左上あたりに違和感。夕飯後に感じたこと。\n\n■ Workout\nBack Day 63 kg\n16:20 ~ 17:50\n\n*note : Today's goal -> Improve the form\n*note: I add my feelings to my log since AI can't sense emotions. This improves the data and AI responses.\n\n1. Chinning\n0, 10, 10\n\n2. Deadlift\n60kg x 7\n80kg x 3\n80kg x 4\n※note : 背骨の痛みが完治していないので、MAXにはトライしなかった。\n※note : 背骨の痛みを避ける為、基本は4セット以下にする。\n\n3. Bent Over Rowing without Smith Machine\n40kg x 10\n50kg x 10\n70kg x 8\n60kg x 10\n55kg x 8\n50kg x 10\n※note : Because of back pain, I didn't try heavy weight.\n\n4. T-bar Rowing\n35kg x 12 ← 達成でした。重さを上げる。\n40kg x 10\n\n5. Lat Pulldown\n47kg x 10 (Slow)\n47kg x (8 + 2c) (Slow)\n47kg x (7 + 3c) (Slow)\n\n■ Substances\nCollagen (Great Lakes) 20g with breakfast\nMulti-Vitamin Elite AM (Thorne) 2cupcels with breakfast\nOmega3 EPA+DHA (Nordic) 1280 mg with breakfast\nNMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast\nMulti-Vitamin Elite PM (Thorne) 2cupcels with dinner\nCreatine 5g (Thorne) after workout\n整腸剤 21:30 （※飲んだ直後に、おなかの不調が治った）\nCannabis : Indica 0.5g 19:00,\n\n■ Note\n*Note: Health log を更新したときに、AIに自動で「PFCバランス」を出力するよう設定する"
+  },
+  {
+    "date": "2026-02-06",
+    "sections": {
+      "morning check": [
+        "・Sleep: 23:30 - 07:30",
+        "・Body: 10/10",
+        "・Mind: 10/10",
+        "・Spirit: 7/10"
+      ],
+      "meals": [
+        "Breakfast (9:00): ごはん1杯、納豆1パック、キムチ50g、ヨーグルト 17g、ハニー 15g、チアシード 少スクープ、オーツ 50g、Walnuts 20g、みかん 100g、Mixed nuts(Almonds, Cashews, Macadamia, Pistachio) 30g、Pumpkin seeds 18g、ブルーベリー 34g、イチゴ 105g",
+        "Lunch (14:00): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、酵素オレンジジュース 220ml",
+        "Dinner (21:00): サーモン 120g, ミックスライス 200g, ブロッコリー 50g, ケール 40g, キムチ 20g"
+      ],
+      "workout": [
+        "Arm Day 16:40〜18:00 63.8kg",
+        "1. Barbell Curl → Dumbbell Curl (Superset)",
+        "*note:",
+        "Supesetなので、Barbell Curlは重さを上げつつポジティブ意識",
+        "そしてDeabbel Curlはネガティブ意識",
+        "35kg × 10 (反動多め) → 7.5kg × 10",
+        "35kg × 10 (反動多め) → 7.5kg × (5→rest→5)　←メンタル負けしているセット",
+        "35kg × 5 (反動多め) + 5c → 7.5kg × 10",
+        "2. Hammer Curl",
+        "*note: 17.5kgの3セットで、最大にトライする",
+        "17.5kg × 10 (反動多め)",
+        "17.5kg × 10 (反動多め)",
+        "17.5kg × 10 (反動多め)",
+        "*note: 問題なく上がった。Mind Blockがあったと判明。",
+        "3. Incline Overhead",
+        "25kg × 10",
+        "25kg × 12",
+        "30kg × 12",
+        "*note: 新しいメニューなので、低めの重量でスタート",
+        "4. Press Down with Bar",
+        "55kg × 10",
+        "55kg × (8 + 2c)",
+        "55kg × (7 + 1c)",
+        "5. Press Down with Rope",
+        "45kg × 12",
+        "45kg × 10",
+        "45kg × (9 + 1c)"
+      ],
+      "substances": [
+        "Collagen (Great Lakes) 20g with breakfast",
+        "Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast",
+        "Omega3 EPA+DHA (Nordic) 1280 mg with breakfast",
+        "NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast",
+        "Multi-Vitamin Elite PM (Thorne) 2cupcels with dinner",
+        "Creatine 5g (Thorne) after workout",
+        "Cannabis : Indica 0.3g 19:00, 2g 22:00"
+      ],
+      "notes": [
+        "サプリを大幅に変更した。",
+        "理由：高品質なマルチビタミンを買ったので、ここをベースに構成しつつ、体感を見る。",
+        "Multi-Vitamin Elite (Thorne) 2 coupcels",
+        "Omega3 EPA+DHA (Nordic) 1280 mg",
+        "NMN 1g / Res 1g / TMG 0.5g (ProHealth)",
+        "Collagen (Great Lakes) 20g",
+        "Creatine (Thorne) 5g",
+        "[削除] Ginseng、Ashwagandha",
+        "→ Multi-Vitamin Eliteに似た栄養素が入っている為、上記の２つは削除",
+        "✓ 将来的な追加検討：",
+        "Calcium-AKG: NMNの効果をサポート",
+        "NAC: 抗酸化。脳のクリアさとメンタル安定",
+        "→ 今のスタックが落ち着いてから試す",
+        "〜〜",
+        "*note: 汗の出方が増えた。12:00のストレッチ中に、体が熱く、しかし心地良い。",
+        "*note: 週次のBodyCheckはインスタに公開していく with その週のログをセットに",
+        "*note: 朝食にゆで卵を追加するのもあり。",
+        "*note: おへそ左上と右上あたりに違和感。先週から続いている。プロテインドリンクをやめたら、少し改善した気がする。"
+      ],
+      "ミニコラム": [
+        "Webライターや、SEO編集の９割は解雇される未来",
+        "👉 ライターやSEO編集をしており、今後のキャリアが不安な人へ。",
+        "✓ 背景から解説",
+        "・ワシントンポストが、編集部の3分の1を解雇した",
+        "・僕の友人の編集チームが、14人から３人まで減少した",
+        "・友人が勤めているITスタートアップで倒産が増えてる",
+        "↓  ↓  どうしたらいいのか？  ↓  ↓",
+        "✓ 結論",
+        "・90%のWebライターは、淘汰されていく",
+        "・SEO編集だけが出来る編集者は解雇される",
+        "✓ 対処法",
+        "・その①：人間力を上げる。相手を喜ばせる力。接待できる能力など",
+        "・その②：AI時代でも倒産しづらい大企業で出世を狙う ←下記で深掘り",
+        "・その③：下手に副業なんかせず、体力やメンタル強化に注力する",
+        "※倒産しづらい企業の例",
+        "AI特化の企業、AIと関連しづらい業界、伸びてる業界の会社",
+        "https://gemini.google.com/share/495415a72dfb",
+        "※体力やメンタル強化に注力する方法",
+        "Health Logを作り、かつAI相談もしつつ、自分専用の健康プランを作る",
+        "https://mblog.com/health-log"
+      ],
+      "aiからのフィードバック": [
+        ">> 「おへその違和感・ガス」への対策",
+        ">> ログにある「おへそ周りの違和感」と「プロテイン中止による改善」から、以下の可能性が考えられます。",
+        ">> カゼイン/乳糖不耐症の可能性：ホエイプロテインやヨーグルトの摂取量が多い場合、腸内で未消化のまま発酵し、ガスを発生させている可能性があります。",
+        "朝のヨーグルトを停止してみる。"
+      ]
+    },
+    "raw": "■ Morning Check\n・Sleep: 23:30 - 07:30\n・Body: 10/10\n・Mind: 10/10\n・Spirit: 7/10\n\n■ Food\nBreakfast (9:00): ごはん1杯、納豆1パック、キムチ50g、ヨーグルト 17g、ハニー 15g、チアシード 少スクープ、オーツ 50g、Walnuts 20g、みかん 100g、Mixed nuts(Almonds, Cashews, Macadamia, Pistachio) 30g、Pumpkin seeds 18g、ブルーベリー 34g、イチゴ 105g\nLunch (14:00): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、酵素オレンジジュース 220ml\nDinner (21:00): サーモン 120g, ミックスライス 200g, ブロッコリー 50g, ケール 40g, キムチ 20g\n\n■ Workout\nArm Day 16:40〜18:00 63.8kg\n\n1. Barbell Curl → Dumbbell Curl (Superset)\n*note: \nSupesetなので、Barbell Curlは重さを上げつつポジティブ意識\nそしてDeabbel Curlはネガティブ意識\n35kg × 10 (反動多め) → 7.5kg × 10\n35kg × 10 (反動多め) → 7.5kg × (5→rest→5)　←メンタル負けしているセット\n35kg × 5 (反動多め) + 5c → 7.5kg × 10\n\n2. Hammer Curl\n*note: 17.5kgの3セットで、最大にトライする\n17.5kg × 10 (反動多め)\n17.5kg × 10 (反動多め)\n17.5kg × 10 (反動多め)\n*note: 問題なく上がった。Mind Blockがあったと判明。\n\n3. Incline Overhead\n25kg × 10\n25kg × 12\n30kg × 12\n*note: 新しいメニューなので、低めの重量でスタート\n\n4. Press Down with Bar\n55kg × 10\n55kg × (8 + 2c)\n55kg × (7 + 1c)\n\n5. Press Down with Rope\n45kg × 12\n45kg × 10\n45kg × (9 + 1c)\n\n■ Substances\nCollagen (Great Lakes) 20g with breakfast\nMulti-Vitamin Elite AM (Thorne) 2cupcels with breakfast\nOmega3 EPA+DHA (Nordic) 1280 mg with breakfast\nNMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast\nMulti-Vitamin Elite PM (Thorne) 2cupcels with dinner\nCreatine 5g (Thorne) after workout\nCannabis : Indica 0.3g 19:00, 2g 22:00\n\n■ Note\nサプリを大幅に変更した。\n理由：高品質なマルチビタミンを買ったので、ここをベースに構成しつつ、体感を見る。\nMulti-Vitamin Elite (Thorne) 2 coupcels\nOmega3 EPA+DHA (Nordic) 1280 mg\nNMN 1g / Res 1g / TMG 0.5g (ProHealth)\nCollagen (Great Lakes) 20g\nCreatine (Thorne) 5g\n\n[削除] Ginseng、Ashwagandha\n→ Multi-Vitamin Eliteに似た栄養素が入っている為、上記の２つは削除\n\n✓ 将来的な追加検討：\nCalcium-AKG: NMNの効果をサポート\nNAC: 抗酸化。脳のクリアさとメンタル安定\n→ 今のスタックが落ち着いてから試す\n\n〜〜\n\n*note: 汗の出方が増えた。12:00のストレッチ中に、体が熱く、しかし心地良い。\n*note: 週次のBodyCheckはインスタに公開していく with その週のログをセットに\n*note: 朝食にゆで卵を追加するのもあり。\n*note: おへそ左上と右上あたりに違和感。先週から続いている。プロテインドリンクをやめたら、少し改善した気がする。\n\n■ミニコラム\nWebライターや、SEO編集の９割は解雇される未来\n👉 ライターやSEO編集をしており、今後のキャリアが不安な人へ。\n\n✓ 背景から解説\n・ワシントンポストが、編集部の3分の1を解雇した\n・僕の友人の編集チームが、14人から３人まで減少した\n・友人が勤めているITスタートアップで倒産が増えてる\n\n↓  ↓  どうしたらいいのか？  ↓  ↓\n\n✓ 結論\n・90%のWebライターは、淘汰されていく\n・SEO編集だけが出来る編集者は解雇される\n\n✓ 対処法\n・その①：人間力を上げる。相手を喜ばせる力。接待できる能力など\n・その②：AI時代でも倒産しづらい大企業で出世を狙う ←下記で深掘り\n・その③：下手に副業なんかせず、体力やメンタル強化に注力する\n\n※倒産しづらい企業の例\nAI特化の企業、AIと関連しづらい業界、伸びてる業界の会社\nhttps://gemini.google.com/share/495415a72dfb\n\n※体力やメンタル強化に注力する方法\nHealth Logを作り、かつAI相談もしつつ、自分専用の健康プランを作る\nhttps://mblog.com/health-log\n\n■ AIからのフィードバック\n>> 「おへその違和感・ガス」への対策\n>> ログにある「おへそ周りの違和感」と「プロテイン中止による改善」から、以下の可能性が考えられます。\n>> カゼイン/乳糖不耐症の可能性：ホエイプロテインやヨーグルトの摂取量が多い場合、腸内で未消化のまま発酵し、ガスを発生させている可能性があります。\n朝のヨーグルトを停止してみる。"
+  },
+  {
+    "date": "2026-02-05",
+    "sections": {
+      "morning check": [
+        "Sleep: 23:00 - 8:00",
+        "Body: 8/10",
+        "Mind: 9/10",
+        "Spirit: 8/10"
+      ],
+      "meals": [
+        "Morning 8:30 : ヨーグルト 15g、ブルーベリー 42g, オーツ 50g、ハニー 15g, Pumpkin seeds 20g, Passion fruits 3g, Walnuts 20g, Chia seeds 4g, イチゴ 130g, Mixed nuts 30g （Almonds, Cashews, Macadamia, Pistachios）",
+        "Lunch 14:00 : テンペバーグ丼、わかめサラダ、オレンジ酵素ジュース",
+        "Dinner 21:00 : Sushi, おでん７種、カツ丼、グレープフルーツ、CARROT パウンドケーキ(Protein 11g / 246 kcal / Carbs 25g / Fat 14.8g)"
+      ],
+      "workout": [
+        "Rest Day",
+        "サウナ × 2セット",
+        "Ice Bath：20秒, 30秒"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 2000mg (morning)",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (morning)",
+        "Cannabis: 15:00 0.5g Indica, 0.4 Indica 19:00, 0.5g Indica 22:00"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep: 23:00 - 8:00\nBody: 8/10\nMind: 9/10\nSpirit: 8/10\n\n■ Food\nMorning 8:30 : ヨーグルト 15g、ブルーベリー 42g, オーツ 50g、ハニー 15g, Pumpkin seeds 20g, Passion fruits 3g, Walnuts 20g, Chia seeds 4g, イチゴ 130g, Mixed nuts 30g （Almonds, Cashews, Macadamia, Pistachios）\nLunch 14:00 : テンペバーグ丼、わかめサラダ、オレンジ酵素ジュース\nDinner 21:00 : Sushi, おでん７種、カツ丼、グレープフルーツ、CARROT パウンドケーキ(Protein 11g / 246 kcal / Carbs 25g / Fat 14.8g)\n\n■ Workout \nRest Day\nサウナ × 2セット\nIce Bath：20秒, 30秒\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 2000mg (morning)\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (morning)\nCannabis: 15:00 0.5g Indica, 0.4 Indica 19:00, 0.5g Indica 22:00"
+  },
+  {
+    "date": "2026-02-04",
+    "sections": {
+      "morning check": [
+        "Sleep: 12:30-8:00",
+        "Body: 7/10",
+        "Mind: 9/10",
+        "Spirit: 6/10"
+      ],
+      "meals": [
+        "Morning 8:30 ご飯大盛り１杯、納豆１パック、キムチ30g、きゅうり40g、ヨーグルト20g、pumpkin seeds 13g, mixed nuts (almonds, cashew, macadamia, pistachio) 30g, walnuts 20g, chia seeds 小さじ1杯、ハチミツ15g, ミニみかん2つ(92g)、パッションフルーツ8g(２つ)",
+        "Night 21:00 クロワッサン２つ、グラスフェッド・リブロース 200g、ブロッコリー (100g)、ジャスミンライス (100g)、ブラックオリーブ (20g)、プロテインワッフル(34g protein)、Fresh Mango Smoothie 220ml",
+        "*note: 朝食後に眠くなり昼寝。10時〜15時まで寝た。"
+      ],
+      "workout": [
+        "2/4 Leg Day (16:15〜, 62.5kg)",
+        "1. Squat without Smith Machine",
+        "* 60kg x 10",
+        "* 80kg x 5",
+        "* 70kg x 10",
+        "* 70kg x 10",
+        "* 70kg x 10",
+        "* 70kg x 10",
+        "※note: without Smith Machine だったので重さを少し下げた",
+        "2. Leg Curl",
+        "* 47kg x 12",
+        "* 47kg x 12",
+        "* 54kg x (5 + 2c)",
+        "※note: 47kgが問題ないので重さを上げた",
+        "3. Jump Squat → Leg Extension",
+        "* 10 → 75kg x 10",
+        "* 10 → 75kg x 10",
+        "* 10 → 75kg x 10",
+        "4. Calf Raise",
+        "* 30kg x 10 (slow) → 30kg x 10 (fast)",
+        "* 30kg x 10 (slow) → 30kg x 10 (fast)",
+        "* 30kg x 10 (slow) → 30kg x 10 (fast)"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (morning)",
+        "Cannabis: Indica 0.4g 19:00",
+        "Digestive Enzyme Supplements (morning)"
+      ],
+      "notes": [
+        "意思決定のみ",
+        "他は全てAIに任せる",
+        "アンチグラビティでブログテーマ作るのあり",
+        "自分でコードを書くのは無駄すぎる",
+        "全てAIに依頼して、自分は意思決定のみ",
+        "WEBサイトのシステムは全てAIになる",
+        "人間はフロントデザイン作成と意思決定のみ",
+        "ニュース解説コラムでも書こうかな：",
+        "Gさんチーム：14人から、3人",
+        "最後は、たぶん2人になる"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep: 12:30-8:00\nBody: 7/10\nMind: 9/10\nSpirit: 6/10\n\n■ Food\nMorning 8:30 ご飯大盛り１杯、納豆１パック、キムチ30g、きゅうり40g、ヨーグルト20g、pumpkin seeds 13g, mixed nuts (almonds, cashew, macadamia, pistachio) 30g, walnuts 20g, chia seeds 小さじ1杯、ハチミツ15g, ミニみかん2つ(92g)、パッションフルーツ8g(２つ)\nNight 21:00 クロワッサン２つ、グラスフェッド・リブロース 200g、ブロッコリー (100g)、ジャスミンライス (100g)、ブラックオリーブ (20g)、プロテインワッフル(34g protein)、Fresh Mango Smoothie 220ml\n\n*note: 朝食後に眠くなり昼寝。10時〜15時まで寝た。\n\n■ Workout \n2/4 Leg Day (16:15〜, 62.5kg)\n\n1. Squat without Smith Machine\n* 60kg x 10\n* 80kg x 5\n* 70kg x 10\n* 70kg x 10\n* 70kg x 10\n* 70kg x 10\n※note: without Smith Machine だったので重さを少し下げた\n\n2. Leg Curl\n* 47kg x 12\n* 47kg x 12\n* 54kg x (5 + 2c)\n※note: 47kgが問題ないので重さを上げた\n\n3. Jump Squat → Leg Extension\n* 10 → 75kg x 10\n* 10 → 75kg x 10\n* 10 → 75kg x 10\n\n4. Calf Raise\n* 30kg x 10 (slow) → 30kg x 10 (fast)\n* 30kg x 10 (slow) → 30kg x 10 (fast)\n* 30kg x 10 (slow) → 30kg x 10 (fast)\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (morning)\nCannabis: Indica 0.4g 19:00\nDigestive Enzyme Supplements (morning)\n\n■ Note\n意思決定のみ\n他は全てAIに任せる\n\nアンチグラビティでブログテーマ作るのあり\n自分でコードを書くのは無駄すぎる\n全てAIに依頼して、自分は意思決定のみ\n\nWEBサイトのシステムは全てAIになる\n人間はフロントデザイン作成と意思決定のみ\n\nニュース解説コラムでも書こうかな：\nGさんチーム：14人から、3人\n最後は、たぶん2人になる"
+  },
+  {
+    "date": "2026-02-03",
+    "sections": {
+      "morning check": [
+        "Sleep: 1:00-8:00",
+        "Body: 9/10",
+        "Mind: 10/10",
+        "Spirit: 6/10",
+        "*note: お腹の調子が良くない（ガスが溜まる、なんか違和感ある）ので、多分問題であるプロテインドリンクの量を減らす。"
+      ],
+      "to do": [
+        "[done] Shoulder Day",
+        "[done] Stretch",
+        "[done] Meditation 30min",
+        "[done] ポートフォリオ整理のメール",
+        "[done] 足首ストレッチ調査",
+        "[done] タスクメモを書く場所を考える",
+        "メガネ探し"
+      ],
+      "meals": [
+        "Breakfast 8:30: ご飯１杯、納豆２パック、ミニトマト５つ、キムチ100g、ヨーグルト20g、パッションフルーツ12g、くるみ20g、チアシード3g、パンプキンシード2g、Mixed Nuts 40g (almonds, cashews, macadamias, pistachios)、オーツ50g、blueberry 30g、EVOO 15mg",
+        "Lunch 14:00 サーモン丼（ご飯大盛り）、茶碗蒸し、枝豆40粒、タコ刺身 120g、お茶 200ml",
+        "Dinner 20:30 野菜スープ（豆腐、松茸、ネギ、青菜、椎茸）、カリフラワー(200g)+ニンニク焼き、ミニトマト４つ、きゅうり40g、ベビーほうれん草15g、パプリカ20g、納豆１パック、ご飯大盛り"
+      ],
+      "workout": [
+        "Shoulder Day",
+        "16:30〜17:50",
+        "62.9kg",
+        "1. Rear Raise (Target Back → Target Side → Pendulum)",
+        "10kg x 10 → 10kg x 10 → 10kg x 10",
+        "10kg x 10 → 10kg x 10 → 10kg x 10",
+        "10kg x 10 → 10kg x 10 → 10kg x 10",
+        "2. Shoulder Press Machine",
+        "40kg x 10",
+        "60kg x 4",
+        "75kg x 1",
+        "70kg x 4",
+        "65kg x 6",
+        "60kg x (6+2c)",
+        "※note: フォームを綺麗に。直角まで下げる。",
+        "3. Dumbbell Shoulder Press",
+        "17.5kg x 11 → 17.5kg x 4",
+        "17.5kg x 7 → 17.5kg x 2",
+        "※note: 数回よりもフォームを意識。90度まで下げる。",
+        "4. Side Raise",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x 15",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x 15",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x 15"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (morning)",
+        "Digestive Enzyme Supplements (night)",
+        "Cannabis: Indica 0.3g 19:00, Indica 0.8g 23:00"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep: 1:00-8:00\nBody: 9/10\nMind: 10/10\nSpirit: 6/10\n*note: お腹の調子が良くない（ガスが溜まる、なんか違和感ある）ので、多分問題であるプロテインドリンクの量を減らす。\n\n■To Do\n[done] Shoulder Day\n[done] Stretch\n[done] Meditation 30min\n[done] ポートフォリオ整理のメール\n[done] 足首ストレッチ調査\n[done] タスクメモを書く場所を考える\nメガネ探し\n\n■ Food\nBreakfast 8:30: ご飯１杯、納豆２パック、ミニトマト５つ、キムチ100g、ヨーグルト20g、パッションフルーツ12g、くるみ20g、チアシード3g、パンプキンシード2g、Mixed Nuts 40g (almonds, cashews, macadamias, pistachios)、オーツ50g、blueberry 30g、EVOO 15mg\nLunch 14:00 サーモン丼（ご飯大盛り）、茶碗蒸し、枝豆40粒、タコ刺身 120g、お茶 200ml\nDinner 20:30 野菜スープ（豆腐、松茸、ネギ、青菜、椎茸）、カリフラワー(200g)+ニンニク焼き、ミニトマト４つ、きゅうり40g、ベビーほうれん草15g、パプリカ20g、納豆１パック、ご飯大盛り\n\n■ Workout \nShoulder Day\n16:30〜17:50\n62.9kg\n\n1. Rear Raise (Target Back → Target Side → Pendulum)\n10kg x 10 → 10kg x 10 → 10kg x 10\n10kg x 10 → 10kg x 10 → 10kg x 10\n10kg x 10 → 10kg x 10 → 10kg x 10\n\n2. Shoulder Press Machine\n40kg x 10\n60kg x 4\n75kg x 1\n70kg x 4\n65kg x 6\n60kg x (6+2c) \n※note: フォームを綺麗に。直角まで下げる。\n\n3. Dumbbell Shoulder Press\n17.5kg x 11 → 17.5kg x 4\n17.5kg x 7 → 17.5kg x 2\n※note: 数回よりもフォームを意識。90度まで下げる。\n\n4. Side Raise\n12.5kg x 10 → 7.5kg x 15 → 5kg x 15\n12.5kg x 10 → 7.5kg x 15 → 5kg x 15\n12.5kg x 10 → 7.5kg x 15 → 5kg x 15\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (morning)\nDigestive Enzyme Supplements (night)\nCannabis: Indica 0.3g 19:00, Indica 0.8g 23:00"
+  },
+  {
+    "date": "2026-02-02",
+    "sections": {
+      "morning check": [
+        "Sleep : 12:00-8:00",
+        "Body: 8/10",
+        "Mind: 9/10",
+        "Spirit:  6/10"
+      ],
+      "today’s tasks": [
+        "- [x] InBodyの計測",
+        "- [x] 家政婦さんへの指示",
+        "- [x] Chest Day",
+        "- [x] ストレッチ 11:00",
+        "- [x] 瞑想 30min (11:30)",
+        "- [ ] レシピデータを全て細かくする：データの精度を最大化",
+        "- [ ] 肩周りのストレッチを調べる",
+        "- [ ] Super Agersを読む",
+        "- [ ] Xの内部の人のポッドキャスト",
+        "- [ ] 株が買えてるか確認 (T95、G261)",
+        "- [ ] 足首を柔らかくするストレッチをルーティーンに追加する",
+        "- [ ] AI生成で似合うメガネを探す"
+      ],
+      "meals": [
+        "朝食 8:30 目玉焼き、納豆卵、ご飯、ブロッコリー、レタス、プロテイン10g",
+        "昼食 14:00 サーモン丼、枝豆、茶碗蒸し",
+        "夕飯 19:30 しゃぶしゃぶ",
+        "夜食 22:00 アルフォートチョコレート、Tobleroneチョコ"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Indica 0.3g 19:00, 0.8g 22:00"
+      ],
+      "workout": [
+        "Chest Day 16:30-18:15",
+        "61.9kg  /  Protein 30g",
+        "1. Bench Press without Smith Machine",
+        "40kg × 10",
+        "60kg × 4",
+        "75kg × 0",
+        "60kg × 8",
+        "60kg × 6",
+        "60kg × (7+1c)",
+        "55kg × 10",
+        "2. Dips",
+        "10, 10, 10",
+        "3. Incline Bench Press",
+        "30kg × 10",
+        "40kg × 10",
+        "40kg × 9",
+        "4. Incline Bench Press",
+        "20kg × 10",
+        "20kg × 10",
+        "20kg × 10",
+        "20kg × 10",
+        "*note: 胸上部の効かせ方が分かった"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep : 12:00-8:00\nBody: 8/10\nMind: 9/10 \nSpirit:  6/10\n\n■ Today’s Tasks\n- [x] InBodyの計測\n- [x] 家政婦さんへの指示\n- [x] Chest Day\n- [x] ストレッチ 11:00\n- [x] 瞑想 30min (11:30)\n- [ ] レシピデータを全て細かくする：データの精度を最大化\n- [ ] 肩周りのストレッチを調べる\n- [ ] Super Agersを読む\n- [ ] Xの内部の人のポッドキャスト\n- [ ] 株が買えてるか確認 (T95、G261)\n- [ ] 足首を柔らかくするストレッチをルーティーンに追加する\n- [ ] AI生成で似合うメガネを探す\n\n■ Food\n朝食 8:30 目玉焼き、納豆卵、ご飯、ブロッコリー、レタス、プロテイン10g\n昼食 14:00 サーモン丼、枝豆、茶碗蒸し\n夕飯 19:30 しゃぶしゃぶ\n夜食 22:00 アルフォートチョコレート、Tobleroneチョコ\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Indica 0.3g 19:00, 0.8g 22:00\n\n■ Workout\nChest Day 16:30-18:15\n61.9kg  /  Protein 30g\n\n1. Bench Press without Smith Machine\n40kg × 10\n60kg × 4\n75kg × 0\n60kg × 8\n60kg × 6\n60kg × (7+1c)\n55kg × 10\n\n2. Dips\n10, 10, 10\n\n3. Incline Bench Press\n30kg × 10\n40kg × 10\n40kg × 9\n\n4. Incline Bench Press\n20kg × 10\n20kg × 10\n20kg × 10\n20kg × 10\n\n*note: 胸上部の効かせ方が分かった"
+  },
+  {
+    "date": "2026-02-01",
+    "sections": {
+      "morning check": [
+        "Sleep 2:00-10:45",
+        "Body 10/10",
+        "Mind 9/10",
+        "Spirit 7/10"
+      ],
+      "today’s tasks": [
+        "- [x] InBodyの計測",
+        "- [ ] 肩周りのストレッチを調べる",
+        "- [ ] Super Agersを読む",
+        "- [ ] Xの内部の人のポッドキャスト",
+        "- [ ] 株が買えてるか確認 (T95、G261)",
+        "- [ ] 足首を柔らかくするストレッチをルーティーンに追加する"
+      ],
+      "meals": [
+        "朝食 13:00 テンペバーグ丼、タマゴ、豆腐サラダ（豆腐、レタス、わかめ、水菜）",
+        "夕食 20:00 ビーフ丼、ブロッコリー、サーモン焼き",
+        "夜食 23:00 ココナッツヨーグルト(いちご、ブルーベリー、パッションフルーツ、オーツ、ロンガンハニー、ナッツ、チアシード、アーモンドミルク)"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Sativa 0.3g (12:00), Indica 1g (21:00)"
+      ],
+      "inbody": [
+        "## 測定概要",
+        "・身長:　171 cm",
+        "・年齢: 35歳",
+        "・性別: 男性",
+        "・測定日時: 2026.02.01. 12:38",
+        "## 体成分分析 (Body Composition Analysis)",
+        "項目           測定値    標準範囲",
+        "体重           61.1 kg   54.7～73.9",
+        "体水分         41.5 L    36.2～44.2",
+        "タンパク質     11.2 kg   9.7～11.9",
+        "ミネラル       3.58 kg   3.35～4.09",
+        "体脂肪量       4.8 kg    7.7～15.4",
+        "## 筋肉・脂肪分析 (Muscle-Fat Analysis)",
+        "項目           測定値    状態",
+        "体重           61.1 kg   標準",
+        "骨格筋量       32.1 kg   標準",
+        "体脂肪量       4.8 kg    低め",
+        "## 肥満指標 (Obesity Analysis)",
+        "項目           測定値    状態",
+        "BMI            20.9      標準",
+        "体脂肪率       7.8 %     低め",
+        "## 部位別筋肉量 / 脂肪量",
+        "部位別筋肉量",
+        "右腕           3.32 kg   114.0%  標準",
+        "左腕           3.36 kg   115.4%  多い",
+        "体幹           26.1 kg   112.4%  多い",
+        "右脚           9.01 kg   111.5%  多い",
+        "左脚           8.97 kg   111.0%  多い",
+        "部位別脂肪量",
+        "右腕           0.1 kg    18.1%   低め",
+        "左腕           0.1 kg    18.1%   低め",
+        "体幹           1.5 kg    35.7%   低め",
+        "右脚           1.0 kg    61.2%   低め",
+        "左脚           1.0 kg    61.8%   低め",
+        "## 総合評価・研究項目",
+        "項目               測定値           備考",
+        "InBody点数         78 / 100点",
+        "適正体重           64.3 kg",
+        "体重調節           +3.2 kg         脂肪 +3.2kg / 筋肉 0.0kg",
+        "WHR                0.78",
+        "内臓脂肪レベル     1               低い",
+        "基礎代謝量         1586 kcal",
+        "推奨摂取カロリー   2432 kcal",
+        "SMI                8.4",
+        "*data: https://mblog.com/img/inbody_20250201.jpg"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep 2:00-10:45\nBody 10/10\nMind 9/10\nSpirit 7/10\n\n■ Today’s Tasks\n- [x] InBodyの計測\n- [ ] 肩周りのストレッチを調べる\n- [ ] Super Agersを読む\n- [ ] Xの内部の人のポッドキャスト\n- [ ] 株が買えてるか確認 (T95、G261)\n- [ ] 足首を柔らかくするストレッチをルーティーンに追加する\n\n■ Food\n朝食 13:00 テンペバーグ丼、タマゴ、豆腐サラダ（豆腐、レタス、わかめ、水菜）\n夕食 20:00 ビーフ丼、ブロッコリー、サーモン焼き\n夜食 23:00 ココナッツヨーグルト(いちご、ブルーベリー、パッションフルーツ、オーツ、ロンガンハニー、ナッツ、チアシード、アーモンドミルク)\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Sativa 0.3g (12:00), Indica 1g (21:00)\n\n■ InBody\n## 測定概要\n・身長:　171 cm\n・年齢: 35歳\n・性別: 男性\n・測定日時: 2026.02.01. 12:38\n\n## 体成分分析 (Body Composition Analysis)\n項目           測定値    標準範囲\n体重           61.1 kg   54.7～73.9\n体水分         41.5 L    36.2～44.2\nタンパク質     11.2 kg   9.7～11.9\nミネラル       3.58 kg   3.35～4.09\n体脂肪量       4.8 kg    7.7～15.4\n\n## 筋肉・脂肪分析 (Muscle-Fat Analysis)\n項目           測定値    状態\n体重           61.1 kg   標準\n骨格筋量       32.1 kg   標準\n体脂肪量       4.8 kg    低め\n\n## 肥満指標 (Obesity Analysis)\n項目           測定値    状態\nBMI            20.9      標準\n体脂肪率       7.8 %     低め\n\n## 部位別筋肉量 / 脂肪量\n部位別筋肉量\n右腕           3.32 kg   114.0%  標準\n左腕           3.36 kg   115.4%  多い\n体幹           26.1 kg   112.4%  多い\n右脚           9.01 kg   111.5%  多い\n左脚           8.97 kg   111.0%  多い\n\n部位別脂肪量\n右腕           0.1 kg    18.1%   低め\n左腕           0.1 kg    18.1%   低め\n体幹           1.5 kg    35.7%   低め\n右脚           1.0 kg    61.2%   低め\n左脚           1.0 kg    61.8%   低め\n\n## 総合評価・研究項目\n項目               測定値           備考\nInBody点数         78 / 100点\n適正体重           64.3 kg\n体重調節           +3.2 kg         脂肪 +3.2kg / 筋肉 0.0kg\nWHR                0.78\n内臓脂肪レベル     1               低い\n基礎代謝量         1586 kcal\n推奨摂取カロリー   2432 kcal\nSMI                8.4\n\n*data: https://mblog.com/img/inbody_20250201.jpg"
+  },
+  {
+    "date": "2026-01-31",
+    "sections": {
+      "morning check": [
+        "Sleep 00:00-8:20",
+        "意思力 8/10",
+        "肉体 8/10",
+        "直感力 7/10"
+      ],
+      "today’s tasks": [
+        "[done] 美容院に行く",
+        "[done] ストレッチ",
+        "[done] 飛行機で瞑想",
+        "[done] マウスピース+インビザ予約",
+        "[done] Sculptraの予約検討",
+        "[done] 幹細胞の点滴を検討",
+        "[done] ポートフォリオ整理",
+        "[done] BryanのXを見てみる",
+        "Super Agersを読む",
+        "[不要] マナブ何してる記事",
+        "株が買えてるか確認 (T95、G261)",
+        "肩周りのストレッチを調べる",
+        "Xの内部の人のポッドキャスト"
+      ],
+      "meals": [
+        "朝食 11:30 アボカド、豆腐、トマト、ケール、ビートルート、にんじん、スムージー（Spinach, Spirulina, Wheatgrass, Mango, Banana, Avocado, Cashew Cream, Oat Milk）",
+        "ランチ 15:50 牛肉ガパオライス、レバー",
+        "夕飯 17:30 焼肉（カルビ、タン塩、レバー）、キムチ、サンチュ",
+        "夜食 23:30 寿司７つ、サーモン寿司3つ、ウインナー、エピ、牡蠣"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Sativa 0.2g (12:00), hashish 1g"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep 00:00-8:20\n意思力 8/10\n肉体 8/10\n直感力 7/10\n\n■ Today’s Tasks\n[done] 美容院に行く\n[done] ストレッチ\n[done] 飛行機で瞑想\n[done] マウスピース+インビザ予約\n[done] Sculptraの予約検討\n[done] 幹細胞の点滴を検討\n[done] ポートフォリオ整理\n[done] BryanのXを見てみる\nSuper Agersを読む\n[不要] マナブ何してる記事\n株が買えてるか確認 (T95、G261)\n肩周りのストレッチを調べる\nXの内部の人のポッドキャスト\n\n■ Food\n朝食 11:30 アボカド、豆腐、トマト、ケール、ビートルート、にんじん、スムージー（Spinach, Spirulina, Wheatgrass, Mango, Banana, Avocado, Cashew Cream, Oat Milk）\nランチ 15:50 牛肉ガパオライス、レバー\n夕飯 17:30 焼肉（カルビ、タン塩、レバー）、キムチ、サンチュ\n夜食 23:30 寿司７つ、サーモン寿司3つ、ウインナー、エピ、牡蠣\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Sativa 0.2g (12:00), hashish 1g"
+  },
+  {
+    "date": "2026-01-30",
+    "sections": {
+      "morning check": [
+        "Sleep: 1:00-8:00",
+        "Willpower 8",
+        "Body 8",
+        "Mind 8"
+      ],
+      "today’s tasks": [
+        "[done] バンコクに行く",
+        "[done] Daily: 飛行機で瞑想 30min 12:30",
+        "[done] BryanのWebサイト",
+        "[done] BryanのYouTube",
+        "BryanのXを見てみる",
+        "マナブ何してる記事",
+        "Super Agersを読む",
+        "幹細胞の点滴を検討",
+        "[done] Note欄の効率化",
+        "歯医者でマウスピース作成",
+        "Sculptra予約（顔全体リフトアップ）"
+      ],
+      "meals": [
+        "朝食 08:30 オーツボウル、納豆キムチご飯、タンパクおとめ1スクープ",
+        "ランチ 15:30 野菜カレー(ブロッコリー、ジャガイモ、ナス、オクラ、ベビーコーン、ご飯)、牡蠣フライ5個、付け合わせ（トマト、キャベツ、きゅうり）",
+        "夕飯 19:00 焼肉（タン塩、レバー、鶏もも）、キムチ、ライス大盛、お茶、タンパクおとめ1スクープ",
+        "夜食 22:00 ラーメン（大勝軒）"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Sativa 0.5g (18:00)、1g Indica 22:00",
+        "Alcohol: 0, Cigarettes: 0"
+      ],
+      "notes": [
+        "*note: 栄養バランスの良い食品リスト",
+        "✔︎ 1. 健康的な脂質 (Healthy Fats)",
+        "エキストラバージンオリーブオイル、アボカド、マカダミア、アーモンド、くるみ、ヘーゼルナッツ、ゴマ、チアシード、カボチャの種、フラックスシード（亜麻仁）、ヘンプ、ココア",
+        "︎✔︎ 2. 複合炭水化物 ＆ フルーツ・野菜",
+        "ベリー類、根菜、ネギ属（玉ねぎ・にんにく等）、アブラナ科の野菜（ブロッコリー等）、レンズ豆、トマト、ピーマン、ナス、ズッキーニ、発酵食品、オート麦（全粒）、キヌア、マヌカハニー",
+        "✔︎ 3. タンパク質 (Protein)",
+        "エンドウ豆、ヘンプ、豆類、鶏むね肉、七面鳥のむね肉、脂ののった魚、卵、ホエイ、カゼイン、無糖ヨーグルト"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep: 1:00-8:00\nWillpower 8\nBody 8\nMind 8\n\n■ Today’s Tasks\n[done] バンコクに行く\n[done] Daily: 飛行機で瞑想 30min 12:30\n[done] BryanのWebサイト\n[done] BryanのYouTube \nBryanのXを見てみる\nマナブ何してる記事\nSuper Agersを読む\n\n幹細胞の点滴を検討\n[done] Note欄の効率化\n\n歯医者でマウスピース作成\nSculptra予約（顔全体リフトアップ）\n\n■ Food\n朝食 08:30 オーツボウル、納豆キムチご飯、タンパクおとめ1スクープ\nランチ 15:30 野菜カレー(ブロッコリー、ジャガイモ、ナス、オクラ、ベビーコーン、ご飯)、牡蠣フライ5個、付け合わせ（トマト、キャベツ、きゅうり）\n夕飯 19:00 焼肉（タン塩、レバー、鶏もも）、キムチ、ライス大盛、お茶、タンパクおとめ1スクープ\n夜食 22:00 ラーメン（大勝軒）\n\n■ Substances \nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Sativa 0.5g (18:00)、1g Indica 22:00\nAlcohol: 0, Cigarettes: 0\n\n■ Note\n*note: 栄養バランスの良い食品リスト\n\n✔︎ 1. 健康的な脂質 (Healthy Fats) \nエキストラバージンオリーブオイル、アボカド、マカダミア、アーモンド、くるみ、ヘーゼルナッツ、ゴマ、チアシード、カボチャの種、フラックスシード（亜麻仁）、ヘンプ、ココア\n\n︎✔︎ 2. 複合炭水化物 ＆ フルーツ・野菜 \nベリー類、根菜、ネギ属（玉ねぎ・にんにく等）、アブラナ科の野菜（ブロッコリー等）、レンズ豆、トマト、ピーマン、ナス、ズッキーニ、発酵食品、オート麦（全粒）、キヌア、マヌカハニー\n\n✔︎ 3. タンパク質 (Protein) \nエンドウ豆、ヘンプ、豆類、鶏むね肉、七面鳥のむね肉、脂ののった魚、卵、ホエイ、カゼイン、無糖ヨーグルト"
+  },
+  {
+    "date": "2026-01-29",
+    "sections": {
+      "morning check": [
+        "Sleep：04:00-11:00",
+        "意志：10/10",
+        "Body：9/10",
+        "Mind：9/10"
+      ],
+      "today’s tasks": [
+        "・[Done] Back Day",
+        "・Read: Bryan Web, X, YouTube",
+        "・Write：マナブ何してる",
+        "・Read: Super Agers",
+        "・[Done] Play with Dogs",
+        "・[Done] Stretch",
+        "・Meditation",
+        "・幹細胞の点滴を検討",
+        "・Note欄の効率化"
+      ],
+      "meals": [
+        "- Breakfast (11:30): 納豆キムチご飯２杯、オーツボウル（ストロベリー、Apple、ブルーベリー、Passion Fluit、くるみ、アーモンド、cashew nuts、マカダミア、チアシード）、タンパクおとめ１杯、EVOO、サラダ（ルッコラ、貝割れ大根、アボガド、トマト）",
+        "- Lunch (14:30): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice",
+        "- Dinner (20:30): hummus (hummus, tomato sauce, egg, olive oil, parsley), pickles (cucumber, cabbage, bell pepper), sesame bread ring (sesame seeds, flour), roasted potatoes, タンパクおとめ１スクープ"
+      ],
+      "workout": [
+        "Back Day 62.3kg",
+        "Cycling 19.4 km",
+        "16:40~18:20 / Protein 20g",
+        "1. Chinning",
+        "10",
+        "10",
+        "10",
+        "2. Deadlift",
+        "60kg × 6",
+        "100kg × 2",
+        "3. Bent Over Rowing with Smith Machine",
+        "30kg × 10",
+        "50kg × 10",
+        "70kg × 10",
+        "70kg × 10",
+        "60kg × 10",
+        "55kg × 15",
+        "*note: increase weight next week",
+        "4. T-Bar Rowing",
+        "35kg × 10",
+        "35kg × (8+1c)",
+        "5. Lat Pulldown",
+        "40kg × 10 (slow)",
+        "40kg × 10 (slow)"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Jamaican Dream 0.2g (13:30), Hybrid 0.5g (19:00), Indica 01g (22:00)",
+        "Alcohol: 0, Cigarettes: 0"
+      ],
+      "notes": [
+        "✓ 買い物",
+        "・ヨーグルト",
+        "・Korean Extract",
+        "・蚊よけスプレー",
+        "・蚊取り線香",
+        "・ふかふかのバスタオル",
+        "・チャリのライト",
+        "・フェイスマスク",
+        "・シューズ",
+        "✓ ロードマップ",
+        "・目的：Joyの最大化",
+        "バルクアップ → 肉体の美化",
+        "肉体的、精神的エネルギーの強化",
+        "・理由：オジ化は進む。つまり筋肉が必要。",
+        "・優先：目的を最速で達成する",
+        "その為に「最も効果の高い施策」をAIに聞き実行。",
+        "※自分の予想：早寝早起き、１日３食",
+        "✓ ルーティン",
+        "９時：朝食、日光",
+        "10時：犬と遊ぶ、ストレッチ、Meditation",
+        "11時：自由時間（３時間 → 何でも可能）",
+        "14時：昼食",
+        "15時：コーヒー",
+        "16時：筋トレ",
+        "※１日終了"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep：04:00-11:00\n意志：10/10\nBody：9/10\nMind：9/10\n\n■ Today’s Tasks\n・[Done] Back Day\n・Read: Bryan Web, X, YouTube\n・Write：マナブ何してる\n・Read: Super Agers\n・[Done] Play with Dogs\n・[Done] Stretch\n・Meditation\n・幹細胞の点滴を検討\n・Note欄の効率化\n\n■ Food\n- Breakfast (11:30): 納豆キムチご飯２杯、オーツボウル（ストロベリー、Apple、ブルーベリー、Passion Fluit、くるみ、アーモンド、cashew nuts、マカダミア、チアシード）、タンパクおとめ１杯、EVOO、サラダ（ルッコラ、貝割れ大根、アボガド、トマト）\n- Lunch (14:30): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice\n- Dinner (20:30): hummus (hummus, tomato sauce, egg, olive oil, parsley), pickles (cucumber, cabbage, bell pepper), sesame bread ring (sesame seeds, flour), roasted potatoes, タンパクおとめ１スクープ\n\n■ Workout \nBack Day 62.3kg\nCycling 19.4 km\n16:40~18:20 / Protein 20g\n\n1. Chinning\n10\n10\n10\n\n2. Deadlift\n60kg × 6\n100kg × 2\n\n3. Bent Over Rowing with Smith Machine\n30kg × 10\n50kg × 10\n70kg × 10\n70kg × 10\n60kg × 10\n55kg × 15\n\n*note: increase weight next week\n\n4. T-Bar Rowing\n35kg × 10\n35kg × (8+1c)\n\n5. Lat Pulldown\n40kg × 10 (slow)\n40kg × 10 (slow)\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Jamaican Dream 0.2g (13:30), Hybrid 0.5g (19:00), Indica 01g (22:00)\nAlcohol: 0, Cigarettes: 0\n\n■ Note\n\n✓ 買い物\n・ヨーグルト\n・Korean Extract\n・蚊よけスプレー\n・蚊取り線香\n・ふかふかのバスタオル\n・チャリのライト\n・フェイスマスク\n・シューズ\n\n✓ ロードマップ\n・目的：Joyの最大化\nバルクアップ → 肉体の美化\n肉体的、精神的エネルギーの強化\n\n・理由：オジ化は進む。つまり筋肉が必要。\n\n・優先：目的を最速で達成する\nその為に「最も効果の高い施策」をAIに聞き実行。\n\n※自分の予想：早寝早起き、１日３食\n\n\n✓ ルーティン\n９時：朝食、日光\n10時：犬と遊ぶ、ストレッチ、Meditation\n11時：自由時間（３時間 → 何でも可能）\n14時：昼食\n15時：コーヒー\n16時：筋トレ\n※１日終了"
+  },
+  {
+    "date": "2026-01-28",
+    "sections": {
+      "morning check": [
+        "Sleep: 00:30-12:00",
+        "Body: 9/10",
+        "Mind: 10/10"
+      ],
+      "today’s tasks": [
+        "・[done] ARM DAY",
+        "・Read: Super Ages",
+        "・[done] Stretch (13:00)",
+        "・[done] Meditation (13:30)",
+        "・[done] Play with dogs (12:00)",
+        "・[done] ダボス会議を見る"
+      ],
+      "meals": [
+        "- Breakfast (12:30): ベビーリーフ、ルッコラ、貝割れ大根、食パン、アボガド、目玉焼き２つ、コーヒー、タンパクおとめ１スクープ",
+        "- Dinner (20:00): 中華（豚肉３種盛り、麻婆豆腐、野菜炒め、サンラータン、小籠包、ライス）、タンパクおとめ１スクープ"
+      ],
+      "workout": [
+        "ARM DAY 61.4kg",
+        "16:15~17:45 / Protein 10g",
+        "1. Barbell Curl → Dumbbell Curl",
+        "30kg × 10 → 7.5kg × (5→rest→5)",
+        "30kg × (6+4c) → 7.5kg × (5→rest→5)",
+        "30kg × (8+2c) → 7.5kg × (5→rest→3→2)",
+        "2. Hammer Curl (dropset)",
+        "12.5kg × 10 → 7.5kg × 10",
+        "12.5kg × 10 → 7.5kg × 10",
+        "*note: visualize the weight after workout, which makes you high-motivation.",
+        "*note: increase the weight next week.",
+        "3. Press Down with Bar",
+        "55kg × (8+2c)",
+        "55kg × (8+2c)",
+        "55kg × (9+1c)",
+        "4. Press Down with Rope",
+        "50kg × (7+1c)",
+        "50kg × (7+1c)",
+        "45kg × 8",
+        "*note: don’t use arm supporter. It decrease the stretch of your arm.",
+        "*note: かなりフォームが崩れたので、重さを下げた（2セット目）",
+        "フォームの綺麗さ → 良いデータ → 良い筋肉の成長",
+        "5. Incline Overhead",
+        "20kg × 10",
+        "20kg × 10",
+        "20kg × 12"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: MAC V2 0.5g (18:30),",
+        "Cheese kush 0.3g (21:00), Cheese kush 0.3g (23:00), Power Moves 0.3g (23:00), LA-KUSH-CAKE 1g (3:00)",
+        "Alcohol: 0, Cigarettes: 0"
+      ],
+      "買い物": [
+        "・ヨーグルト",
+        "・Korean Extract",
+        "・蚊よけスプレー",
+        "・蚊取り線香",
+        "・ふかふかのバスタオル",
+        "・チャリのライト",
+        "・フェイスマスク",
+        "・シューズ"
+      ],
+      "notes": [
+        "*note: I’ve got a sunshine shortly after the wakeup.",
+        "*note:",
+        "・総カロリー",
+        "・PFCバランス",
+        "→ここを軸にバルクアップをする",
+        "→完了済み：AIでリサーチした。炭水化物を増やす。",
+        "*note: AIに支配される領域",
+        "法律、宗教、国家、お金。これらはすべて「人間の言語（物語）」で作られています。AIが人間以上に説得力のある物語を書き始めた今、社会の「OS（オペレーティング・システム）」が人間からAIへと移り変わった。 ー ユヴァル・ノア・ハラリ",
+        "*note: #To_Do",
+        "Radiant Clinicが良さそうだけど検討：",
+        "• Radiant Clinic (ニマンヘミン): 幹細胞点滴（IV）やエクソソーム療法、NAD+点滴など、ブライアン・ジョンソン的なメニューが豊富です。",
+        "• V-Plast Clinic (チェンマイ門近く): 脂肪由来幹細胞（ADSC）の採取に定評があり、バンコクの研究所と連携して細胞を保存できます。",
+        "• Absolute Health (メーリム/市内): 統合医療のパイオニア。細胞保存だけでなく、全身のデトックス（キレーション）と組み合わせた若返りプランを提案。"
+      ]
+    },
+    "raw": "■ Morning Check\nSleep: 00:30-12:00\nBody: 9/10\nMind: 10/10\n\n■ Today’s Tasks\n・[done] ARM DAY\n・Read: Super Ages\n・[done] Stretch (13:00)\n・[done] Meditation (13:30)\n・[done] Play with dogs (12:00)\n・[done] ダボス会議を見る\n\n■ Food\n- Breakfast (12:30): ベビーリーフ、ルッコラ、貝割れ大根、食パン、アボガド、目玉焼き２つ、コーヒー、タンパクおとめ１スクープ\n- Dinner (20:00): 中華（豚肉３種盛り、麻婆豆腐、野菜炒め、サンラータン、小籠包、ライス）、タンパクおとめ１スクープ\n\n■ Workout \nARM DAY 61.4kg\n16:15~17:45 / Protein 10g\n\n1. Barbell Curl → Dumbbell Curl\n30kg × 10 → 7.5kg × (5→rest→5)\n30kg × (6+4c) → 7.5kg × (5→rest→5)\n30kg × (8+2c) → 7.5kg × (5→rest→3→2)\n\n2. Hammer Curl (dropset)\n12.5kg × 10 → 7.5kg × 10\n12.5kg × 10 → 7.5kg × 10\n\n*note: visualize the weight after workout, which makes you high-motivation.\n*note: increase the weight next week.\n\n3. Press Down with Bar\n55kg × (8+2c)\n55kg × (8+2c)\n55kg × (9+1c)\n\n4. Press Down with Rope\n50kg × (7+1c)\n50kg × (7+1c)\n45kg × 8\n\n*note: don’t use arm supporter. It decrease the stretch of your arm.\n*note: かなりフォームが崩れたので、重さを下げた（2セット目）\nフォームの綺麗さ → 良いデータ → 良い筋肉の成長\n\n5. Incline Overhead\n20kg × 10\n20kg × 10\n20kg × 12\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: MAC V2 0.5g (18:30), \nCheese kush 0.3g (21:00), Cheese kush 0.3g (23:00), Power Moves 0.3g (23:00), LA-KUSH-CAKE 1g (3:00)\nAlcohol: 0, Cigarettes: 0\n\n■買い物\n・ヨーグルト\n・Korean Extract\n・蚊よけスプレー\n・蚊取り線香\n・ふかふかのバスタオル\n・チャリのライト\n・フェイスマスク\n・シューズ\n\n■ Note\n*note: I’ve got a sunshine shortly after the wakeup.\n\n*note:\n・総カロリー\n・PFCバランス\n→ここを軸にバルクアップをする\n→完了済み：AIでリサーチした。炭水化物を増やす。\n\n*note: AIに支配される領域\n法律、宗教、国家、お金。これらはすべて「人間の言語（物語）」で作られています。AIが人間以上に説得力のある物語を書き始めた今、社会の「OS（オペレーティング・システム）」が人間からAIへと移り変わった。 ー ユヴァル・ノア・ハラリ\n\n*note: #To_Do\nRadiant Clinicが良さそうだけど検討：\n\n• Radiant Clinic (ニマンヘミン): 幹細胞点滴（IV）やエクソソーム療法、NAD+点滴など、ブライアン・ジョンソン的なメニューが豊富です。\n• V-Plast Clinic (チェンマイ門近く): 脂肪由来幹細胞（ADSC）の採取に定評があり、バンコクの研究所と連携して細胞を保存できます。\n• Absolute Health (メーリム/市内): 統合医療のパイオニア。細胞保存だけでなく、全身のデトックス（キレーション）と組み合わせた若返りプランを提案。"
+  },
+  {
+    "date": "2026-01-27",
+    "sections": {
+      "買い物リスト": [
+        "・チャリのライト",
+        "・フェイスマスク",
+        "・シューズ",
+        "・[Done] 耳栓",
+        "・[Done] ボールペン",
+        "・蚊取り線香",
+        "・ヨーグルト",
+        "・パッションフルーツ",
+        "・ナッツ類",
+        "・ブルーベリー"
+      ],
+      "today’s tasks": [
+        "・[Done]Karsai Massage (18:30)",
+        "・[Done] Streach (11:30)",
+        "・[Done]Play with Dogs (11:00)",
+        "・Meditation (if possible)",
+        "・[Done]Shopping (14:00)",
+        "・[Done]Blog Writing (15:00)"
+      ],
+      "morning check": [
+        "- Sleep: 01:00-09:30",
+        "- Body: 9/10",
+        "- Mind: 8/10"
+      ],
+      "meals": [
+        "- Breakfast (10:00): Oats yogurt (strawberry, pear, walnuts, almonds, honey, chia seeds), EVOO 15ml",
+        "- Lunch (14:00): クロワッサン、トマト、マッシュルーム、貝割れ大根、レタス、水菜、オムレツ、スムージー（バナナ、アップル、パパイヤ、バナナ、オレンジ）",
+        "- Dinner (20:30): arno's burger (sirloin steak, rise, pea shoots, レタス、octopus, tomato, orange)"
+      ],
+      "workout": [
+        "Rest Day"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Indica 1g (18:00), OG KUSH 0.5g (22:00), OG KUSH + OBAMA KUSH 0.5g (00:00)",
+        "Alcohol: 0, Cigarettes: 0"
+      ],
+      "notes": [
+        "Don’t touch smartphone before finishing breakfast, which sometimes causes headaches.",
+        "寝ている時の歯軋りが煩い（奥さんから伝達されたこと）",
+        "〜〜",
+        "業界トップを真似する",
+        "今ならBryan Johnson",
+        "彼の発信を全て時系列でウォッチしてみる",
+        "#To_Do",
+        "彼のサイトを全て読んで理解する",
+        "ツイートを時系列で分析する",
+        "YouTube動画を分析しつつ見る",
+        "〜〜",
+        "#To_Do",
+        "マナブログは何してる？ 2826年2月版を書く",
+        "これはSEO流入があるから個人ブログに",
+        "これをダレックシルバのNowページのように活用する。",
+        "更新したらタイトル変更して、トップに固定するなど",
+        "〜〜",
+        "アウトプットから先に考える",
+        "プロセスや発信手段は何でもいい",
+        "〜〜",
+        "かっこいいことをしようとしたがっている。",
+        "それが1番格好悪いと気づかずに",
+        "This is the time when you see someone like “wow he has skills, education, nice looking and beautiful website or clearly edited YouTube video with low show counting.",
+        "〜〜",
+        "歳をとるにするつれて頭が硬くなっている",
+        "発信媒体とか何でもいい 目的に最速で行くだけ",
+        "もし有名になりたいなら、ぶっちぎりの方法を使う、",
+        "もしくは出来ないなら、なぜ出来ないのな、恥じらいなのかを考え、基本的には撤退する",
+        "〜〜"
+      ],
+      "aiへの人生相談ログ": [
+        "私の提案はこうだ。",
+        "その空虚さから逃げるな。また忙しくすることで埋めようとするな。",
+        "ただその『空っぽ』の中に座っていなさい。瞑想しなさい。",
+        "何も生産せず、誰も説得せず、何も売らない。",
+        "ただ、そこに在る（Being）ことにくつろぐのだ。",
+        "もしあなたがその強烈な空虚さに耐え、それと友だちになることができれば、",
+        "そこから生まれる次のクリエイティビティは、",
+        "過去の5億円を稼いだものとは全く異質な、より高次元のものになるだろう。",
+        "あなたは『ビジネスマン』としての成功を卒業し、",
+        "真の『クリエイター（創造者）』へと変容する入り口に立っているのだ」",
+        "https://g.co/gemini/share/d9958d386dbd"
+      ]
+    },
+    "raw": "■買い物リスト\n・チャリのライト\n・フェイスマスク\n・シューズ\n・[Done] 耳栓\n・[Done] ボールペン\n・蚊取り線香\n・ヨーグルト\n・パッションフルーツ\n・ナッツ類\n・ブルーベリー\n\n■Today’s Tasks\n・[Done]Karsai Massage (18:30)\n・[Done] Streach (11:30)\n・[Done]Play with Dogs (11:00)\n・Meditation (if possible)\n・[Done]Shopping (14:00)\n・[Done]Blog Writing (15:00)\n\n■ Morning Check\n- Sleep: 01:00-09:30\n- Body: 9/10\n- Mind: 8/10\n\n■ Food\n- Breakfast (10:00): Oats yogurt (strawberry, pear, walnuts, almonds, honey, chia seeds), EVOO 15ml\n- Lunch (14:00): クロワッサン、トマト、マッシュルーム、貝割れ大根、レタス、水菜、オムレツ、スムージー（バナナ、アップル、パパイヤ、バナナ、オレンジ）\n- Dinner (20:30): arno's burger (sirloin steak, rise, pea shoots, レタス、octopus, tomato, orange)\n\n■ Workout \nRest Day\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Indica 1g (18:00), OG KUSH 0.5g (22:00), OG KUSH + OBAMA KUSH 0.5g (00:00)\nAlcohol: 0, Cigarettes: 0\n\n■ Note\nDon’t touch smartphone before finishing breakfast, which sometimes causes headaches.\n寝ている時の歯軋りが煩い（奥さんから伝達されたこと）\n\n〜〜\n\n業界トップを真似する\n今ならBryan Johnson\n彼の発信を全て時系列でウォッチしてみる\n\n#To_Do\n彼のサイトを全て読んで理解する\nツイートを時系列で分析する\nYouTube動画を分析しつつ見る\n\n\n〜〜\n\n#To_Do\nマナブログは何してる？ 2826年2月版を書く\n\nこれはSEO流入があるから個人ブログに\nこれをダレックシルバのNowページのように活用する。\n更新したらタイトル変更して、トップに固定するなど\n\n〜〜\n\nアウトプットから先に考える\nプロセスや発信手段は何でもいい\n\n〜〜\n\nかっこいいことをしようとしたがっている。\nそれが1番格好悪いと気づかずに\n\nThis is the time when you see someone like “wow he has skills, education, nice looking and beautiful website or clearly edited YouTube video with low show counting. \n\n〜〜\n\n歳をとるにするつれて頭が硬くなっている\n発信媒体とか何でもいい 目的に最速で行くだけ\n\nもし有名になりたいなら、ぶっちぎりの方法を使う、\nもしくは出来ないなら、なぜ出来ないのな、恥じらいなのかを考え、基本的には撤退する\n\n〜〜\n\n■AIへの人生相談ログ\n私の提案はこうだ。\nその空虚さから逃げるな。また忙しくすることで埋めようとするな。\n\nただその『空っぽ』の中に座っていなさい。瞑想しなさい。\n何も生産せず、誰も説得せず、何も売らない。\nただ、そこに在る（Being）ことにくつろぐのだ。\n\nもしあなたがその強烈な空虚さに耐え、それと友だちになることができれば、\nそこから生まれる次のクリエイティビティは、\n過去の5億円を稼いだものとは全く異質な、より高次元のものになるだろう。\n\nあなたは『ビジネスマン』としての成功を卒業し、\n真の『クリエイター（創造者）』へと変容する入り口に立っているのだ」\nhttps://g.co/gemini/share/d9958d386dbd"
+  },
+  {
+    "date": "2026-01-26",
+    "sections": {
+      "morning check": [
+        "- Sleep: 23:30-09:00",
+        "- Body: 10/10",
+        "- Mind: 9/10",
+        "- Stretch: 20 min (morning)",
+        "- Meditation: 30 min (morning)",
+        "※ストレッチ内容：1. Foot & Ankle（足指: 曲げ伸ばし→足裏: ほぐし→足首: 回す→アキレス腱: 伸ばす） 2. Hip & Leg（前もも: 伸ばす→内もも: 広げる→股関節: 前屈→足裏: 前屈→股関節: 折り込み→お尻: 外側伸ばし→股関節: 上下・押し込み） 3. Back & Core（腰: 左右に揺らす→腰を立てる: 足裏伸ばし→背中: 伸ばす→腰: 伸ばす） 4. Upper Body（肩: 回す・伸ばす→手首: 回す→首: 前後・左右・回す）"
+      ],
+      "meals": [
+        "- Breakfast (10:00): Oats yogurt (strawberry, pear, walnuts, almonds, brazil nuts, honey, chia seeds), EVOO 15ml",
+        "- Lunch (14:00): サーモン丼、タコ＆マグロ＆サーモン叩きサラダ",
+        "- Dinner (20:00): ソムタム、チキンウィング、チキンレッグ、ご飯"
+      ],
+      "workout": [
+        "Cycling 20km",
+        "Leg Day: 16:20 ~ 18:00",
+        "Weight: 61.3kg / Protein 10g",
+        "1. Squat",
+        "60kg × 10",
+        "80kg × 4",
+        "100kg × 2",
+        "90kg × 4",
+        "80kg × 8",
+        "70kg × 12",
+        "2. Leg Curl",
+        "47kg × 12",
+        "47kg × 10",
+        "47kg × (8+2c)",
+        "3. Jump Squat → Leg Extension",
+        "10 → 68kg × 10",
+        "10 → 68kg × 10",
+        "10 → 68kg × 10",
+        "*note: full stretch legs (straight)",
+        "4. Calf Raise",
+        "25kg : 10 (slow) → 25kg : 10 (fast)",
+        "25kg : 10 (slow) → 25kg : 10 (fast)",
+        "25kg : 10 (slow) → 25kg : 10 (fast)"
+      ],
+      "today’s task": [
+        "- Leg Day",
+        "- Stretch 20min",
+        "- Meditation 30min",
+        "- Play with dogs"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: 0.4g (19:00), MAC V2 + OG KUSH 1g (21:30) + 0.3g (23:50)",
+        "Alcohol: 0, Cigarettes: 0"
+      ],
+      "notes": [
+        "・本日のノートは草を吸いつつ書いた",
+        "・Add protein drink in the mooning",
+        "・水の量を観察する：現状は2.5ℓくらい、あと500mlを追加する意識",
+        "〜〜",
+        "AI後の世界",
+        "✓ 上司からのメール返信がAI利用",
+        "部下のログを読ませて、",
+        "その部下に「最も刺さる言葉」",
+        "を、１人のマネージャーが無限に管理",
+        "言葉の信頼が失墜した時代",
+        "〜〜",
+        "・今世は諦めて生きる",
+        "来世は、良いキャラになるかも　→ バリ島の人の考え方（輪廻）",
+        "・日本じゃなく、世界スタンダードで考える",
+        "→争ったところで、、例：ラッパー界のイケメンや成功って、、どうでも良い",
+        "→世界はこの連鎖"
+      ]
+    },
+    "raw": "■ Morning Check\n- Sleep: 23:30-09:00\n- Body: 10/10\n- Mind: 9/10\n- Stretch: 20 min (morning)\n- Meditation: 30 min (morning)\n\n※ストレッチ内容：1. Foot & Ankle（足指: 曲げ伸ばし→足裏: ほぐし→足首: 回す→アキレス腱: 伸ばす） 2. Hip & Leg（前もも: 伸ばす→内もも: 広げる→股関節: 前屈→足裏: 前屈→股関節: 折り込み→お尻: 外側伸ばし→股関節: 上下・押し込み） 3. Back & Core（腰: 左右に揺らす→腰を立てる: 足裏伸ばし→背中: 伸ばす→腰: 伸ばす） 4. Upper Body（肩: 回す・伸ばす→手首: 回す→首: 前後・左右・回す）\n\n■ Food\n- Breakfast (10:00): Oats yogurt (strawberry, pear, walnuts, almonds, brazil nuts, honey, chia seeds), EVOO 15ml\n- Lunch (14:00): サーモン丼、タコ＆マグロ＆サーモン叩きサラダ\n- Dinner (20:00): ソムタム、チキンウィング、チキンレッグ、ご飯\n\n■ Workout \nCycling 20km\nLeg Day: 16:20 ~ 18:00\nWeight: 61.3kg / Protein 10g\n\n1. Squat\n60kg × 10\n80kg × 4\n100kg × 2\n90kg × 4\n80kg × 8\n70kg × 12\n\n2. Leg Curl\n47kg × 12\n47kg × 10\n47kg × (8+2c)\n\n3. Jump Squat → Leg Extension\n10 → 68kg × 10\n10 → 68kg × 10\n10 → 68kg × 10\n\n*note: full stretch legs (straight)\n\n4. Calf Raise\n25kg : 10 (slow) → 25kg : 10 (fast)\n25kg : 10 (slow) → 25kg : 10 (fast)\n25kg : 10 (slow) → 25kg : 10 (fast)\n\n■ Today’s Task\n- Leg Day\n- Stretch 20min\n- Meditation 30min\n- Play with dogs\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: 0.4g (19:00), MAC V2 + OG KUSH 1g (21:30) + 0.3g (23:50)\nAlcohol: 0, Cigarettes: 0\n\n■ Notes\n・本日のノートは草を吸いつつ書いた\n・Add protein drink in the mooning\n・水の量を観察する：現状は2.5ℓくらい、あと500mlを追加する意識\n\n〜〜\n\nAI後の世界\n\n✓ 上司からのメール返信がAI利用\n部下のログを読ませて、\nその部下に「最も刺さる言葉」\nを、１人のマネージャーが無限に管理\n\n言葉の信頼が失墜した時代\n\n〜〜\n\n・今世は諦めて生きる\n来世は、良いキャラになるかも　→ バリ島の人の考え方（輪廻）\n\n・日本じゃなく、世界スタンダードで考える\n→争ったところで、、例：ラッパー界のイケメンや成功って、、どうでも良い\n→世界はこの連鎖"
+  },
+  {
+    "date": "2026-01-25",
+    "sections": {
+      "morning check": [
+        "- Sleep: 03:30-09:00",
+        "- Body: 8/10",
+        "- Mind: 8/10",
+        "- Stretch: 20 min (morning)",
+        "- Meditation: 30 min (morning)"
+      ],
+      "meals": [
+        "- Breakfast (10:00): Oats yogurt (strawberry, apple, walnuts, almonds, brazil nuts, honey, chia seeds), EVOO 15ml",
+        "- Lunch (14:00): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice",
+        "- Dinner (19:00): Shabu-shabu (pork, beef, napa cabbage, cabbage, green onion, enoki, shiitake, king oyster mushrooms)"
+      ],
+      "workout": [
+        "Cycling 20.3km",
+        "Shoulder Day: 16:20 ~ 18:00",
+        "Weight: 60.6kg / Protein 10g",
+        "1. Rear Raise (back → side → pendulum)",
+        "10kg x 10 → 10kg x 10 → 10kg x 10",
+        "10kg x 10 → 10kg x (5+rest+5) → 10kg x (5+rest+5)",
+        "10kg x 10 → 10kg x 10 → 10kg x (5+rest+5)",
+        "2. Shoulder Press Machine",
+        "40kg x 10",
+        "50kg x 4",
+        "70kg x 2",
+        "65kg x (5+0.2)",
+        "60kg x 8",
+        "55kg x (7+5c)",
+        "3. Dumbbell Shoulder Press",
+        "15kg x 10 → 12.5kg x (5+5C)",
+        "15kg x 10 → 12.5kg x (6+4C)",
+        "4. Side Raise",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x (10+5c)",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x 15 *form break",
+        "12.5kg x 10 → 7.5kg x 15 → 5kg x 15 *form break",
+        "*note: even for shoulder pain, do 10~15 reps more. its effective."
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: 0.3g (19:00), OBAMA KUSH 0.5g (21:30)",
+        "Alcohol: 0, Cigarettes: 7"
+      ]
+    },
+    "raw": "■ Morning Check\n- Sleep: 03:30-09:00\n- Body: 8/10\n- Mind: 8/10\n- Stretch: 20 min (morning)\n- Meditation: 30 min (morning)\n\n■ Food\n- Breakfast (10:00): Oats yogurt (strawberry, apple, walnuts, almonds, brazil nuts, honey, chia seeds), EVOO 15ml\n- Lunch (14:00): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice\n- Dinner (19:00): Shabu-shabu (pork, beef, napa cabbage, cabbage, green onion, enoki, shiitake, king oyster mushrooms)\n\n■ Workout \nCycling 20.3km\nShoulder Day: 16:20 ~ 18:00\nWeight: 60.6kg / Protein 10g\n\n1. Rear Raise (back → side → pendulum)\n10kg x 10 → 10kg x 10 → 10kg x 10\n10kg x 10 → 10kg x (5+rest+5) → 10kg x (5+rest+5)\n10kg x 10 → 10kg x 10 → 10kg x (5+rest+5)\n\n2. Shoulder Press Machine\n40kg x 10\n50kg x 4\n70kg x 2\n65kg x (5+0.2)\n60kg x 8\n55kg x (7+5c)\n\n3. Dumbbell Shoulder Press\n15kg x 10 → 12.5kg x (5+5C)\n15kg x 10 → 12.5kg x (6+4C)\n\n4. Side Raise\n12.5kg x 10 → 7.5kg x 15 → 5kg x (10+5c)\n12.5kg x 10 → 7.5kg x 15 → 5kg x 15 *form break\n12.5kg x 10 → 7.5kg x 15 → 5kg x 15 *form break\n*note: even for shoulder pain, do 10~15 reps more. its effective.\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: 0.3g (19:00), OBAMA KUSH 0.5g (21:30)\nAlcohol: 0, Cigarettes: 7"
+  },
+  {
+    "date": "2026-01-24",
+    "sections": {
+      "morning check": [
+        "- Sleep: 01:00-09:30",
+        "- Body: 9/10",
+        "- Mind: 9/10",
+        "- Energy: 9/10",
+        "- Stress: 0/10",
+        "- Stretch: 20 min (morning)",
+        "- Meditation: 30 min (morning)"
+      ],
+      "meals": [
+        "- Breakfast (10:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), spinach, EVOO 15ml",
+        "- Lunch (14:00): miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice",
+        "- Dinner (20:00): pork kimchi, rice, pork miso soup, egg"
+      ],
+      "workout": [
+        "Cycling 18.1km",
+        "Chest Day: 16:20 ~ 18:00",
+        "Weight: 60.3kg / Protein 15g",
+        "1. Bench Press",
+        "50kg x 10",
+        "70kg x (3+1c)",
+        "80kg x (1c)",
+        "70kg × (3+1c)",
+        "65kg × 6",
+        "60kg x 8",
+        "55kg x (11+1c)",
+        "*Goals:",
+        "1) Perform a clean 80kg bench press.",
+        "2) Complete 4 reps at 70kg",
+        "2. Dips",
+        "10, 10, 10",
+        "3. Incline Chest Press",
+        "40kg x 10",
+        "45kg x (9+1c)",
+        "45kg x (9+1c)",
+        "*note: Next session —> increase weight or aim for 12 reps",
+        "4. Pec Fly",
+        "24kg x 15",
+        "24kg x (12+3c)",
+        "24kg x (10+5c)"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: 0.7g (21:00), 0.5g (3:00)",
+        "Alcohol: beer 1, Cigarettes: 7"
+      ],
+      "notes": [
+        "Feeling very energized today. Could it be from the VOLCANO smoking session last night? Probably not. Maybe the ashwagandha is taking effect? I’m not sure."
+      ]
+    },
+    "raw": "■ Morning Check\n- Sleep: 01:00-09:30\n- Body: 9/10\n- Mind: 9/10\n- Energy: 9/10\n- Stress: 0/10\n- Stretch: 20 min (morning)\n- Meditation: 30 min (morning)\n\n■ Food\n- Breakfast (10:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), spinach, EVOO 15ml\n- Lunch (14:00): miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice\n- Dinner (20:00): pork kimchi, rice, pork miso soup, egg\n\n■ Workout \nCycling 18.1km\nChest Day: 16:20 ~ 18:00\nWeight: 60.3kg / Protein 15g\n\n1. Bench Press\n50kg x 10\n70kg x (3+1c)\n80kg x (1c)\n70kg × (3+1c)\n65kg × 6\n60kg x 8\n55kg x (11+1c)\n\n*Goals:\n1) Perform a clean 80kg bench press. \n2) Complete 4 reps at 70kg\n\n2. Dips\n10, 10, 10\n\n3. Incline Chest Press\n40kg x 10\n45kg x (9+1c)\n45kg x (9+1c)\n\n*note: Next session —> increase weight or aim for 12 reps\n\n4. Pec Fly\n24kg x 15\n24kg x (12+3c)\n24kg x (10+5c)\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: 0.7g (21:00), 0.5g (3:00)\nAlcohol: beer 1, Cigarettes: 7\n\n■ Note\nFeeling very energized today. Could it be from the VOLCANO smoking session last night? Probably not. Maybe the ashwagandha is taking effect? I’m not sure."
+  },
+  {
+    "date": "2026-01-23",
+    "sections": {
+      "morning check": [
+        "- Sleep: 00:00-09:00",
+        "- Body: 9/10",
+        "- Mind: 10/10",
+        "- Energy: 9/10",
+        "- Stress: 0/10",
+        "- Stretch: 20 min (morning)"
+      ],
+      "meals": [
+        "- Breakfast (10:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml",
+        "- Lunch (16:00): Som Tum, Thai-style noodles (shrimp, sea grapes, chili, holy basil)",
+        "- Dinner (19:00): Gluten-free pasta, burrata pizza, salad, lasagna, sea bass"
+      ],
+      "workout": [
+        "Rest Day"
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Mac V2 VOLCANO 0.7g (23:00)",
+        "Alcohol: 1 cup of beer, 2 glasses of red wine",
+        "Coffee: black coffee (17:00) / Cigarettes: 4"
+      ],
+      "notes": [
+        "マンチーは危険"
+      ]
+    },
+    "raw": "■ Morning Check\n- Sleep: 00:00-09:00\n- Body: 9/10\n- Mind: 10/10\n- Energy: 9/10\n- Stress: 0/10\n- Stretch: 20 min (morning)\n\n■ Food\n- Breakfast (10:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml\n- Lunch (16:00): Som Tum, Thai-style noodles (shrimp, sea grapes, chili, holy basil)\n- Dinner (19:00): Gluten-free pasta, burrata pizza, salad, lasagna, sea bass\n\n■ Workout\nRest Day\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Mac V2 VOLCANO 0.7g (23:00)\nAlcohol: 1 cup of beer, 2 glasses of red wine\nCoffee: black coffee (17:00) / Cigarettes: 4\n\n■ Personal Notes\nマンチーは危険"
+  },
+  {
+    "date": "2026-01-22",
+    "sections": {
+      "morning check": [
+        "- Sleep: 01:00-10:00",
+        "- Body: 8/10",
+        "- Mind: 9/10",
+        "- Energy: 8/10",
+        "- Stress: 0/10",
+        "- Stretch: 20 min (morning)"
+      ],
+      "meals": [
+        "- Breakfast (11:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml",
+        "- Lunch (14:00): croissant, omelet, mushrooms, beans, tomatoes, lettuce, radish sprouts, Smoothie（avocado, orange, apple, papaya, banana, tempeh）",
+        "- Dinner (19:30): Som Tum, Chicken Wings, Nam Ngiao, Riceberry, EVOO 15ml"
+      ],
+      "workout": [
+        "Back Day: 16:00 ~ 17:00",
+        "Bouldering with my friends."
+      ],
+      "substances": [
+        "NMN 1g / Res 1g / TMG 0.5g (morning)",
+        "Omega3 (EPA+DHA): 1280 mg (morning)",
+        "Ginseng: 600 mg × 2 caps × 3/day",
+        "Creatine: 5g (before workout)",
+        "Ashwagandha: 300 mg (night)",
+        "Cannabis: Hybrid 0.3g (17:30), freezer jam + head lock + MAC V2 1g (23:00)",
+        "Alcohol: 0 / Cigarettes: 4",
+        "Coffee: before workout"
+      ],
+      "notes": []
+    },
+    "raw": "■ Morning Check\n- Sleep: 01:00-10:00\n- Body: 8/10\n- Mind: 9/10\n- Energy: 8/10\n- Stress: 0/10\n- Stretch: 20 min (morning)\n\n■ Food\n- Breakfast (11:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml\n- Lunch (14:00): croissant, omelet, mushrooms, beans, tomatoes, lettuce, radish sprouts, Smoothie（avocado, orange, apple, papaya, banana, tempeh）\n- Dinner (19:30): Som Tum, Chicken Wings, Nam Ngiao, Riceberry, EVOO 15ml\n\n■ Workout\nBack Day: 16:00 ~ 17:00\nBouldering with my friends.\n\n■ Substances\nNMN 1g / Res 1g / TMG 0.5g (morning)\nOmega3 (EPA+DHA): 1280 mg (morning)\nGinseng: 600 mg × 2 caps × 3/day\nCreatine: 5g (before workout)\nAshwagandha: 300 mg (night)\nCannabis: Hybrid 0.3g (17:30), freezer jam + head lock + MAC V2 1g (23:00)\nAlcohol: 0 / Cigarettes: 4\nCoffee: before workout\n\n■ Personal Notes"
+  },
+  {
+    "date": "2026-01-21",
+    "sections": {
+      "morning check": [
+        "- Sleep: 01:00-10:30",
+        "- Body: 7/10",
+        "- Mind: 8/10",
+        "- Energy: 7/10",
+        "- Stress: 0/10",
+        "- Stretch: 20 min (morning)"
+      ],
+      "meals": [
+        "- Breakfast (11:00): Oats yogurt (passion fruit, walnuts, almonds, banana, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml",
+        "- Lunch (14:30): Gapao Rice, Som Tam",
+        "- Dinner (20:00): Riceberry, Tempeh, Egg, Spinach, Broccoli, Pork, miso soup, EVOO 15ml"
+      ],
+      "workout": [
+        "Arm Day: 16:20 ~ 18:00 / Protein 15g",
+        "1. Preacher Curl → Dumbbell Curl",
+        "20kg × 10 → 7.5kg × 10",
+        "20kg × 10 → 7.5kg × 10",
+        "20kg × (5+5c) → 7.5kg × (4+6c)",
+        "*note: Because of back pain, I switched from Barbell Curl to Preacher Curl.",
+        "2. Hammer Curl (Drop Set",
+        "12.5kg × 10 → 7.5kg × 10",
+        "12.5kg × 10 → 7.5kg × (6+4c)",
+        "3. Press Down with Bar",
+        "50kg × 10",
+        "50kg × 10",
+        "50kg × (9+1c)",
+        "*note: Don't move arm position. Use thumless grip.",
+        "4. Press Down with Rope",
+        "50kg × (7+3c)",
+        "50kg × (6+4c)",
+        "50kg × (4+5c)",
+        "5. Narrow Bench Press → Dumbbell French Press",
+        "10kg × 20 → 10kg × 20",
+        "10kg × (15+5c) → 10kg × (15+5c)"
+      ],
+      "substances": [
+        "NMN 1000mg / Resveratrol 1000mg / TMG 500mg",
+        "Ginseng extract: 2 × 3 times",
+        "Cannabis: 0.4g (18:00), 0.5g freezer jam (23:40)",
+        "Alcohol: 0 / Cigarettes: 3",
+        "Coffee: before workout"
+      ],
+      "notes": [
+        "Today I'm feeling physically and mentally good Maybe because of not eating for a long time since 17:00 yesterday.",
+        "✓ Learning:",
+        "mid-night meal makes your morning and the next day’s condition worse, I realized from my log.",
+        "✓ Intuition:",
+        "- 人生のネタを増やす",
+        "- Concentrate on muscle training in whole life. Having muscle means daily making efforts and can get respect.",
+        "- I decided to start my blog again with my favorite and strong domain: manablog.org I can get the high rank on Google with English keywords. I'm gonna get tons of #1 rankings for cannabis-related keywords"
+      ]
+    },
+    "raw": "■ Morning Check\n- Sleep: 01:00-10:30\n- Body: 7/10\n- Mind: 8/10\n- Energy: 7/10\n- Stress: 0/10\n- Stretch: 20 min (morning)\n\n■ Food\n- Breakfast (11:00): Oats yogurt (passion fruit, walnuts, almonds, banana, brazil nuts, honey, pumpkin seeds, chia seeds), EVOO 15ml\n- Lunch (14:30): Gapao Rice, Som Tam\n- Dinner (20:00): Riceberry, Tempeh, Egg, Spinach, Broccoli, Pork, miso soup, EVOO 15ml\n\n■ Workout\nArm Day: 16:20 ~ 18:00 / Protein 15g\n\n1. Preacher Curl → Dumbbell Curl\n20kg × 10 → 7.5kg × 10\n20kg × 10 → 7.5kg × 10\n20kg × (5+5c) → 7.5kg × (4+6c)\n*note: Because of back pain, I switched from Barbell Curl to Preacher Curl.\n\n2. Hammer Curl (Drop Set\n12.5kg × 10 → 7.5kg × 10\n12.5kg × 10 → 7.5kg × (6+4c)\n\n3. Press Down with Bar\n50kg × 10\n50kg × 10\n50kg × (9+1c) \n*note: Don't move arm position. Use thumless grip.\n\n4. Press Down with Rope\n50kg × (7+3c)\n50kg × (6+4c)\n50kg × (4+5c)\n\n5. Narrow Bench Press → Dumbbell French Press\n10kg × 20 → 10kg × 20\n10kg × (15+5c) → 10kg × (15+5c)\n\n■ Substances\nNMN 1000mg / Resveratrol 1000mg / TMG 500mg  \nGinseng extract: 2 × 3 times\nCannabis: 0.4g (18:00), 0.5g freezer jam (23:40)\nAlcohol: 0 / Cigarettes: 3\nCoffee: before workout\n\n■ Personal Notes\nToday I'm feeling physically and mentally good Maybe because of not eating for a long time since 17:00 yesterday.\n\n✓ Learning: \nmid-night meal makes your morning and the next day’s condition worse, I realized from my log.\n\n✓ Intuition:\n- 人生のネタを増やす\n- Concentrate on muscle training in whole life. Having muscle means daily making efforts and can get respect.\n- I decided to start my blog again with my favorite and strong domain: manablog.org I can get the high rank on Google with English keywords. I'm gonna get tons of #1 rankings for cannabis-related keywords"
+  },
+  {
+    "date": "2026-01-20",
+    "sections": {
+      "record each time": [
+        "- Water: water 200ml (11:30), peppermint lemon tea 220ml (14:00)",
+        "- Digestion: 1 (morning)",
+        "- Output / Input:"
+      ],
+      "morning check": [
+        "- Sleep: 1:30-11:00",
+        "- Sleep quality: 7",
+        "- Mood: 8",
+        "- Energy: 8",
+        "- Focus: 8",
+        "- Stress: 1",
+        "- Physical: 8",
+        "- Fatigue: body fatigue because of workout",
+        "- Pain: muscle pain on my leg",
+        "- Urine: normal",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "meals": [
+        "- Breakfast: 12:00 - oat bowl (khao mak, oats, passion fruit, walnuts, almonds, banana, brazil nuts, blueberries, honey, pumpkin seeds), water (220ml), EVOO",
+        "- Lunch: 16:50 - water 600ml, korean bbq (pork neck, pork shoulder loin), bibimbap (rice, zucchini, carrot, bean sprouts, bracken fern, seaweed), appetizer (cucumber, carrot, onion, vinegar broth)",
+        "- Dinner:"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Ext (4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch)",
+        "- Cannabis: indica 1g (18:30), OG Kush 0.4g (23:50)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee (16:00)"
+      ],
+      "workout": [
+        "- Rest Day",
+        "- Weight:",
+        "- Treatment: full body massage 2.5 hours"
+      ],
+      "notes": [
+        "Dream: My dog had fun with my relatives - it was a happy dream.",
+        "Do stretches daily.",
+        "Now I need: ball massage, Internal organs massage, neck and shoulder massage, and head massage",
+        "Starting today, I'm going to stop using my smartphone because recently I've been using it too much and it's been bad for my life."
+      ]
+    },
+    "raw": "■ Record each time\n- Water: water 200ml (11:30), peppermint lemon tea 220ml (14:00)\n- Digestion: 1 (morning)\n- Output / Input: \n\n■ Morning Check\n- Sleep: 1:30-11:00\n- Sleep quality: 7\n- Mood: 8\n- Energy: 8\n- Focus: 8\n- Stress: 1\n- Physical: 8\n- Fatigue: body fatigue because of workout\n- Pain: muscle pain on my leg\n- Urine: normal \n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Meals\n- Breakfast: 12:00 - oat bowl (khao mak, oats, passion fruit, walnuts, almonds, banana, brazil nuts, blueberries, honey, pumpkin seeds), water (220ml), EVOO\n- Lunch: 16:50 - water 600ml, korean bbq (pork neck, pork shoulder loin), bibimbap (rice, zucchini, carrot, bean sprouts, bracken fern, seaweed), appetizer (cucumber, carrot, onion, vinegar broth)\n- Dinner: \n\n■ Substances\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Ext (4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch)\n- Cannabis: indica 1g (18:30), OG Kush 0.4g (23:50)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee (16:00)\n\n■ Workout\n- Rest Day \n- Weight: \n- Treatment: full body massage 2.5 hours\n\n■ Notes / Thought \nDream: My dog had fun with my relatives - it was a happy dream. \n\nDo stretches daily. \nNow I need: ball massage, Internal organs massage, neck and shoulder massage, and head massage\n\nStarting today, I'm going to stop using my smartphone because recently I've been using it too much and it's been bad for my life."
+  },
+  {
+    "date": "2026-01-19",
+    "sections": {
+      "record each time": [
+        "- Water: 600ml (14:00), water (16:10), protein drink 15g 300ml (17:30), water 600ml (19:15), chamomile and lemon tea 220ml (23:20), camomile honey tea 220,l (00:30), papaya with lemon",
+        "- Digestion: 1 (morning), 1 (afternoon), 1 (afternoon)",
+        "- Output / Input: read (14:30-14:45)"
+      ],
+      "morning check": [
+        "- Sleep: 23:00-11:30",
+        "- Sleep quality: 8",
+        "- Mood: 9",
+        "- Energy: 9",
+        "- Focus: 9",
+        "- Stress: 0",
+        "- Physical 9",
+        "- Fatigue: none",
+        "- Pain: none",
+        "- Urine: normal",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "meals": [
+        "- Breakfast: 12:00 - oatmeal bowl (oats, chia seeds, banana, blueberries, pumpkin seeds, yogurt, walnuts, almonds, brazil nuts, passion fruit, honey), EVOO, water 300ml",
+        "- Lunch: 14:30 - green tea (300ml), salmon and fatty salmon rice bowl 2 cups (salmon, fatty salmon, rice, wasabi, pickled ginger)",
+        "- Dinner: 19:00 - pad thai (rice noodles, shrimp, bean sprouts, egg, garlic chives, peanuts, lime), papaya smoothie (papaya, mint)",
+        "- Night:"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract (ginsenosides 4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch), 2 capsules (after dinner)",
+        "- Cannabis: jamaican dream strain 0.5g (18:30), jamaican dream 0.5g + permanent traveler 0.5g (21:30), head lock 0.3g (23:50)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee (15:30)"
+      ],
+      "workout": [
+        "- Leg Day (16:13 ~ 17:38)",
+        "- Weight: 61.7 kg",
+        "- Treatment: oil massage 1 hour (21:00)",
+        "# Squat",
+        "- 70kg × 10",
+        "- 80kg × 6",
+        "- 90kg × 4",
+        "- 80kg × 6",
+        "- 75kg × 8",
+        "- 70kg × 12",
+        "# Leg Curl",
+        "- 47kg × 12",
+        "- 47kg × (10 + 2c)",
+        "- 47kg × (8 + 2c)",
+        "*note: goal is 12 reps × 47kg. when achieved, increase the weight.",
+        "# Jump Squat → Leg Extension",
+        "- 10, 10 (60kg)",
+        "- 10, 12 (60kg)",
+        "- 10, 10 (60kg)",
+        "*note: due to back pain, I did normal squats instead of jump squats.",
+        "# Calf Raise",
+        "- 25kg : 10 (slow) + 10 (fast)",
+        "- 25kg = 10 (slow) + 10 (fast)",
+        "*note: my ankles are too stiff. need to stretch more."
+      ],
+      "notes": [
+        "walking with dog (12:40-13:00)",
+        "Jamaica Dream strain is great for morning use while traveling, or as a pre-sauna smoke. My score for this strain is 97."
+      ]
+    },
+    "raw": "■ Record each time\n- Water: 600ml (14:00), water (16:10), protein drink 15g 300ml (17:30), water 600ml (19:15), chamomile and lemon tea 220ml (23:20), camomile honey tea 220,l (00:30), papaya with lemon \n- Digestion: 1 (morning), 1 (afternoon), 1 (afternoon)\n- Output / Input: read (14:30-14:45)\n\n■ Morning Check\n- Sleep: 23:00-11:30\n- Sleep quality: 8\n- Mood: 9\n- Energy: 9\n- Focus: 9\n- Stress: 0\n- Physical 9\n- Fatigue: none\n- Pain: none\n- Urine: normal \n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Meals\n- Breakfast: 12:00 - oatmeal bowl (oats, chia seeds, banana, blueberries, pumpkin seeds, yogurt, walnuts, almonds, brazil nuts, passion fruit, honey), EVOO, water 300ml\n- Lunch: 14:30 - green tea (300ml), salmon and fatty salmon rice bowl 2 cups (salmon, fatty salmon, rice, wasabi, pickled ginger)\n- Dinner: 19:00 - pad thai (rice noodles, shrimp, bean sprouts, egg, garlic chives, peanuts, lime), papaya smoothie (papaya, mint)\n- Night: \n\n■ Substances\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract (ginsenosides 4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch), 2 capsules (after dinner)\n- Cannabis: jamaican dream strain 0.5g (18:30), jamaican dream 0.5g + permanent traveler 0.5g (21:30), head lock 0.3g (23:50)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee (15:30)\n\n■ Workout\n- Leg Day (16:13 ~ 17:38)\n- Weight: 61.7 kg\n- Treatment: oil massage 1 hour (21:00)\n\n# Squat\n- 70kg × 10\n- 80kg × 6\n- 90kg × 4\n- 80kg × 6\n- 75kg × 8\n- 70kg × 12\n\n# Leg Curl\n- 47kg × 12\n- 47kg × (10 + 2c)\n- 47kg × (8 + 2c)\n\n*note: goal is 12 reps × 47kg. when achieved, increase the weight.\n\n# Jump Squat → Leg Extension\n- 10, 10 (60kg)\n- 10, 12 (60kg)\n- 10, 10 (60kg)\n\n*note: due to back pain, I did normal squats instead of jump squats.\n\n# Calf Raise\n- 25kg : 10 (slow) + 10 (fast)\n- 25kg = 10 (slow) + 10 (fast)\n\n*note: my ankles are too stiff. need to stretch more.\n\n■ Notes / Thought \nwalking with dog (12:40-13:00)\nJamaica Dream strain is great for morning use while traveling, or as a pre-sauna smoke. My score for this strain is 97."
+  },
+  {
+    "date": "2026-01-18",
+    "sections": {
+      "mental": [
+        "- Mood: 8/10",
+        "- Energy: 8/10",
+        "- Focus: 9/10",
+        "- Stress: 1/10",
+        "- Details:"
+      ],
+      "physical": [
+        "- Overall: 8/10",
+        "- Fatigue: none",
+        "- Pain: none",
+        "- Digestion: 1 (morning), 1 (afternoon)",
+        "- Urine: normal"
+      ],
+      "biometrics": [
+        "- Sleep: 01:30-10:00",
+        "- Sleep quality: 8/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Shoulder Day",
+        "- 16:10-18:00",
+        "- Weight: 61.3kg",
+        "- Water intake: water 600ml, pocari sweat 500ml",
+        "- Treatment: meditation (12:30-13:00)",
+        "# Rear Raise",
+        "- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)",
+        "- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)",
+        "- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)",
+        "# Shoulder Press Machine",
+        "- 40kg x (8+1C)",
+        "- 50kg x 4",
+        "- 60kg x 1",
+        "- 55kg x 4",
+        "- 50kg x (6+2C)",
+        "- 45kg x (8+4C)",
+        "# Dumbbell Shoulder Press",
+        "- 15kgx10, 12.5kg x (7+3C)",
+        "- 15kg x 10, 12.5kg x (6+4C)",
+        "*note: feet in support position",
+        "# Side Raise",
+        "- 10kg x 10, 7.5kg x 15, 5kg x 15",
+        "- 10kg x 10, 7.5kg x 15, 5kg x 15",
+        "*note: don’t rest more than 2 seconds"
+      ],
+      "output / input": [
+        "- Read 22:45-23:00"
+      ],
+      "meals": [
+        "- Breakfast: 10:40 - water 400ml, mixed nut and fruit oat bowl (oats, chia seeds, pumpkin seeds, honey, brazil nuts, blueberries, almond, walnuts, passion fruit, banana, yogurt), EVOO",
+        "- Lunch: 14:00 - water 500ml, miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice",
+        "- Dinner: 20:20 - shabu shabu (beef, pork, egg, napa cabbage, bok choy, chinese celery, japanese leek, carrot, pumpkin, corn, enoki mushroom, shiitake mushroom, wood ear mushroom, king oyster mushroom, brown beech mushroom, goji berry, jujube), steam rise, water 600ml",
+        "- Night: chamomile tea 200ml (22:30)"
+      ],
+      "substances": [
+        "- Water (misc): 600ml (morning), peppermint tea 200ml (12:00)",
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract (ginsenosides 4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch), 2 capsules (after dinner)",
+        "- Cannabis: super boof strain 1g (19:00)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: 100ml black coffee (16:00)"
+      ],
+      "notes": [
+        "Not eating late at night helps you feel better in the morning, so it’s better to avoid late-night meals."
+      ]
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 8/10\n- Energy: 8/10\n- Focus: 9/10\n- Stress: 1/10\n- Details: \n\n■ Physical (morning check)\n- Overall: 8/10\n- Fatigue: none\n- Pain: none\n- Digestion: 1 (morning), 1 (afternoon)\n- Urine: normal \n\n■ Biometrics (morning check)\n- Sleep: 01:30-10:00\n- Sleep quality: 8/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Shoulder Day\n- 16:10-18:00\n- Weight: 61.3kg\n- Water intake: water 600ml, pocari sweat 500ml\n- Treatment: meditation (12:30-13:00)\n\n# Rear Raise\n- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)\n- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)\n- 7.5kg x 10 (back focus), 7.5kg x 10 (side focus), 7.5kg x 10 (pendulum)\n\n# Shoulder Press Machine\n- 40kg x (8+1C)\n- 50kg x 4\n- 60kg x 1\n- 55kg x 4\n- 50kg x (6+2C)\n- 45kg x (8+4C)\n\n# Dumbbell Shoulder Press\n- 15kgx10, 12.5kg x (7+3C)\n- 15kg x 10, 12.5kg x (6+4C)\n\n*note: feet in support position\n\n# Side Raise\n- 10kg x 10, 7.5kg x 15, 5kg x 15\n- 10kg x 10, 7.5kg x 15, 5kg x 15\n\n*note: don’t rest more than 2 seconds\n\n■ Output / Input\n- Read 22:45-23:00\n\n■ Meals\n- Breakfast: 10:40 - water 400ml, mixed nut and fruit oat bowl (oats, chia seeds, pumpkin seeds, honey, brazil nuts, blueberries, almond, walnuts, passion fruit, banana, yogurt), EVOO\n- Lunch: 14:00 - water 500ml, miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice\n- Dinner: 20:20 - shabu shabu (beef, pork, egg, napa cabbage, bok choy, chinese celery, japanese leek, carrot, pumpkin, corn, enoki mushroom, shiitake mushroom, wood ear mushroom, king oyster mushroom, brown beech mushroom, goji berry, jujube), steam rise, water 600ml\n- Night: chamomile tea 200ml (22:30)\n\n■ Substances\n- Water (misc): 600ml (morning), peppermint tea 200ml (12:00)\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract (ginsenosides 4.2 mg): 2 capsules (after breakfast), 2 capsules (after lunch), 2 capsules (after dinner)\n- Cannabis: super boof strain 1g (19:00)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: 100ml black coffee (16:00)\n\n■ Notes / Thought \nNot eating late at night helps you feel better in the morning, so it’s better to avoid late-night meals."
+  },
+  {
+    "date": "2026-01-17",
+    "sections": {
+      "mental": [
+        "- Mood: 9/10",
+        "- Energy: 9/10",
+        "- Focus: 9/10",
+        "- Stress: 0/10",
+        "- Details:"
+      ],
+      "physical": [
+        "- Overall: 9/10",
+        "- Fatigue: none",
+        "- Pain: none",
+        "- Digestion: 1 (morning)",
+        "- Urine: normal"
+      ],
+      "biometrics": [
+        "- Sleep: 12:30-10:20",
+        "- Sleep quality: 8/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Chest Day",
+        "- Weight: 61.3kg",
+        "- Water intake: 300ml of protein drink (15g of protein), pocari sweat 500ml, water 600ml",
+        "- Treatment: meditation (12:40-13:10)",
+        "# Bench Press",
+        "- 50kg x 10",
+        "- 60kg x 6",
+        "- 80kg x 1",
+        "- 70kg × 3",
+        "- 65kg × 6",
+        "- 60kg x 8",
+        "- 55kg x (8+4c)",
+        "# Dips",
+        "- 10",
+        "- 10",
+        "- 9",
+        "# Incline Chest Press",
+        "- 40kg x (8+1c)",
+        "- 40kg x (6+1c)",
+        "- 40kg x (7+3c)",
+        "# Pec Fly",
+        "- 24kg x 10",
+        "- 24kg x (8+2c)",
+        "- 24kg x (8+2c)"
+      ],
+      "output / input": [],
+      "meals": [
+        "- Breakfast: 11:00 - yogurt bowl (greek yogurt, oats, frozen blueberries, walnuts, pumpkin seeds, passion fruit, honey), EVOO, decaf coffee (100ml)",
+        "- Lunch: 14:00 - tempeh demi-glace hamburger rice bowl (tempeh, demi-glace sauce, purple rice, fried egg, lettuce, tomato, grated daikon, green onion), miso soup (tofu, green onion, assorted vegetables), enzyme drink (200ml)",
+        "- Dinner: 19:45 - oolong tea 400ml, oyakodon (chicken, egg, onion, rice, scallion, seaweed), tonjiru (pork, daikon radish, carrot, scallion, miso broth)",
+        "- Night: peppermint (00:00), slice mango 3 pieces, chocolate 3 pieces, cheese cake half slice"
+      ],
+      "substances": [
+        "- Water (misc): 600ml, 600ml, 600ml",
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast), 2 (after lunch)",
+        "- Cannabis: 0.5g of dutch by book strain (19:00), mimosa 0.5g (21:15), head lock strain 0.4g (00:30)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee 250ml (15:00)"
+      ],
+      "notes": [
+        "I went to a busy bar street with my friends. The air quality wasn’t great, but the energy was good. It’s nice to go to places like this occasionally."
+      ],
+      "thought": []
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 9/10\n- Energy: 9/10\n- Focus: 9/10\n- Stress: 0/10\n- Details: \n\n■ Physical (morning check)\n- Overall: 9/10\n- Fatigue: none\n- Pain: none\n- Digestion: 1 (morning)\n- Urine: normal\n\n■ Biometrics (morning check)\n- Sleep: 12:30-10:20\n- Sleep quality: 8/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Chest Day\n- Weight: 61.3kg\n- Water intake: 300ml of protein drink (15g of protein), pocari sweat 500ml, water 600ml\n- Treatment: meditation (12:40-13:10)\n\n# Bench Press\n- 50kg x 10\n- 60kg x 6\n- 80kg x 1\n- 70kg × 3\n- 65kg × 6\n- 60kg x 8\n- 55kg x (8+4c)\n\n# Dips\n- 10\n- 10\n- 9\n\n# Incline Chest Press\n- 40kg x (8+1c)\n- 40kg x (6+1c)\n- 40kg x (7+3c)\n\n# Pec Fly\n- 24kg x 10\n- 24kg x (8+2c)\n- 24kg x (8+2c)\n\n■ Output / Input\n\n■ Meals\n- Breakfast: 11:00 - yogurt bowl (greek yogurt, oats, frozen blueberries, walnuts, pumpkin seeds, passion fruit, honey), EVOO, decaf coffee (100ml)\n- Lunch: 14:00 - tempeh demi-glace hamburger rice bowl (tempeh, demi-glace sauce, purple rice, fried egg, lettuce, tomato, grated daikon, green onion), miso soup (tofu, green onion, assorted vegetables), enzyme drink (200ml)\n- Dinner: 19:45 - oolong tea 400ml, oyakodon (chicken, egg, onion, rice, scallion, seaweed), tonjiru (pork, daikon radish, carrot, scallion, miso broth)\n- Night: peppermint (00:00), slice mango 3 pieces, chocolate 3 pieces, cheese cake half slice \n\n■ Substances\n- Water (misc): 600ml, 600ml, 600ml\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast), 2 (after lunch)\n- Cannabis: 0.5g of dutch by book strain (19:00), mimosa 0.5g (21:15), head lock strain 0.4g (00:30)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee 250ml (15:00)\n\n■ Notes\nI went to a busy bar street with my friends. The air quality wasn’t great, but the energy was good. It’s nice to go to places like this occasionally.\n\n■ Thought"
+  },
+  {
+    "date": "2026-01-16",
+    "sections": {
+      "mental": [
+        "- Mood: 8/10",
+        "- Energy: 9/10",
+        "- Focus: 8/10",
+        "- Stress: 1/10",
+        "- Details:"
+      ],
+      "physical": [
+        "- Overall: 9/10",
+        "- Fatigue: none",
+        "- Pain: none",
+        "- Digestion: 1 (morning), 1 (afternoon), 1 (night)",
+        "- Urine: normal"
+      ],
+      "biometrics": [
+        "- Sleep: 12:00-10:30",
+        "- Sleep quality: 7/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Rest Day",
+        "- Weight: NA",
+        "- Water intake: NA",
+        "- Treatment: stretch (21:38-22:00)"
+      ],
+      "output / input": [],
+      "meals": [
+        "- Breakfast: 11:00 - water 600ml",
+        "- Lunch: 14:30 - negitoro gunkan  2 plates, shrimp avocado sushi 2 plates, surf clam sushi, sea urchin sushi, seared salmon sushi with grated daikon, chawanmushi (egg, dashi stock), miso soup (clams, miso, green onions), green tea 300ml, pickled ginger",
+        "- Dinner: 20:00 - water 250ml, fried potatoes, papaya salad (green papaya, tomato, long bean, peanut), fried chicken wings, natto egg rice (steamed rice, natto, raw egg), EVOO",
+        "- Night: three horses tea (220ml)"
+      ],
+      "substances": [
+        "- Water (misc): 200ml, 200ml",
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast):",
+        "- Cannabis: 0.4g of compound-z (22:00)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee (16:00)"
+      ],
+      "notes": [],
+      "thought": [
+        "I started publishing my draft notes on my blog. In the AI era, it's difficult to publish polished information, because the most accurate source is AI itself. So I publish draft notes as a fun activity for myself."
+      ]
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 8/10\n- Energy: 9/10\n- Focus: 8/10\n- Stress: 1/10\n- Details: \n\n■ Physical (morning check)\n- Overall: 9/10\n- Fatigue: none\n- Pain: none\n- Digestion: 1 (morning), 1 (afternoon), 1 (night)\n- Urine: normal\n\n■ Biometrics (morning check)\n- Sleep: 12:00-10:30\n- Sleep quality: 7/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Rest Day\n- Weight: NA\n- Water intake: NA\n- Treatment: stretch (21:38-22:00)\n\n■ Output / Input\n\n■ Meals\n- Breakfast: 11:00 - water 600ml\n- Lunch: 14:30 - negitoro gunkan  2 plates, shrimp avocado sushi 2 plates, surf clam sushi, sea urchin sushi, seared salmon sushi with grated daikon, chawanmushi (egg, dashi stock), miso soup (clams, miso, green onions), green tea 300ml, pickled ginger\n- Dinner: 20:00 - water 250ml, fried potatoes, papaya salad (green papaya, tomato, long bean, peanut), fried chicken wings, natto egg rice (steamed rice, natto, raw egg), EVOO\n- Night: three horses tea (220ml)\n\n■ Substances\n- Water (misc): 200ml, 200ml\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast):\n- Cannabis: 0.4g of compound-z (22:00)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee (16:00)\n\n■ Notes\n\n■ Thought \nI started publishing my draft notes on my blog. In the AI era, it's difficult to publish polished information, because the most accurate source is AI itself. So I publish draft notes as a fun activity for myself."
+  },
+  {
+    "date": "2026-01-15",
+    "sections": {
+      "mental": [
+        "- Mood: 8/10",
+        "- Energy: 8/10",
+        "- Focus: 7/10",
+        "- Stress: 1/10",
+        "- Details:"
+      ],
+      "physical": [
+        "- Overall: 9/10",
+        "- Fatigue: none",
+        "- Pain: muscle pain of my arm",
+        "- Digestion: 1 (morning), 1 (afternoon)",
+        "- Urine: normal"
+      ],
+      "biometrics": [
+        "- Sleep: 1:00-11:00",
+        "- Sleep quality: 8/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Back Day (16:00~17:00)",
+        "- Weight: 61.8kg",
+        "- Water intake: protein drink (300ml, 15g of protein), 300ml of black coffee, 1100ml of water",
+        "- Treatment: full-body stretch (20:26-20:44)",
+        "# Chinning",
+        "- 10, 10, 5+5c",
+        "# Deadlift",
+        "- 60kg × 6",
+        "- 100kg × 1",
+        "# Bent Over Rowing with Smith Machine",
+        "- 40kg × 10",
+        "- 60kg × 10",
+        "- 80kg × 10",
+        "- 80kg × 4",
+        "- 60kg × 10",
+        "- 50kg × 12",
+        "*note: lower the body.",
+        "# T-Bar Rowing",
+        "- 25kg: 12+3c",
+        "- 30kg: 8+2c",
+        "# Lat Pulldown",
+        "- 45kg: 7+3c",
+        "- 45kg: 6+4c",
+        "- 45kg: 5+3c"
+      ],
+      "output / input": [
+        "- Read: Creativity by OSHO (12:30-12:50)"
+      ],
+      "meals": [
+        "- Breakfast: 13:00 - water 650ml,pad thai (rice noodles, chicken, egg, tofu, bean sprouts, garlic chives), bean sprouts, lime, walnut, pumpkin seeds, EVOO, pepper mint tea (200ml)",
+        "- Lunch: 15:00 - brazil nuts 3 pieces, walnut 5 pieces, pumpkin seed, two boiled egg",
+        "- Dinner: 21:00 - water 300ml, falafel pita sandwich (pita bread, falafel, chickpeas, herbs, cabbage, tahini sauce, chili sauce, coriander), shakshuka hummus (hummus, tomato sauce, egg, olive oil, parsley), dolma (grape leaves, rice, herbs, spices, olive oil), roasted potatoes, pickles (cucumber, cabbage, bell pepper), sesame bread ring (sesame seeds, flour), rime juice",
+        "- Night:"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast):",
+        "- Cannabis: 0.2g of Blackberry strain (19:00), 0.6g of cheese bakery (22:00)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee (15:30)"
+      ],
+      "notes": [],
+      "thought": []
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 8/10\n- Energy: 8/10\n- Focus: 7/10\n- Stress: 1/10\n- Details: \n\n■ Physical (morning check)\n- Overall: 9/10\n- Fatigue: none\n- Pain: muscle pain of my arm\n- Digestion: 1 (morning), 1 (afternoon)\n- Urine: normal\n\n■ Biometrics (morning check)\n- Sleep: 1:00-11:00\n- Sleep quality: 8/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Back Day (16:00~17:00)\n- Weight: 61.8kg\n- Water intake: protein drink (300ml, 15g of protein), 300ml of black coffee, 1100ml of water\n- Treatment: full-body stretch (20:26-20:44)\n\n# Chinning\n- 10, 10, 5+5c\n\n# Deadlift\n- 60kg × 6\n- 100kg × 1\n\n# Bent Over Rowing with Smith Machine\n- 40kg × 10\n- 60kg × 10\n- 80kg × 10\n- 80kg × 4\n- 60kg × 10\n- 50kg × 12\n\n*note: lower the body.\n\n# T-Bar Rowing\n- 25kg: 12+3c\n- 30kg: 8+2c\n\n# Lat Pulldown\n- 45kg: 7+3c\n- 45kg: 6+4c\n- 45kg: 5+3c\n\n■ Output / Input\n- Read: Creativity by OSHO (12:30-12:50)\n\n■ Meals\n- Breakfast: 13:00 - water 650ml,pad thai (rice noodles, chicken, egg, tofu, bean sprouts, garlic chives), bean sprouts, lime, walnut, pumpkin seeds, EVOO, pepper mint tea (200ml)\n- Lunch: 15:00 - brazil nuts 3 pieces, walnut 5 pieces, pumpkin seed, two boiled egg\n- Dinner: 21:00 - water 300ml, falafel pita sandwich (pita bread, falafel, chickpeas, herbs, cabbage, tahini sauce, chili sauce, coriander), shakshuka hummus (hummus, tomato sauce, egg, olive oil, parsley), dolma (grape leaves, rice, herbs, spices, olive oil), roasted potatoes, pickles (cucumber, cabbage, bell pepper), sesame bread ring (sesame seeds, flour), rime juice\n- Night: \n\n■ Substances\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract: 2 capsules (ginsenosides 4.2 mg, after breakfast):\n- Cannabis: 0.2g of Blackberry strain (19:00), 0.6g of cheese bakery (22:00)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee (15:30)\n\n■ Notes\n\n■ Thought"
+  },
+  {
+    "date": "2026-01-14",
+    "sections": {
+      "mental": [
+        "- Mood: 8/10",
+        "- Energy: 8/10",
+        "- Focus: 8/10",
+        "- Stress: 1/10",
+        "- Details: Slept well and energized"
+      ],
+      "physical": [
+        "- Overall: 8/10",
+        "- Fatigue: none",
+        "- Pain: leg injury",
+        "- Digestion: 3 time (morning, healthy, no bloating), 1 time (night)",
+        "- Urine: no problem"
+      ],
+      "biometrics": [
+        "- Sleep: 1:00-1000",
+        "- Sleep quality: 8/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Arm Day",
+        "- Weight: 60.7kg",
+        "- Water intake: 500ml, protein drink  300ml (15g of protein)",
+        "- Treatment: stretch (10min)",
+        "- # Barbell Curl + Dumbbell Curl（Superset)",
+        "- 1) BC 17.5kg  × 10c → DC 7.5kg × (7+3c)",
+        "- 2) BC 15kg × (7+3c) → DC 7.5kg × 10",
+        "- 3) BC 15kg × 10 → DC 7.5kg × 10",
+        "- # Hammer Curl (Dropset)",
+        "- 1) 12.5kg × (7+3c) → 7.5kg × 10",
+        "- 2) 12.5kg × (5+5c) → 7.5kg × (5+5c)",
+        "- # Press Down with Bar",
+        "- 50kg × 10",
+        "- 50kg × 10",
+        "- 50kg × 8+2c",
+        "*note: Lower the bar straight down. Use a thumbless grip.",
+        "- # Press Down with Rope Handle",
+        "- 45kg × (8+2c)",
+        "- 45kg × 10",
+        "- 45kg × (8+2c)",
+        "- # Triceps Extension",
+        "- 26kg × (8+2c)",
+        "- 26kg × 10"
+      ],
+      "output / input": [
+        "- Read: ツァラトゥストラはこう言った (10:54-11:15, 14:56-15:18,"
+      ],
+      "meals": [
+        "- Breakfast: 10:40 - oats, greek yogurt, honey, chia seeds, almond, brazil nuts, pistachios, cashews, pumpkin seeds, blueberries, EVOO, Water Intake (camomile tea 200ml)",
+        "- Lunch: 14:00 - salmon, japanese rice, ginger, parsley, green tea (200ml), glilled saba, teriyaki sources, omelet, asparagus, broccoli, carrot, shiitake mushrooms",
+        "- Dinner: 20:00 - water 600ml, tempeh hamburger, white rice, miso soup (miso, tofu, enoki mushrooms, shiitake mushrooms, deep-fried tofu pouch, coriander), garden salad (egg, lettuce, cucumber, cherry tomatoes, tomatoes, red bell pepper, walnuts, pumpkin seeds, pomegranate, feta cheese",
+        "- Night: water intake: 400ml (camomile tea), dark chocolate: 4 pieces, dry mango slices 5 pieces"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Korean Red Ginseng Extract: 0 capsules (ginsenosides 4.2 mg, after breakfast):",
+        "- Cannabis: 0.7(compound z) + 0.6(freezer jam) at 23:00)",
+        "- Cigarettes: 3",
+        "- Alcohol:",
+        "- Caffeine: black coffee (200ml, 12:00)"
+      ],
+      "notes": [
+        "I feel energized today, maybe because of ball massage I had yesterday? I don’t know but observe it continuously. (10:00)",
+        "I still feel so much energy today. What a great day today. I’m gonna check my condition and observe it continuously. (21:30)"
+      ],
+      "thought": []
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 8/10\n- Energy: 8/10\n- Focus: 8/10\n- Stress: 1/10\n- Details: Slept well and energized\n\n■ Physical (morning check)\n- Overall: 8/10\n- Fatigue: none\n- Pain: leg injury\n- Digestion: 3 time (morning, healthy, no bloating), 1 time (night)\n- Urine: no problem \n\n■ Biometrics (morning check)\n- Sleep: 1:00-1000\n- Sleep quality: 8/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Arm Day\n- Weight: 60.7kg\n- Water intake: 500ml, protein drink  300ml (15g of protein)\n- Treatment: stretch (10min)\n\n- # Barbell Curl + Dumbbell Curl（Superset)\n- 1) BC 17.5kg  × 10c → DC 7.5kg × (7+3c)\n- 2) BC 15kg × (7+3c) → DC 7.5kg × 10\n- 3) BC 15kg × 10 → DC 7.5kg × 10\n\n- # Hammer Curl (Dropset)\n- 1) 12.5kg × (7+3c) → 7.5kg × 10\n- 2) 12.5kg × (5+5c) → 7.5kg × (5+5c)\n\n- # Press Down with Bar\n- 50kg × 10\n- 50kg × 10\n- 50kg × 8+2c\n\n*note: Lower the bar straight down. Use a thumbless grip.\n\n- # Press Down with Rope Handle\n- 45kg × (8+2c)\n- 45kg × 10\n- 45kg × (8+2c)\n\n- # Triceps Extension\n- 26kg × (8+2c)\n- 26kg × 10\n\n■ Output / Input\n- Read: ツァラトゥストラはこう言った (10:54-11:15, 14:56-15:18, \n\n■ Meals\n- Breakfast: 10:40 - oats, greek yogurt, honey, chia seeds, almond, brazil nuts, pistachios, cashews, pumpkin seeds, blueberries, EVOO, Water Intake (camomile tea 200ml)\n- Lunch: 14:00 - salmon, japanese rice, ginger, parsley, green tea (200ml), glilled saba, teriyaki sources, omelet, asparagus, broccoli, carrot, shiitake mushrooms\n- Dinner: 20:00 - water 600ml, tempeh hamburger, white rice, miso soup (miso, tofu, enoki mushrooms, shiitake mushrooms, deep-fried tofu pouch, coriander), garden salad (egg, lettuce, cucumber, cherry tomatoes, tomatoes, red bell pepper, walnuts, pumpkin seeds, pomegranate, feta cheese\n- Night: water intake: 400ml (camomile tea), dark chocolate: 4 pieces, dry mango slices 5 pieces\n\n■ Substances\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Korean Red Ginseng Extract: 0 capsules (ginsenosides 4.2 mg, after breakfast):\n- Cannabis: 0.7(compound z) + 0.6(freezer jam) at 23:00)\n- Cigarettes: 3\n- Alcohol: \n- Caffeine: black coffee (200ml, 12:00)\n\n■ Notes\nI feel energized today, maybe because of ball massage I had yesterday? I don’t know but observe it continuously. (10:00)\nI still feel so much energy today. What a great day today. I’m gonna check my condition and observe it continuously. (21:30)\n\n■ Thought"
+  },
+  {
+    "date": "2026-01-13",
+    "sections": {
+      "mental": [
+        "- Mood: 9/10",
+        "- Energy: 9/10",
+        "- Focus: 9/10",
+        "- Stress: 0/10",
+        "- Details: slept very well and the healthy food I ate yesterday makes me feel good and stable"
+      ],
+      "physical": [
+        "- Overall: 8/10",
+        "- Pain: scar on my right leg because of trampoline",
+        "- Fatigue: none"
+      ],
+      "biometrics": [
+        "- Sleep:12:30-10:30",
+        "- Sleep quality: 9/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Rest day",
+        "- Weight: NA",
+        "- Treatment: stretch (14:26-14:40), meditation (14:42-15:00), Testicular massage (90min)",
+        "- Details: NA"
+      ],
+      "output / input": [
+        "- Reading: Creativity by OSHO (15:38-16:51)"
+      ],
+      "meals": [
+        "- Breakfast: 11:40 - oats, blueberries, honey, almond, brazil nuts, pumpkin seed, cashew nuts, peppermint tea",
+        "- Lunch: 15:30 - bbq chicken, grilled vegetables, tempeh, broccoli, passion fruit smoothie",
+        "- Dinner: 20:30 - thai red pork curry (pork, coconut milk, kaffir lime leaves, red chili), jasmine rice, papaya salad (green papaya, carrot, long beans, peanuts, lime, lettuce, chili), fresh coconut juice",
+        "- Night:"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)",
+        "- Cannabis: 1g(23:00)",
+        "- Cigarettes: 3",
+        "- Alcohol: 0",
+        "- Caffeine:"
+      ],
+      "notes": [],
+      "thought": []
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 9/10\n- Energy: 9/10\n- Focus: 9/10\n- Stress: 0/10\n- Details: slept very well and the healthy food I ate yesterday makes me feel good and stable\n\n■ Physical (morning check)\n- Overall: 8/10\n- Pain: scar on my right leg because of trampoline\n- Fatigue: none\n\n■ Biometrics (morning check)\n- Sleep:12:30-10:30\n- Sleep quality: 9/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Rest day\n- Weight: NA\n- Treatment: stretch (14:26-14:40), meditation (14:42-15:00), Testicular massage (90min)\n- Details: NA\n\n■ Output / Input\n- Reading: Creativity by OSHO (15:38-16:51)\n\n■ Meals\n- Breakfast: 11:40 - oats, blueberries, honey, almond, brazil nuts, pumpkin seed, cashew nuts, peppermint tea\n- Lunch: 15:30 - bbq chicken, grilled vegetables, tempeh, broccoli, passion fruit smoothie\n- Dinner: 20:30 - thai red pork curry (pork, coconut milk, kaffir lime leaves, red chili), jasmine rice, papaya salad (green papaya, carrot, long beans, peanuts, lime, lettuce, chili), fresh coconut juice \n- Night: \n\n■ Substances\n- NMN: 1,000 mg, Trans Resveratrol: 1,000 mg, TMG: 500 mg (after breakfast)\n- Cannabis: 1g(23:00)\n- Cigarettes: 3\n- Alcohol: 0\n- Caffeine: \n\n■ Notes\n■ Thought"
+  },
+  {
+    "date": "2026-01-12",
+    "sections": {
+      "mental": [
+        "- Mood: 8/10",
+        "- Energy: 8/10",
+        "- Focus: 8/10",
+        "- Stress: 1/10",
+        "- Details: slept very well. Looking forward to having a great day today."
+      ],
+      "physical": [
+        "- Overall: 7/10",
+        "- Pain: scar on my right leg",
+        "- Fatigue: none"
+      ],
+      "biometrics": [
+        "- Sleep: 1:00-11:50",
+        "- Sleep quality: 8/10",
+        "- BMI: NA",
+        "- Body Fat: NA",
+        "- Muscle Mass: NA",
+        "- Body Water: NA"
+      ],
+      "workout": [
+        "- Rest day",
+        "- Weight: NA",
+        "- Treatment: none",
+        "- Details: NA"
+      ],
+      "meals": [
+        "- Breakfast: 11:00 - nuts(almond, cashews, macadamia, pistachio), greek yogurt, chia seeds, honey, oats, blueberries, camomile tea",
+        "- Lunch: 15:00 - omelette (3 eggs), 50g smoked salmon slice, 2 slices of sourdough toast, green leaf salad, grilled tomatoes, grilled mushrooms, smoothie (beet, pineapple, carrot, apple & orange juice) with homemade tempeh",
+        "- Dinner: 20:30 - MK Restaurant (pork, wakame, enoki, wood ear mushrooms, tohu, pork liver, green onions, glass noodles, water spinach, celery)",
+        "- Night: 23:00 - Lindt chocolate(78% cocoa)"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg",
+        "- Trans-Resveratrol: 1,000 mg",
+        "- TMG (Trimethylglycine): 500 mg",
+        "- Cannabis: 1g (23:00)",
+        "- Alcohol: 0",
+        "- Caffeine: americano (4:30PM)"
+      ],
+      "notes": [
+        "Add nuts, chocolate more than 70% of cacao, broccoli, liver and pumpkin seed to my meal suggested by AI."
+      ],
+      "thought": [
+        "Suddenly people become angry because the mind seeks to have activity: (*Source: Creativity by OSHO)",
+        "> Action is spontaneous and total. Activity is never spontaneous, it comes from the past. You may have been accumulating it for many years, and then it explodes into the present.",
+        "> Suddenly you flare up in anger. Everybody becomes aware that it was not needed. Only you cannot see. Everybody feels, “Why are you so angry?” But you will find rationalizations, you will rationalize that it was needed.",
+        "I will maximize my actions and minimize my activities such as cleaning the house and washing dishes.",
+        "Living by habit looks like a good life strategy, but what’s missing is the attitude of constantly searching for ways to minimize effort."
+      ]
+    },
+    "raw": "■ Mental (morning check)\n- Mood: 8/10\n- Energy: 8/10\n- Focus: 8/10\n- Stress: 1/10\n- Details: slept very well. Looking forward to having a great day today. \n\n■ Physical (morning check)\n- Overall: 7/10\n- Pain: scar on my right leg\n- Fatigue: none\n\n■ Biometrics (morning check)\n- Sleep: 1:00-11:50\n- Sleep quality: 8/10\n- BMI: NA\n- Body Fat: NA\n- Muscle Mass: NA\n- Body Water: NA\n\n■ Workout\n- Rest day\n- Weight: NA\n- Treatment: none\n- Details: NA\n\n■ Meals\n- Breakfast: 11:00 - nuts(almond, cashews, macadamia, pistachio), greek yogurt, chia seeds, honey, oats, blueberries, camomile tea\n- Lunch: 15:00 - omelette (3 eggs), 50g smoked salmon slice, 2 slices of sourdough toast, green leaf salad, grilled tomatoes, grilled mushrooms, smoothie (beet, pineapple, carrot, apple & orange juice) with homemade tempeh\n- Dinner: 20:30 - MK Restaurant (pork, wakame, enoki, wood ear mushrooms, tohu, pork liver, green onions, glass noodles, water spinach, celery)\n- Night: 23:00 - Lindt chocolate(78% cocoa)\n\n■ Substances\n- NMN: 1,000 mg\n- Trans-Resveratrol: 1,000 mg\n- TMG (Trimethylglycine): 500 mg\n- Cannabis: 1g (23:00)\n- Alcohol: 0\n- Caffeine: americano (4:30PM)\n\n■ Notes\nAdd nuts, chocolate more than 70% of cacao, broccoli, liver and pumpkin seed to my meal suggested by AI.\n\n■ Thought \nSuddenly people become angry because the mind seeks to have activity: (*Source: Creativity by OSHO)\n\n> Action is spontaneous and total. Activity is never spontaneous, it comes from the past. You may have been accumulating it for many years, and then it explodes into the present.\n\n> Suddenly you flare up in anger. Everybody becomes aware that it was not needed. Only you cannot see. Everybody feels, “Why are you so angry?” But you will find rationalizations, you will rationalize that it was needed. \n\nI will maximize my actions and minimize my activities such as cleaning the house and washing dishes. \n\nLiving by habit looks like a good life strategy, but what’s missing is the attitude of constantly searching for ways to minimize effort."
+  },
+  {
+    "date": "2026-01-11",
+    "sections": {
+      "mental": [
+        "- Mood: 7/10",
+        "- Energy: 7/10",
+        "- Focus: 7/10",
+        "- Stress: 2/10",
+        "- Details: The Internet guy came to my house to set up the internet in the morning. And the dog barked so much it made me a little nervous, but it was ok soon after."
+      ],
+      "physical": [
+        "- Overall: 7/10",
+        "- Pain: muscle pain neck",
+        "- Fatigue: none"
+      ],
+      "biometrics": [
+        "- Sleep: 8",
+        "- Sleep quality: 7/10"
+      ],
+      "workout": [
+        "- Leg Day",
+        "- Weight: 61kg",
+        "- Details: I went to a trampoline park and jumped for an hour. I tried many different types of jumps."
+      ],
+      "meals": [
+        "- Breakfast: oats, greek yogurt, nuts, blueberries, honey",
+        "- Lunch:",
+        "- Fermented Food Rice Bowl (mixed grain rice, kimchi, napa cabbage, takuan, cucumber, salt-koji marinated tofu, wakame, green onions, natto, seaweed)",
+        "- Tempeh Rice Bowl (japanese-style tempeh hamburger patty, mixed grain rice, daikon radish, green onions, lettuce, tomato, daikon radish),",
+        "- Miso soup (tofu, green onions)",
+        "- Dinner: sushi 20 pieces, hot soba, yaki onigiri, aji fry, chawanmushi",
+        "- Night: dry mango 5 slices, chia seeds, honey, kinako"
+      ],
+      "substances": [
+        "- NMN: 1,000 mg",
+        "- Trans-Resveratrol: 1,000 mg",
+        "- TMG (Trimethylglycine): 500 mg",
+        "- Cannabis: 0.3g (7PM), 0.3g (10PM), 1g(11PM)",
+        "- Alcohol: 0",
+        "- Caffeine: 1 black coffee (3PM)"
+      ],
+      "notes": [
+        "I went to a trampoline place with my friends. It was so much fun and good for the leg training."
+      ],
+      "thought": [
+        "The difference between action and activity is interesting: (*Source: Creativity by Osho)",
+        "> Action is spontaneous. Activity is never spontaneous, it comes from the past. You may have been accumulating it for many years, and then it explodes into the present.",
+        "> Activity is goal oriented, action is not. Action is overflowing of energy. Action is in this moment, a response. Just the whole existence meets you, confronts you. The birds are singing and you start singing. Suddenly it happens. Suddenly you find it is happening, that you have started humming— this is action.",
+        "My undersatanding is that “action is challenge, activity is habit-oriented doing.”"
+      ]
+    },
+    "raw": "■ Mental *morning check\n- Mood: 7/10\n- Energy: 7/10\n- Focus: 7/10\n- Stress: 2/10\n- Details: The Internet guy came to my house to set up the internet in the morning. And the dog barked so much it made me a little nervous, but it was ok soon after. \n\n■ Physical *morning check\n- Overall: 7/10\n- Pain: muscle pain neck \n- Fatigue: none\n\n■ Biometrics *morning check\n- Sleep: 8\n- Sleep quality: 7/10\n\n■ Workout\n- Leg Day\n- Weight: 61kg\n- Details: I went to a trampoline park and jumped for an hour. I tried many different types of jumps.\n\n■ Meals\n- Breakfast: oats, greek yogurt, nuts, blueberries, honey\n- Lunch: \n- Fermented Food Rice Bowl (mixed grain rice, kimchi, napa cabbage, takuan, cucumber, salt-koji marinated tofu, wakame, green onions, natto, seaweed)\n- Tempeh Rice Bowl (japanese-style tempeh hamburger patty, mixed grain rice, daikon radish, green onions, lettuce, tomato, daikon radish), \n- Miso soup (tofu, green onions)\n- Dinner: sushi 20 pieces, hot soba, yaki onigiri, aji fry, chawanmushi\n- Night: dry mango 5 slices, chia seeds, honey, kinako \n\n■ Substances\n- NMN: 1,000 mg\n- Trans-Resveratrol: 1,000 mg\n- TMG (Trimethylglycine): 500 mg\n- Cannabis: 0.3g (7PM), 0.3g (10PM), 1g(11PM)\n- Alcohol: 0\n- Caffeine: 1 black coffee (3PM)\n\n■ Notes\nI went to a trampoline place with my friends. It was so much fun and good for the leg training. \n\n■ Thought\nThe difference between action and activity is interesting: (*Source: Creativity by Osho)\n\n> Action is spontaneous. Activity is never spontaneous, it comes from the past. You may have been accumulating it for many years, and then it explodes into the present. \n\n> Activity is goal oriented, action is not. Action is overflowing of energy. Action is in this moment, a response. Just the whole existence meets you, confronts you. The birds are singing and you start singing. Suddenly it happens. Suddenly you find it is happening, that you have started humming— this is action. \n\nMy undersatanding is that “action is challenge, activity is habit-oriented doing.”"
+  }
+]
