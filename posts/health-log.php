@@ -104,44 +104,23 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-09</h2>
   <pre>
 ■ Mental *morning check
-- Mood: 
-- Energy: 
-- Focus: 
-- Stress: 
-- Details: 
+- Mind: 9/10
+- Spirit: 7/10
 
 ■ Physical *morning check
-- Overall: 
-- Pain: 
-- Fatigue: 
+- Body: 9/10
 
 ■ Biometrics *morning check
-- Sleep: 
-- Sleep quality: 
-
-■ Workout
-- 
-- Weight: 
-- Details: 
+- Sleep: 8.0 (00:00 - 08:00)
 
 ■ Meals
-- Breakfast: 
-- Lunch: 
-- Dinner: 
-- Night: 
-
-■ Substances
-- NMN: 
-- Trans-Resveratrol: 
-- TMG (Trimethylglycine): 
-- Cannabis: 
-- Alcohol: 
-- Caffeine: 
+- Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
+- Lunch: Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
 
 ■ Notes
-本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
-
-■ Thought
+- 整ちょうざいを朝食前に飲んだ。
+- My stomach gas is getting better, maybe because of reducing the carbs that I take.
+- 本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
 </pre>
 
   <h2># 2026-02-08</h2>
@@ -2054,27 +2033,6 @@ The difference between action and activity is interesting: (*Source: Creativity 
 > Activity is goal oriented, action is not. Action is overflowing of energy. Action is in this moment, a response. Just the whole existence meets you, confronts you. The birds are singing and you start singing. Suddenly it happens. Suddenly you find it is happening, that you have started humming— this is action. 
 
 My undersatanding is that “action is challenge, activity is habit-oriented doing.”
-</pre>
-
-  <h2># 2026-02-09</h2>
-  <pre>
-■ Mental *morning check
-- Mind: 9/10
-- Spirit: 7/10
-
-■ Physical *morning check
-- Body: 9/10
-
-■ Biometrics *morning check
-- Sleep: 8.0 (00:00 - 08:00)
-
-■ Meals
-- Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
-- Lunch: Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
-
-■ Notes
-- 整ちょうざいを朝食前に飲んだ。
-- My stomach gas is getting better, maybe because of reducing the carbs that I take.
 </pre>
 
 
