@@ -2056,6 +2056,26 @@ The difference between action and activity is interesting: (*Source: Creativity 
 My undersatanding is that “action is challenge, activity is habit-oriented doing.”
 </pre>
 
+  <h2># 2026-02-09</h2>
+  <pre>
+■ Mental *morning check
+- Mind: 9/10
+- Spirit: 7/10
+
+■ Physical *morning check
+- Body: 9/10
+
+■ Biometrics *morning check
+- Sleep: 8.0 (00:00 - 08:00)
+
+■ Meals
+- Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
+
+■ Notes
+- 整ちょうざいを朝食前に飲んだ。
+- My stomach gas is getting better, maybe because of reducing the carbs that I take.
+</pre>
+
 
 </div>
 <script>
