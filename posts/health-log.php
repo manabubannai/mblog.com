@@ -101,6 +101,49 @@ Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
 
+  <h2># 2026-02-09</h2>
+  <pre>
+■ Mental *morning check
+- Mood: 
+- Energy: 
+- Focus: 
+- Stress: 
+- Details: 
+
+■ Physical *morning check
+- Overall: 
+- Pain: 
+- Fatigue: 
+
+■ Biometrics *morning check
+- Sleep: 
+- Sleep quality: 
+
+■ Workout
+- 
+- Weight: 
+- Details: 
+
+■ Meals
+- Breakfast: 
+- Lunch: 
+- Dinner: 
+- Night: 
+
+■ Substances
+- NMN: 
+- Trans-Resveratrol: 
+- TMG (Trimethylglycine): 
+- Cannabis: 
+- Alcohol: 
+- Caffeine: 
+
+■ Notes
+本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
+
+■ Thought
+</pre>
+
   <h2># 2026-02-08</h2>
   <pre>
 Sleep：00:00 - 09:00
@@ -2011,49 +2054,6 @@ The difference between action and activity is interesting: (*Source: Creativity 
 > Activity is goal oriented, action is not. Action is overflowing of energy. Action is in this moment, a response. Just the whole existence meets you, confronts you. The birds are singing and you start singing. Suddenly it happens. Suddenly you find it is happening, that you have started humming— this is action. 
 
 My undersatanding is that “action is challenge, activity is habit-oriented doing.”
-</pre>
-
-  <h2># 2026-02-09</h2>
-  <pre>
-■ Mental *morning check
-- Mood: 
-- Energy: 
-- Focus: 
-- Stress: 
-- Details: 
-
-■ Physical *morning check
-- Overall: 
-- Pain: 
-- Fatigue: 
-
-■ Biometrics *morning check
-- Sleep: 
-- Sleep quality: 
-
-■ Workout
-- 
-- Weight: 
-- Details: 
-
-■ Meals
-- Breakfast: 
-- Lunch: 
-- Dinner: 
-- Night: 
-
-■ Substances
-- NMN: 
-- Trans-Resveratrol: 
-- TMG (Trimethylglycine): 
-- Cannabis: 
-- Alcohol: 
-- Caffeine: 
-
-■ Notes
-本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
-
-■ Thought
 </pre>
 
 
