@@ -56,7 +56,10 @@ font-weight: 600;
     <li>Job: Ex-Influencer. Now I&#39;m resting</li>
   </ul>
 
-  <p><a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a></p>
+  <p>
+    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
+    <a id="copyLast30Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 30 days</a>
+  </p>
 
   <pre>
 ■ 目的
@@ -111,7 +114,7 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
 - Lunch (15:00): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
-- Dinner (18:03): Salad (Avocado 80g, Boiled Egg 1 (50g), Pumpkin 30g, Carrots 20g, Cucumber 20g, Lettuce 50g, Sunflower seeds 5g, Sesame dressing 30g)
+- Dinner (18:12): The Salad Concept Regular Salad (Lettuce 100g, Boiled Egg 50g, Pumpkin 50g, Cucumber 30g, Sunflower Seeds 10g, Carrot 30g, Avocado 80g, Soy Sauce Dressing 30ml) [Total: ~362kcal], Water
 
 ■ Notes
 - 整腸剤を朝食前に飲んだ。
@@ -2038,6 +2041,48 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
     navigator.clipboard.writeText(
       document.getElementById("copy-target").innerText
     ).then(() => alert("All the data has been copied"));
+  };
+
+  document.getElementById("copyLast30Btn").onclick = () => {
+    const container = document.getElementById("copy-target");
+    let textToCopy = "";
+
+    // 1. Get Fixed Section (Goals/Routine)
+    // Find the first <pre> that is NOT preceded by an H2 date header
+    const firstPre = container.querySelector('pre');
+    if (firstPre && (!firstPre.previousElementSibling || !firstPre.previousElementSibling.tagName.match(/^H2/))) {
+      textToCopy += "■ Goals & Routine\n" + firstPre.innerText + "\n\n" + "=".repeat(20) + "\n\n";
+    }
+
+    // 2. Get Last 30 Daily Logs
+    const allH2s = Array.from(container.querySelectorAll('h2'));
+    const dateHeaders = allH2s.filter(h => h.innerText.trim().startsWith('#'));
+    
+    // Take top 30 (Reverse Chronological)
+    const targetHeaders = dateHeaders.slice(0, 30);
+
+    targetHeaders.forEach((h2) => {
+      textToCopy += h2.innerText + "\n"; // Date Header
+
+      let next = h2.nextElementSibling;
+      while (next && next.tagName !== 'H2') {
+        // Filter out scripts/buttons/styles to keep it clean
+        const ignoreTags = ['SCRIPT', 'STYLE', 'BUTTON', 'NOSCRIPT'];
+        if (!ignoreTags.includes(next.tagName)) {
+           if (next.innerText.trim() !== "") {
+              textToCopy += next.innerText + "\n";
+           }
+        }
+        next = next.nextElementSibling;
+      }
+      textToCopy += "\n"; // Separator
+    });
+
+    if (textToCopy) {
+      navigator.clipboard.writeText(textToCopy).then(() => alert("Last 30 days data has been copied"));
+    } else {
+      alert("No data found to copy.");
+    }
   };
 </script>
 <?php require dirname(__DIR__) . '/footer.php'; ?>
