@@ -2013,6 +2013,49 @@ The difference between action and activity is interesting: (*Source: Creativity 
 My undersatanding is that “action is challenge, activity is habit-oriented doing.”
 </pre>
 
+  <h2># 2026-02-09</h2>
+  <pre>
+■ Mental *morning check
+- Mood: 
+- Energy: 
+- Focus: 
+- Stress: 
+- Details: 
+
+■ Physical *morning check
+- Overall: 
+- Pain: 
+- Fatigue: 
+
+■ Biometrics *morning check
+- Sleep: 
+- Sleep quality: 
+
+■ Workout
+- 
+- Weight: 
+- Details: 
+
+■ Meals
+- Breakfast: 
+- Lunch: 
+- Dinner: 
+- Night: 
+
+■ Substances
+- NMN: 
+- Trans-Resveratrol: 
+- TMG (Trimethylglycine): 
+- Cannabis: 
+- Alcohol: 
+- Caffeine: 
+
+■ Notes
+本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
+
+■ Thought
+</pre>
+
 
 </div>
 <script>
