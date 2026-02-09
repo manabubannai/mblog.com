@@ -115,7 +115,7 @@ NAC 500 mg (Thorne)
 - Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
 - Lunch (15:00): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
 - Dinner (18:12): The Salad Concept Regular Salad (Lettuce 100g, Boiled Egg 50g, Pumpkin 50g, Cucumber 30g, Sunflower Seeds 10g, Carrot 30g, Avocado 80g, Soy Sauce Dressing 30ml) [Total: ~362kcal, P: 12.2g, F: 24g, C: 23g]
-  *Feedback: Low Protein. Need to add chicken breast or protein shake.
+  *Feedback from AI: Low Protein. Need to add chicken breast or protein shake.
 
 ■ Notes
 - 整腸剤を朝食前に飲んだ。
