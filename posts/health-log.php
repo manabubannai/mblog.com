@@ -103,22 +103,17 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-09</h2>
   <pre>
-■ Mental *morning check
+- Sleep: 00:00 - 08:00
+- Body: 9/10
 - Mind: 9/10
 - Spirit: 7/10
 
-■ Physical *morning check
-- Body: 9/10
-
-■ Biometrics *morning check
-- Sleep: 8.0 (00:00 - 08:00)
-
-■ Meals
+■ Food
 - Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
 - Lunch: Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
 
 ■ Notes
-- 整ちょうざいを朝食前に飲んだ。
+- 整腸剤を朝食前に飲んだ。
 - My stomach gas is getting better, maybe because of reducing the carbs that I take.
 - 本日からログの更新にOpenClawのbotを導入して、大半のフローを自動化した
 </pre>
