@@ -2070,6 +2070,7 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
 
 ■ Meals
 - Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
+- Lunch: Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
 
 ■ Notes
 - 整ちょうざいを朝食前に飲んだ。
