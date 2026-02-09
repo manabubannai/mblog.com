@@ -110,7 +110,7 @@ NAC 500 mg (Thorne)
 
 ■ Food
 - Breakfast (9:30): ライスベリー (1杯, 300g), Natto (1パック), kimchi (50g)
-- Lunch (17:24): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
+- Lunch (15:00): Sushi (Salmon, White fish, Shrimp, Negitoro rolls), Tofu Salad with Bonito flakes, Green Tea
 
 ■ Notes
 - 整腸剤を朝食前に飲んだ。
