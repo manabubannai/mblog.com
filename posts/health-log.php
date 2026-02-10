@@ -245,7 +245,7 @@ Spirit : 7/10
 ■ Food
 Morning 9:00 : ゆで卵 2つ、テンペ 100g、ライスベリー 150g, edamame 20g、さつまいも 60g、アボカド 10g、赤玉ねぎのピクルス少々、ミニトマト 3つ
 
-Lunch 14:00：テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）
+Lunch 14:00：テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ（木綿豆腐 200g、わかめ 30g、トマト 60g、きゅうり 30g、レタス 40g）
 
 Dinner 20:00：サーモン寿司３つ、おでんの大根、焼き鳥の鶏レバー、親子丼、厚揚げ豆腐１つ、お茶200ml、ティラミス
 
@@ -425,7 +425,7 @@ Spirit: 8/10
 
 ■ Food
 Morning 8:30 : ヨーグルト 15g、ブルーベリー 42g, オーツ 50g、ハニー 15g, Pumpkin seeds 20g, Passion fruits 3g, Walnuts 20g, Chia seeds 4g, イチゴ 130g, Mixed nuts 30g （Almonds, Cashews, Macadamia, Pistachios）
-Lunch 14:00 : テンペバーグ丼、わかめサラダ、オレンジ酵素ジュース
+Lunch 14:00 : テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、わかめサラダ、オレンジ酵素ジュース
 Dinner 21:00 : Sushi, おでん７種、カツ丼、グレープフルーツ、CARROT パウンドケーキ(Protein 11g / 246 kcal / Carbs 25g / Fat 14.8g)
 
 ■ Workout 
@@ -654,7 +654,7 @@ Spirit 7/10
 - [ ] 足首を柔らかくするストレッチをルーティーンに追加する
 
 ■ Food
-朝食 13:00 テンペバーグ丼、タマゴ、豆腐サラダ（豆腐、レタス、わかめ、水菜）
+朝食 13:00 テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）、タマゴ、豆腐サラダ（豆腐、レタス、わかめ、水菜）
 夕食 20:00 ビーフ丼、ブロッコリー、サーモン焼き
 夜食 23:00 ココナッツヨーグルト(いちご、ブルーベリー、パッションフルーツ、オーツ、ロンガンハニー、ナッツ、チアシード、アーモンドミルク)
 
@@ -831,7 +831,7 @@ Mind：9/10
 
 ■ Food
 - Breakfast (11:30): 納豆キムチご飯２杯、オーツボウル（ストロベリー、Apple、ブルーベリー、Passion Fluit、くるみ、アーモンド、cashew nuts、マカダミア、チアシード）、タンパクおとめ１杯、EVOO、サラダ（ルッコラ、貝割れ大根、アボガド、トマト）
-- Lunch (14:30): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice
+- Lunch (14:30): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）, salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice
 - Dinner (20:30): hummus (hummus, tomato sauce, egg, olive oil, parsley), pickles (cucumber, cabbage, bell pepper), sesame bread ring (sesame seeds, flour), roasted potatoes, タンパクおとめ１スクープ
 
 ■ Workout 
@@ -1210,7 +1210,7 @@ AI後の世界
 
 ■ Food
 - Breakfast (10:00): Oats yogurt (strawberry, apple, walnuts, almonds, brazil nuts, honey, chia seeds), EVOO 15ml
-- Lunch (14:00): tempeh demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice
+- Lunch (14:00): テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）, salad (lettuce, tomato), miso soup (tofu, wakame, green onion), banana enzyme juice
 - Dinner (19:00): Shabu-shabu (pork, beef, napa cabbage, cabbage, green onion, enoki, shiitake, king oyster mushrooms)
 
 ■ Workout 
@@ -1264,7 +1264,7 @@ Alcohol: 0, Cigarettes: 7
 
 ■ Food
 - Breakfast (10:00): Oats yogurt (passion fruit, walnuts, almonds, brazil nuts, honey, pumpkin seeds, chia seeds), spinach, EVOO 15ml
-- Lunch (14:00): miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice
+- Lunch (14:00): miso soup (tofu, wakame, green onion), テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）, salad (lettuce, tomato), banana enzyme juice
 - Dinner (20:00): pork kimchi, rice, pork miso soup, egg
 
 ■ Workout 
@@ -1624,7 +1624,7 @@ Jamaica Dream strain is great for morning use while traveling, or as a pre-sauna
 
 ■ Meals
 - Breakfast: 10:40 - water 400ml, mixed nut and fruit oat bowl (oats, chia seeds, pumpkin seeds, honey, brazil nuts, blueberries, almond, walnuts, passion fruit, banana, yogurt), EVOO
-- Lunch: 14:00 - water 500ml, miso soup (tofu, wakame, green onion), tempeh with demi-glace sauce (tempeh, onion, mushroom), salad (lettuce, tomato), banana enzyme juice
+- Lunch: 14:00 - water 500ml, miso soup (tofu, wakame, green onion), テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）, salad (lettuce, tomato), banana enzyme juice
 - Dinner: 20:20 - shabu shabu (beef, pork, egg, napa cabbage, bok choy, chinese celery, japanese leek, carrot, pumpkin, corn, enoki mushroom, shiitake mushroom, wood ear mushroom, king oyster mushroom, brown beech mushroom, goji berry, jujube), steam rise, water 600ml
 - Night: chamomile tea 200ml (22:30)
 
@@ -1699,7 +1699,7 @@ Not eating late at night helps you feel better in the morning, so it’s better 
 
 ■ Meals
 - Breakfast: 11:00 - yogurt bowl (greek yogurt, oats, frozen blueberries, walnuts, pumpkin seeds, passion fruit, honey), EVOO, decaf coffee (100ml)
-- Lunch: 14:00 - tempeh demi-glace hamburger rice bowl (tempeh, demi-glace sauce, purple rice, fried egg, lettuce, tomato, grated daikon, green onion), miso soup (tofu, green onion, assorted vegetables), enzyme drink (200ml)
+- Lunch: 14:00 - テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g）, miso soup (tofu, green onion, assorted vegetables), enzyme drink (200ml)
 - Dinner: 19:45 - oolong tea 400ml, oyakodon (chicken, egg, onion, rice, scallion, seaweed), tonjiru (pork, daikon radish, carrot, scallion, miso broth)
 - Night: peppermint (00:00), slice mango 3 pieces, chocolate 3 pieces, cheese cake half slice 
 
@@ -2058,7 +2058,7 @@ Living by habit looks like a good life strategy, but what’s missing is the att
 - Breakfast: oats, greek yogurt, nuts, blueberries, honey
 - Lunch: 
 - Fermented Food Rice Bowl (mixed grain rice, kimchi, napa cabbage, takuan, cucumber, salt-koji marinated tofu, wakame, green onions, natto, seaweed)
-- Tempeh Rice Bowl (japanese-style tempeh hamburger patty, mixed grain rice, daikon radish, green onions, lettuce, tomato, daikon radish), 
+- テンペバーグ丼（ライスベリー 300g、手作りテンペバーグ 130g、目玉焼き 50g、デミグラスソース 40g） 
 - Miso soup (tofu, green onions)
 - Dinner: sushi 20 pieces, hot soba, yaki onigiri, aji fry, chawanmushi
 - Night: dry mango 5 slices, chia seeds, honey, kinako 
