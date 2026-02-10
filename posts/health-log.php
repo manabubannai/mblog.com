@@ -68,11 +68,8 @@ font-weight: 600;
 ・その③ : 肉体と精神エネルギーの強化
 →最も効果の高い施策をAIに聞きつつ実行
 
-✓ 直近のゴール
-体重：67kg、BIG3スコア：350
-
 ■ ルーティン
-8時半 : 起床
+8時 : 起床
 9時：日光、朝食
 10時：犬と遊ぶ、ストレッチ、Meditation
 11時：自由時間（３時間 → 何でも可能）
@@ -106,14 +103,38 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-10</h2>
   <pre>
-- Sleep: 
-- Body: 
-- Mind: 
-- Spirit: 
+Sleep： 23:30 - 7:30
+Body： 10/10
+Mind： 10/10
+Spirit： 8/10
 
 ■ Food
 - Breakfast (09:44): Riceberry with Sticky Rice (1 bowl, 150g) [Total: ~230kcal, P: 4g, F: 1g, C: 50g]
   *Feedback from AI: Very Low Protein. Need to add eggs, natto, or protein shake.
+- Lunch (16:30): Jasmine Rice (150g), Khai Nam (Thai Omelet & Minced Pork Soup), Kaeng Jued Tao Hoo (Clear Soup with Egg Tofu, Minced Pork & Napa Cabbage) [Total: ~560kcal, P: 32g, F: 22g, C: 55g]
+*Feedback from AI: High Protein & Warm Meal. Excellent protein variety from eggs, tofu, and pork. Soup-based dishes are great for satiety and hydration. Fiber is slightly low; consider adding more vegetables or fruit next time
+
+■ Workout
+Rest Day (Reason：抜歯の手術)
+
+■ Social Life
+Nothing
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+- Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
+- NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
+- Creatine 5g (Thorne) with breakfast
+- 整腸剤 (Before Breakfast)
+
+■ Treatment
+- Meditation (First thing in the morning)
+
+■ Notes
+*note: 寝る前の草はやめる
+*note: 抜歯で安静にしなければならないので、休む。
+*note: 朝は日光を浴びて、紙の本を読む。
+
 </pre>
 
   <h2># 2026-02-09</h2>
@@ -129,11 +150,14 @@ NAC 500 mg (Thorne)
 - Dinner (18:12): The Salad Concept Regular Salad (Lettuce 100g, Boiled Egg 50g, Pumpkin 50g, Cucumber 30g, Sunflower Seeds 10g, Carrot 30g, Avocado 80g, Soy Sauce Dressing 30ml) [Total: ~362kcal, P: 12.2g, F: 24g, C: 23g]
   *Feedback from AI: Low Protein. Need to add chicken breast or protein shake.
 
+■ Workout
+Rest Day
+
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
 - Omega3 EPA+DHA (Nordic) 1280 mg with breakfast
 - NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
-- Creatine 5g (Thorne) after workout
+- Creatine 5g (Thorne) with breakfast
 - 整腸剤 (Before Breakfast)
 
 ■ Treatment
@@ -2061,19 +2085,19 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
 
 </div>
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const btnAll = document.getElementById("copyBtn");
-  if (btnAll) {
-    btnAll.onclick = () => {
-       navigator.clipboard.writeText(
+  document.addEventListener('DOMContentLoaded', () => {
+    const btnAll = document.getElementById("copyBtn");
+    if (btnAll) {
+      btnAll.onclick = () => {
+        navigator.clipboard.writeText(
           document.getElementById("copy-target").innerText
-       ).then(() => alert("All the data has been copied"));
-    };
-  }
+        ).then(() => alert("All the data has been copied"));
+      };
+    }
 
-  const btn10 = document.getElementById("copyLast10Btn");
-  if (btn10) {
-    btn10.onclick = () => {
+    const btn10 = document.getElementById("copyLast10Btn");
+    if (btn10) {
+      btn10.onclick = () => {
         const container = document.getElementById("copy-target");
         let textToCopy = "";
 
@@ -2086,7 +2110,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // 2. Get Last 10 Daily Logs
         const allH2s = Array.from(container.querySelectorAll('h2'));
         const dateHeaders = allH2s.filter(h => h.textContent.trim().startsWith('#'));
-        
+
         // Take top 10 (Reverse Chronological)
         const targetHeaders = dateHeaders.slice(0, 10);
 
@@ -2097,9 +2121,9 @@ document.addEventListener('DOMContentLoaded', () => {
           while (next && next.tagName !== 'H2') {
             const ignoreTags = ['SCRIPT', 'STYLE', 'BUTTON', 'NOSCRIPT'];
             if (!ignoreTags.includes(next.tagName)) {
-               if (next.textContent.trim() !== "") {
-                  textToCopy += next.textContent + "\n";
-               }
+              if (next.textContent.trim() !== "") {
+                textToCopy += next.textContent + "\n";
+              }
             }
             next = next.nextElementSibling;
           }
@@ -2111,8 +2135,8 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
           alert("No data found to copy.");
         }
-    };
-  }
-});
+      };
+    }
+  });
 </script>
 <?php require dirname(__DIR__) . '/footer.php'; ?>
