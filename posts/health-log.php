@@ -112,7 +112,8 @@ NAC 500 mg (Thorne)
 - Spirit: 
 
 ■ Food
-- Breakfast (09:44): Riceberry (1 bowl)
+- Breakfast (09:44): Riceberry with Sticky Rice (1 bowl, 150g) [Total: ~230kcal, P: 4g, F: 1g, C: 50g]
+  *Feedback from AI: Very Low Protein. Need to add eggs, natto, or protein shake.
 </pre>
 
   <h2># 2026-02-09</h2>
