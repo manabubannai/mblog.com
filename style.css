@@ -111,3 +111,56 @@ blockquote p:before {
 	p {font-size: 17px;}
 	ul {font-size: 16.5px; line-height: 1.6;}
 }
+
+/* 日本語記事用スタイル (Japanese Article) */
+.jp-article {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
+  color: #333;
+}
+
+.jp-article h1.title {
+  font-weight: 700;
+  line-height: 1.4;
+  font-size: 24px;
+  margin-bottom: 35px;
+  color: #333;
+}
+
+.jp-article h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  color: #333;
+}
+
+.jp-article h3, 
+.jp-article time, 
+.jp-article p, 
+.jp-article li {
+  color: #333;
+}
+
+.jp-article p {
+  font-size: 16px;
+  line-height: 1.9;
+  margin-bottom: 1.8em;
+  letter-spacing: 0.03em;
+}
+
+.jp-article ul, 
+.jp-article li {
+  font-size: 15.5px;
+  line-height: 1.8;
+}
+
+.jp-article pre {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 13.5px;
+  background-color: #f7f7f7;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  color: #333;
+}
