@@ -1,5 +1,55 @@
 <?php require dirname(__DIR__) . '/header.php'; ?>
 
+<style>
+  /* 日本語記事向けのオーバーライド */
+  body, h1, h2, h3, p, li, time {
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif !important;
+    color: #333; /* 文字をくっきりさせる */
+  }
+
+  /* タイトル周り */
+  h1.title {
+    font-weight: 700;
+    line-height: 1.4;
+    font-size: 24px; /* 日本語タイトルに適したサイズ */
+    margin-bottom: 35px;
+  }
+
+  /* 見出し */
+  h2 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee; /* 区切り線を入れて技術記事っぽく */
+  }
+
+  /* 本文 */
+  p {
+    font-size: 16px; /* 英語記事より少し小さくして情報を締める */
+    line-height: 1.9; /* 行間は広めに */
+    margin-bottom: 1.8em;
+    letter-spacing: 0.03em; /* 文字間を少し開けて読みやすく */
+  }
+
+  /* リスト */
+  ul, li {
+    font-size: 15.5px;
+    line-height: 1.8;
+  }
+  
+  /* コードブロック（pre）の調整 */
+  pre {
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace !important;
+    font-size: 13.5px;
+    background-color: #f7f7f7;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    color: #333;
+  }
+</style>
+
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Feb, 2026</time>
 <h1 class="title">安全にOpenClawを動かす方法（自分用のメモ）</h1>
