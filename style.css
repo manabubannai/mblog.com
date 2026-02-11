@@ -110,6 +110,12 @@ blockquote p:before {
 @media (max-width: 767px) {
 	p {font-size: 17px;}
 	ul {font-size: 16.5px; line-height: 1.6;}
+    
+    /* スマホ用調整: 余白を詰めて表示領域を確保 */
+    .jp-article pre {
+        padding: 15px !important;
+        word-break: break-all; /* URLなどがはみ出さないように */
+    }
 }
 
 /* 日本語記事用スタイル (Japanese Article) */
