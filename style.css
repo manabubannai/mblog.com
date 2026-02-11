@@ -102,8 +102,29 @@ blockquote p:before {
 
 /* 日本語記事用スタイル (Japanese Article) */
 .jp-article {
-  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
+  /* ロゴ以外はゴシック体を適用したいが、ロゴはSerifのまま維持するため、ここでは指定せず個別要素に適用する */
   color: #333;
+}
+
+/* ロゴのスタイルを強制的に維持（Serif） */
+.jp-article h1.brand, 
+.jp-article p.brand {
+	font-family: Sukhumvit Sukhumvit Set, serif !important;
+	font-size: 28px;
+	font-weight: 600;
+	letter-spacing: 0.3px;
+	margin-top: 12px;
+	margin-bottom: 25px;
+}
+
+/* 本文や見出しのみゴシック体に変更 */
+.jp-article h1.title,
+.jp-article h2,
+.jp-article h3,
+.jp-article p,
+.jp-article li,
+.jp-article time {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
 }
 
 .jp-article h1.title {
