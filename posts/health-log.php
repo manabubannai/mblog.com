@@ -116,6 +116,8 @@ NAC 500 mg (Thorne)
   *Feedback from AI: Solid Bulking Lunch. Excellent carb source from the large rice portion. 3 eggs provide good protein and healthy fats, further boosted by EVOO. Adding broccoli and carrots was a great move for fiber and micronutrients.
 - Pre-Dinner Snack: 3 Seeds Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
   *Feedback from AI: Strategic Protein & Fat Intake. Adding EVOO boosts caloric density (+120kcal) without volume, ideal for bulking. The fat also slows protein absorption, sustaining amino acid levels until dinner.
+- Dinner (20:30): Hayashi Rice (Beef stew), Rice (Mega portion, 400g), Onsen Egg, Avocado (1 whole) [Total: ~1462kcal, P: 40g, F: 61g, C: 180g]
+  *Feedback from AI: Monster Bulking Meal. 400g of rice provides massive glycogen replenishment (180g carbs). Adding a whole avocado significantly boosts healthy fats and calories (+260kcal), bringing the single meal total to nearly 1500kcal. Perfect execution for weight gain.
 
 ■ Treatment
 • Meditation (first thing in the morning)
