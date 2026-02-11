@@ -4,7 +4,7 @@
 <time>11 Feb, 2026</time>
 <h1 class="title">安全にOpenClawを動かす方法（自分用のメモ）</h1>
 
-<p>OpenClawはゲームチェンジャーだと思う。こういった技術はベースから理解することが大切。</p>
+<p>OpenClawはゲームチェンジャーだと思う。<br>こういった技術はベースから理解することが大切。</p>
 
 <h2>安全にOpenClawを動かす方法</h2>
 <ul class="long_list">
