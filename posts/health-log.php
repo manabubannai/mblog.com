@@ -103,9 +103,18 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-11</h2>
   <pre>
+- Sleep: 00:00 - 08:00
+- Body: 10/10
+- Mind: 9/10
+- Spirit: 7/10
+※note：抜歯から2日目。ゆっくり過ごす。
+
 ■ Food
 - Breakfast (09:50): Rice (Large portion, ~250g), Honey (20g), Coconut Sugar (1 tsp), MCT Oil (1 tsp), Almond Milk (100ml), Great Lakes Collagen (1 scoop), 3 SEED Protein (2 scoops) [Total: ~650kcal, P: 35g, F: 12g, C: 100g]
   *Feedback from AI: Good Pre-Workout Meal. High carbohydrates for energy and moderate protein for muscle maintenance. The MCT oil provides quick energy. Ensure you hydrate well.
+
+■ Treatment
+• Meditation (first thing in the morning)
 
 ■ Note
 バルクアップの食事ルーティン例：
