@@ -100,24 +100,6 @@ blockquote p:before {
 	content: "» ";
 }
 
-/* 画面幅が768px以上のときだけ有効 */
-@media (min-width: 768px) { 
-	p {font-size: 17px;}
-	img {max-width: 60%;}
-}
-
-/* 画面幅が767px以下のときだけ有効 */
-@media (max-width: 767px) {
-	p {font-size: 17px;}
-	ul {font-size: 16.5px; line-height: 1.6;}
-    
-    /* スマホ用調整: 余白を詰めて表示領域を確保 */
-    .jp-article pre {
-        padding: 15px !important;
-        word-break: break-all; /* URLなどがはみ出さないように */
-    }
-}
-
 /* 日本語記事用スタイル (Japanese Article) */
 .jp-article {
   font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
@@ -169,4 +151,22 @@ blockquote p:before {
   border: 1px solid #eee;
   border-radius: 4px;
   color: #333;
+}
+
+/* 画面幅が768px以上のときだけ有効 */
+@media (min-width: 768px) { 
+	p {font-size: 17px;}
+	img {max-width: 60%;}
+}
+
+/* 画面幅が767px以下のときだけ有効 */
+@media (max-width: 767px) {
+	p {font-size: 17px;}
+	ul {font-size: 16.5px; line-height: 1.6;}
+    
+    /* スマホ用調整: 余白を詰めて表示領域を確保 */
+    .jp-article pre {
+        padding: 15px !important;
+        word-break: break-all; /* URLなどがはみ出さないように */
+    }
 }
