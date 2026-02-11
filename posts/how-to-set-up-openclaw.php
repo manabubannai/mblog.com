@@ -45,7 +45,7 @@
 <p>実際に構築したい方は、下記がAI向けの指示書です。</p>
 
 <h2>AIエージェント向け指示書：OpenClaw 安全構築ガイド</h2>
-<pre>
+<pre id="prompt-secure-setup">
 ・役割: あなたは熟練したセキュリティエンジニア兼DevOpsスペシャリストです。
 ・目的: Hetzner VPS上に、セキュリティを最大限に高めた状態で「OpenClaw」を構築し、Telegram Botと連携させて稼働させること。
 ・制約事項: コスト効率を意識し（月額$2.50プラン）、外部からの攻撃対象領域（Attack Surface）を最小化すること。
@@ -89,5 +89,18 @@ Hetzner Cloudにて、月額$2.50相当のプラン（例: CX22 / ARM64など適
 ・取得したBot TokenをOpenClawの設定ファイルに記述し、サービスを起動してください。
 ・正常に稼働していることをログおよびBotへのメッセージ送信で確認してください。
 </pre>
+
+<p>
+  <a onclick="copyToClipboard()" style="text-decoration: underline; cursor: pointer;">» 指示書をコピーする</a>
+</p>
+
+<script>
+function copyToClipboard() {
+  const copyText = document.getElementById("prompt-secure-setup").innerText;
+  navigator.clipboard.writeText(copyText).then(() => {
+    alert("指示書をコピーしました");
+  });
+}
+</script>
 
 <?php require dirname(__DIR__) . '/footer.php'; ?>
