@@ -114,8 +114,8 @@ NAC 500 mg (Thorne)
   *Feedback from AI: Good Pre-Workout Meal. High carbohydrates for energy and moderate protein for muscle maintenance. The MCT oil provides quick energy. Ensure you hydrate well.
 - Lunch (14:20): Jasmine Rice (Large portion, ~300g), 3 Fried Eggs, Broccoli (1/2 head), Carrot (1/2), EVOO (1 tbsp) [Total: ~750kcal, P: 25g, F: 30g, C: 100g]
   *Feedback from AI: Solid Bulking Lunch. Excellent carb source from the large rice portion. 3 eggs provide good protein and healthy fats, further boosted by EVOO. Adding broccoli and carrots was a great move for fiber and micronutrients.
-- Pre-Dinner Snack: 3 Seeds Protein (2 scoops), Coconut Flower Sugar (2 tsp) [Total: ~180kcal, P: 24g, F: 4g, C: 12g]
-  *Feedback from AI: Strategic Protein Intake. Getting protein before dinner helps maintain amino acid levels in the blood. Coconut sugar provides a small carb boost for energy replenishment.
+- Pre-Dinner Snack: 3 Seeds Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
+  *Feedback from AI: Strategic Protein & Fat Intake. Adding EVOO boosts caloric density (+120kcal) without volume, ideal for bulking. The fat also slows protein absorption, sustaining amino acid levels until dinner.
 
 ■ Treatment
 • Meditation (first thing in the morning)
