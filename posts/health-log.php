@@ -106,6 +106,28 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:50): Rice (Large portion, ~250g), Honey (20g), Coconut Sugar (1 tsp), MCT Oil (1 tsp), Almond Milk (100ml), Great Lakes Collagen (1 scoop), 3 SEED Protein (2 scoops) [Total: ~650kcal, P: 35g, F: 12g, C: 100g]
   *Feedback from AI: Good Pre-Workout Meal. High carbohydrates for energy and moderate protein for muscle maintenance. The MCT oil provides quick energy. Ensure you hydrate well.
+
+■ Note
+バルクアップの食事ルーティン例：
+✓09:00 朝食
+・炭水化物：ライスベリー or ジャスミンライス 250g
+・タンパク質：卵３個 + 納豆１パック
+・脂質：アボカド １/２個
+・スープ：味噌汁 or 骨だしスープ
+✓ 14:00 昼食
+・炭水化物：ジャスミンライス 300g
+・タンパク質：ガパオ or 魚 150g
+・野菜：茹でたブロッコリーとニンジン
+✓ 16:00 トレーニング前
+・バナナ or 餅
+✓ 17:30 トレーニング後
+・植物性プロテイン + クレアチン
+・おにぎり or バナナ
+✓ 20:00 夕食
+・炭水化物：ジャスミンライス200g or サツマイモ
+・タンパク質：白身魚 or 豚ヒレ肉 150g
+・スープ：豆腐と卵のクリアスープ
+・デザート：少量のフルーツ
 </pre>
 
   <h2># 2026-02-10</h2>
