@@ -120,6 +120,8 @@ NAC 500 mg (Thorne)
   *Feedback from AI: Monster Bulking Meal. 400g of rice provides massive glycogen replenishment (180g carbs). Adding a whole avocado significantly boosts healthy fats and calories (+260kcal), bringing the single meal total to nearly 1500kcal. Perfect execution for weight gain.
 
 ■ Substances
+- Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+- NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
 - 整腸剤 (After Dinner)
 
 ■ Treatment
