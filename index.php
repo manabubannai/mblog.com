@@ -3,6 +3,11 @@
 
 <ul class="toppage">
 
+<li>
+<time datetime="2026-02-11">11 Feb, 2026</time>
+<a href="how-to-set-up-openclaw">安全にOpenClawを動かす方法（自分用のメモ）</a>
+</li>
+
 <!-- 
 <li>
 <time datetime="2026-1-16">16 Jan, 2026</time>
