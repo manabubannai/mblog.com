@@ -6,7 +6,7 @@
 
 <p>OpenClawはゲームチェンジャーだと思う。<br>こういった技術はベースから理解することが大切。</p>
 
-<h2>安全にOpenClawを動かす方法</h2>
+<h2>■ 安全にOpenClawを動かす方法</h2>
 <ul class="long_list">
   <li>手順①：VPSを作成（Hetznerだと月額2.5ドル／作成時にSSH鍵を追加）</li>
   <li>手順②：ローカルPCとVPSの両方に「Tailscale」をインストールする</li>
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2>HealthBotへの指示書</h2>
+<h2>■ HealthBotへの指示書</h2>
 <pre>
 あなたの名前は「HealthBot」です。
 私は「マナブ」です。現在はバンコク/チェンマイを拠点にしている元インフルエンサーで、現在は休息しつつ、バイオハッキングや健康最適化（Health Optimization）に取り組んでいます。
@@ -44,7 +44,7 @@
 
 <p>実際に構築したい方は、下記がAI向けの指示書です。</p>
 
-<h2>AIエージェント向け指示書：OpenClaw 安全構築ガイド</h2>
+<h2>■ AIエージェント向け指示書：OpenClaw 安全構築ガイド</h2>
 <p style="margin-bottom: 20px;">
   <a onclick="copyToClipboard()" style="text-decoration: underline; cursor: pointer;">» 指示書をコピーする</a>
 </p>
