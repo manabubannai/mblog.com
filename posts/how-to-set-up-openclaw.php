@@ -96,8 +96,9 @@ Hetzner Cloudにて、月額$2.50相当のプラン（例: CX22 / ARM64など適
 
 <script>
 function copyToClipboard() {
-  const copyText = document.getElementById("prompt-secure-setup").innerText;
-  navigator.clipboard.writeText(copyText).then(() => {
+  const title = "AIエージェント向け指示書：OpenClaw 安全構築ガイド\n";
+  const content = document.getElementById("prompt-secure-setup").innerText;
+  navigator.clipboard.writeText(title + content).then(() => {
     alert("指示書をコピーしました");
   });
 }
