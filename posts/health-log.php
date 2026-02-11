@@ -112,6 +112,8 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:50): Rice (Large portion, ~250g), Honey (20g), Coconut Sugar (1 tsp), MCT Oil (1 tsp), Almond Milk (100ml), Great Lakes Collagen (1 scoop), 3 SEED Protein (2 scoops) [Total: ~650kcal, P: 35g, F: 12g, C: 100g]
   *Feedback from AI: Good Pre-Workout Meal. High carbohydrates for energy and moderate protein for muscle maintenance. The MCT oil provides quick energy. Ensure you hydrate well.
+- Lunch (14:20): Jasmine Rice (Large portion, ~300g), 3 Fried Eggs, Broccoli (1/2 head), Carrot (1/2), EVOO (1 tbsp) [Total: ~750kcal, P: 25g, F: 30g, C: 100g]
+  *Feedback from AI: Solid Bulking Lunch. Excellent carb source from the large rice portion. 3 eggs provide good protein and healthy fats, further boosted by EVOO. Adding broccoli and carrots was a great move for fiber and micronutrients.
 
 ■ Treatment
 • Meditation (first thing in the morning)
