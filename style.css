@@ -131,8 +131,8 @@ blockquote p:before {
   font-weight: 700;
   margin-top: 40px;
   margin-bottom: 20px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #eee;
+  padding-bottom: 0px;
+  /* border-bottom: 1px solid #eee; */
   color: #333;
 }
 
