@@ -159,9 +159,6 @@ NAC 500 mg (Thorne)
 </pre>
 
   <h2># 2026-02-10</h2>
-  
-  <iframe src="/status-card.html" style="width: 100%; height: 450px; border: none; overflow: hidden;" scrolling="no"></iframe>
-
   <pre>
 Sleep： 23:30 - 7:30
 Body： 10/10
