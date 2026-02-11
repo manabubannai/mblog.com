@@ -119,6 +119,9 @@ NAC 500 mg (Thorne)
 - Dinner (18:53): Hayashi Rice (Beef stew), Rice (Mega portion, 400g), Onsen Egg, Avocado (1 whole) [Total: ~1462kcal, P: 40g, F: 61g, C: 180g]
   *Feedback from AI: Monster Bulking Meal. 400g of rice provides massive glycogen replenishment (180g carbs). Adding a whole avocado significantly boosts healthy fats and calories (+260kcal), bringing the single meal total to nearly 1500kcal. Perfect execution for weight gain.
 
+■ Substances
+- 整腸剤 (After Dinner)
+
 ■ Treatment
 • Meditation (first thing in the morning)
 
