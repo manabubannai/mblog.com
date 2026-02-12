@@ -116,9 +116,9 @@ NAC 500 mg (Thorne)
 
 ■ Food
 - Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~750kcal, P: 46g, F: 30g, C: 74g]
-  *Feedback from AI: Excellent Macronutrient Balance. Swapping one egg for tofu (100g) maintains high protein (~46g) while adding plant-based isoflavones. The mix of animal (egg/collagen) and plant (tofu/seed) protein sources provides a diverse amino acid profile.
+  *Feedback from AI: [Protein Quality: Excellent] 動物性（卵/コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を網羅。豆腐のイソフラボンは抗酸化作用に加え、骨密度維持にも寄与。EVOOのポリフェノール（オレオカンタール）は抗炎症作用がイブプロフェンに匹敵する研究あり。ただし白米+ココナッツシュガーで血糖スパイクが起きやすい → オーツや野菜で食物繊維を追加すると改善。
 - Lunch (16:43): Coconut Yogurt (100g), 2 Bananas, Honey (24g), 3 Seed Protein (1 scoop, 9g protein), Oats (50g), Grilled Salmon (~150g), Steamed Vegetables (Broccoli ~100g, Bell Peppers ~80g, Onion ~50g) [Total: ~1097kcal, P: 58g, F: 36g, C: 134g]
-  *Feedback from AI: Strong Bulking Meal. Excellent protein from salmon (~34g) plus plant protein. Great micronutrient diversity from the colorful steamed veggies. High carbs from oats + bananas + honey fuel recovery well. Consider adding a fat source (EVOO/avocado) to boost caloric density further.
+  *Feedback from AI: [Omega-3 & Antioxidants] サーモン150gでEPA/DHA約1.5g確保 — 抗炎症・筋肉回復に有効。ココナッツヨーグルトのMCTは即座にエネルギー変換される。パプリカ（赤+黄）でビタミンC約120mg確保（1日推奨量超）→ コラーゲン合成を促進。ブロッコリーのスルフォラファン+玉ねぎのケルセチンで抗酸化の相乗効果。オーツのβグルカンが食物繊維を補完し、血糖上昇を緩やかにする。
 
 ■ Note
 新しいボランティア活動の構想（「贈与」の実践）：
@@ -147,13 +147,22 @@ NAC 500 mg (Thorne)
 
 ■ Food
 - Breakfast (09:50): Rice (Large portion, ~250g), Honey (20g), Coconut Sugar (1 tsp), MCT Oil (1 tsp), Almond Milk (100ml), Great Lakes Collagen (1 scoop), 3 SEED Protein (2 scoops) [Total: ~650kcal, P: 35g, F: 12g, C: 100g]
-  *Feedback from AI: Good Pre-Workout Meal. High carbohydrates for energy and moderate protein for muscle maintenance. The MCT oil provides quick energy. Ensure you hydrate well.
+  *Feedback from AI: [Glycemic Load: High] 白米250g+蜂蜜+ココナッツシュガーで血糖値が急上昇しやすい組み合わせ。MCT Oilの中鎖脂肪酸が吸収速度を若干緩和するが、食物繊維がほぼゼロのため効果は限定的。コラーゲンはグリシン・プロリン供給源として関節/腱の回復に有効だが、筋合成に必要なロイシン含有量は低い。→ 野菜 or ナッツで食物繊維を追加すると血糖曲線が改善される。
 - Lunch (14:20): Jasmine Rice (Large portion, ~300g), 3 Fried Eggs, Broccoli (1/2 head), Carrot (1/2), EVOO (1 tbsp) [Total: ~750kcal, P: 25g, F: 30g, C: 100g]
-  *Feedback from AI: Solid Bulking Lunch. Excellent carb source from the large rice portion. 3 eggs provide good protein and healthy fats, further boosted by EVOO. Adding broccoli and carrots was a great move for fiber and micronutrients.
+  *Feedback from AI: [Micronutrient Highlight] ブロッコリーのスルフォラファンはNrf2経路を活性化し抗酸化防御を強化。ニンジンのβカロテンはEVOOの脂質と同時摂取で吸収率が最大6.5倍に向上（脂溶性ビタミンの相乗効果）。卵3個でコリン約450mg確保（1日推奨量の80%超）— 認知機能と肝機能に重要。ただしビタミンC源が不足。柑橘類やパプリカの追加で鉄の吸収率も改善される。
 - Pre-Dinner Snack: 3 Seeds Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
-  *Feedback from AI: Strategic Protein & Fat Intake. Adding EVOO boosts caloric density (+120kcal) without volume, ideal for bulking. The fat also slows protein absorption, sustaining amino acid levels until dinner.
+  *Feedback from AI: [Protein Timing] 夕食の約3時間前の摂取で、血中アミノ酸を持続的に維持。EVOOのオレイン酸（一価不飽和脂肪酸）はLDLを低下させつつHDLを維持。ただし1日のオメガ3/6比を考慮すると、ここでEVOO（オメガ6寄り）よりフィッシュオイルや亜麻仁油の方がバランスが良い。
 - Dinner (18:53): Hayashi Rice (Beef stew), Rice (Mega portion, 400g), Onsen Egg, Avocado (1 whole) [Total: ~1462kcal, P: 40g, F: 61g, C: 180g]
-  *Feedback from AI: Monster Bulking Meal. 400g of rice provides massive glycogen replenishment (180g carbs). Adding a whole avocado significantly boosts healthy fats and calories (+260kcal), bringing the single meal total to nearly 1500kcal. Perfect execution for weight gain.
+  *Feedback from AI: [Meal Timing Risk] 18:53の大量摂取（1462kcal）は消化負荷が高く、睡眠の質に影響する可能性あり。牛肉のヘム鉄は非ヘム鉄より吸収率が5-10倍高い。アボカドのカリウム（約700mg）はナトリウム排出を促進し血圧管理に有効。一方、白米400gの精製炭水化物がインスリンを大量分泌→脂肪蓄積にも寄りやすい。玄米 or ライスベリーに一部置換すると食物繊維+マグネシウムが改善される。
+
+■ Daily Summary (by AI)
+  ✓ 総カロリー: ~3,162kcal（バルクアップ目標に適合）
+  ✓ タンパク質: 124g（体重1kgあたり約1.7g — 筋合成の閾値クリア）
+  ⚠ 食物繊維: 推定12-15g（目標25-30g → 大幅に不足）
+  ⚠ ビタミンC: 推定40mg（目標100mg → 不足。コラーゲン合成にも必要）
+  ⚠ オメガ3: サプリ以外の食事からの摂取がほぼゼロ
+  ✓ コリン: 卵3個で十分量確保
+  ✓ 脂溶性ビタミン吸収: EVOO/アボカドとの同時摂取で最適化されている
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
