@@ -130,40 +130,6 @@ NAC 500 mg (Thorne)
 → アイデアがまとまり次第、メルマガで告知予定。
 ※参考書籍：<a href="https://ii.inc/web/the-last-economy" target="_blank">The Last Economy: A Guide to the Age of Intelligent Economics</a>
 
-〜〜
-
-■AIにメンタル管理を外注し、毎日を幸せに生きる方法
-
-✓ 背景：
-多くの人がAIにメンタル相談している。
-しかし、「点（背景の文脈なし）」で相談するので、AIの精度が悪い。
-言うならば「今すぐに稼げる情報」を、AIに聞いているのと同じ。
-
-✓ どうしたらいいか？
-・手順①：ログを取る（当サイトを参考）
-・手順②：食事を管理 + 評価する
-・手順③：徐々に、メンタル改善に繋げる
-
-✓ 現状はPFCバランスからAIフィードバックをしているけど、
-栄養学の観点からのフィードバックに切り替えたら、どんな感じになる？
-
-〜〜
-
-PFC型（従来）：
-  カロリー・マクロ量が中心。シンプルで一目で把握できるが「質」が見えない。
-
-栄養学型（新）：
-  微量栄養素・吸収率・代謝経路に着目。改善アクションが具体的だが文章が長くなる。
-
-例）昨日のLunchの場合
-  PFC型: "Solid Bulking Lunch. Excellent carb source..."
-  栄養学型: "[Micronutrient Highlight] ブロッコリーのスルフォラファンは
-  Nrf2経路を活性化し抗酸化防御を強化。ニンジンのβカロテンはEVOOの脂質と
-  同時摂取で吸収率が最大6.5倍に向上（脂溶性ビタミンの相乗効果）..."
-
-→ 栄養学型に切り替え。各食事に[タグ]付きで栄養学的フィードバック。
-→ 1日の終わりにDaily Summaryで総合評価。
-
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
 - NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
