@@ -105,6 +105,7 @@ NAC 500 mg (Thorne)
   <pre>
 ■ Today's Tasks
 - [ ] OpenClawのBotを更に増やす（設定はClaude Codeに任せてみる）
+- [ ] Claudeでチーム制作をやってみる（職業割振り、ソフトウェアハウス化させる）
 
 ■ Food
 - Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~750kcal, P: 46g, F: 30g, C: 74g]
