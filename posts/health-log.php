@@ -117,6 +117,7 @@ NAC 500 mg (Thorne)
 • 「つながり」の贈与: 直感に基づき、見返りを求めず人と人をつなぐ。
 • 「メンタリング」の贈与: 経験や失敗談をオープンに語り、次世代に還元する。
 → アイデアがまとまり次第、メルマガで告知予定。
+※参考書籍：<a href="https://www.amazon.com/Last-Economy-Guide-Intelligent-Economics/dp/103693411X" target="_blank">The Last Economy: A Guide to the Age of Intelligent Economics</a>
 </pre>
 
   <h2># 2026-02-11</h2>
