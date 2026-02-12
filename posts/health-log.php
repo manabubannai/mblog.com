@@ -103,6 +103,11 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-12</h2>
   <pre>
+- Sleep: 02:00 - 08:00
+- Body: 10/10
+- Mind: 9/10
+- Spirit: 6/10
+
 ■ Today's Tasks
 - [x] OpenClawのBotを更に増やす（設定はClaude Codeに任せてみる）
 - [ ] OpenClawでFamily Botを作る（家族の栄養管理、食材管理AI）
@@ -122,6 +127,14 @@ NAC 500 mg (Thorne)
 • 「メンタリング」の贈与: 経験や失敗談をオープンに語り、次世代に還元する。
 → アイデアがまとまり次第、メルマガで告知予定。
 ※参考書籍：<a href="https://ii.inc/web/the-last-economy" target="_blank">The Last Economy: A Guide to the Age of Intelligent Economics</a>
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) 2cupcels with breakfast
+- NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
+
+■ Treatment
+• Meditation 30min (first thing in the morning)
+• Stretch 20min
 </pre>
 
   <h2># 2026-02-11</h2>
@@ -149,6 +162,7 @@ NAC 500 mg (Thorne)
 
 ■ Treatment
 • Meditation (first thing in the morning)
+• Stretch 20min
 
 ■ Note
 バルクアップの食事ルーティン例：
