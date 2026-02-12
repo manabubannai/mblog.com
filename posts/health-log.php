@@ -104,7 +104,9 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-12</h2>
   <pre>
 ■ Today's Tasks
-- [ ] OpenClawのBotを更に増やす（設定はClaude Codeに任せてみる）
+- [x] OpenClawのBotを更に増やす（設定はClaude Codeに任せてみる）
+- [ ] OpenClawでFamily Botを作る（家族の栄養管理、食材管理AI）
+- [ ] OpenClawでDev Botを作る（適当に遊びまくる用）
 - [ ] Claudeでチーム制作をやってみる（職業割振り、ソフトウェアハウス化させる）
 
 ■ Food
