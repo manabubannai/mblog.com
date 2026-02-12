@@ -119,6 +119,8 @@ NAC 500 mg (Thorne)
   *Feedback from AI: [Protein Quality: Excellent] 動物性（卵/コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を網羅。豆腐のイソフラボンは抗酸化作用に加え、骨密度維持にも寄与。EVOOのポリフェノール（オレオカンタール）は抗炎症作用がイブプロフェンに匹敵する研究あり。ただし白米+ココナッツシュガーで血糖スパイクが起きやすい → オーツや野菜で食物繊維を追加すると改善。
 - Lunch (16:43): Coconut Yogurt (100g), 2 Bananas, Honey (24g), 3 Seed Protein (1 scoop, 9g protein), Oats (50g), Grilled Salmon (~150g), Steamed Vegetables (Broccoli ~100g, Bell Peppers ~80g, Onion ~50g) [Total: ~1097kcal, P: 58g, F: 36g, C: 134g]
   *Feedback from AI: [Omega-3 & Antioxidants] サーモン150gでEPA/DHA約1.5g確保 — 抗炎症・筋肉回復に有効。ココナッツヨーグルトのMCTは即座にエネルギー変換される。パプリカ（赤+黄）でビタミンC約120mg確保（1日推奨量超）→ コラーゲン合成を促進。ブロッコリーのスルフォラファン+玉ねぎのケルセチンで抗酸化の相乗効果。オーツのβグルカンが食物繊維を補完し、血糖上昇を緩やかにする。
+- Dinner (19:59): Oyakodon — Chicken (~100g), 2 Eggs, Rice (~250g), Nori, Green Onion + Miso Soup (Tofu, Wakame) + Extra Tofu (100g) + 1 Large Avocado [Total: ~1090kcal, P: 50g, F: 53g, C: 108g]
+  *Feedback from AI: [Amino Acid Synergy] 鶏肉+卵+豆腐の3種タンパク源で、ロイシン（筋合成トリガー）を十分確保。味噌汁のわかめはフコイダン（抗炎症）とヨウ素（甲状腺機能）を供給。アボカドのカリウム（~700mg）+食物繊維（~10g）が本日の不足分を大幅に補完。味噌の発酵菌が腸内フローラを支援。夕食20時前は消化時間も確保でき、睡眠への影響は最小限。
 
 ■ Note
 新しいボランティア活動の構想（「贈与」の実践）：
