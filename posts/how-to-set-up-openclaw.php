@@ -11,15 +11,15 @@
 <ul class="long_list">
   <li>手順①：VPSを作成（Hetznerだと月額2.5ドル／作成時にSSH鍵を追加）</li>
   <li>手順②：ローカルPCとVPSの両方に「Tailscale」をインストールする</li>
+  <li>～～～～～ ここで「Claude_Code」をインストールすると良い ～～～～～</li>
   <li>手順③：VPSのFirewall設定 → SSHポート[22] をTailscaleのIPのみ許可する</li>
   <li>手順④：SSHのポート番号をデフォルト[22] から変更 *セキュリティ向上する</li>
   <li>手順⑤：SSHのパスワードログインが無効であるか確認する (鍵認証のみ)</li>
   <li>手順⑥：自動セキュリティアップデートと自動再起動を有効化する</li>
   <li>手順⑦：HTTPS用にCloudflareのファイアウォールサブネットを設定</li>
-  <li>手順⑦：Cloudflareサブネット以外からのHTTPSトラフィックを禁止する</li>
-  <li>手順⑧：SSHでVPSサーバーに接続して、OpenClawをインストールする</li>
-  <li>手順⑨：Telegram Botを新規作成する（個人アカウントで直接接続しない）</li>
-  <li>手順⑩：作成したTelegram Botを、OpenClawに連携して稼働させる</li>
+  <li>手順⑧：Cloudflareサブネット以外からのHTTPSトラフィックを禁止する</li>
+  <li>手順⑨：SSHでVPSサーバーに接続して、OpenClawをインストールする</li>
+  <li>手順⑩：Telegram Botを新規作成し、OpenClawに連携して稼働させる</li>
 </ul>
 
 <p>これでOK。なお、下記は僕が使っているBotへの指示書です。</p>
@@ -134,11 +134,27 @@ Hetzner Cloudにて、月額$2.50相当のプラン（例: CX22 / ARM64など適
   sudo ufw delete allow 80/tcp
   sudo ufw delete allow 443/tcp
 
+  # CloudflareのIPv4レンジのみ許可
+  for ip in 173.245.48.0/20 103.21.244.0/22 103.22.200.0/22 103.31.4.0/22 \
+    141.101.64.0/18 108.162.192.0/18 190.93.240.0/20 188.114.96.0/20 \
+    197.234.240.0/22 198.41.128.0/17 162.158.0.0/15 104.16.0.0/13 \
+    104.24.0.0/14 172.64.0.0/13 131.0.72.0/22; do
+    sudo ufw allow from $ip to any port 80,443 proto tcp
+  done
+
+  # CloudflareのIPv6レンジのみ許可
+  for ip in 2400:cb00::/32 2606:4700::/32 2803:f800::/32 2405:b500::/32 \
+    2405:8100::/32 2a06:98c0::/29 2c0f:f248::/32; do
+    sudo ufw allow from $ip to any port 80,443 proto tcp
+  done
+
+・オプション: Hetzner Cloud Firewallの80/443ルールも同様にCloudflare IPに制限すると二重防御になります。
+
 □フェーズ５：OpenClaw &amp; Telegramをデプロイ
 
 ✓手順①：OpenClawのインストール
 ・Tailscale経由のSSHでVPSに接続してください。
-・公式ドキュメントに基づき、OpenClawをインストールしてください（Dockerは使わない）
+・公式ドキュメントに基づき、OpenClawをインストールしてください（Dockerは使わない）。
 
 ✓手順②：Telegram Botの作成と分離
 ・BotFatherを使用し、OpenClaw専用の新規Botを作成してください。
