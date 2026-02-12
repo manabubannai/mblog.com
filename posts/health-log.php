@@ -110,6 +110,8 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~750kcal, P: 46g, F: 30g, C: 74g]
   *Feedback from AI: Excellent Macronutrient Balance. Swapping one egg for tofu (100g) maintains high protein (~46g) while adding plant-based isoflavones. The mix of animal (egg/collagen) and plant (tofu/seed) protein sources provides a diverse amino acid profile.
+- Lunch (16:43): Coconut Yogurt (100g), 2 Bananas, Honey (24g), 3 Seed Protein (1 scoop, 9g protein), Oats (50g), Grilled Salmon (~150g), Steamed Vegetables (Broccoli ~100g, Bell Peppers ~80g, Onion ~50g) [Total: ~1097kcal, P: 58g, F: 36g, C: 134g]
+  *Feedback from AI: Strong Bulking Meal. Excellent protein from salmon (~34g) plus plant protein. Great micronutrient diversity from the colorful steamed veggies. High carbs from oats + bananas + honey fuel recovery well. Consider adding a fat source (EVOO/avocado) to boost caloric density further.
 
 ■ Note
 新しいボランティア活動の構想（「贈与」の実践）：
