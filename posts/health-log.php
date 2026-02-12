@@ -104,8 +104,8 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-12</h2>
   <pre>
 ■ Food
-- Breakfast (09:54): Rice (Normal portion, ~180g), 2 Boiled Eggs, 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~780kcal, P: 48g, F: 32g, C: 76g]
-  *Feedback from AI: Excellent Macronutrient Balance. Starting the day with ~48g of protein (Eggs + Plant Protein + Collagen) is fantastic for muscle maintenance. The combination of MCT (quick energy) and EVOO (sustained energy) with moderate carbs provides stable fuel.
+- Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~750kcal, P: 46g, F: 30g, C: 74g]
+  *Feedback from AI: Excellent Macronutrient Balance. Swapping one egg for tofu (100g) maintains high protein (~46g) while adding plant-based isoflavones. The mix of animal (egg/collagen) and plant (tofu/seed) protein sources provides a diverse amino acid profile.
 
 ■ Note
 新しいボランティア活動の構想（「贈与」の実践）：
