@@ -54,43 +54,97 @@
 ・役割: あなたは熟練したセキュリティエンジニア兼DevOpsスペシャリストです。
 ・目的: Hetzner VPS上に、セキュリティを最大限に高めた状態で「OpenClaw」を構築し、Telegram Botと連携させて稼働させること。
 ・制約事項: コスト効率を意識し（月額$2.50プラン）、外部からの攻撃対象領域（Attack Surface）を最小化すること。
-・注意点：Pieter Levels氏の開発方針や美学(https://x.com/levelsio/status/2019056230866595874 / https://x.com/levelsio/status/2019064437248872647）に沿うこと。
+・注意点: Pieter Levels氏の開発方針や美学（https://x.com/levelsio/status/2019056230866595874 / https://x.com/levelsio/status/2019064437248872647）に沿うこと。
 
-□フェーズ１：VSPの構築
+□フェーズ１：VPSの構築
 Hetzner Cloudにて、月額$2.50相当のプラン（例: CX22 / ARM64など適宜選択）でインスタンスを作成してください。
-*必須: 作成プロセスにおいて、事前に用意したSSH公開鍵を登録し、パスワード認証を初期段階から排除してください。
+＊必須: 作成プロセスにおいて、事前に用意したSSH公開鍵を登録し、パスワード認証を初期段階から排除してください。
 
-□フェーズ２：セキュリティ確立
-✓手順①：Tailscaleの導入
-ローカルPC（操作元）と作成したVPSの両方にTailscaleをインストールし、同一のTailnetに参加させてください。
+□フェーズ２：Tailscaleの導入（Firewall適用前に必ず実施）
+＊重要: この手順はフェーズ３のFirewall適用前に完了すること。順序を間違えるとSSHでログインできなくなります（その場合はHetzner VNCコンソールで復旧可能）。
 
-✓手順②：Hetzner Cloud Firewallの設定:
-・Hetznerの管理画面（またはCLI）でファイアウォールルールを設定してください。
-・ルール: インバウンドトラフィックにおいて、SSHポート（22番、および後述の変更後のポート）へのアクセス元を、Tailscale経由のIPアドレスまたはTailscaleインターフェースのみに厳格に制限してください。パブリックIPからのSSH接続はすべて拒否してください。
+✓手順①：ローカルPC（操作元）と作成したVPSの両方にTailscaleをインストールし、同一のTailnetに参加させてください。
+  curl -fsSL https://tailscale.com/install.sh | sh
+  sudo tailscale up
 
-□フェーズ３：システム堅牢化
-✓手順①：SSH設定の強化:
+✓手順②：Tailscale経由でSSH接続できることを確認してください。
+  # VPS側でTailscale IPを確認
+  tailscale ip -4
+  # → 100.x.y.z が表示される
+
+  # ローカルPCからTailscale経由で接続テスト
+  ssh root@100.x.y.z
+この接続が成功してから、次のフェーズに進んでください。
+
+□フェーズ３：Hetzner Cloud Firewallの設定
+
+✓手順①：Hetznerの管理画面（またはhcloud CLI）でFirewallを作成し、以下のInbound Rulesのみを設定してください。
+
+  Protocol  Port   Source             用途
+  ────────  ─────  ─────────────────  ──────────────────────────────
+  UDP       41641  0.0.0.0/0, ::/0   Tailscale WireGuard通信
+  TCP       80     0.0.0.0/0, ::/0   HTTP（後でCloudflare IPに制限）
+  TCP       443    0.0.0.0/0, ::/0   HTTPS（後でCloudflare IPに制限）
+  ICMP      —      0.0.0.0/0, ::/0   Ping（任意）
+
+＊重要: SSH（TCP 22）のルールは追加しないでください。ルールがない＝全拒否です。Hetzner Cloud Firewallはホワイトリスト方式のため、明示的に許可しないポートは全てブロックされます。Tailscale VPNはUDP 41641のトンネル内でSSH通信を行うため、SSHポートを開放する必要はありません。
+
+✓手順②：作成したFirewallをVPSに適用してください。
+
+✓手順③：適用後、以下を確認してください。
+  # Tailscale経由 → 接続成功すること
+  ssh root@100.x.y.z
+
+  # パブリックIP経由 → タイムアウトすること
+  ssh root@&lt;公開IP&gt;
+
+□フェーズ４：システム堅牢化
+
+✓手順①：SSH設定の強化
 ・サーバー内の /etc/ssh/sshd_config を編集してください。
-・ポート変更: デフォルトの22番から、推測されにくい任意のポート番号に変更してください。
-・認証制限: PasswordAuthentication no が設定されていることを再確認し、鍵認証のみを許可してください。
+・ポート変更: デフォルトの22番から、推測されにくい任意のポート番号（例: 48922）に変更してください。
+・認証制限: PasswordAuthentication no が設定されていることを確認し、鍵認証のみを許可してください。
+  sudo grep PasswordAuthentication /etc/ssh/sshd_config
+  # → "PasswordAuthentication no" であることを確認
+・SSHを再起動し、新しいポートで接続できることを確認してください。
+  sudo systemctl restart sshd
+  ssh -p 48922 root@100.x.y.z
 
-✓手順②：自動更新と再起動:
-・unattended-upgrades パッケージをインストール・有効化し、セキュリティパッチが自動適用されるようにしてください。
-・必要に応じて、カーネル更新時の自動再起動もスケジュールしてください。
+✓手順②：VPS内ファイアウォール（UFW）の設定
+  sudo apt install -y ufw
+  sudo ufw default deny incoming
+  sudo ufw default allow outgoing
+  # Tailscaleインターフェース経由のSSHのみ許可（変更後のポート番号を指定）
+  sudo ufw allow in on tailscale0 to any port 48922 proto tcp
+  # HTTP/HTTPS（次の手順でCloudflare IPに制限する）
+  sudo ufw allow 80/tcp
+  sudo ufw allow 443/tcp
+  sudo ufw enable
 
-✓手順③：Webトラフィック制御 (HTTPS):
-・Cloudflareを利用する場合、VPSのファイアウォール（UFW等）で、HTTP/HTTPSポート（80/443）への接続元をCloudflareのIPレンジのみに許可するホワイトリスト設定を行ってください。
+✓手順③：自動更新と再起動
+  sudo apt install -y unattended-upgrades
+  sudo dpkg-reconfigure -plow unattended-upgrades
+・/etc/apt/apt.conf.d/50unattended-upgrades を編集し、カーネル更新時の自動再起動を有効化してください。
+  Unattended-Upgrade::Automatic-Reboot "true";
+  Unattended-Upgrade::Automatic-Reboot-Time "04:00";
 
-□フェーズ４：OpenClaw & Telegramをデプロイ
-✓手順①：OpenClawのインストール:
+✓手順④：Webトラフィック制御（Cloudflare IPホワイトリスト）
+・UFWの既存HTTP/HTTPSルールを削除し、CloudflareのIPレンジのみを許可してください。
+・CloudflareのIPレンジは https://www.cloudflare.com/ips/ で最新版を確認してください。
+  sudo ufw delete allow 80/tcp
+  sudo ufw delete allow 443/tcp
+
+□フェーズ５：OpenClaw &amp; Telegramをデプロイ
+
+✓手順①：OpenClawのインストール
 ・Tailscale経由のSSHでVPSに接続してください。
 ・公式ドキュメントに基づき、OpenClawをインストールしてください（Dockerは使わない）
 
-✓手順②：Telegram Botの作成と分離:
+✓手順②：Telegram Botの作成と分離
 ・BotFatherを使用し、OpenClaw専用の新規Botを作成してください。
 ・セキュリティ警告: 個人のメインTelegramアカウントを直接サーバー上のスクリプトで操作せず、必ずBot API経由で対話するように設計してください。
 
-✓手順③：連携と稼働:
+✓手順③：連携と稼働
 ・取得したBot TokenをOpenClawの設定ファイルに記述し、サービスを起動してください。
 ・正常に稼働していることをログおよびBotへのメッセージ送信で確認してください。
 </pre>
