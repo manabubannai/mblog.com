@@ -113,6 +113,19 @@ NAC 500 mg (Thorne)
   *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
 - Lunch (12:30): Sushiro — Negitoro (2 plates), Maguro (1 plate), Salmon (2 plates), Salmon w/ Cheese (1 plate), Udon, Chawanmushi, Asari Miso Soup [Total: ~1150kcal, P: 62g, F: 28g, C: 130g]
   *Feedback from AI: [Omega-3 Rich] マグロ+サーモン計6貫でEPA/DHA推定2g以上 — 抗炎症・脳機能に優秀。ネギトロのネギにアリシンが含まれ、ビタミンB1の吸収を促進。茶碗蒸しの卵でコリン確保。アサリは鉄分+ビタミンB12の優秀な供給源（造血に必須）。チーズ乗せでカルシウム+カゼインプロテインも追加。うどんの精製炭水化物が血糖を上げやすいが、味噌汁の食物繊維と脂質（魚の脂）が緩和。
+- Dinner (20:11): Oden (Egg, Beef Tendon, Daikon, Chikuwa), Riceberry (~150g), Miso Soup (Wakame, Tofu), Bamboo Shoot &amp; Eringi Garlic Stir-fry, Tempeh w/ Grated Daikon (~170g), Sweet Potato Salad (Mayo, Raisins, Walnuts, Almonds) [Total: ~1050kcal, P: 45g, F: 32g, C: 140g]
+  *Feedback from AI: [Gut Health &amp; Antioxidants] テンペの発酵菌（リゾプス）が腸内フローラを強化 — 味噌汁の発酵菌との相乗効果。大根おろしの消化酵素（ジアスターゼ）がテンペのタンパク質吸収を促進。ライスベリーは白米比で食物繊維3倍、アントシアニン（抗酸化）が豊富。牛すじのコラーゲン+朝のビタミンC（レモン汁）でコラーゲン合成を促進。くるみのオメガ3が昼のサーモンに加えてさらに抗炎症効果を強化。たけのこの不溶性食物繊維が腸の蠕動運動を促し、便の色の改善に寄与する可能性あり。
+
+■ Daily Summary (by AI)
+  ✓ 総カロリー: ~3,070kcal（バルクアップ目標に適合）
+  ✓ タンパク質: 150g（体重1kgあたり約2.1g — 筋合成に十分）
+  ✓ 食物繊維: 推定28-32g（ライスベリー+オーツ+たけのこ+サツマイモで目標達成）
+  ✓ オメガ3: サーモン+くるみで2g以上確保
+  ✓ 発酵食品: テンペ+味噌汁×2（朝の整腸剤との相乗効果）
+  ✓ ビタミンC: レモン汁で確保
+  ✓ 腸内環境: 発酵食品3種+食物繊維30g前後 → 便の色の正常化に期待
+  ✓ 睡眠: 8.5時間（23:00-7:30）→ 理想的
+  → 昨日に続き栄養バランス優秀。特に食物繊維と発酵食品の多さが際立つ1日。
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) 2capsules with breakfast
