@@ -109,8 +109,8 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~800kcal, P: 35g, F: 23g, C: 108g]
-  *Feedback from AI: [Glycemic Control: Improved] オーツ40gのβグルカン（水溶性食物繊維）が白米+蜂蜜の血糖スパイクを緩和。腸内で短鎖脂肪酸（酪酸）の産生を促し、整腸剤との相乗効果で腸内環境改善に寄与。ただしタンパク質35gはバルクアップ朝食としてはやや控えめ → 卵1-2個追加で改善。便の緑色は胆汁の急速通過の可能性があり、食物繊維の継続的な増量で正常化が期待される。
+- Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~870kcal, P: 43g, F: 27g, C: 110g]
+  *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
 </pre>
 
   <h2># 2026-02-12</h2>
