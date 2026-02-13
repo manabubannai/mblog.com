@@ -111,6 +111,12 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~870kcal, P: 43g, F: 27g, C: 110g]
   *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) 2capsules with breakfast
+- Creatine (Thorne) with breakfast
+- NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
+- 整腸剤 with breakfast
 </pre>
 
   <h2># 2026-02-12</h2>
