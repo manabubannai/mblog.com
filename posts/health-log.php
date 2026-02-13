@@ -101,6 +101,18 @@ Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
 
+  <h2># 2026-02-13</h2>
+  <pre>
+- Sleep: 23:00 - 7:30
+- Body: 10/10
+- Mind: 10/10
+- Spirit: 8/10
+
+■ Food
+- Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~800kcal, P: 35g, F: 23g, C: 108g]
+  *Feedback from AI: [Glycemic Control: Improved] オーツ40gのβグルカン（水溶性食物繊維）が白米+蜂蜜の血糖スパイクを緩和。腸内で短鎖脂肪酸（酪酸）の産生を促し、整腸剤との相乗効果で腸内環境改善に寄与。ただしタンパク質35gはバルクアップ朝食としてはやや控えめ → 卵1-2個追加で改善。便の緑色は胆汁の急速通過の可能性があり、食物繊維の継続的な増量で正常化が期待される。
+</pre>
+
   <h2># 2026-02-12</h2>
   <pre>
 - Sleep: 02:00 - 08:00
