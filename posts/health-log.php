@@ -117,6 +117,7 @@ NAC 500 mg (Thorne)
 - Creatine (Thorne) with breakfast
 - NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
 - 整腸剤 with breakfast
+- Lemon Juice (1 tbsp) in water — サプリと一緒に摂取（クエン酸で非ヘム鉄の吸収率向上）
 </pre>
 
   <h2># 2026-02-12</h2>
