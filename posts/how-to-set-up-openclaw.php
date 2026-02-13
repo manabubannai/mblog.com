@@ -11,7 +11,7 @@
 <ul class="long_list">
   <li>手順①：VPSを作成（Hetznerだと月額2.5ドル／作成時にSSH鍵を追加）</li>
   <li>手順②：ローカルPCとVPSの両方に「Tailscale」をインストールする</li>
-  <li>～～～～～ ここで「Claude_Code」をインストールすると良い ～～～～～</li>
+  <li>～～～～～ ここで「Claude Code」をインストールすると良い ～～～～～</li>
   <li>手順③：VPSのFirewall設定 → SSHポート[22] をTailscaleのIPのみ許可する</li>
   <li>手順④：SSHのポート番号をデフォルト[22] から変更 *セキュリティ向上する</li>
   <li>手順⑤：SSHのパスワードログインが無効であるか確認する (鍵認証のみ)</li>
