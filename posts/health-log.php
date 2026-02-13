@@ -119,6 +119,10 @@ NAC 500 mg (Thorne)
 - 整腸剤 with breakfast
 - Lemon Juice (1 tbsp) in water — サプリと一緒に摂取（クエン酸で非ヘム鉄の吸収率向上）
 
+■ Treatment
+• Meditation (first thing in the morning)
+• Stretch
+
 ■ Note
 過去10年間、ブログを育て、SNSを更新し、YouTubeで発信してきた。
 収益の軸は全てブログ。そしてブログに、自分の愛を全て注いできた。
