@@ -111,6 +111,8 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~870kcal, P: 43g, F: 27g, C: 110g]
   *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
+- Lunch (12:30): Sushiro — Negitoro (2 plates), Maguro (1 plate), Salmon (2 plates), Salmon w/ Cheese (1 plate), Udon, Chawanmushi, Asari Miso Soup [Total: ~1150kcal, P: 62g, F: 28g, C: 130g]
+  *Feedback from AI: [Omega-3 Rich] マグロ+サーモン計6貫でEPA/DHA推定2g以上 — 抗炎症・脳機能に優秀。ネギトロのネギにアリシンが含まれ、ビタミンB1の吸収を促進。茶碗蒸しの卵でコリン確保。アサリは鉄分+ビタミンB12の優秀な供給源（造血に必須）。チーズ乗せでカルシウム+カゼインプロテインも追加。うどんの精製炭水化物が血糖を上げやすいが、味噌汁の食物繊維と脂質（魚の脂）が緩和。
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) 2capsules with breakfast
