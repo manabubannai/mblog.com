@@ -101,6 +101,24 @@ Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
 
+  <h2># 2026-02-14</h2>
+  <pre>
+- Sleep: 23:00 - 8:00
+- Body: 10/10
+- Mind: 9/10
+- Spirit: 8/10
+
+■ Food
+- Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g) [Total: ~500kcal, P: 21g, F: 15g, C: 50g]
+  *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。ただしタンパク質21gはバルクアップ朝食としては控えめ → Seed Protein or 豆腐の追加で改善。EVOOを加えると卵の脂溶性ビタミン（A/D/E）の吸収率が向上する。
+
+■ Treatment
+• Meditation (first thing in the morning)
+
+■ Note
+Dream: ルナ（犬）がリードなしで散歩してたらいなくなり、しかし後から庭に行ってみたら帰ってきてた。深い穴に落ちていたみたい。だけど、怪我せずに帰ってきていた。
+</pre>
+
   <h2># 2026-02-13</h2>
   <pre>
 - Sleep: 23:00 - 7:30
