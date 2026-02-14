@@ -111,8 +111,8 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g), EVOO (1 tbsp), Yogurt (90g), Oats (25g), 3 Seed Protein, Great Lakes Collagen, Almond Milk (100ml), Coconut Sugar (2 tsp) [Total: ~965kcal, P: 49g, F: 35g, C: 91g]
   *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。ただしタンパク質21gはバルクアップ朝食としては控えめ → Seed Protein or 豆腐の追加で改善。EVOOを加えると卵の脂溶性ビタミン（A/D/E）の吸収率が向上する。
-- Lunch: Carbonara Pasta, Mushroom Cream Soup, White Fish Meunière (Herb Butter Sauce) w/ Mashed Potato [Total: ~1350kcal, P: 58g, F: 52g, C: 130g]
-  *Feedback from AI: [Protein Rescued] 白身魚追加でタンパク質が58gに大幅改善 — 魚のタンパク質は消化吸収率95%超で筋合成に効率的。ハーブバターのパセリにビタミンK+鉄分。マッシュポテトのビタミンC+カリウムが朝のクレアチンの細胞内取り込みをサポート。マッシュルームのエルゴチオネイン（細胞保護）+魚のセレンで抗酸化を二重カバー。カルボナーラの飽和脂肪酸は多めだが、魚の不飽和脂肪酸が脂質バランスを改善。ボリュームのある昼食で午後のエネルギーは十分。
+- Lunch: Carbonara Pasta, Mushroom Cream Soup (half), White Fish Meunière (Herb Butter Sauce) w/ Mashed Potato (half) [Total: ~1150kcal, P: 52g, F: 43g, C: 115g]
+  *Feedback from AI: [Protein Rescued] 白身魚追加でタンパク質52gに改善 — 魚のタンパク質は消化吸収率95%超で筋合成に効率的。ハーブバターのパセリにビタミンK+鉄分。マッシュルームのエルゴチオネイン（細胞保護）+魚のセレンで抗酸化を二重カバー。カルボナーラの飽和脂肪酸は多めだが、魚の不飽和脂肪酸が脂質バランスを改善。腹八分目で残したのは消化負担の軽減にも◎。
 
 ■ Substances
 - Creatine (Thorne) with breakfast
