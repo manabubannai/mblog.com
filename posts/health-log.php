@@ -111,6 +111,8 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g), EVOO (1 tbsp), Yogurt (90g), Oats (25g), 3 Seed Protein, Great Lakes Collagen, Almond Milk (100ml), Coconut Sugar (2 tsp) [Total: ~965kcal, P: 49g, F: 35g, C: 91g]
   *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。ただしタンパク質21gはバルクアップ朝食としては控えめ → Seed Protein or 豆腐の追加で改善。EVOOを加えると卵の脂溶性ビタミン（A/D/E）の吸収率が向上する。
+- Lunch: Carbonara Pasta, Mushroom Cream Soup [Total: ~850kcal, P: 28g, F: 35g, C: 95g]
+  *Feedback from AI: [Comfort but Calorie-Dense] カルボナーラは卵黄+チーズ+ベーコンで脂質リッチ — コリン・カルシウム・ビタミンB12は摂れるが飽和脂肪酸が多め。マッシュルームスープはセレン（抗酸化）+エルゴチオネイン（細胞保護）が豊富。全体的にタンパク質28gはバルクアップ昼食として控えめ → 夕食でタンパク質を補強したい。食物繊維が少ないので夕食で野菜・海藻を意識。
 
 ■ Substances
 - Creatine (Thorne) with breakfast
