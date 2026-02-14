@@ -114,6 +114,21 @@ NAC 500 mg (Thorne)
 - Lunch: Carbonara Pasta, Mushroom Cream Soup (half), White Fish Meunière (Herb Butter Sauce) w/ Mashed Potato (half) [Total: ~1150kcal, P: 52g, F: 43g, C: 115g]
   *Feedback from AI: [Protein Rescued] 白身魚追加でタンパク質52gに改善 — 魚のタンパク質は消化吸収率95%超で筋合成に効率的。ハーブバターのパセリにビタミンK+鉄分。マッシュルームのエルゴチオネイン（細胞保護）+魚のセレンで抗酸化を二重カバー。カルボナーラの飽和脂肪酸は多めだが、魚の不飽和脂肪酸が脂質バランスを改善。腹八分目で残したのは消化負担の軽減にも◎。
 
+- Dinner: Gyudon (Beef Bowl w/ Onsen Egg, Green Onion), Miso Soup (Tofu, Green Onion), Beni Shoga [Total: ~780kcal, P: 35g, F: 25g, C: 95g]
+  *Feedback from AI: [Iron + B12 Boost] 牛肉の赤身で吸収率の高いヘム鉄+ビタミンB12を確保（造血に必須）。温泉卵でコリン追加 — 朝の卵3個と合わせて1日推奨量を余裕で達成。味噌汁の発酵菌+豆腐のイソフラボンで腸内環境サポート。紅生姜のジンゲロールが消化促進+抗炎症。ネギのアリシンがビタミンB1の吸収を高め、牛肉のB1を効率的に活用。
+
+■ Daily Summary (by AI)
+  ✓ 総カロリー: ~2,895kcal（バルクアップ目標に適合）
+  ✓ タンパク質: 136g（体重1kgあたり約1.9g — 筋合成に十分）
+  ✓ コリン: 卵4個分で推奨量超え（認知機能+肝機能サポート）
+  ✓ ヘム鉄: 牛肉+魚で吸収率の高い鉄を確保
+  ✓ 発酵食品: 味噌汁で腸内環境ケア
+  ✓ 抗酸化: ライスベリー+マッシュルーム+紅生姜
+  ✓ 睡眠: 9時間（23:00-8:00）→ 理想的
+  ⚠️ 食物繊維: やや少なめ（外食2食で野菜控えめ）→ 明日は意識的に補強
+  ⚠️ オメガ3: 魚のメニエールで摂れたが昨日より控えめ
+  → バレンタイン外食デーとしては十分な栄養バランス。タンパク質136gでバルクアップ継続🎯
+
 ■ Substances
 - Creatine (Thorne) with breakfast
 - NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
