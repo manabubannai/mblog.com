@@ -115,6 +115,9 @@ NAC 500 mg (Thorne)
 ■ Treatment
 • Meditation (first thing in the morning)
 
+■ Social
+• Billiards with friend 🎱
+
 ■ Note
 Dream: ルナ（犬）がリードなしで散歩してたらいなくなり、しかし後から庭に行ってみたら帰ってきてた。深い穴に落ちていたみたい。だけど、怪我せずに帰ってきていた。
 
