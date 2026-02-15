@@ -310,7 +310,7 @@ NAC 500 mg (Thorne)
 - NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
 - Multi-Vitamin Elite AM (Thorne) 2capsules with breakfast
 - Omega-3 (1 capsule) with breakfast
-- Cannabis 0.5g (Indica) before sleep
+- Cannabis 0.5g (Indica) at 21:00
 
 ■ Treatment
 • Meditation (first thing in the morning)
