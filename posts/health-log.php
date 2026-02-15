@@ -109,7 +109,7 @@ NAC 500 mg (Thorne)
 - Spirit: /10
 
 ■ Food
-- Breakfast: 3 Fried Eggs (Black Pepper), White Rice (~150g), Miso Soup (Wakame, Tofu), Cucumber Slices, Red &amp; Yellow Bell Pepper [Total: ~650kcal, P: 28g, F: 18g, C: 80g]
+- Breakfast: 3 Fried Eggs (Black Pepper), White Rice (~150g), Miso Soup (Wakame, Tofu, Bamboo Shoot, Aburaage), Cucumber Slices, Red &amp; Yellow Bell Pepper [Total: ~650kcal, P: 28g, F: 18g, C: 80g]
   *Feedback from AI: [Veggie Boost] 昨日の食物繊維不足を朝から補強 — きゅうりのカリウム+わかめの水溶性食物繊維で腸内環境ケア。パプリカのビタミンCは卵の鉄分吸収を2-3倍に高める好組み合わせ。卵3個でコリン450mg確保。味噌汁の発酵菌+わかめのフコイダンが免疫サポート。白米はライスベリーに替えると食物繊維+アントシアニンがさらにUP。
 </pre>
 
