@@ -8,3 +8,4 @@ vendor/
 .well-known/
 router.php
 village-data/
+meetup-data/
