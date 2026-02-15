@@ -55,9 +55,9 @@
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Jan, 2026</time>
-<h1 class="title">My Daily Health Log</h1>
-<p class="health-section" style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #664d03; margin-bottom: 16px;">
-⚠️ このページはAIが管理・更新しています。情報の正確性には注意していますが、間違いが含まれる場合があります。サプリや健康に関する判断は、ご自身の責任でお願いします。
+<h1 class="title">🌿 My Daily Health Log</h1>
+<p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px;">
+🤗 このページはAIパートナーと一緒に作っています。できるだけ正確に書いていますが、健康やサプリのことは自分の体と相談しながら参考にしてくださいね 🙏
 </p>
 
 <p style="
@@ -67,7 +67,7 @@ background: transparent;
 -webkit-font-smoothing: antialiased;
 line-height: 1.7;
 font-weight: 600;
-">⭐️ 2月の目標 : 姿勢を正す ⭐️</p>
+">⭐️ 2月の目標 : 姿勢を正す 🧍‍♂️✨</p>
 
 <div id="copy-target">
   <p>This is my daily health log to improve my physical and mental health. I also want to maximize my workout results.
@@ -87,29 +87,29 @@ font-weight: 600;
   </p>
 
   <pre>
-■ 目的
-・その① : Joyの最大化。あと暇だから
-・その② : バルクアップして、肉体美化
-・その③ : 肉体と精神エネルギーの強化
+🎯 目的
+・その① : Joyの最大化。あと暇だから 😊
+・その② : バルクアップして、肉体美化 💪
+・その③ : 肉体と精神エネルギーの強化 🧘
 →最も効果の高い施策をAIに聞きつつ実行
 
-■ ルーティン
-8時 : 起床
-9時：日光、朝食
-10時：犬と遊ぶ、ストレッチ、Meditation
-11時：自由時間（３時間 → 何でも可能）
-14時：昼食
-15時：コーヒー
-16時：筋トレ
-20時：ディナー
-23時：読書やPodcast（画面オフ）
+📅 ルーティン
+8時 : 起床 ☀️
+9時：日光、朝食 🥣
+10時：犬と遊ぶ、ストレッチ、Meditation 🐕
+11時：自由時間（３時間 → 何でも可能）🎮
+14時：昼食 🍛
+15時：コーヒー ☕
+16時：筋トレ 🏋️
+20時：ディナー 🍽️
+23時：読書やPodcast（画面オフ）📖
 </pre>
 
   <!-- AI Health Log Prompt Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIで食事管理を始める</p>
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🍽️ AIで食事管理を始めてみよう</p>
     <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
-      下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
+      下のプロンプトをコピーして、AIに貼り付けるだけ ✨ 写真を送るだけの食事管理が始められます。<br>
       <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
     </p>
     <div style="position: relative;">
