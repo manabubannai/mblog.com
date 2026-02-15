@@ -55,7 +55,7 @@
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Jan, 2026</time>
-<h1 class="title">🌿 My Daily Health Log</h1>
+<h1 class="title">My Daily Health Log</h1>
 <p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px; font-style: italic;">
 ※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️📝 by マナブ
 </p>
@@ -67,7 +67,7 @@ background: transparent;
 -webkit-font-smoothing: antialiased;
 line-height: 1.7;
 font-weight: 600;
-">⭐️ 2月の目標 : 姿勢を正す 🧍‍♂️✨</p>
+">⭐️ 2月の目標 : 姿勢を正す ⭐️</p>
 
 <div id="copy-target">
   <p>This is my daily health log to improve my physical and mental health. I also want to maximize my workout results.
@@ -87,13 +87,13 @@ font-weight: 600;
   </p>
 
   <pre>
-🎯 目的
+■ 目的
 ・その① : Joyの最大化。あと暇だから
 ・その② : バルクアップして、肉体美化
 ・その③ : 肉体と精神エネルギーの強化
 →最も効果の高い施策をAIに聞きつつ実行
 
-📅 ルーティン
+■ ルーティン
 8時 : 起床
 9時：日光、朝食
 10時：犬と遊ぶ、ストレッチ、Meditation
@@ -107,9 +107,9 @@ font-weight: 600;
 
   <!-- AI Health Log Prompt Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🍽️ AIで食事管理を始めてみよう</p>
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIで食事管理を始める</p>
     <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
-      下のプロンプトをコピーして、AIに貼り付けるだけ ✨ 写真を送るだけの食事管理が始められます。<br>
+      下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
       <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
     </p>
     <div style="position: relative;">
