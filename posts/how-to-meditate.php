@@ -11,11 +11,12 @@
 <h2>セットアップ</h2>
 <p>僕の瞑想環境はシンプルです：</p>
 <ul>
-  <li>ヨガマット（床に敷く）</li>
-  <li>瞑想用クッション（ザフ）</li>
-  <li>ブランケット（膝や肩に掛ける）</li>
+  <li><a href="https://shop.lesmills.com/us/adidas-training-mat" target="_blank">adidas Training Mat（厚さ1cm）</a> — 床に敷く</li>
+  <li>大きめのバスタオル — マットの上に畳んで座布団がわりにする</li>
+  <li><a href="https://www.nitori-net.jp/ec/product/7806499s/" target="_blank">ニトリの腰当てクッション</a> — 姿勢を正すために腰に当てる</li>
 </ul>
 <p>壁際の静かなスペースに常設しています。毎朝ここに座るだけ。</p>
+<p><strong>💡 ポイント：</strong>腰当てクッションは壁に密着させて置くこと。瞑想中にクッションがずれなくなるので、姿勢が安定します。これがおすすめの使い方。</p>
 
 <h2>なぜ朝一番にやるのか</h2>
 <p>瞑想は朝起きたら最初にやることが大切です。</p>
