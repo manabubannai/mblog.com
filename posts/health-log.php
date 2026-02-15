@@ -251,6 +251,8 @@ NAC 500 mg (Thorne)
 
 - Snack: EVOO (1 tbsp), 3 Seed Protein, Coconut Sugar (2 tsp) [Total: ~200kcal, P: 15g, F: 14g, C: 10g]
   *Feedback from AI: [Quick Fuel] ランチまでの繋ぎとして良い選択。EVOOのオレイン酸が血糖値の急上昇を抑え、プロテインで筋分解を防ぐ。ココナッツシュガーは白砂糖よりGI値が低く（35 vs 65）ミネラルも含む。
+- Lunch (15:29): Healthy Junk Express Protein Bowl — Air Fried Salmon 200g, Tempe 100g, Boiled Eggs x2, Edamame 40g, Broccoli 100g, Carrot 100g, Tomato 100g, Raw Beetroot 30g, Black Olive 20g, Jasmine Rice 100g, Mix Rice 100g, Mediterranean Garlic Dressing [Total: ~1050kcal, P: 78g, F: 32g, C: 95g]
+  *Feedback from AI: [Perfect Bulk Meal] バルクアップの教科書的な1食。サーモン200gでEPA/DHA+タンパク質40g超、テンペの発酵菌が腸内環境を強化。ゆで卵2個でコリン300mg追加（朝と合わせて750mg、推奨量超え）。ブロッコリーのスルフォラファンが抗がん+解毒作用。ビーツの硝酸塩が一酸化窒素を産生し血流改善→筋トレ前の摂取として理想的。枝豆のイソフラボン+オリーブのオレイン酸で抗炎症。ミックスライスで食物繊維も確保。文句なし。
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
