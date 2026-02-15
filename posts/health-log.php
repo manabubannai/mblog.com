@@ -75,40 +75,40 @@ font-weight: 600;
   <!-- Supplement Stack Section -->
   <div style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
     <p style="font-weight: bold; font-size: 16px; margin-top: 0;">💊 僕が飲んでいるサプリ一覧</p>
-    <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。</p>
+    <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。<br>※リンクはiHerbの紹介リンクです。あなたに割引が適用されます。</p>
     <table style="width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.7;">
       <tr style="border-bottom: 1px solid #e0e0e0;">
         <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">1. マルチビタミン</td>
         <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/thorne-multi-vitamin-elite-a-m-p-m-2-bottles-90-capsules-each/71156" target="_blank">Thorne Multi-Vitamin Elite AM &amp; PM</a><br>
+          <a href="https://www.iherb.com/pr/thorne-multi-vitamin-elite-a-m-p-m-2-bottles-90-capsules-each/71156?rcode=AOK5109" target="_blank">Thorne Multi-Vitamin Elite AM &amp; PM</a><br>
           <span style="color: #666;">ベースとなるマルチビタミン。AM（朝用）は細胞エネルギー産生をサポート、PM（夜用）は睡眠の質を向上。Thorneは医療グレードの品質で信頼性が高い。</span>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e0e0e0;">
         <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">2. オメガ3</td>
         <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/nordic-naturals-ultimate-omega-lemon-60-soft-gels-640-mg-per-soft-gel/43654" target="_blank">Nordic Naturals Ultimate Omega（1280mg）</a><br>
+          <a href="https://www.iherb.com/pr/nordic-naturals-ultimate-omega-lemon-60-soft-gels-640-mg-per-soft-gel/43654?rcode=AOK5109" target="_blank">Nordic Naturals Ultimate Omega（1280mg）</a><br>
           <span style="color: #666;">EPA/DHAで抗炎症・脳機能サポート。心臓血管の健康維持にも。Nordic Naturalsはフィッシュオイルブランドで全米No.1。</span>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e0e0e0;">
         <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">3. NMN</td>
         <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/prohealth-longevity-nmn-pro-complete-120-capsules/127502" target="_blank">ProHealth NMN Pro Complete</a>（NMN 1g / Resveratrol 1g / TMG 0.5g）<br>
+          <a href="https://www.iherb.com/pr/prohealth-longevity-nmn-pro-complete-120-capsules/127502?rcode=AOK5109" target="_blank">ProHealth NMN Pro Complete</a>（NMN 1g / Resveratrol 1g / TMG 0.5g）<br>
           <span style="color: #666;">アンチエイジングの最前線。NMNがNAD+を補充し細胞のエネルギー産生を回復。レスベラトロールが長寿遺伝子（サーチュイン）を活性化。TMGがメチル化をサポート。この3つの組み合わせがポイント。</span>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e0e0e0;">
         <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">4. クレアチン</td>
         <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/thorne-creatine-16-oz-450-g/70006" target="_blank">Thorne Creatine（5g/日）</a><br>
+          <a href="https://www.iherb.com/pr/thorne-creatine-16-oz-450-g/70006?rcode=AOK5109" target="_blank">Thorne Creatine（5g/日）</a><br>
           <span style="color: #666;">筋力・筋肉量の増加をサポート。実はバルクアップだけでなく、脳のエネルギー産生にも効果があり認知機能も向上する。最も研究エビデンスが豊富なサプリの1つ。</span>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e0e0e0;">
         <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">5. コラーゲン</td>
         <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/great-lakes-gelatin-co-collagen-hydrolysate-beef-16-oz-454-g/52774" target="_blank">Great Lakes Collagen Peptides（20g/日）</a><br>
+          <a href="https://www.iherb.com/pr/great-lakes-gelatin-co-collagen-hydrolysate-beef-16-oz-454-g/52774?rcode=AOK5109" target="_blank">Great Lakes Collagen Peptides（20g/日）</a><br>
           <span style="color: #666;">肌・髪・爪・関節のサポート。グラスフェド牛由来で品質が高い。ビタミンC（レモン汁）と一緒に摂ることでコラーゲン合成が促進される。</span>
         </td>
       </tr>
