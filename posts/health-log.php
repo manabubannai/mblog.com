@@ -82,55 +82,24 @@ font-weight: 600;
     <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
   </p>
 
-  <!-- Supplement Stack Section -->
-  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">💊 僕が飲んでいるサプリ一覧</p>
-    <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。<br>※アフィリエイトリンクですが、利用者に割引が入るので使っています。使いたくない場合は、商品名で検索してください🙋‍♂️</p>
-    <table style="width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.7;">
-      <tr style="border-bottom: 1px solid #e0e0e0;">
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">1. マルチビタミン</td>
-        <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/thorne-multi-vitamin-elite-a-m-p-m-2-bottles-90-capsules-each/71156?rcode=AOK5109" target="_blank">Thorne Multi-Vitamin Elite AM &amp; PM</a><br>
-          <span style="color: #666;">ベースとなるマルチビタミン。AM（朝用）は細胞エネルギー産生をサポート、PM（夜用）は睡眠の質を向上。Thorneは医療グレードの品質で信頼性が高い。</span>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e0e0e0;">
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">2. オメガ3</td>
-        <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/nordic-naturals-ultimate-omega-lemon-60-soft-gels-640-mg-per-soft-gel/43654?rcode=AOK5109" target="_blank">Nordic Naturals Ultimate Omega（1280mg）</a><br>
-          <span style="color: #666;">EPA/DHAで抗炎症・脳機能サポート。心臓血管の健康維持にも。Nordic Naturalsはフィッシュオイルブランドで全米No.1。</span>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e0e0e0;">
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">3. NMN</td>
-        <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/prohealth-longevity-nmn-pro-complete-120-capsules/127502?rcode=AOK5109" target="_blank">ProHealth NMN Pro Complete</a>（NMN 1g / Resveratrol 1g / TMG 0.5g）<br>
-          <span style="color: #666;">アンチエイジングの最前線。NMNがNAD+を補充し細胞のエネルギー産生を回復。レスベラトロールが長寿遺伝子（サーチュイン）を活性化。TMGがメチル化をサポート。この3つの組み合わせがポイント。</span>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e0e0e0;">
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">4. クレアチン</td>
-        <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/thorne-creatine-16-oz-450-g/70006?rcode=AOK5109" target="_blank">Thorne Creatine（5g/日）</a><br>
-          <span style="color: #666;">筋力・筋肉量の増加をサポート。実はバルクアップだけでなく、脳のエネルギー産生にも効果があり認知機能も向上する。最も研究エビデンスが豊富なサプリの1つ。</span>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e0e0e0;">
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">5. コラーゲン</td>
-        <td style="padding: 10px 0 10px 16px;">
-          <a href="https://www.iherb.com/pr/great-lakes-gelatin-co-collagen-hydrolysate-beef-16-oz-454-g/52774?rcode=AOK5109" target="_blank">Great Lakes Collagen Peptides（20g/日）</a><br>
-          <span style="color: #666;">肌・髪・爪・関節のサポート。グラスフェド牛由来で品質が高い。ビタミンC（レモン汁）と一緒に摂ることでコラーゲン合成が促進される。</span>
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">6. レモン汁</td>
-        <td style="padding: 10px 0 10px 16px;">
-          レモン汁（大さじ1）を水に溶かして<br>
-          <span style="color: #666;">クエン酸がサプリに含まれる非ヘム鉄の吸収率を向上。ビタミンCがコラーゲン合成を促進。朝一番にサプリと一緒に飲む。</span>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <pre>
+■ 目的
+・その① : Joyの最大化。あと暇だから
+・その② : バルクアップして、肉体美化
+・その③ : 肉体と精神エネルギーの強化
+→最も効果の高い施策をAIに聞きつつ実行
+
+■ ルーティン
+8時 : 起床
+9時：日光、朝食
+10時：犬と遊ぶ、ストレッチ、Meditation
+11時：自由時間（３時間 → 何でも可能）
+14時：昼食
+15時：コーヒー
+16時：筋トレ
+20時：ディナー
+23時：読書やPodcast（画面オフ）
+</pre>
 
   <!-- AI Health Log Prompt Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
@@ -198,24 +167,55 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
   </div>
   <!-- End AI Prompt Section -->
 
-  <pre>
-■ 目的
-・その① : Joyの最大化。あと暇だから
-・その② : バルクアップして、肉体美化
-・その③ : 肉体と精神エネルギーの強化
-→最も効果の高い施策をAIに聞きつつ実行
-
-■ ルーティン
-8時 : 起床
-9時：日光、朝食
-10時：犬と遊ぶ、ストレッチ、Meditation
-11時：自由時間（３時間 → 何でも可能）
-14時：昼食
-15時：コーヒー
-16時：筋トレ
-20時：ディナー
-23時：読書やPodcast（画面オフ）
-</pre>
+  <!-- Supplement Stack Section -->
+  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">💊 僕が飲んでいるサプリ一覧</p>
+    <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。<br>※アフィリエイトリンクですが、利用者に割引が入るので使っています。使いたくない場合は、商品名で検索してください🙋‍♂️</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.7;">
+      <tr style="border-bottom: 1px solid #e0e0e0;">
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">1. マルチビタミン</td>
+        <td style="padding: 10px 0 10px 16px;">
+          <a href="https://www.iherb.com/pr/thorne-multi-vitamin-elite-a-m-p-m-2-bottles-90-capsules-each/71156?rcode=AOK5109" target="_blank">Thorne Multi-Vitamin Elite AM &amp; PM</a><br>
+          <span style="color: #666;">ベースとなるマルチビタミン。AM（朝用）は細胞エネルギー産生をサポート、PM（夜用）は睡眠の質を向上。Thorneは医療グレードの品質で信頼性が高い。</span>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e0e0e0;">
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">2. オメガ3</td>
+        <td style="padding: 10px 0 10px 16px;">
+          <a href="https://www.iherb.com/pr/nordic-naturals-ultimate-omega-lemon-60-soft-gels-640-mg-per-soft-gel/43654?rcode=AOK5109" target="_blank">Nordic Naturals Ultimate Omega（1280mg）</a><br>
+          <span style="color: #666;">EPA/DHAで抗炎症・脳機能サポート。心臓血管の健康維持にも。Nordic Naturalsはフィッシュオイルブランドで全米No.1。</span>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e0e0e0;">
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">3. NMN</td>
+        <td style="padding: 10px 0 10px 16px;">
+          <a href="https://www.iherb.com/pr/prohealth-longevity-nmn-pro-complete-120-capsules/127502?rcode=AOK5109" target="_blank">ProHealth NMN Pro Complete</a>（NMN 1g / Resveratrol 1g / TMG 0.5g）<br>
+          <span style="color: #666;">アンチエイジングの最前線。NMNがNAD+を補充し細胞のエネルギー産生を回復。レスベラトロールが長寿遺伝子（サーチュイン）を活性化。TMGがメチル化をサポート。この3つの組み合わせがポイント。</span>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e0e0e0;">
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">4. クレアチン</td>
+        <td style="padding: 10px 0 10px 16px;">
+          <a href="https://www.iherb.com/pr/thorne-creatine-16-oz-450-g/70006?rcode=AOK5109" target="_blank">Thorne Creatine（5g/日）</a><br>
+          <span style="color: #666;">筋力・筋肉量の増加をサポート。実はバルクアップだけでなく、脳のエネルギー産生にも効果があり認知機能も向上する。最も研究エビデンスが豊富なサプリの1つ。</span>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e0e0e0;">
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">5. コラーゲン</td>
+        <td style="padding: 10px 0 10px 16px;">
+          <a href="https://www.iherb.com/pr/great-lakes-gelatin-co-collagen-hydrolysate-beef-16-oz-454-g/52774?rcode=AOK5109" target="_blank">Great Lakes Collagen Peptides（20g/日）</a><br>
+          <span style="color: #666;">肌・髪・爪・関節のサポート。グラスフェド牛由来で品質が高い。ビタミンC（レモン汁）と一緒に摂ることでコラーゲン合成が促進される。</span>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 0; font-weight: bold; vertical-align: top; white-space: nowrap;">6. レモン汁</td>
+        <td style="padding: 10px 0 10px 16px;">
+          レモン汁（大さじ1）を水に溶かして<br>
+          <span style="color: #666;">クエン酸がサプリに含まれる非ヘム鉄の吸収率を向上。ビタミンCがコラーゲン合成を促進。朝一番にサプリと一緒に飲む。</span>
+        </td>
+      </tr>
+    </table>
+  </div>
 
   <!-- 
 下記は、サプリが届いたら記載する
