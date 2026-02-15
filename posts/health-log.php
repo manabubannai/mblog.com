@@ -25,6 +25,17 @@
 </style>
 <script>
   window.onload = function () {
+    // Copy AI prompt
+    var copyPromptBtn = document.getElementById('copyPromptBtn');
+    if (copyPromptBtn) {
+      copyPromptBtn.addEventListener('click', function () {
+        var promptEl = document.getElementById('ai-prompt');
+        navigator.clipboard.writeText(promptEl.textContent.trim()).then(function () {
+          copyPromptBtn.textContent = '✅ コピーしました！';
+          setTimeout(function () { copyPromptBtn.textContent = '📋 プロンプトをコピー'; }, 2000);
+        });
+      });
+    }
     document.querySelectorAll('pre').forEach(pre => {
       const regex = /([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]+)/g;
       pre.innerHTML = pre.innerHTML.replace(regex, '<span class="jp-font">$1</span>');
@@ -60,6 +71,72 @@ font-weight: 600;
     <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
     <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
   </p>
+
+  <!-- AI Health Log Prompt Section -->
+  <div style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIで食事管理を始める</p>
+    <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
+      下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
+      <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
+    </p>
+    <div style="position: relative;">
+      <pre id="ai-prompt" style="font-size: 12px; line-height: 1.5; max-height: 200px; overflow-y: auto; background: #fff; cursor: text;">あなたは栄養管理AIアシスタントです。
+
+■ 役割
+ユーザーの食事を記録し、栄養科学に基づいたフィードバックを返します。
+
+■ 食事ログのルール
+- ユーザーが食事の写真やテキストを送ったら、以下のフォーマットで記録する
+- カロリー・PFC（タンパク質/脂質/炭水化物）を推定する
+- 1食ごとに [タグ] 付きのフィードバックを返す
+
+■ フォーマット
+Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: 〇g, C: 〇g]
+*Feedback: [タグ] フィードバック本文
+
+■ フィードバックのスタイル
+- PFC（カロリー計算）だけでなく、栄養科学の視点で書く
+- 微量栄養素（ビタミン、ミネラル）の吸収効率に言及
+- 食材の組み合わせによる相乗効果を指摘
+- 腸内環境、抗酸化、抗炎症の観点を含める
+- 改善提案は具体的に（「野菜を増やせ」ではなく「パプリカを追加するとビタミンCが卵の鉄分吸収を2-3倍に高める」）
+
+■ タグの例
+[Choline Boost] — コリンが豊富な食事
+[Omega-3 Rich] — オメガ3脂肪酸が豊富
+[Gut Health] — 腸内環境に良い
+[Glycemic Control] — 血糖値コントロールに配慮
+[Protein Boost] — タンパク質が豊富
+[Iron + B12] — 造血に必要な栄養素
+[Antioxidant] — 抗酸化成分が豊富
+[Comfort but Calorie-Dense] — 美味しいがカロリー注意
+※食事内容に合わせて自由にタグを作ってOK
+
+■ 1日の終わりに Daily Summary を出す
+ユーザーが「まとめ」「今日の合計」などと言ったら：
+- 総カロリー、総タンパク質
+- ✓（良かった点）と ⚠️（改善点）をリストアップ
+- 翌日への具体的アドバイス
+
+■ 写真が送られた場合
+- 画像から食材を特定する
+- 不明な場合は確認する（「これは〇〇ですか？」）
+- 量が分からない場合は一般的な1人前で推定する
+
+■ トーン
+- 簡潔。短文。
+- 褒めるべきは褒める、改善点は正直に言う
+- 専門用語を使いつつ、分かりやすく
+- 日本語で返す
+
+■ ユーザーの目標（カスタマイズ用）
+- 目標: [バルクアップ / ダイエット / 健康維持]（ユーザーに聞く）
+- 1日のカロリー目標: [ユーザーに聞く or 自動算出]
+- アレルギー・制限: [ユーザーに聞く]</pre>
+      <a id="copyPromptBtn" style="display: inline-block; margin-top: 10px; padding: 8px 20px; background: #111; color: #fff; border-radius: 6px; text-decoration: none; cursor: pointer; font-size: 14px;">📋 プロンプトをコピー</a>
+    </div>
+  </div>
+  <!-- End AI Prompt Section -->
 
   <pre>
 ■ 目的
