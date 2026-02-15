@@ -242,6 +242,12 @@ Curcumin 500 mg (Thorne)
 NAC 500 mg (Thorne)
 -->
 
+  <div style="text-align: center; margin: 40px 0 30px; color: #888; font-size: 14px; letter-spacing: 2px;">
+    ━━━━━━━━━━━━━━━━━━<br>
+    📝 Health Log<br>
+    ━━━━━━━━━━━━━━━━━━
+  </div>
+
   <h2># 2026-02-15</h2>
   <pre>
 - Sleep: 23:45 - 9:00
