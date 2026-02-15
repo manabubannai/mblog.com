@@ -260,6 +260,9 @@ NAC 500 mg (Thorne)
 - Lunch (15:29): Protein Bowl — Air Fried Salmon 200g, Tempe 100g, Boiled Eggs x2, Edamame 40g, Broccoli 100g, Carrot 100g, Tomato 100g, Raw Beetroot 30g, Black Olive 20g, Jasmine Rice 100g, Mix Rice 100g, Mediterranean Garlic Dressing [Total: ~1050kcal, P: 78g, F: 32g, C: 95g]
   *Feedback from AI: [Perfect Bulk Meal] バルクアップの教科書的な1食。サーモン200gでEPA/DHA+タンパク質40g超、テンペの発酵菌が腸内環境を強化。ゆで卵2個でコリン300mg追加（朝と合わせて750mg、推奨量超え）。ブロッコリーのスルフォラファンが抗がん+解毒作用。ビーツの硝酸塩が一酸化窒素を産生し血流改善→筋トレ前の摂取として理想的。枝豆のイソフラボン+オリーブのオレイン酸で抗炎症。ミックスライスで食物繊維も確保。文句なし。
 
+- Dinner (21:30): Udon Noodles with Green Onion &amp; Mushroom in Broth, Tuna Salad (Cabbage, Cherry Tomatoes, Mayo) [Total: ~650kcal, P: 28g, F: 18g, C: 85g]
+  *Feedback from AI: [Lycopene + Allicin] トマトのリコピン+ネギのアリシンで抗酸化コンボ。ツナでオメガ3確保。キャベツのビタミンUが胃粘膜を保護。うどんは白米同様GI高めだが、ネギの食物繊維が血糖スパイクを緩和。マヨは少量ならビタミンEの供給源。タンパク質がやや控えめなので、卵1個追加で完璧だった。
+
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
 - Omega-3 (Fish Oil) with breakfast
