@@ -263,6 +263,20 @@ NAC 500 mg (Thorne)
 - Dinner (21:30): Udon Noodles with Green Onion &amp; Mushroom in Broth, Tuna Salad (Cabbage, Cherry Tomatoes, Mayo) [Total: ~650kcal, P: 28g, F: 18g, C: 85g]
   *Feedback from AI: [Lycopene + Allicin] トマトのリコピン+ネギのアリシンで抗酸化コンボ。ツナでオメガ3確保。キャベツのビタミンUが胃粘膜を保護。うどんは白米同様GI高めだが、ネギの食物繊維が血糖スパイクを緩和。マヨは少量ならビタミンEの供給源。タンパク質がやや控えめなので、卵1個追加で完璧だった。
 
+■ Daily Summary (by AI)
+Total: ~2,550kcal | P: 149g | F: 82g | C: 270g
+
+✓ ランチのProtein Bowlが今日のMVP — サーモン+テンペ+卵でP78g、ビーツの血流改善も筋トレ前に最適
+✓ 朝のパプリカ+卵のビタミンC×鉄コンボ、3食通してトマト・ブロッコリー・キャベツで抗酸化カバー範囲が広い
+✓ コリン摂取量が推奨値超え（卵5個分 ~750mg）— 肝機能・脳機能サポート◎
+✓ 瞑想30min+ストレッチ20minでリカバリーも確保
+
+⚠️ タンパク質149gはバルクアップ目標（160-170g）にやや届かず — 夕飯に卵1個追加で到達できた
+⚠️ うどん+白米で精製炭水化物がやや多め — 1食をライスベリーやオートミールに替えるとGI改善
+⚠️ 食物繊維は朝のわかめ・きゅうり、昼のブロッコリー・枝豆で確保できているが、夕飯が弱い — キャベツをもう少し多めに食べるか、海藻を追加
+
+→ 明日の改善ポイント: 夕飯のタンパク質を+20g（卵 or 鶏むね）、炭水化物の1食を未精製に
+
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
 - Omega-3 (Fish Oil) with breakfast
