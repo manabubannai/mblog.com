@@ -12,6 +12,16 @@
     -webkit-font-smoothing: antialiased;
   }
 
+  .health-section {
+    font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+  }
+
   pre {
     font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
     font-size: 13.5px;
@@ -73,7 +83,7 @@ font-weight: 600;
   </p>
 
   <!-- Supplement Stack Section -->
-  <div style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
+  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
     <p style="font-weight: bold; font-size: 16px; margin-top: 0;">💊 僕が飲んでいるサプリ一覧</p>
     <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。<br>※アフィリエイトリンクですが、利用者に割引が入るので使っています。使いたくない場合は、商品名で検索してください🙋‍♂️</p>
     <table style="width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.7;">
@@ -123,7 +133,7 @@ font-weight: 600;
   </div>
 
   <!-- AI Health Log Prompt Section -->
-  <div style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
+  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
     <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIで食事管理を始める</p>
     <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
       下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
