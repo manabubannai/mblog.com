@@ -57,7 +57,7 @@
 <time>11 Jan, 2026</time>
 <h1 class="title">My Daily Health Log</h1>
 <p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px; font-style: italic;">
-※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️📝<br>by マナブ
+※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️📝 by マナブ
 </p>
 
 <p style="
