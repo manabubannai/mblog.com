@@ -67,7 +67,7 @@ background: transparent;
 -webkit-font-smoothing: antialiased;
 line-height: 1.7;
 font-weight: 600;
-">⭐️ 2月の目標 : 姿勢を正す ⭐️</p>
+">🚩 2月の目標 : 姿勢を正す 🧍</p>
 
 <div id="copy-target">
   <p>This is my daily health log to improve my physical and mental health. I also want to maximize my workout results.
