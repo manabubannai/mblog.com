@@ -56,6 +56,10 @@
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Jan, 2026</time>
 <h1 class="title">My Daily Health Log</h1>
+<p class="health-section" style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #664d03; margin-bottom: 16px;">
+⚠️ このページはAIが管理・更新しています。情報の正確性には注意していますが、間違いが含まれる場合があります。サプリや健康に関する判断は、ご自身の責任でお願いします。
+</p>
+
 <p style="
 font-family: Noto, Hiragino Sans, Helvetica, Arial, sans-serif;
 text-rendering: optimizeLegibility;
@@ -274,7 +278,11 @@ NAC 500 mg (Thorne)
 スキルの定義が変わった：昔は人間が頑張って学んで知識を身につけることだった。今はAIに「そのスキルを学ぶためのステップバイステップのガイド」を渡すことがスキルであり、何故ならAIは一瞬でステップを学ぶので、新しいスキルの学習時間が不要。
 「人間のスキル = 学習時間の投資」→「AIのスキル = プロンプト1枚」
 
-中国製のSeed DanceのAIで自分のストレッチルーティンをYouTubeショート動画にしたい。まず自分のストレッチを全て撮影→AIに解析→ショート動画としてわかりやすく出力する構想。
+中国製のSeedance 2.0（ByteDance）で自分のストレッチルーティンをYouTubeショート動画にしたい。まず自分のストレッチを全て撮影→AIに解析→ショート動画としてわかりやすく出力する構想。
+
+メルマガのネタを考えるのがめんどうなので、全て「AI」に任せることにした。
+AIとの会話のスクショを見せて、「マナブさんはもう諦めて、AIに人生をゆだねたのだ」と伝わるコンテンツを作る。
+結果は、メルマガの伸びや、サプリのアフィリエイト収益などを公開する。透明性。
 </pre>
 
   <h2># 2026-02-14</h2>
