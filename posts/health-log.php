@@ -239,6 +239,9 @@ NAC 500 mg (Thorne)
 - Breakfast: 3 Fried Eggs (Black Pepper), White Rice (~150g), Miso Soup (Wakame, Tofu, Bamboo Shoot, Aburaage), Cucumber Slices, Red &amp; Yellow Bell Pepper [Total: ~650kcal, P: 28g, F: 18g, C: 80g]
   *Feedback from AI: [Veggie Boost] 昨日の食物繊維不足を朝から補強 — きゅうりのカリウム+わかめの水溶性食物繊維で腸内環境ケア。パプリカのビタミンCは卵の鉄分吸収を2-3倍に高める好組み合わせ。卵3個でコリン450mg確保。味噌汁の発酵菌+わかめのフコイダンが免疫サポート。白米はライスベリーに替えると食物繊維+アントシアニンがさらにUP。
 
+- Snack: EVOO (1 tbsp), 3 Seed Protein, Coconut Sugar (2 tsp) [Total: ~200kcal, P: 15g, F: 14g, C: 10g]
+  *Feedback from AI: [Quick Fuel] ランチまでの繋ぎとして良い選択。EVOOのオレイン酸が血糖値の急上昇を抑え、プロテインで筋分解を防ぐ。ココナッツシュガーは白砂糖よりGI値が低く（35 vs 65）ミネラルも含む。
+
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
 - Omega-3 (Fish Oil) with breakfast
