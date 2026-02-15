@@ -124,7 +124,6 @@ NAC 500 mg (Thorne)
 • Meditation (first thing in the morning)
 
 ■ Note
-先に、信頼を、されて、嬉しすぎている。
 トシさんに依頼してSimple Clawを作ってみる？
 理由：世の中のサービスは怪しい。自分の信頼を使い、売れるかも？
 → それよりも、誰でもHealth Logを作れるアプリ/サービスを作る方が良さそう
