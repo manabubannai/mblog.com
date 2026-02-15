@@ -4,6 +4,11 @@
 <ul class="toppage">
 
 <li>
+<time datetime="2026-02-15">15 Feb, 2026</time>
+<a href="how-to-meditate">[draft] How I Meditate — 瞑想のやり方</a>
+</li>
+
+<li>
 <time datetime="2026-02-11">11 Feb, 2026</time>
 <a href="how-to-set-up-openclaw">安全にOpenClawを動かす方法（自分用のメモ）</a>
 </li>
