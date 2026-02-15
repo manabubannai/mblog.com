@@ -261,8 +261,8 @@ NAC 500 mg (Thorne)
 - Creatine (Thorne) with breakfast
 
 ■ Treatment
-• Meditation (first thing in the morning)
-• Stretch
+• Meditation 30min (午後に実施 — 朝一のタイミングを逃した)
+• Stretch 20min
 
 ■ Note
 トシさんに依頼してSimple Clawを作ってみる？
