@@ -262,6 +262,7 @@ NAC 500 mg (Thorne)
 
 ■ Treatment
 • Meditation (first thing in the morning)
+• Stretch
 
 ■ Note
 トシさんに依頼してSimple Clawを作ってみる？
