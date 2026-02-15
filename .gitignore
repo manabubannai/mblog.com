@@ -7,3 +7,4 @@ vendor/
 *.bak
 .well-known/
 router.php
+village-data/
