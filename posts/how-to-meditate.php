@@ -11,7 +11,7 @@
 <h2>セットアップ</h2>
 <p>僕の瞑想環境はシンプルです：</p>
 <ul>
-  <li><a href="https://shop.lesmills.com/us/adidas-training-mat" target="_blank">adidas Training Mat（厚さ1cm）</a> — 床に敷く</li>
+  <li><a href="https://www.adidashardware.com/catalogue-training/training-mat" target="_blank">adidas Training Mat（厚さ1cm）</a> — 床に敷く</li>
   <li>大きめのバスタオル — マットの上に畳んで座布団がわりにする</li>
   <li><a href="https://www.nitori-net.jp/ec/product/7806499s/" target="_blank">ニトリの腰当てクッション</a> — 姿勢を正すために腰に当てる</li>
 </ul>
