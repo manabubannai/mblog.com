@@ -326,7 +326,7 @@ NAC 500 mg (Thorne)
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
 
-- Dinner (19:38): Omelette (3 Eggs), Cherry Tomatoes red & yellow (~10) [Total: ~300kcal, P: 20g, F: 16g, C: 8g]
+- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10) [Total: ~240kcal, P: 15g, F: 11g, C: 8g]
   *Feedback from AI: [Gut-Friendly Light] お腹ゆるめの日に正解の軽めディナー。卵のロイシンが就寝中の筋合成をサポート。ミニトマトのリコピンは加熱なしでも吸収されるが、卵の脂質と一緒に摂ることで吸収率2-3倍UP。黄色トマトはβカロテンが赤より多く、赤トマトはリコピンが豊富 — 両方食べることで抗酸化物質のカバー範囲が広がる。消化負担が少ないので胃腸の回復を優先できる。ただし今日のタンパク質合計は約103g、バルクアップ目標なら少し不足気味。明日は通常量に戻せると◎。
 
 ■ Today's Work
