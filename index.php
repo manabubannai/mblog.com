@@ -20,6 +20,11 @@ require __DIR__ . '/header.php';
 <a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
 
+<li>
+<time datetime="2026-1-4">11 Jan, 2026</time>
+<a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
+</li>
+
 </ul>
 
 <hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
