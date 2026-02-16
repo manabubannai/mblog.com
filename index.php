@@ -8,9 +8,9 @@ require __DIR__ . '/header.php';
 <h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 24px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
 <ul class="toppage">
 
-<li>
-<time datetime="2026-1-4">📌 11 Jan, 2026</time>
-<a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
+<li style="border-left: 3px solid #4a9eff; padding-left: 12px;">
+<time datetime="2026-1-4">11 Jan, 2026</time>
+<a href="health-log" style="font-weight: bold;">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
 <li>
