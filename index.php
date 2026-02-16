@@ -10,7 +10,7 @@ require __DIR__ . '/header.php';
 
 <li>
 <time datetime="2026-02-15">15 Feb, 2026</time>
-<a href="how-to-meditate">（下書き）How I Meditate — 瞑想のやり方</a>
+<a href="how-to-meditate">(下書き) How I Meditate — 瞑想のやり方</a>
 </li>
 
 <li>
