@@ -9,3 +9,4 @@ vendor/
 router.php
 village-data/
 meetup-data/
+config.php

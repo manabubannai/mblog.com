@@ -50,6 +50,56 @@
       const regex = /([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]+)/g;
       pre.innerHTML = pre.innerHTML.replace(regex, '<span class="jp-font">$1</span>');
     });
+
+    // AI Feedback
+    var feedbackBtn = document.getElementById('ai-feedback-btn');
+    var mealInput = document.getElementById('meal-input');
+    var loading = document.getElementById('ai-loading');
+    var resultDiv = document.getElementById('ai-feedback-result');
+
+    if (feedbackBtn) {
+      feedbackBtn.addEventListener('click', function () {
+        var text = mealInput.value.trim();
+        if (!text) {
+          alert('食事内容を入力してください。');
+          return;
+        }
+        feedbackBtn.disabled = true;
+        feedbackBtn.style.opacity = '0.5';
+        loading.style.display = 'inline';
+        resultDiv.style.display = 'none';
+
+        fetch('/api/ai-feedback.php', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ meal_text: text })
+        })
+        .then(function (res) { return res.json().then(function (data) { return { ok: res.ok, data: data }; }); })
+        .then(function (result) {
+          if (!result.ok) {
+            resultDiv.textContent = '⚠️ ' + (result.data.error || 'エラーが発生しました。');
+            resultDiv.style.borderColor = '#e8a0a0';
+            resultDiv.style.background = '#fff5f5';
+          } else {
+            resultDiv.textContent = result.data.feedback;
+            resultDiv.style.borderColor = '#c8ddf5';
+            resultDiv.style.background = '#fff';
+          }
+          resultDiv.style.display = 'block';
+        })
+        .catch(function () {
+          resultDiv.textContent = '⚠️ 通信エラーが発生しました。しばらくしてからお試しください。';
+          resultDiv.style.borderColor = '#e8a0a0';
+          resultDiv.style.background = '#fff5f5';
+          resultDiv.style.display = 'block';
+        })
+        .finally(function () {
+          feedbackBtn.disabled = false;
+          feedbackBtn.style.opacity = '1';
+          loading.style.display = 'none';
+        });
+      });
+    }
   };
 </script>
 
@@ -170,6 +220,19 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
     </div>
   </div>
   <!-- End AI Prompt Section -->
+
+  <!-- AI Feedback Section -->
+  <div class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 20px; margin: 20px 0;">
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🍽️ AIに食事のフィードバックをもらう</p>
+    <p style="font-size: 13px; color: #666; margin-bottom: 12px;">食事内容を入力して「AIに聞く」を押すと、栄養フィードバックが返ってきます。（1時間に10回まで）</p>
+    <textarea id="meal-input" rows="4" maxlength="2000" placeholder="例: 朝食 — 卵3個スクランブル、白米1杯、味噌汁（わかめ・豆腐）、納豆1パック" style="width: 100%; box-sizing: border-box; padding: 12px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; border: 1px solid #ccc; border-radius: 6px; resize: vertical; line-height: 1.6;"></textarea>
+    <div style="display: flex; align-items: center; gap: 12px; margin-top: 10px;">
+      <button id="ai-feedback-btn" style="padding: 10px 24px; background: #111; color: #fff; border: none; border-radius: 6px; font-size: 14px; cursor: pointer;">🤖 AIに聞く</button>
+      <span id="ai-loading" style="display: none; font-size: 13px; color: #888;">⏳ 分析中...</span>
+    </div>
+    <div id="ai-feedback-result" style="display: none; margin-top: 16px; padding: 16px; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; line-height: 1.8; white-space: pre-wrap; word-wrap: break-word;"></div>
+  </div>
+  <!-- End AI Feedback Section -->
 
   <!-- Supplement Stack Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
