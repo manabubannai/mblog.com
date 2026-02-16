@@ -5,7 +5,28 @@ require __DIR__ . '/header.php';
 ?>
 <h1 class="brand"><a href="https://mblog.com/">manablog</a></h1>
 
-<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 24px 0 8px; font-family: 'adelle', serif;">✍️ Written by Manabu</h2>
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 24px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
+<ul class="toppage">
+
+<li>
+<time datetime="2026-1-4">11 Jan, 2026</time>
+<a href="health-log">My Daily Health Log</a>
+</li>
+
+<li>
+<time datetime="2026-02-11">11 Feb, 2026</time>
+<a href="how-to-set-up-openclaw">安全にOpenClawを動かす方法（自分用のメモ）</a>
+</li>
+
+<li>
+<time datetime="2026-02-15">15 Feb, 2026</time>
+<a href="how-to-meditate">[draft] How I Meditate — 瞑想のやり方</a>
+</li>
+
+</ul>
+
+<hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">✍️ Written by Manabu</h2>
 <ul class="toppage">
 
 <li>
@@ -31,27 +52,6 @@ require __DIR__ . '/header.php';
 <li>
 <time datetime="2025-12-21">21 Dec, 2025</time>
 <a href="dog-friendly-hotel-in-phitsanulok">Dog-Friendly Hotel in Phitsanulok — A Personal Review (Dec 19, 2025)</a>
-</li>
-
-</ul>
-
-<hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
-<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
-<ul class="toppage">
-
-<li>
-<time datetime="2026-1-4">11 Jan, 2026</time>
-<a href="health-log">My Daily Health Log</a>
-</li>
-
-<li>
-<time datetime="2026-02-11">11 Feb, 2026</time>
-<a href="how-to-set-up-openclaw">安全にOpenClawを動かす方法（自分用のメモ）</a>
-</li>
-
-<li>
-<time datetime="2026-02-15">15 Feb, 2026</time>
-<a href="how-to-meditate">[draft] How I Meditate — 瞑想のやり方</a>
 </li>
 
 </ul>
