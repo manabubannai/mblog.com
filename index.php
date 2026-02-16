@@ -35,7 +35,8 @@ require __DIR__ . '/header.php';
 
 </ul>
 
-<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 24px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
+<hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 24px 0 0;">
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
 <ul class="toppage">
 
 <li>
