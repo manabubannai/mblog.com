@@ -9,8 +9,8 @@ require __DIR__ . '/header.php';
 <ul class="toppage">
 
 <li>
-<time datetime="2026-1-4">11 Jan, 2026 <span style="color: #aaa; font-size: 11px; font-style: italic;">― pinned</span></time>
-<a href="health-log" style="font-weight: bold;">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
+<time datetime="2026-1-4">11 Jan, 2026</time>
+<a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
 <li>
