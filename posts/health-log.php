@@ -325,6 +325,21 @@ NAC 500 mg (Thorne)
 - Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Mushrooms) over White Rice, Salmon (~200g), Riceberry Porridge with Nori & Ginger [Total: ~1,100kcal, P: 65g, F: 32g, C: 128g]
   *Feedback from AI: [Recovery + Protein Boost] お腹ゆるめでも消化しやすいサーモンを追加したのが◎。サーモンの脂質はオメガ3中心で抗炎症作用があり、腸の炎症を鎮める方向に働く。タンパク質40g追加で就寝中の筋合成も十分サポート。温野菜は消化負担が軽く、じゃがいものレジスタントスターチが善玉菌を育てる。にんじんのβカロテンは加熱+サーモンの脂質で吸収率UP。トマトのリコピン+卵の脂質で抗酸化◎。胃腸を労わりつつタンパク質もしっかり確保した良いバランス。
 
+■ Daily Summary (by AI)
+Total: ~2,880kcal | P: 148g | F: 101g | C: 317g
+
+✓ サーモン2食（計450g）でEPA/DHA大量確保 — 抗炎症+脳機能+筋合成を1日通してサポート
+✓ ライスベリー導入が定着。白米→ライスベリーで食物繊維+アントシアニンが大幅UP
+✓ 卵5個（朝3+夜2）でコリン~750mg — 推奨量超えで肝機能・認知機能◎
+✓ 朝のポメロ+キウイでビタミンC~300mg、サプリの非ヘム鉄吸収を最大化
+✓ 温野菜中心の構成で消化負担を抑えつつ、βカロテン・ケルセチン・葉酸をしっかり確保
+
+⚠️ タンパク質148gはバルクアップ目標（160-170g）にやや届かず — Snackでプロテイン1杯追加が手軽な解決策
+⚠️ 脂質101gがやや高め（総カロリーの31%）— アボカド半分+EVOO+サーモン脂質の重複。質は良い脂質なので問題は小さいが、意識だけしておく
+⚠️ 白米がまだ1食残っている（夕飯）— 全食ライスベリーに統一できれば理想的
+
+→ 明日の改善ポイント: 間食にプロテイン追加でP160g超え、夕飯の白米もライスベリーに
+
 ■ Today's Work
 [x] GA4 + サーチコンソールのデータ取得・統合分析レポート作成
 [x] brain-fog、business-plan-ai-era、my-learning-from-daily-health-log 記事を削除
