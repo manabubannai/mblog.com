@@ -340,8 +340,6 @@ NAC 500 mg (Thorne)
 [x] ニュースレター戦略確定（Substack中心、深い価値提供）
 [ ] Newsletter #4「その上司のメール、AIが書いています」→ 編集待ち
 [ ] Oura Ring API連携 → トークン待ち
-[ ] ENTP議論スタイルの統合 → 確認待ち
-[ ] プロフィール欄の日本語化
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
