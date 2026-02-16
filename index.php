@@ -8,8 +8,8 @@ require __DIR__ . '/header.php';
 <h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 24px 0 8px; font-family: 'adelle', serif;">🤖 Managed by AI</h2>
 <ul class="toppage">
 
-<li style="background: #f0f7ff; border-radius: 6px; padding: 8px 12px; margin-left: -12px; margin-right: -12px;">
-<time datetime="2026-1-4">11 Jan, 2026</time>
+<li>
+<time datetime="2026-1-4">11 Jan, 2026 <span style="color: #aaa; font-size: 11px; font-style: italic;">― pinned</span></time>
 <a href="health-log" style="font-weight: bold;">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
