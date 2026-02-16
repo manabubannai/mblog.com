@@ -120,15 +120,6 @@ require dirname(__DIR__) . '/header.php';
 ※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️ by マナブ
 </p>
 
-<p style="
-font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
-text-rendering: optimizeLegibility;
-background: transparent;
--webkit-font-smoothing: antialiased;
-line-height: 1.7;
-font-weight: 600;
-">🚩 2月の目標 : 姿勢を正す 🧍</p>
-
 <div id="copy-target">
   <p>マナブの日常データです。食事、サプリ、運動、作業、思考など、全て公開です。データ公開からプレッシャーを生み、継続を加速してます。同時に、データが誰かの役に立てば幸いです🧘</p>
   <ul>
@@ -141,6 +132,8 @@ font-weight: 600;
   <!-- copy buttons moved below latest log -->
 
   <pre>
+🚩 2月の目標 : 姿勢を正す 🧍
+
 🎯 目的
 ・Joyの最大化。あと暇だから
 ・バルクアップして、肉体美化
