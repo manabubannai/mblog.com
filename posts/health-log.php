@@ -251,7 +251,7 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (9:30): Omelette (2-3 Eggs), White Rice (~150g) [Total: ~450kcal, P: 20g, F: 15g, C: 55g]
+- Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g) [Total: ~470kcal, P: 22g, F: 16g, C: 55g]
   *Feedback from AI: [Minimal Start] シンプルだけど卵のコリン+完全タンパク質は朝の立ち上げに十分。ただ野菜ゼロなのでビタミンC・食物繊維が不足 — 昨日の朝みたいにパプリカやきゅうりを添えるだけで鉄分吸収2-3倍UP+腸内環境ケアができる。味噌汁も欲しいところ。
 </pre>
 
