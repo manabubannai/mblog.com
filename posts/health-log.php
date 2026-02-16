@@ -81,7 +81,13 @@
             resultDiv.style.borderColor = '#e8a0a0';
             resultDiv.style.background = '#fff5f5';
           } else {
-            resultDiv.textContent = result.data.feedback;
+            var fb = result.data.feedback
+              .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+              .replace(/\[([^\]]+)\]/g, '<span style="display:inline-block;background:#e8f4fd;color:#1a6fa0;font-size:12px;font-weight:600;padding:2px 8px;border-radius:4px;margin:0 2px;">$1</span>')
+              .replace(/^(\*Feedback:)/gm, '<strong>$1</strong>')
+              .replace(/(Total:\s*~?[\d,]+kcal[^)\]]*)/g, '<strong>$1</strong>')
+              .replace(/\n/g, '<br>');
+            resultDiv.innerHTML = fb;
             resultDiv.style.borderColor = '#c8ddf5';
             resultDiv.style.background = '#fff';
           }
@@ -157,7 +163,7 @@ font-weight: 600;
 
   <!-- AI Health Log Prompt Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIで食事管理を始める</p>
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIから食事フィードバックをもらう</p>
     <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
       下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
       <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
