@@ -327,6 +327,7 @@ NAC 500 mg (Thorne)
 • Stretch 20min (朝食後)
 
 ■ Today's Work
+[完了]
 • GA4 + サーチコンソールのデータ取得・統合分析レポート作成
 • brain-fog、business-plan-ai-era、my-learning-from-daily-health-log 記事を削除
 • 全ページにSEO対応（page_title / meta description / OGP追加）
@@ -334,10 +335,17 @@ NAC 500 mg (Thorne)
 • Health Logタイトル変更：「【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】」
 • Health Logイントロを日本語化
 • 日本語フォント統一（Noto, Hiragino Sans, Yu Gothic, Meiryo）
-• ルーティン更新：内省タイム（10-13時）追加
+• ルーティン更新：内省タイム（10-13時）追加、日課リマインドcron設定
 • 月間目標の絵文字変更（🧍→🏋️）
 • 毎日15時のGA4+サーチコンソール自動分析cronを設定
-• 日課リマインドcron設定（13時ストレッチ / 14時ランチ / 15時情報収集）
+• ビジョン・戦略の壁打ち（ターゲット3層、収益スタンス、3年後の理想像を整理）
+• ニュースレター戦略確定（Substack中心、バズを追わない、深い価値提供）
+• 「マナブカンパニー」構想（HealthBotが最初のメンバー、メルマガ10,000人が基盤）
+[進行中]
+• Newsletter #4「その上司のメール、AIが書いています」→ マナブさん最終編集待ち
+• Oura Ring API連携 → Personal Access Token待ち
+• ENTP議論スタイルの統合 → 確認待ち
+• トップページ・Health Logの日本語化 → 一部完了、プロフィール欄まだ英語
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
