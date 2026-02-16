@@ -282,11 +282,6 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
     </table>
   </div>
 
-  <p>
-    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
-    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
-  </p>
-
   <!-- 
 下記は、サプリが届いたら記載する
 ■ Substances
@@ -309,6 +304,11 @@ NAC 500 mg (Thorne)
 -->
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
+
+  <p>
+    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
+    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
+  </p>
 
   <h2># 2026-02-16</h2>
   <pre>
