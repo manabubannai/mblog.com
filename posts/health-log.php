@@ -83,9 +83,9 @@
           } else {
             var fb = result.data.feedback
               .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-              .replace(/\[([^\]]+)\]/g, '<span style="display:inline-block;background:#e8f4fd;color:#1a6fa0;font-size:12px;font-weight:600;padding:2px 8px;border-radius:4px;margin:0 2px;">$1</span>')
-              .replace(/^(\*Feedback:)/gm, '<strong>$1</strong>')
-              .replace(/(Total:\s*~?[\d,]+kcal[^)\]]*)/g, '<strong>$1</strong>')
+              .replace(/^(Breakfast|Lunch|Dinner)\s*:/gm, '<strong>$1 :</strong>')
+              .replace(/(\[合計:\s*~?[\d,]+kcal[^\]]*\])/g, '<strong>$1</strong>')
+              .replace(/^\*フィードバック:/gm, '<strong>*フィードバック:</strong>')
               .replace(/\n/g, '<br>');
             resultDiv.innerHTML = fb;
             resultDiv.style.borderColor = '#c8ddf5';
@@ -163,7 +163,7 @@ font-weight: 600;
 
   <!-- AI Health Log Prompt Section -->
   <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIから食事フィードバックをもらう</p>
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">📝 AIで食事管理を始める</p>
     <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
       下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
       <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
@@ -229,7 +229,7 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
 
   <!-- AI Feedback Section -->
   <div class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🍽️ AIに食事のフィードバックをもらう</p>
+    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIから食事フィードバックをもらう</p>
     <p style="font-size: 13px; color: #666; margin-bottom: 12px;">食事内容を入力して「AIに聞く」を押すと、栄養フィードバックが返ってきます。（1時間に10回まで）</p>
     <textarea id="meal-input" rows="4" maxlength="2000" placeholder="例: 朝食 — 卵3個スクランブル、白米1杯、味噌汁（わかめ・豆腐）、納豆1パック" style="width: 100%; box-sizing: border-box; padding: 12px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; border: 1px solid #ccc; border-radius: 6px; resize: vertical; line-height: 1.6;"></textarea>
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 10px;">
