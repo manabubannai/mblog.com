@@ -251,8 +251,8 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g) [Total: ~470kcal, P: 22g, F: 16g, C: 55g]
-  *Feedback from AI: [Minimal Start] シンプルだけど卵のコリン+完全タンパク質は朝の立ち上げに十分。ただ野菜ゼロなのでビタミンC・食物繊維が不足 — 昨日の朝みたいにパプリカやきゅうりを添えるだけで鉄分吸収2-3倍UP+腸内環境ケアができる。味噌汁も欲しいところ。
+- Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp) [Total: ~650kcal, P: 24g, F: 28g, C: 75g]
+  *Feedback from AI: [Beta-Carotene + Prebiotic] 朝食の野菜不足を一気に解消。にんじんのβカロテンはEVOOの脂質と一緒に摂ることで吸収率3-5倍UP — 理想的な組み合わせ。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖（プレバイオティクス）が腸内の善玉菌を育てる。じゃがいもは煮て冷めるとレジスタントスターチが増え、血糖上昇が穏やかに。EVOOのオレイン酸で脂溶性ビタミンの吸収もカバー。
 </pre>
 
   <h2># 2026-02-15</h2>
