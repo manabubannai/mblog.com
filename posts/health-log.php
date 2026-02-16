@@ -326,8 +326,7 @@ NAC 500 mg (Thorne)
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
 
-■ Note
-Today's Work:
+■ Today's Work
 • GA4 + サーチコンソールのデータ取得・統合分析レポート作成
 • brain-fog、business-plan-ai-era、my-learning-from-daily-health-log 記事を削除
 • 全ページにSEO対応（page_title / meta description / OGP追加）
