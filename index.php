@@ -15,7 +15,7 @@ require __DIR__ . '/header.php';
 
 <li>
 <time datetime="2026-02-11">11 Feb, 2026</time>
-<a href="how-to-set-up-openclaw">安全にOpenClawを動かす方法（自分用のメモ）</a>
+<a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
 
 <li>

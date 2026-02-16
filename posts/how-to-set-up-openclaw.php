@@ -1,5 +1,5 @@
 <?php
-$page_title = '安全にOpenClawを動かす方法（自分用のメモ）';
+$page_title = 'OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順';
 $page_description = 'OpenClawをHetzner VPSに安全にインストールする方法。Tailscale・Cloudflare・SSH鍵認証の設定を10ステップで解説。月額2.5ドルで自分だけのAIアシスタントを構築。';
 require dirname(__DIR__) . '/header.php';
 ?>
@@ -7,7 +7,7 @@ require dirname(__DIR__) . '/header.php';
 <div class="jp-article">
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Feb, 2026</time>
-<h1 class="title">安全にOpenClawを動かす方法（自分用のメモ）</h1>
+<h1 class="title">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</h1>
 
 <p>OpenClawはゲームチェンジャーだと思う。<br>こういった技術はベースから理解することが大切。</p>
 
