@@ -121,7 +121,7 @@ require dirname(__DIR__) . '/header.php';
 </p>
 
 <p style="
-font-family: Noto, Hiragino Sans, Helvetica, Arial, sans-serif;
+font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
 text-rendering: optimizeLegibility;
 background: transparent;
 -webkit-font-smoothing: antialiased;
