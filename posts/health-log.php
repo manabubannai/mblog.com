@@ -138,10 +138,7 @@ font-weight: 600;
     <li>Job: Ex-Influencer. Now I&#39;m resting</li>
   </ul>
 
-  <p>
-    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
-    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
-  </p>
+  <!-- copy buttons moved below latest log -->
 
   <pre>
 🎯 目的
@@ -339,6 +336,11 @@ NAC 500 mg (Thorne)
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
 </pre>
+
+  <p>
+    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
+    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
+  </p>
 
   <h2># 2026-02-15</h2>
   <pre>
