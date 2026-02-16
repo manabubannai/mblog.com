@@ -322,10 +322,6 @@ NAC 500 mg (Thorne)
 - Lunch (15:18): Air Fried Salmon (~250g), Mushrooms Mushrooms, Asparagus, Onion, Riceberry Rice (~150g) [Total: ~850kcal, P: 55g, F: 28g, C: 75g]
   *Feedback from AI: [Omega-3 Powerhouse] サーモン250gでEPA/DHA大量確保+タンパク質50g超。ライスベリーに変えたのが昨日からの改善点 — アントシアニン（抗酸化）+食物繊維で血糖上昇が白米の半分以下。しいたけのエリタデニンがコレステロール代謝をサポート、βグルカンが免疫強化。アスパラのアスパラギン酸が疲労回復+葉酸が造血を促進。玉ねぎのケルセチンがサーモンのオメガ3と合わせて抗炎症を最大化。
 
-■ Treatment
-• Meditation 30min (朝イチ)
-• Stretch 20min (朝食後)
-
 - Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Mushrooms) over White Rice, Salmon (~200g), Riceberry Porridge with Nori & Ginger [Total: ~1,100kcal, P: 65g, F: 32g, C: 128g]
   *Feedback from AI: [Recovery + Protein Boost] お腹ゆるめでも消化しやすいサーモンを追加したのが◎。サーモンの脂質はオメガ3中心で抗炎症作用があり、腸の炎症を鎮める方向に働く。タンパク質40g追加で就寝中の筋合成も十分サポート。温野菜は消化負担が軽く、じゃがいものレジスタントスターチが善玉菌を育てる。にんじんのβカロテンは加熱+サーモンの脂質で吸収率UP。トマトのリコピン+卵の脂質で抗酸化◎。胃腸を労わりつつタンパク質もしっかり確保した良いバランス。
 
@@ -343,6 +339,10 @@ NAC 500 mg (Thorne)
 [x] ニュースレター戦略確定（Substack中心、深い価値提供）
 [ ] Newsletter #4「その上司のメール、AIが書いています」→ 編集待ち
 [ ] Oura Ring API連携 → トークン待ち
+
+■ Treatment
+• Meditation 30min (朝イチ)
+• Stretch 20min (朝食後)
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
