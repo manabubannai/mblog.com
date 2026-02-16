@@ -253,6 +253,9 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp), Avocado (1/2) [Total: ~770kcal, P: 26g, F: 40g, C: 78g]
   *Feedback from AI: [Beta-Carotene + Prebiotic] にんじんのβカロテンはEVOO+アボカドの脂質で吸収率3-5倍UP。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖が腸内善玉菌を育てる。アボカドのカリウム（約490mg/半個）が塩分の排出を助け、グルタチオンが肝臓の解毒をサポート。脂質は多めだが大半が一価不飽和脂肪酸で心血管に◎。
+
+- Snack (11:00): Pomelo (~200g), Gold Kiwi (1) [Total: ~120kcal, P: 2g, F: 0g, C: 28g]
+  *Feedback from AI: [Vitamin C Burst] ポメロ+キウイでビタミンC爆発（推定200mg超 — 1日推奨量の2倍以上）。朝食のサプリと一緒なら非ヘム鉄の吸収率が大幅UP。キウイのアクチニジン酵素がタンパク質の消化を助け、朝食の卵の吸収効率を高める。ポメロのナリンゲニンは抗炎症+脂質代謝をサポート。
 </pre>
 
   <h2># 2026-02-15</h2>
