@@ -394,6 +394,7 @@ Total: ~2,550kcal | P: 149g | F: 82g | C: 270g
 - Lemon Juice in water（クエン酸で非ヘム鉄の吸収率向上）
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
+- Cannabis 0.7g (Indica)
 
 ■ Treatment
 • Meditation 30min (午後に実施 — 朝一のタイミングを逃した)
