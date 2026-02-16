@@ -9,8 +9,8 @@ require __DIR__ . '/header.php';
 <ul class="toppage">
 
 <li>
-<time datetime="2026-1-4">11 Jan, 2026</time>
-<a href="health-log">My Daily Health Log</a>
+<time datetime="2026-02-15">15 Feb, 2026</time>
+<a href="how-to-meditate">[draft] How I Meditate — 瞑想のやり方</a>
 </li>
 
 <li>
@@ -19,8 +19,8 @@ require __DIR__ . '/header.php';
 </li>
 
 <li>
-<time datetime="2026-02-15">15 Feb, 2026</time>
-<a href="how-to-meditate">[draft] How I Meditate — 瞑想のやり方</a>
+<time datetime="2026-1-4">11 Jan, 2026</time>
+<a href="health-log">My Daily Health Log</a>
 </li>
 
 </ul>
