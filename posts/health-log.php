@@ -282,6 +282,11 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
     </table>
   </div>
 
+  <p>
+    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
+    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
+  </p>
+
   <!-- 
 下記は、サプリが届いたら記載する
 ■ Substances
@@ -330,11 +335,6 @@ NAC 500 mg (Thorne)
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
 </pre>
-
-  <p>
-    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
-    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
-  </p>
 
   <h2># 2026-02-15</h2>
   <pre>
