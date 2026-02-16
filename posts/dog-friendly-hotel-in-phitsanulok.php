@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Dog-Friendly Hotel in Phitsanulok — A Personal Review｜manablog';
+$page_title = 'Dog-Friendly Hotel in Phitsanulok — A Personal Review';
 $page_description = 'A personal review of dog-friendly hotels in Phitsanulok, Thailand. Tips for traveling with your pet in Thailand.';
 require dirname(__DIR__) . '/header.php';
 ?>

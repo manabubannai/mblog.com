@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Intuition by OSHO (Book Review) — Why Intuition Matters in the Age of AI｜manablog';
+$page_title = 'Intuition by OSHO (Book Review) — Why Intuition Matters in the Age of AI';
 $page_description = 'OSHOの「Intuition」書評。AI時代になぜ直感が重要なのか。5億円稼いで燃え尽きた起業家が見つけた、知性の先にあるもの。';
 require dirname(__DIR__) . '/header.php';
 ?>
