@@ -351,6 +351,7 @@ NAC 500 mg (Thorne)
 - Lemon Juice in water
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
+- Cannabis 1g (Indica)
 </pre>
 
   <h2># 2026-02-15</h2>
