@@ -4,9 +4,6 @@
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Feb, 2026</time>
 <h1 class="title">安全にOpenClawを動かす方法（自分用のメモ）</h1>
-<p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px; font-style: italic;">
-※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️📝 by マナブ
-</p>
 
 <p>OpenClawはゲームチェンジャーだと思う。<br>こういった技術はベースから理解することが大切。</p>
 
