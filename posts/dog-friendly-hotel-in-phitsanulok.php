@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = 'Dog-Friendly Hotel in Phitsanulok — A Personal Review｜manablog';
+$page_description = 'A personal review of dog-friendly hotels in Phitsanulok, Thailand. Tips for traveling with your pet in Thailand.';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>21 Dec, 2025</time>

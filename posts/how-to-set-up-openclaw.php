@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = 'OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順｜manablog';
+$page_description = 'OpenClawをHetzner VPSに安全にインストールする方法。Tailscale・Cloudflare・SSH鍵認証の設定を10ステップで解説。月額2.5ドルで自分だけのAIアシスタントを構築。';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <div class="jp-article">
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>

@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = 'My Reflection on a Spiritual Trip (Personal Note)｜manablog';
+$page_description = 'スピリチュアルな旅の振り返り。瞑想リトリートでの気づきと、内なる平和への道のり。';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>31 Dec, 2025</time>

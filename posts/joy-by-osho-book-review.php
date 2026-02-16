@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = 'Joy by OSHO (Book Review) — Five Million Dollars Made Me Unhappy｜manablog';
+$page_description = 'OSHOの「Joy」書評。5億円稼いでも幸せになれなかった。お金と幸福の関係、そして本当のJoyとは何かを考える。';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>28 Dec, 2025</time>

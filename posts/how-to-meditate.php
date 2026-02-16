@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = '瞑想のやり方 — 初心者でも続く実践ガイド｜manablog';
+$page_description = '瞑想の始め方を初心者向けに解説。3年間毎日瞑想を続けた経験から、具体的なやり方・効果・続けるコツをまとめました。';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>15 Feb, 2026</time>

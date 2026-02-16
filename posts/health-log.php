@@ -1,4 +1,8 @@
-<?php require dirname(__DIR__) . '/header.php'; ?>
+<?php
+$page_title = 'My Daily Health Log — 毎日の健康ログ｜manablog';
+$page_description = '食事・睡眠・サプリ・瞑想・筋トレを毎日記録するHealth Log。AIによる栄養フィードバック付き。バイオハッキングと健康最適化の実験記録。';
+require dirname(__DIR__) . '/header.php';
+?>
 
 <!-- 日本語のみに適応 -->
 <style>

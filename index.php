@@ -1,4 +1,8 @@
-<?php require __DIR__ . '/header.php'; ?>
+<?php
+$page_title = 'manablog — マナブの公式ブログ';
+$page_description = 'ブログで5億円稼いで燃え尽きた男の、健康・瞑想・AI実験の記録。Health Log、書評、OpenClawガイドなど。';
+require __DIR__ . '/header.php';
+?>
 <h1 class="brand"><a href="https://mblog.com/">manablog</a></h1>
 
 <ul class="toppage">
