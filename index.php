@@ -25,7 +25,7 @@ require __DIR__ . '/header.php';
 
 </ul>
 
-<hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
+<hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
 <h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">✍️ Written by Manabu</h2>
 <ul class="toppage">
 
