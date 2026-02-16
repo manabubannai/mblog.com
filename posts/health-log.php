@@ -326,8 +326,8 @@ NAC 500 mg (Thorne)
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
 
-- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10) [Total: ~240kcal, P: 15g, F: 11g, C: 8g]
-  *Feedback from AI: [Gut-Friendly Light] お腹ゆるめの日に正解の軽めディナー。卵のロイシンが就寝中の筋合成をサポート。ミニトマトのリコピンは加熱なしでも吸収されるが、卵の脂質と一緒に摂ることで吸収率2-3倍UP。黄色トマトはβカロテンが赤より多く、赤トマトはリコピンが豊富 — 両方食べることで抗酸化物質のカバー範囲が広がる。消化負担が少ないので胃腸の回復を優先できる。ただし今日のタンパク質合計は約103g、バルクアップ目標なら少し不足気味。明日は通常量に戻せると◎。
+- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Shiitake) over White Rice [Total: ~540kcal, P: 20g, F: 12g, C: 78g]
+  *Feedback from AI: [Gut-Friendly Recovery] お腹ゆるめの日に温野菜+白米は正解。加熱した野菜は不溶性食物繊維が柔らかくなり消化負担が軽い。じゃがいものレジスタントスターチ（冷めると増加）が善玉菌のエサになり腸内環境を修復。にんじんのβカロテンは加熱で細胞壁が壊れて吸収率3倍UP。しいたけのβグルカンが免疫サポート。トマトのリコピン+卵の脂質で抗酸化吸収◎。全体的に低脂質・高炭水化物で胃腸に優しく、明日への回復食として理想的。
 
 ■ Today's Work
 [x] GA4 + サーチコンソールのデータ取得・統合分析レポート作成
