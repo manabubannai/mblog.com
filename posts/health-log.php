@@ -319,14 +319,14 @@ NAC 500 mg (Thorne)
 - Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp), Avocado (1/2), Pomelo (~200g), Gold Kiwi (2) [Total: ~930kcal, P: 28g, F: 41g, C: 114g]
   *Feedback from AI: [Complete Morning] 朝食としてかなり充実。にんじんのβカロテンはEVOO+アボカドの脂質で吸収率3-5倍UP。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖が腸内善玉菌を育てる。アボカドのカリウムが塩分排出を助け、グルタチオンが肝臓の解毒をサポート。ポメロ+キウイ2個でビタミンC約300mg — サプリの非ヘム鉄の吸収を大幅に高める。キウイのアクチニジン酵素が卵のタンパク質消化を促進。フルーツの食物繊維で朝から腸内環境ケアも◎。
 
-- Lunch (15:18): Air Fried Salmon (~250g), Shiitake Mushrooms, Asparagus, Onion, Riceberry Rice (~150g) [Total: ~850kcal, P: 55g, F: 28g, C: 75g]
+- Lunch (15:18): Air Fried Salmon (~250g), Mushrooms Mushrooms, Asparagus, Onion, Riceberry Rice (~150g) [Total: ~850kcal, P: 55g, F: 28g, C: 75g]
   *Feedback from AI: [Omega-3 Powerhouse] サーモン250gでEPA/DHA大量確保+タンパク質50g超。ライスベリーに変えたのが昨日からの改善点 — アントシアニン（抗酸化）+食物繊維で血糖上昇が白米の半分以下。しいたけのエリタデニンがコレステロール代謝をサポート、βグルカンが免疫強化。アスパラのアスパラギン酸が疲労回復+葉酸が造血を促進。玉ねぎのケルセチンがサーモンのオメガ3と合わせて抗炎症を最大化。
 
 ■ Treatment
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
 
-- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Shiitake) over White Rice [Total: ~540kcal, P: 20g, F: 12g, C: 78g]
+- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Mushrooms) over White Rice [Total: ~540kcal, P: 20g, F: 12g, C: 78g]
   *Feedback from AI: [Gut-Friendly Recovery] お腹ゆるめの日に温野菜+白米は正解。加熱した野菜は不溶性食物繊維が柔らかくなり消化負担が軽い。じゃがいものレジスタントスターチ（冷めると増加）が善玉菌のエサになり腸内環境を修復。にんじんのβカロテンは加熱で細胞壁が壊れて吸収率3倍UP。しいたけのβグルカンが免疫サポート。トマトのリコピン+卵の脂質で抗酸化吸収◎。全体的に低脂質・高炭水化物で胃腸に優しく、明日への回復食として理想的。
 
 ■ Today's Work
