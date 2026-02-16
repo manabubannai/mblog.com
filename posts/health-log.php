@@ -251,8 +251,8 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp) [Total: ~650kcal, P: 24g, F: 28g, C: 75g]
-  *Feedback from AI: [Beta-Carotene + Prebiotic] 朝食の野菜不足を一気に解消。にんじんのβカロテンはEVOOの脂質と一緒に摂ることで吸収率3-5倍UP — 理想的な組み合わせ。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖（プレバイオティクス）が腸内の善玉菌を育てる。じゃがいもは煮て冷めるとレジスタントスターチが増え、血糖上昇が穏やかに。EVOOのオレイン酸で脂溶性ビタミンの吸収もカバー。
+- Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp), Avocado (1/2) [Total: ~770kcal, P: 26g, F: 40g, C: 78g]
+  *Feedback from AI: [Beta-Carotene + Prebiotic] にんじんのβカロテンはEVOO+アボカドの脂質で吸収率3-5倍UP。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖が腸内善玉菌を育てる。アボカドのカリウム（約490mg/半個）が塩分の排出を助け、グルタチオンが肝臓の解毒をサポート。脂質は多めだが大半が一価不飽和脂肪酸で心血管に◎。
 </pre>
 
   <h2># 2026-02-15</h2>
