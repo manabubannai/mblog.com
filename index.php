@@ -20,7 +20,7 @@ require __DIR__ . '/header.php';
 
 <li>
 <time datetime="2026-1-4">11 Jan, 2026</time>
-<a href="health-log">My Daily Health Log</a>
+<a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
 </ul>
