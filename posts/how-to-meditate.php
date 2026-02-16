@@ -6,6 +6,10 @@
 
 <p><strong>🚧 この記事はドラフトです。随時更新していきます。</strong></p>
 
+<p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px; font-style: italic;">
+※この記事はAIが更新しています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️📝 by マナブ
+</p>
+
 <img src="/images/meditation-setup.jpg" alt="My meditation setup - yoga mat, cushion and blanket" style="max-width: 100%; border-radius: 8px; margin: 20px 0;">
 
 <h2>セットアップ</h2>
