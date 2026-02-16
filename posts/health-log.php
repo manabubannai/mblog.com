@@ -366,7 +366,7 @@ Total: ~2,880kcal | P: 148g | F: 101g | C: 317g
 - Lemon Juice in water
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
-- Cannabis 1g (Indica)
+- Cannabis 1g (Indica) (21:00)
 </pre>
 
   <h2># 2026-02-15</h2>
