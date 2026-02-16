@@ -253,6 +253,14 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp), Avocado (1/2), Pomelo (~200g), Gold Kiwi (2) [Total: ~930kcal, P: 28g, F: 41g, C: 114g]
   *Feedback from AI: [Complete Morning] 朝食としてかなり充実。にんじんのβカロテンはEVOO+アボカドの脂質で吸収率3-5倍UP。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖が腸内善玉菌を育てる。アボカドのカリウムが塩分排出を助け、グルタチオンが肝臓の解毒をサポート。ポメロ+キウイ2個でビタミンC約300mg — サプリの非ヘム鉄の吸収を大幅に高める。キウイのアクチニジン酵素が卵のタンパク質消化を促進。フルーツの食物繊維で朝から腸内環境ケアも◎。
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) with breakfast
+- Omega-3 (Fish Oil) with breakfast
+- NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
+- Lemon Juice in water
+- Great Lakes Collagen with breakfast
+- Creatine (Thorne) with breakfast
 </pre>
 
   <h2># 2026-02-15</h2>
