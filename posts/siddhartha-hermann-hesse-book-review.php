@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Siddhartha (Hermann Hesse) — Book Review for Burned-Out Entrepreneurs';
-$page_description = 'ヘルマン・ヘッセ「シッダールタ」書評。燃え尽きた起業家のための一冊。成功・挫折・悟りの旅路から学ぶ、人生の意味。';
+$page_description = 'A book review of Siddhartha by Hermann Hesse for burned-out entrepreneurs. Lessons on success, failure, and enlightenment from a timeless classic.';
 require dirname(__DIR__) . '/header.php';
 ?>
 

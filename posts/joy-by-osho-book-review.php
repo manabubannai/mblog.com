@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Joy by OSHO (Book Review) — Five Million Dollars Made Me Unhappy';
-$page_description = 'OSHOの「Joy」書評。5億円稼いでも幸せになれなかった。お金と幸福の関係、そして本当のJoyとは何かを考える。';
+$page_description = 'A book review of Joy by OSHO. Five million dollars didn\'t bring happiness. Exploring the relationship between money, success, and true joy.';
 require dirname(__DIR__) . '/header.php';
 ?>
 

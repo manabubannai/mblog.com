@@ -1,6 +1,6 @@
 <?php
 $page_title = 'My Daily Health Log';
-$page_description = '食事・睡眠・サプリ・瞑想・筋トレを毎日記録するHealth Log。AIによる栄養フィードバック付き。バイオハッキングと健康最適化の実験記録。';
+$page_description = 'A daily log tracking food, sleep, supplements, meditation, and workouts. Includes AI-powered nutrition feedback. A biohacking and health optimization experiment.';
 require dirname(__DIR__) . '/header.php';
 ?>
 

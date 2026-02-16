@@ -1,6 +1,6 @@
 <?php
 $page_title = 'My Reflection on a Spiritual Trip (Personal Note)';
-$page_description = 'スピリチュアルな旅の振り返り。瞑想リトリートでの気づきと、内なる平和への道のり。';
+$page_description = 'A personal reflection on a spiritual trip. Insights from a meditation retreat and the path toward inner peace.';
 require dirname(__DIR__) . '/header.php';
 ?>
 
