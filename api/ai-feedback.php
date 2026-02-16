@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 }
 
 // Load API key
-$configPath = dirname(__DIR__) . '/config.php';
+$configPath = dirname(__DIR__, 2) . '/config.php';
 if (!file_exists($configPath)) {
     http_response_code(500);
     echo json_encode(['error' => 'Server configuration missing']);
