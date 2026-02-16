@@ -230,7 +230,7 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
   <!-- AI Feedback Section -->
   <div class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 20px; margin: 20px 0;">
     <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIの食事管理を試してみる</p>
-    <p style="font-size: 13px; color: #666; margin-bottom: 12px;">食事内容を入力して「AIに聞く」を押すと、栄養フィードバックが返ってきます。（1時間に10回まで）</p>
+    <p style="font-size: 13px; color: #666; margin-bottom: 12px;">AI費用はマナブ負担で、大量に使われると破産です。程々にお願いします🏋️🙏</p>
     <textarea id="meal-input" rows="4" maxlength="2000" placeholder="例: 朝食 — 卵3個スクランブル、白米1杯、味噌汁（わかめ・豆腐）、納豆1パック" style="width: 100%; box-sizing: border-box; padding: 12px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; border: 1px solid #ccc; border-radius: 6px; resize: vertical; line-height: 1.6;"></textarea>
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 10px;">
       <button id="ai-feedback-btn" style="padding: 10px 24px; background: #111; color: #fff; border: none; border-radius: 6px; font-size: 14px; cursor: pointer;">🤖 AIに聞く</button>
