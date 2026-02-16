@@ -323,6 +323,9 @@ NAC 500 mg (Thorne)
 - Breakfast (9:30): Omelette (3 Eggs), White Rice (~150g), Boiled Vegetables (Carrot 1/4, Potato 1, Onion 1/2, Lettuce 1/4), EVOO (1 tbsp), Avocado (1/2), Pomelo (~200g), Gold Kiwi (2) [Total: ~930kcal, P: 28g, F: 41g, C: 114g]
   *Feedback from AI: [Complete Morning] 朝食としてかなり充実。にんじんのβカロテンはEVOO+アボカドの脂質で吸収率3-5倍UP。玉ねぎのケルセチン（抗炎症）+フラクトオリゴ糖が腸内善玉菌を育てる。アボカドのカリウムが塩分排出を助け、グルタチオンが肝臓の解毒をサポート。ポメロ+キウイ2個でビタミンC約300mg — サプリの非ヘム鉄の吸収を大幅に高める。キウイのアクチニジン酵素が卵のタンパク質消化を促進。フルーツの食物繊維で朝から腸内環境ケアも◎。
 
+- Lunch (15:18): Air Fried Salmon (~250g), Shiitake Mushrooms, Asparagus, Onion, Riceberry Rice (~150g) [Total: ~850kcal, P: 55g, F: 28g, C: 75g]
+  *Feedback from AI: [Omega-3 Powerhouse] サーモン250gでEPA/DHA大量確保+タンパク質50g超。ライスベリーに変えたのが昨日からの改善点 — アントシアニン（抗酸化）+食物繊維で血糖上昇が白米の半分以下。しいたけのエリタデニンがコレステロール代謝をサポート、βグルカンが免疫強化。アスパラのアスパラギン酸が疲労回復+葉酸が造血を促進。玉ねぎのケルセチンがサーモンのオメガ3と合わせて抗炎症を最大化。
+
 ■ Treatment
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
