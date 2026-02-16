@@ -37,7 +37,7 @@ a    { flex: 1; }
 
 /* Post */
 h1, h2, h3, time, p, li, pre {
-	font-family: "adelle", serif;
+	font-family: "adelle", Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, serif;
 	font-style: normal;
 	font-weight: 400;
 	color: #525150;
