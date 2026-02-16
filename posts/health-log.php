@@ -141,8 +141,7 @@ require dirname(__DIR__) . '/header.php';
 →最も効果の高い施策をAIに聞きつつ実行
 
 📅 ルーティン
-8時 : 起床
-8時半：Meditation
+8時 : 起床、日光、瞑想
 9時：朝食
 10時〜13時：内省タイム（1人で思考して執筆）
 13時：ストレッチ
@@ -150,7 +149,7 @@ require dirname(__DIR__) . '/header.php';
 15時：情報収集
 16時：筋トレ
 20時：ディナー
-23時：読書やPodcast（画面オフ）
+22時：就寝準備（画面オフ）
 </pre>
 
   <!-- AI Health Log Prompt Section -->
