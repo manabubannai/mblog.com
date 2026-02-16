@@ -326,8 +326,8 @@ NAC 500 mg (Thorne)
 • Meditation 30min (朝イチ)
 • Stretch 20min (朝食後)
 
-- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Mushrooms) over White Rice [Total: ~540kcal, P: 20g, F: 12g, C: 78g]
-  *Feedback from AI: [Gut-Friendly Recovery] お腹ゆるめの日に温野菜+白米は正解。加熱した野菜は不溶性食物繊維が柔らかくなり消化負担が軽い。じゃがいものレジスタントスターチ（冷めると増加）が善玉菌のエサになり腸内環境を修復。にんじんのβカロテンは加熱で細胞壁が壊れて吸収率3倍UP。しいたけのβグルカンが免疫サポート。トマトのリコピン+卵の脂質で抗酸化吸収◎。全体的に低脂質・高炭水化物で胃腸に優しく、明日への回復食として理想的。
+- Dinner (19:38): Omelette (2 Eggs), Cherry Tomatoes red & yellow (~10), Boiled Vegetables Bowl (Carrot, Potato, Asparagus, Mushrooms) over White Rice, Salmon (~200g) [Total: ~900kcal, P: 60g, F: 30g, C: 78g]
+  *Feedback from AI: [Recovery + Protein Boost] お腹ゆるめでも消化しやすいサーモンを追加したのが◎。サーモンの脂質はオメガ3中心で抗炎症作用があり、腸の炎症を鎮める方向に働く。タンパク質40g追加で就寝中の筋合成も十分サポート。温野菜は消化負担が軽く、じゃがいものレジスタントスターチが善玉菌を育てる。にんじんのβカロテンは加熱+サーモンの脂質で吸収率UP。トマトのリコピン+卵の脂質で抗酸化◎。胃腸を労わりつつタンパク質もしっかり確保した良いバランス。
 
 ■ Today's Work
 [x] GA4 + サーチコンソールのデータ取得・統合分析レポート作成
