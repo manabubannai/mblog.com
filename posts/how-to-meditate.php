@@ -5,53 +5,27 @@ require dirname(__DIR__) . '/header.php';
 ?>
 
 <style>
-  .article-jp {
+  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap");
+
+  body.article-jp {
     font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     line-height: 2;
     color: rgb(51, 51, 51);
     max-width: 680px;
-    margin: auto;
   }
-  .article-jp h1.title {
-    font-size: 29px; font-weight: 600;
-    margin-top: 0; margin-bottom: 40px; line-height: 1.7;
-  }
-  .article-jp h2 {
-    font-size: 24px; font-weight: 600;
-    margin-top: 40px; margin-bottom: 15px; line-height: 1.7;
-  }
+  .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .article-jp h2 { font-size: 24px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp h2::before { content: "■ "; font-family: system-ui; font-size: 100%; }
-  .article-jp h3 {
-    font-size: 21px; font-weight: 600;
-    margin-top: 40px; margin-bottom: 15px; line-height: 1.7;
-  }
+  .article-jp h3 { font-size: 21px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp h3::before { content: "□ "; font-family: system-ui; font-size: 100%; }
-  .article-jp h4 {
-    font-size: 18px; font-weight: 600;
-    margin-top: 40px; margin-bottom: -5px; line-height: 1.7;
-  }
+  .article-jp h4 { font-size: 18px; font-weight: 600; margin-top: 40px; margin-bottom: -5px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp h4::before { content: "✓ "; font-family: system-ui; font-size: 100%; }
-  .article-jp p {
-    font-size: 16.5px; line-height: 1.7;
-    margin-top: 20px; margin-bottom: 35px;
-  }
-  .article-jp ul, .article-jp ol {
-    font-size: 16.5px; line-height: 2;
-    background-color: rgba(250,250,250,0.48);
-    outline: 1px solid rgba(228,228,228,0.87);
-    padding: 20px 10px 20px 30px;
-    margin-top: 20px; margin-bottom: 35px;
-    list-style: disc;
-  }
-  .article-jp ul li, .article-jp ol li { line-height: 2; }
-  .article-jp blockquote {
-    padding-left: 20px;
-    border-left: 2.5px solid rgba(86,86,86,0.85);
-    font-style: italic;
-    margin: 20px 0 35px;
-  }
+  .article-jp p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .article-jp ul, .article-jp ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
+  .article-jp ul li, .article-jp ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .article-jp blockquote { padding-left: 20px; border-left: 2.5px solid rgba(86,86,86,0.85); font-style: italic; margin: 20px 0 35px; }
   .article-jp blockquote p { margin: 0; font-size: 16.5px; }
   .article-jp blockquote p::before { content: "» "; }
   .article-jp a { color: #337ab7; text-decoration: underline; }
@@ -60,6 +34,12 @@ require dirname(__DIR__) . '/header.php';
   .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
   .article-jp .faq-q { margin-bottom: 5px; }
   .article-jp .faq-a { margin-top: 0; }
+
+  /* PC: tighter paragraph spacing */
+  @media all and (min-width: 481px) {
+    .article-jp p { margin-top: 10px; margin-bottom: 18px; }
+    .article-jp ul, .article-jp ol { margin-top: 10px; margin-bottom: 18px; }
+  }
 
   @media all and (max-width: 480px) {
     .article-jp h1.title { font-size: 20px; }
