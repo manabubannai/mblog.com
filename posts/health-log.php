@@ -363,8 +363,8 @@ NAC 500 mg (Thorne)
 - Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries [Total: ~80kcal, P: 3g, F: 0g, C: 15g]
   *Feedback from AI: [Beauty + Immunity Shot] 燕の巣のシアル酸が免疫細胞の活性化+肌のターンオーバーを促進。クコの実のゼアキサンチン+βカロテンが眼精疲労を緩和し、ビタミンCも補給。低カロリーで夕食前の胃に優しい。コラーゲン生成をサポートするプロリンも含有。
 
-- Pre-Dinner (18:13): Lanzhou Beef Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Beef Slices, Cilantro, Green Onion, Broth [Total: ~550kcal, P: 25g, F: 12g, C: 75g]
-  *Feedback from AI: [Warm Gut Prep] 蘭州拉麺の牛骨スープにはコラーゲン+グリシンが豊富で、腸壁の修復をサポート。手打ち麺は製麺過程でグルテン構造が整い、機械製麺より消化しやすい。パクチーのリナロールに抗不安・消化促進効果。ネギのアリシンがビタミンB1の吸収を高め、牛肉のカルニチンが脂肪燃焼を促進。燕の巣に続いて温かいスープ系で胃腸を温める流れが◎。
+- Pre-Dinner (18:13): Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion, Broth [Total: ~580kcal, P: 28g, F: 15g, C: 75g]
+  *Feedback from AI: [Warm Gut Prep] 蘭州拉麺の骨スープにはコラーゲン+グリシンが豊富で、腸壁の修復をサポート。手打ち麺は製麺過程でグルテン構造が整い、機械製麺より消化しやすい。豚肉のビタミンB1がエネルギー代謝を促進、ネギのアリシンがその吸収を5-6倍UP。パクチーのリナロールに抗不安・消化促進効果。燕の巣に続いて温かいスープ系で胃腸を温める流れが◎。
   *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。
 
 ■ 今日の積み上げ
