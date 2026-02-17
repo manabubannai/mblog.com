@@ -343,6 +343,9 @@ NAC 500 mg (Thorne)
 - Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~10), Gold Kiwi (1), Pomelo (~200g) [Total: ~880kcal, P: 24g, F: 38g, C: 98g]
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
+- Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce [Total: ~780kcal, P: 52g, F: 22g, C: 78g]
+  *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。
+
 ■ 今日の積み上げ
 [x] 理念を確定する
 [x] 理念から行動逆算
