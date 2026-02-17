@@ -363,8 +363,8 @@ NAC 500 mg (Thorne)
 - Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 15g, C: 90g]
   *Feedback from AI: [Warm Recovery Set] 燕の巣のシアル酸で免疫+肌ターンオーバー促進、クコの実のゼアキサンチンで眼精疲労ケア。蘭州拉麺の骨スープはコラーゲン+グリシンで腸壁修復。豚肉のビタミンB1×ネギのアリシンで吸収5-6倍UP。パクチーのリナロールが消化促進。温かいスープ2品で胃腸を整える良いセット。
 
-- Dinner (19:40): Stir-fried Clams with Chili &amp; Thai Basil, Fresh Coconut Water [Total: ~300kcal, P: 22g, F: 8g, C: 18g]
-  *Feedback from AI: [Mineral Boost] アサリは亜鉛+鉄+ビタミンB12の宝庫。B12は1食で1日推奨量の数倍を摂取でき、神経機能と赤血球生成に◎。タイバジルのオイゲノールが抗炎症、唐辛子のカプサイシンが代謝促進。ココナッツウォーターのカリウムで塩分バランスを調整。低カロリー高タンパクの良いディナー。
+- Dinner (19:40): Stir-fried Clams with Chili &amp; Thai Basil, Crab Fried Rice with Egg, Cucumber, Lime, Fresh Coconut Water [Total: ~850kcal, P: 40g, F: 18g, C: 108g]
+  *Feedback from AI: [Seafood Mineral Feast] アサリの亜鉛+鉄+B12が神経機能と造血をサポート。カニのキチン由来のグルコサミンが関節ケア+タンパク質補強。タイバジルのオイゲノールが抗炎症、唐辛子のカプサイシンが代謝促進。ライムのビタミンCが非ヘム鉄の吸収を高める。きゅうりの水分+カリウムで塩分バランス調整。ココナッツウォーターの電解質で締め。シーフード2品で亜鉛+B12を大量確保できた。
 
 ■ 今日の積み上げ
 [x] 理念を確定する
