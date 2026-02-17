@@ -164,7 +164,6 @@ require dirname(__DIR__) . '/header.php';
 
 ■ では、どの順番で実行すべきか？
 ３年前の自分が、最も救われるコンテンツから。
-
 </pre>
 
   <!-- copy buttons moved below latest log -->
