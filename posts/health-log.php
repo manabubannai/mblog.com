@@ -349,7 +349,7 @@ NAC 500 mg (Thorne)
 - Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~5, half left), Gold Kiwi (1), Pomelo (~200g) [Total: ~850kcal, P: 23g, F: 38g, C: 93g]
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
-- Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce) [Total: ~950kcal, P: 54g, F: 23g, C: 118g]
+- Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce), 3 Seed, Collagen, Coconut Sugar (小さじ2杯) [Total: ~1,020kcal, P: 60g, F: 26g, C: 125g]
   *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。
 
 ■ 今日の積み上げ
@@ -380,8 +380,7 @@ OpenClawってなに？ 何がすごいの？ みたいな記事を書く。
 ペルソナは誰か？ 例えばUさんとかはChatGPTを開いて「オープンクローって何」といつ質問をして、その際にChatGPTは「自律的に動くAIエージェントですよ」みたいな回答すると思う。
 しかし大半の人はこれを見たところで、なにそれおいしいの、という状態だから、実際に私がどのように活用してどのように生産性を最大化しているのか。そして、その先にどういった未来が存在するのか。そして、その未来においてどういった人が失業して、どういった人がお金を稼ぎ、どういった世界になっていくのか、これをコンテンツにする。
 
-■ Substances
-- 3 Seed, Collagen, Coconut Sugar (小さじ2杯) with breakfast
+
 </pre>
 
   <h2># 2026-02-16</h2>
