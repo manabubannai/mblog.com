@@ -35,7 +35,15 @@ require dirname(__DIR__) . '/header.php';
   .article-jp .faq-q { margin-bottom: 5px; }
   .article-jp .faq-a { margin-top: 0; }
 
+  /* PC only: hide br */
+  .pc-br { display: inline; }
+  /* SP only: span acts as line break */
+  .sp-br { display: none; }
+
   @media all and (max-width: 480px) {
+    /* On mobile: hide pc-br, show sp-br as block break */
+    .pc-br { display: none; }
+    .sp-br { display: block; margin-bottom: 15px; }
     .article-jp h1.title { font-size: 20px; }
     .article-jp h2 { font-size: 19px; }
     .article-jp h3 { font-size: 17px; }
@@ -128,17 +136,13 @@ require dirname(__DIR__) . '/header.php';
 
 <h3>手順③：呼吸への集中に慣れる</h3>
 
-<p>最後に「集中力」の話です。ここが難しい。</p>
-
-<p>最初は息苦しくなる。うまく呼吸できません。とはいえ徐々に慣れます。コツもある。</p>
+<p>最後に「集中力」の話です。ここが難しい。<span class="sp-br"></span><br class="pc-br">最初は息苦しくなる。うまく呼吸できません。とはいえ徐々に慣れます。コツもある。</p>
 
 <ul>
   <li>結論：瞑想するタイミングが大切</li>
 </ul>
 
-<p>瞑想は「副交感神経」を使います。つまり「リラックス状態」になる必要がある。</p>
-
-<p>じゃあ、どのタイミングだとリラックスしやすいか？ とても簡単です。次のとおり。</p>
+<p>瞑想は「副交感神経」を使います。つまり「リラックス状態」になる必要がある。<span class="sp-br"></span>じゃあ、どのタイミングだとリラックスしやすいか？ とても簡単です。次のとおり。</p>
 
 <ul>
   <li>寝起きで、まず最初に瞑想する（30分）</li>
