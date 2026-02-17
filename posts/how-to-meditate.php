@@ -50,6 +50,7 @@ require dirname(__DIR__) . '/header.php';
     .article-jp h4 { font-size: 16px; }
     .article-jp p { font-size: 15px; margin-top: 15px; }
     .article-jp ul, .article-jp ol { font-size: 14.7px; }
+    .article-jp blockquote p { font-size: 15px; }
     .article-jp time { font-size: 12px; margin-bottom: 10px; }
     .article-jp img { max-width: 95%; }
   }
