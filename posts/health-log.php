@@ -343,7 +343,7 @@ NAC 500 mg (Thorne)
 - Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~10), Gold Kiwi (1), Pomelo (~200g) [Total: ~880kcal, P: 24g, F: 38g, C: 98g]
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
-■ Today's Tasks
+■ 今日の積み上げ
 [x] 理念を確定する
 [x] 理念から行動逆算
 [x] AIとコンテンツ作成
@@ -584,7 +584,7 @@ Dream Analysis (by AI — Jungian Framework):
 - Mind: 9/10
 - Spirit: 6/10
 
-■ Today's Tasks
+■ 今日の積み上げ
 - [x] OpenClawのBotを更に増やす（設定はClaude Codeに任せてみる）
 - [ ] OpenClawでFamily Botを作る（家族の栄養管理、食材管理AI）
 - [ ] OpenClawでDev Botを作る（適当に遊びまくる用）
