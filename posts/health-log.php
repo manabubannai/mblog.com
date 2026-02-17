@@ -36,6 +36,18 @@ require dirname(__DIR__) . '/header.php';
     color: #333;
     white-space: pre-wrap;
   }
+
+  pre a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px dashed #aaa;
+    transition: color 0.2s;
+  }
+
+  pre a:hover {
+    color: #000;
+    border-bottom-color: #333;
+  }
 </style>
 <script>
   window.onload = function () {
