@@ -13,11 +13,6 @@ require __DIR__ . '/header.php';
 <a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
-<li>
-<time datetime="2026-02-11">11 Feb, 2026</time>
-<a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
-</li>
-
 </ul>
 
 <hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
@@ -27,6 +22,11 @@ require __DIR__ . '/header.php';
 <li>
 <time datetime="2026-02-17">17 Feb, 2026</time>
 <a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
+</li>
+
+<li>
+<time datetime="2026-02-11">11 Feb, 2026</time>
+<a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
 
 <li>
