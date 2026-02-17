@@ -44,7 +44,7 @@ require dirname(__DIR__) . '/header.php';
     /* On mobile: hide pc-br, show sp-br as block break */
     .pc-br { display: none; }
     .sp-br { display: block; margin-bottom: 15px; }
-    .article-jp h1.title { font-size: 20px; }
+    .article-jp h1.title { font-size: 20px; margin-bottom: 15px; }
     .article-jp h2 { font-size: 19px; }
     .article-jp h3 { font-size: 17px; }
     .article-jp h4 { font-size: 16px; }
