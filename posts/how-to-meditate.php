@@ -15,7 +15,7 @@ require dirname(__DIR__) . '/header.php';
     color: rgb(51, 51, 51);
     max-width: 680px;
   }
-  .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 20px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp h2 { font-size: 24px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp h2::before { content: "■ "; font-family: system-ui; font-size: 100%; }
   .article-jp h3 { font-size: 21px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
@@ -32,6 +32,8 @@ require dirname(__DIR__) . '/header.php';
   .article-jp img { max-width: 75%; display: block; margin: auto; margin-bottom: 25px; }
   .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
   .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
+  .article-jp .faq-q { margin-bottom: 5px; }
+  .article-jp .faq-a { margin-top: 0; }
 
   @media all and (max-width: 480px) {
     .article-jp h1.title { font-size: 20px; }
@@ -138,7 +140,9 @@ require dirname(__DIR__) . '/header.php';
 
 <p>じゃあ、どのタイミングだとリラックスしやすいか？ とても簡単です。次のとおり。</p>
 
-<p>・寝起きで、まず最初に瞑想する（30分）</p>
+<ul>
+  <li>寝起きで、まず最初に瞑想する（30分）</li>
+</ul>
 
 <p>最低でも10分はすべき。しかし忙しい朝に、わざわざ瞑想する意味とは？</p>
 
@@ -167,29 +171,29 @@ require dirname(__DIR__) . '/header.php';
 
 <p><i>※補足：AIが「よくある質問」を出したので回答です🙋‍♂️</i></p>
 
-<p><b>Q. 雑念が止まりません。失敗ですか？</b></p>
+<p class="faq-q"><b>Q. 雑念が止まりません。失敗ですか？</b></p>
 
-<p>A. 問題なし。僕も同じです。集中しなくちゃ、、とか。足が痛いなぁ、とか。雑念が出たら戻す。この「戻す行為 = 瞑想の練習」です。</p>
+<p class="faq-a">A. 問題なし。僕も同じです。集中しなくちゃ、、とか。足が痛いなぁ、とか。雑念が出たら戻す。この「戻す行為 = 瞑想の練習」です。</p>
 
-<p><b>Q. 10分も我慢できません。長すぎる</b></p>
+<p class="faq-q"><b>Q. 10分も我慢できません。長すぎる</b></p>
 
-<p>A. 最初は５分でOK。人生で最も長い「５分」を経験できます。そして徐々に慣れる。鬼滅の刃を見ると、呼吸の技が出るのでモチベUP🏋️</p>
+<p class="faq-a">A. 最初は５分でOK。人生で最も長い「５分」を経験できます。そして徐々に慣れる。鬼滅の刃を見ると、呼吸の技が出るのでモチベUP🏋️</p>
 
-<p><b>Q. 瞑想に、アプリは必要ですか？</b></p>
+<p class="faq-q"><b>Q. 瞑想に、アプリは必要ですか？</b></p>
 
-<p>A. 僕は使いません。4-4-6-2呼吸も、大切なのは正確な秒数じゃなく、体をリラックスさせることです。最初の１ヶ月だけ使うのもあり。</p>
+<p class="faq-a">A. 僕は使いません。4-4-6-2呼吸も、大切なのは正確な秒数じゃなく、体をリラックスさせることです。最初の１ヶ月だけ使うのもあり。</p>
 
-<p><b>Q. 座り方は、あぐらじゃないとダメ？</b></p>
+<p class="faq-q"><b>Q. 座り方は、あぐらじゃないとダメ？</b></p>
 
-<p>A. 椅子でOK。むしろ椅子の方が、足が痛くならないし良い。僕の場合はあぐらの方が、体全体が地面に乗るイメージを持てて快適です。</p>
+<p class="faq-a">A. 椅子でOK。むしろ椅子の方が、足が痛くならないし良い。僕の場合はあぐらの方が、体全体が地面に乗るイメージを持てて快適です。</p>
 
-<p><b>Q. 夜にやっても効果ありますか？</b></p>
+<p class="faq-q"><b>Q. 夜にやっても効果ありますか？</b></p>
 
-<p>A. あります。睡眠の質が上がります。とはいえ夜は意思力も減っているので、サボりやすくなるはず。僕は朝の瞑想をオススメします。</p>
+<p class="faq-a">A. あります。睡眠の質が上がります。とはいえ夜は意思力も減っているので、サボりやすくなるはず。僕は朝の瞑想をオススメします。</p>
 
-<p><b>Q. ２年も継続できる気がしません</b></p>
+<p class="faq-q"><b>Q. ２年も継続できる気がしません</b></p>
 
-<p>A. 別にOKです。僕が初めて瞑想を試したのは10年前。すぐ挫折しました。その後も何度も「挑戦 → 挫折」を繰り返しています。</p>
+<p class="faq-a">A. 別にOKです。僕が初めて瞑想を試したのは10年前。すぐ挫折しました。その後も何度も「挑戦 → 挫折」を繰り返しています。</p>
 
 <p>今回に継続できた理由は、心の病を治そうと思ったから。なにか<a href="https://forms.gle/CYduajUuR3uEh1G5A" target="_blank" rel="noopener noreferrer nofollow">疑問</a>があれば回答するので、挫折前提でトライもあり。</p>
 
