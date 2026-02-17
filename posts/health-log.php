@@ -340,8 +340,13 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-17</h2>
   <pre>
+- Body: 8/10
+- Mind: 9/10
+- Spirit: 8/10
+- ※ 体に少し不調が残っている。昨夜は、寝る直前まで吸い過ぎた。
+
 ■ Food
-- Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~10), Gold Kiwi (1), Pomelo (~200g) [Total: ~880kcal, P: 24g, F: 38g, C: 98g]
+- Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~5, half left), Gold Kiwi (1), Pomelo (~200g) [Total: ~850kcal, P: 23g, F: 38g, C: 93g]
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
 - Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce) [Total: ~950kcal, P: 54g, F: 23g, C: 118g]
@@ -366,6 +371,9 @@ NAC 500 mg (Thorne)
 OpenClawってなに？ 何がすごいの？ みたいな記事を書く。
 ペルソナは誰か？ 例えばUさんとかはChatGPTを開いて「オープンクローって何」といつ質問をして、その際にChatGPTは「自律的に動くAIエージェントですよ」みたいな回答すると思う。
 しかし大半の人はこれを見たところで、なにそれおいしいの、という状態だから、実際に私がどのように活用してどのように生産性を最大化しているのか。そして、その先にどういった未来が存在するのか。そして、その未来においてどういった人が失業して、どういった人がお金を稼ぎ、どういった世界になっていくのか、これをコンテンツにする。
+
+■ Substances
+- 3 Seed, Collagen, Coconut Sugar (小さじ2杯) with breakfast
 </pre>
 
   <h2># 2026-02-16</h2>
@@ -425,7 +433,8 @@ Total: ~2,880kcal | P: 148g | F: 101g | C: 317g
 - Lemon Juice in water
 - Great Lakes Collagen with breakfast
 - Creatine (Thorne) with breakfast
-- Cannabis 1g (Indica) (21:00)
+- Cannabis 0.7g (Indica) (21:00)
+- Cannabis 0.9g (Indica) (22:20)
 </pre>
 
   <h2># 2026-02-15</h2>
