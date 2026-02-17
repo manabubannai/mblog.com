@@ -363,7 +363,7 @@ NAC 500 mg (Thorne)
 - Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 15g, C: 90g]
   *Feedback from AI: [Warm Recovery Set] 燕の巣のシアル酸で免疫+肌ターンオーバー促進、クコの実のゼアキサンチンで眼精疲労ケア。蘭州拉麺の骨スープはコラーゲン+グリシンで腸壁修復。豚肉のビタミンB1×ネギのアリシンで吸収5-6倍UP。パクチーのリナロールが消化促進。温かいスープ2品で胃腸を整える良いセット。
 
-- Dinner (19:40): Stir-fried Clams with Chili &amp; Thai Basil, Crab Fried Rice with Egg, Cucumber, Lime, Steamed Whole Fish with Cilantro, Fresh Coconut Water [Total: ~1,150kcal, P: 75g, F: 28g, C: 110g]
+- Dinner (19:40): Stir-fried Clams with Chili &amp; Thai Basil, Crab Fried Rice with Egg (half), Cucumber, Lime, Steamed Whole Fish with Cilantro (1/3), Fresh Coconut Water [Total: ~750kcal, P: 48g, F: 18g, C: 65g]
   *Feedback from AI: [Seafood Mineral Feast] 今日のディナーはシーフード3品のフルコース。アサリの亜鉛+鉄+B12で造血サポート。カニのタンパク質+グルコサミンで関節ケア。蒸し魚は高タンパク低脂質の最良調理法 — オメガ3が蒸しで損失ゼロ。パクチーのリナロールが消化促進。唐辛子のカプサイシンが代謝UP。ライムのビタミンCが非ヘム鉄吸収を強化。タンパク質75gでバルクアップ目標に大きく貢献。
 
 ■ 今日の積み上げ
