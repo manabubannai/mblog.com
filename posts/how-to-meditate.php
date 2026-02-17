@@ -140,9 +140,9 @@ require dirname(__DIR__) . '/header.php';
 座布団と腰当てです。</p>
 
 <ul>
-  <li>adidasのマット（厚さ１センチ。３つ折りで使う）</li>
+  <li><a href="https://www.adidashardware.com/catalogue-training/training-mat" target="_blank">adidasのマット</a>（厚さ１センチ。３つ折りで使う）</li>
   <li>大きめのバスタオル（座り心地を高めるために使う）</li>
-  <li>ニトリの腰当てクッション（背筋を伸ばして座れる）</li>
+  <li><a href="https://www.nitori-net.jp/ec/product/7806499s/" target="_blank">ニトリの腰当てクッション</a>（背筋を伸ばして座れる）</li>
 </ul>
 
 <p>腰当てを壁に密着させ、あとは座るだけ。<br>
