@@ -35,12 +35,6 @@ require dirname(__DIR__) . '/header.php';
   .article-jp .faq-q { margin-bottom: 5px; }
   .article-jp .faq-a { margin-top: 0; }
 
-  /* PC: tighter paragraph spacing */
-  @media all and (min-width: 481px) {
-    .article-jp p { margin-top: 10px; margin-bottom: 18px; }
-    .article-jp ul, .article-jp ol { margin-top: 10px; margin-bottom: 18px; }
-  }
-
   @media all and (max-width: 480px) {
     .article-jp h1.title { font-size: 20px; }
     .article-jp h2 { font-size: 19px; }
