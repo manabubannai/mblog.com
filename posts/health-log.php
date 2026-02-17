@@ -38,12 +38,12 @@ require dirname(__DIR__) . '/header.php';
   }
 
   pre a {
-    color: #1a73e8;
+    color: #1a73e8 !important;
     text-decoration: underline;
   }
 
   pre a:hover {
-    color: #174ea6;
+    color: #174ea6 !important;
   }
 </style>
 <script>
