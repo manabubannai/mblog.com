@@ -432,8 +432,8 @@ Total: ~2,880kcal | P: 148g | F: 101g | C: 317g
 [ ] Oura Ring API連携 → トークン待ち
 
 ■ Treatment
-• Meditation 30min (朝イチ)
-• Stretch 20min (朝食後)
+- Meditation 30min (朝イチ)
+- Stretch 20min (朝食後)
 
 ■ Substances
 - Multi-Vitamin Elite AM (Thorne) with breakfast
@@ -489,8 +489,8 @@ Total: ~2,550kcal | P: 149g | F: 82g | C: 270g
 - Cannabis 0.7g (Indica)
 
 ■ Treatment
-• Meditation 30min (午後に実施 — 朝一のタイミングを逃した)
-• Stretch 20min
+- Meditation 30min (午後に実施 — 朝一のタイミングを逃した)
+- Stretch 20min
 
 ■ Note
 トシさんに依頼してSimple Clawを作ってみる？
@@ -543,7 +543,7 @@ AIとの会話のスクショを見せて、「マナブさんはもう諦めて
 - Cannabis 0.5g (Indica) at 21:00
 
 ■ Treatment
-• Meditation (first thing in the morning)
+- Meditation (first thing in the morning)
 
 ■ Social
 • Billiards with friend 🎱
@@ -594,8 +594,8 @@ Dream Analysis (by AI — Jungian Framework):
 - Lemon Juice (1 tbsp) in water — サプリと一緒に摂取（クエン酸で非ヘム鉄の吸収率向上）
 
 ■ Treatment
-• Meditation (first thing in the morning)
-• Stretch
+- Meditation (first thing in the morning)
+- Stretch
 
 ■ Note
 過去10年間、ブログを育て、SNSを更新し、YouTubeで発信してきた。
@@ -657,8 +657,8 @@ Dream Analysis (by AI — Jungian Framework):
 - NMN 1g / Res 1g / TMG 0.5g (ProHealth) with breakfast
 
 ■ Treatment
-• Meditation 30min (first thing in the morning)
-• Stretch 20min
+- Meditation 30min (first thing in the morning)
+- Stretch 20min
 </pre>
 
   <h2># 2026-02-11</h2>
@@ -694,8 +694,8 @@ Dream Analysis (by AI — Jungian Framework):
 - 整腸剤 (After Dinner)
 
 ■ Treatment
-• Meditation (first thing in the morning)
-• Stretch 20min
+- Meditation (first thing in the morning)
+- Stretch 20min
 
 ■ Note
 バルクアップの食事ルーティン例：
