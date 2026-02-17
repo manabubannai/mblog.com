@@ -14,8 +14,8 @@ require __DIR__ . '/header.php';
 </li>
 
 <li>
-<time datetime="2026-02-15">15 Feb, 2026</time>
-<a href="how-to-meditate">(下書き) How I Meditate — 瞑想のやり方</a>
+<time datetime="2026-02-17">17 Feb, 2026</time>
+<a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
 </li>
 
 <li>
