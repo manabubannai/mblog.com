@@ -351,7 +351,7 @@ NAC 500 mg (Thorne)
 - Body: 8/10
 - Mind: 9/10
 - Spirit: 8/10
-- ※note: 体に少し大麻が残っている。昨夜は寝る直前まで吸い過ぎた。
+※note: 体に少し大麻が残っている。昨夜は寝る直前まで吸い過ぎた。
 
 ■ Food
 - Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~5, half left), Gold Kiwi (1), Pomelo (~200g) [Total: ~850kcal, P: 23g, F: 38g, C: 93g]
