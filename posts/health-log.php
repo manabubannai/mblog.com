@@ -358,7 +358,7 @@ NAC 500 mg (Thorne)
 ■ ドラフト（下書き）
 ・<a href="/draft-04">メルマガ #4「その上司のメール、AIが書いています」</a> → 編集待ち
 ・<a href="/draft-05">メルマガ #5「5億稼いで壊れた僕が、瞑想で治った話」</a> → 確認待ち
-・記事ネタ：OpenClawってなに？何がすごいの？ → 構想中
+・<a href="/draft-openclaw-article">記事ネタ：OpenClawってなに？何がすごいの？</a> → 構想中
 
 ■ Note
 OpenClawってなに？ 何がすごいの？ みたいな記事を書く。
