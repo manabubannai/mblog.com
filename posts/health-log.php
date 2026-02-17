@@ -360,7 +360,7 @@ NAC 500 mg (Thorne)
 - Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce), 3 Seed, Collagen, Coconut Sugar (小さじ2杯) [Total: ~1,020kcal, P: 60g, F: 26g, C: 125g]
   *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。3 Seed+コラーゲンで関節・肌・髪のサポートも追加。
 
-- Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 15g, C: 90g]
+- Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion, Fresh Coconut Water [Total: ~710kcal, P: 31g, F: 15g, C: 102g]
   *Feedback from AI: [Warm Recovery Set] 燕の巣のシアル酸で免疫+肌ターンオーバー促進、クコの実のゼアキサンチンで眼精疲労ケア。蘭州拉麺の骨スープはコラーゲン+グリシンで腸壁修復。豚肉のビタミンB1×ネギのアリシンで吸収5-6倍UP。パクチーのリナロールが消化促進。温かいスープ2品で胃腸を整える良いセット。
 
 ■ 今日の積み上げ
