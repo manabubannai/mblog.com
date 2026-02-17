@@ -48,8 +48,8 @@ require dirname(__DIR__) . '/header.php';
     .article-jp h2 { font-size: 19px; }
     .article-jp h3 { font-size: 17px; }
     .article-jp h4 { font-size: 16px; }
-    .article-jp p { font-size: 15px; margin-top: 15px; }
-    .article-jp ul, .article-jp ol { font-size: 14.7px; }
+    .article-jp p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
+    .article-jp ul, .article-jp ol { font-size: 14.7px; line-height: 1.7; }
     .article-jp blockquote p { font-size: 15px; }
     .article-jp time { font-size: 12px; margin-bottom: 10px; }
     .article-jp img { max-width: 95%; }
