@@ -377,8 +377,8 @@ NAC 500 mg (Thorne)
 [ ] 若い子を集めて教育する寺子屋をやりたい
 
 ■ ドラフト（下書き）
-- メルマガ #4 「<a href="/draft-04">その上司のメール、AIが書いています</a>」 → 編集待ち
-- 記事ネタ：「<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>」 → 構想中
+- <a href="/draft-04">その上司のメール、AIが書いています</a> → 編集待ち
+- <a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a> → 構想中
 
 ■ Note
 相手が聞きたい言葉を考える。
