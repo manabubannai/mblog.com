@@ -12,7 +12,7 @@ require dirname(__DIR__) . '/header.php';
     font-style: normal;
     font-weight: 400;
     line-height: 28px;
-    color: #333;
+    color: inherit;
     -webkit-font-smoothing: antialiased;
   }
 
