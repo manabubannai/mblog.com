@@ -14,11 +14,6 @@ require __DIR__ . '/header.php';
 </li>
 
 <li>
-<time datetime="2026-02-17">17 Feb, 2026</time>
-<a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
-</li>
-
-<li>
 <time datetime="2026-02-11">11 Feb, 2026</time>
 <a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
@@ -28,6 +23,11 @@ require __DIR__ . '/header.php';
 <hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
 <h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">✍️ Written by Manabu</h2>
 <ul class="toppage">
+
+<li>
+<time datetime="2026-02-17">17 Feb, 2026</time>
+<a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
+</li>
 
 <li>
 <time datetime="2026-1-4">4 Jan, 2026</time>
