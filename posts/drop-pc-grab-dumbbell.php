@@ -19,7 +19,7 @@ require dirname(__DIR__) . '/header.php';
   .article-jp p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp ul, .article-jp ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
   .article-jp ul li, .article-jp ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp ul.long_list li { line-height: 2; }
+  .article-jp ul.long_list li { line-height: 1.7; }
   .article-jp a { color: #337ab7; text-decoration: underline; }
   .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
   .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
