@@ -42,7 +42,7 @@ require dirname(__DIR__) . '/header.php';
 
 <p>AI活用で書きました。僕がプロデューサーで、弟子AIを鍛えてます。内容は僕が精査済み。始めます🙋‍♂️</p>
 
-<p><i>※補足 : このようなライティングは「Claude Opus 4.6」を使うと快適に書けます。</i></p>
+<p><i>※補足 : このようなライティングは「<a href="https://claude.ai/" target="_blank">Claude Opus 4.6</a>」を使うと快適に書けます。</i></p>
 
 <hr>
 
