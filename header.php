@@ -22,5 +22,4 @@
 </head>
 
 <body>
-<?php
 <?php // Valentine's decoration removed 2026-02-18 ?>
