@@ -546,7 +546,7 @@ AIとの会話のスクショを見せて、「マナブさんはもう諦めて
 
 ■ Food
 - Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g), EVOO (1 tbsp), Yogurt (90g), Oats (25g), 3 Seed Protein (2 scoops), Great Lakes Collagen, Almond Milk (100ml), Coconut Sugar (2 tsp) [Total: ~1,025kcal, P: 58g, F: 39g, C: 93g]
-  *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。ただしタンパク質21gはバルクアップ朝食としては控えめ → Seed Protein or 豆腐の追加で改善。EVOOを加えると卵の脂溶性ビタミン（A/D/E）の吸収率が向上する。
+  *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。3 Seed Protein 2スクープでタンパク質58g — バルクアップ朝食として十分。EVOOで卵の脂溶性ビタミン（A/D/E）の吸収率が向上。オーツ+ヨーグルトで食物繊維+プロバイオティクスも確保。
 - Lunch: Carbonara Pasta, Mushroom Cream Soup (half), White Fish Meunière (Herb Butter Sauce) w/ Mashed Potato (half) [Total: ~1150kcal, P: 52g, F: 43g, C: 115g]
   *Feedback from AI: [Protein Rescued] 白身魚追加でタンパク質52gに改善 — 魚のタンパク質は消化吸収率95%超で筋合成に効率的。ハーブバターのパセリにビタミンK+鉄分。マッシュルームのエルゴチオネイン（細胞保護）+魚のセレンで抗酸化を二重カバー。カルボナーラの飽和脂肪酸は多めだが、魚の不飽和脂肪酸が脂質バランスを改善。腹八分目で残したのは消化負担の軽減にも◎。
 
@@ -599,15 +599,15 @@ Dream Analysis (by AI — Jungian Framework):
 
 ■ Food
 - Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (2 scoops), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~930kcal, P: 52g, F: 31g, C: 112g]
-  *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
+  *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g+3 Seed Protein 2スクープでタンパク質52g — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
 - Lunch (12:30): Sushiro — Negitoro (2 plates), Maguro (1 plate), Salmon (2 plates), Salmon w/ Cheese (1 plate), Udon, Chawanmushi, Asari Miso Soup [Total: ~1150kcal, P: 62g, F: 28g, C: 130g]
   *Feedback from AI: [Omega-3 Rich] マグロ+サーモン計6貫でEPA/DHA推定2g以上 — 抗炎症・脳機能に優秀。ネギトロのネギにアリシンが含まれ、ビタミンB1の吸収を促進。茶碗蒸しの卵でコリン確保。アサリは鉄分+ビタミンB12の優秀な供給源（造血に必須）。チーズ乗せでカルシウム+カゼインプロテインも追加。うどんの精製炭水化物が血糖を上げやすいが、味噌汁の食物繊維と脂質（魚の脂）が緩和。
 - Dinner (20:11): Oden (Egg, Beef Tendon, Daikon, Chikuwa), Riceberry (~150g), Miso Soup (Wakame, Tofu), Bamboo Shoot &amp; Eringi Garlic Stir-fry, Tempeh w/ Grated Daikon (~85g, half portion), Sweet Potato Salad (Mayo, Raisins, Walnuts, Almonds — ~20% portion), Strawberries (8 pcs) [Total: ~890kcal, P: 36g, F: 22g, C: 130g]
   *Feedback from AI: [Gut Health &amp; Antioxidants] テンペの発酵菌（リゾプス）が腸内フローラを強化 — 味噌汁の発酵菌との相乗効果。大根おろしの消化酵素（ジアスターゼ）がテンペのタンパク質吸収を促進。ライスベリーは白米比で食物繊維3倍、アントシアニン（抗酸化）が豊富。牛すじのコラーゲン+朝のビタミンC（レモン汁）でコラーゲン合成を促進。くるみのオメガ3が昼のサーモンに加えてさらに抗炎症効果を強化。たけのこの不溶性食物繊維が腸の蠕動運動を促し、便の色の改善に寄与する可能性あり。
 
 ■ Daily Summary (by AI)
-  ✓ 総カロリー: ~2,910kcal（バルクアップ目標にほぼ適合）
-  ✓ タンパク質: 141g（体重1kgあたり約2.0g — 筋合成に十分）
+  ✓ 総カロリー: ~2,970kcal（バルクアップ目標にほぼ適合）
+  ✓ タンパク質: 150g（体重1kgあたり約2.1g — 筋合成に十分）
   ✓ 食物繊維: 推定28-32g（ライスベリー+オーツ+たけのこ+サツマイモで目標達成）
   ✓ オメガ3: サーモン+くるみで2g以上確保
   ✓ 発酵食品: テンペ+味噌汁×2（朝の整腸剤との相乗効果）
@@ -704,7 +704,7 @@ Dream Analysis (by AI — Jungian Framework):
   *Feedback from AI: [Glycemic Load: High] 白米250g+蜂蜜+ココナッツシュガーで血糖値が急上昇しやすい組み合わせ。MCT Oilの中鎖脂肪酸が吸収速度を若干緩和するが、食物繊維がほぼゼロのため効果は限定的。コラーゲンはグリシン・プロリン供給源として関節/腱の回復に有効だが、筋合成に必要なロイシン含有量は低い。→ 野菜 or ナッツで食物繊維を追加すると血糖曲線が改善される。
 - Lunch (14:20): Jasmine Rice (Large portion, ~300g), 3 Fried Eggs, Broccoli (1/2 head), Carrot (1/2), EVOO (1 tbsp) [Total: ~750kcal, P: 25g, F: 30g, C: 100g]
   *Feedback from AI: [Micronutrient Highlight] ブロッコリーのスルフォラファンはNrf2経路を活性化し抗酸化防御を強化。ニンジンのβカロテンはEVOOの脂質と同時摂取で吸収率が最大6.5倍に向上（脂溶性ビタミンの相乗効果）。卵3個でコリン約450mg確保（1日推奨量の80%超）— 認知機能と肝機能に重要。ただしビタミンC源が不足。柑橘類やパプリカの追加で鉄の吸収率も改善される。
-- Pre-Dinner Snack: 3 Seed Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
+- Pre-Dinner Snack: 3 Seed Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~280kcal, P: 18g, F: 22g, C: 12g]
   *Feedback from AI: [Protein Timing] 夕食の約3時間前の摂取で、血中アミノ酸を持続的に維持。EVOOのオレイン酸（一価不飽和脂肪酸）はLDLを低下させつつHDLを維持。ただし1日のオメガ3/6比を考慮すると、ここでEVOO（オメガ6寄り）よりフィッシュオイルや亜麻仁油の方がバランスが良い。
 - Dinner (18:53): Hayashi Rice (Beef stew), Rice (Mega portion, 400g), Onsen Egg, Avocado (1 whole) [Total: ~1462kcal, P: 40g, F: 61g, C: 180g]
   *Feedback from AI: [Meal Timing Risk] 18:53の大量摂取（1462kcal）は消化負荷が高く、睡眠の質に影響する可能性あり。牛肉のヘム鉄は非ヘム鉄より吸収率が5-10倍高い。アボカドのカリウム（約700mg）はナトリウム排出を促進し血圧管理に有効。一方、白米400gの精製炭水化物がインスリンを大量分泌→脂肪蓄積にも寄りやすい。玄米 or ライスベリーに一部置換すると食物繊維+マグネシウムが改善される。
