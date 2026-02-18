@@ -346,6 +346,13 @@ NAC 500 mg (Thorne)
     <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
   </p>
 
+  <h2># 2026-02-18</h2>
+  <pre>
+■ Food
+- Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi [Total: ~550kcal, P: 42g, F: 10g, C: 65g]
+  *Feedback from AI: [Lean Recovery Morning] 昨夜の蒸し魚を無駄なく活用 — 冷めた魚のタンパク質は変性しないので栄養価そのまま。ライスベリー継続でアントシアニン+食物繊維。キムチの乳酸菌で朝から腸内環境ケア。外食翌日に自炊+シンプル構成で胃腸を休める良い判断。タンパク質42gは朝としてしっかり確保。
+</pre>
+
   <h2># 2026-02-17</h2>
   <pre>
 - Body: 8/10
