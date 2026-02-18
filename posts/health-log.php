@@ -353,7 +353,8 @@ NAC 500 mg (Thorne)
 - Spirit: 9/10
 
 ■ Social
--
+- Switch 2の初期不良を返品しに外出
+- 夜は奥さんとマイクラ
 
 ■ Food
 - Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed Protein (2 scoops), Coconut Sugar (大さじ1) [Total: ~565kcal, P: 58g, F: 13g, C: 54g]
