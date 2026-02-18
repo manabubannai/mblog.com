@@ -352,9 +352,6 @@ NAC 500 mg (Thorne)
 - Mind: 10/10
 - Spirit: 9/10
 
-※note: AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
-※note: 現状の発信は、読者からの反応、友人との会話、外出での気づきをベースに書いている。つまりソーシャルセクションが重要。
-
 ■ Social
 -
 
@@ -383,6 +380,10 @@ NAC 500 mg (Thorne)
 
 ■ ドラフト（下書き）
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
+
+■ Note
+- AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
+- 現状の発信は、読者からの反応、友人との会話、外出での気づきをベースに書いている。つまりソーシャルセクションが重要。
 </pre>
 
   <h2># 2026-02-17</h2>
