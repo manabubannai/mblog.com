@@ -373,7 +373,6 @@ NAC 500 mg (Thorne)
 [ ] Google Cloud サービスアカウント作成（Sheets API + Search Console + GA4 → 質問自動返信・アナリティクス自動化）
 [ ] 音声クローンのテスト（Fish Audio等で自分の声をAI化 → Voicy自動配信の検証）
 [ ] GA4スプレッドシートに日付ディメンション追加（日別PV取得のため）
-[ ] バレンタイン機能をオフ
 [ ] OuraとWithingsをOpenClawに連携
 [ ] スタンディングデスクの購入
 [ ] PM用のメガネを買う
@@ -436,7 +435,6 @@ Total: ~3,310kcal | P: 170g | F: 101g | C: 368g
 [ ] 音声クローンのテスト（Fish Audio等で自分の声をAI化 → Voicy自動配信の検証）
 [ ] GA4スプレッドシートに日付ディメンション追加（日別PV取得のため）
 [ ] オフ会の日程確定と連絡
-[ ] バレンタイン機能をオフ
 [ ] OuraとWithingsをOpenClawに連携
 [ ] スタンディングデスクの購入
 [ ] PM用のメガネを買う
