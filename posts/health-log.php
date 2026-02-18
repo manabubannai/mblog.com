@@ -365,7 +365,7 @@ NAC 500 mg (Thorne)
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
 - Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce), 3 Seed Protein, Collagen, Coconut Sugar (小さじ2杯) [Total: ~1,020kcal, P: 60g, F: 26g, C: 125g]
-  *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。3 Seed+コラーゲンで関節・肌・髪のサポートも追加。
+  *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。3 Seed Protein+コラーゲンで関節・肌・髪のサポートも追加。
 
 - Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 15g, C: 90g]
   *Feedback from AI: [Warm Recovery Set] 燕の巣のシアル酸で免疫+肌ターンオーバー促進、クコの実のゼアキサンチンで眼精疲労ケア。蘭州拉麺の骨スープはコラーゲン+グリシンで腸壁修復。豚肉のビタミンB1×ネギのアリシンで吸収5-6倍UP。パクチーのリナロールが消化促進。温かいスープ2品で胃腸を整える良いセット。
@@ -704,7 +704,7 @@ Dream Analysis (by AI — Jungian Framework):
   *Feedback from AI: [Glycemic Load: High] 白米250g+蜂蜜+ココナッツシュガーで血糖値が急上昇しやすい組み合わせ。MCT Oilの中鎖脂肪酸が吸収速度を若干緩和するが、食物繊維がほぼゼロのため効果は限定的。コラーゲンはグリシン・プロリン供給源として関節/腱の回復に有効だが、筋合成に必要なロイシン含有量は低い。→ 野菜 or ナッツで食物繊維を追加すると血糖曲線が改善される。
 - Lunch (14:20): Jasmine Rice (Large portion, ~300g), 3 Fried Eggs, Broccoli (1/2 head), Carrot (1/2), EVOO (1 tbsp) [Total: ~750kcal, P: 25g, F: 30g, C: 100g]
   *Feedback from AI: [Micronutrient Highlight] ブロッコリーのスルフォラファンはNrf2経路を活性化し抗酸化防御を強化。ニンジンのβカロテンはEVOOの脂質と同時摂取で吸収率が最大6.5倍に向上（脂溶性ビタミンの相乗効果）。卵3個でコリン約450mg確保（1日推奨量の80%超）— 認知機能と肝機能に重要。ただしビタミンC源が不足。柑橘類やパプリカの追加で鉄の吸収率も改善される。
-- Pre-Dinner Snack: 3 Seeds Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
+- Pre-Dinner Snack: 3 Seed Protein (2 scoops), Coconut Flower Sugar (2 tsp), EVOO (1 tbsp) [Total: ~300kcal, P: 24g, F: 18g, C: 12g]
   *Feedback from AI: [Protein Timing] 夕食の約3時間前の摂取で、血中アミノ酸を持続的に維持。EVOOのオレイン酸（一価不飽和脂肪酸）はLDLを低下させつつHDLを維持。ただし1日のオメガ3/6比を考慮すると、ここでEVOO（オメガ6寄り）よりフィッシュオイルや亜麻仁油の方がバランスが良い。
 - Dinner (18:53): Hayashi Rice (Beef stew), Rice (Mega portion, 400g), Onsen Egg, Avocado (1 whole) [Total: ~1462kcal, P: 40g, F: 61g, C: 180g]
   *Feedback from AI: [Meal Timing Risk] 18:53の大量摂取（1462kcal）は消化負荷が高く、睡眠の質に影響する可能性あり。牛肉のヘム鉄は非ヘム鉄より吸収率が5-10倍高い。アボカドのカリウム（約700mg）はナトリウム排出を促進し血圧管理に有効。一方、白米400gの精製炭水化物がインスリンを大量分泌→脂肪蓄積にも寄りやすい。玄米 or ライスベリーに一部置換すると食物繊維+マグネシウムが改善される。
