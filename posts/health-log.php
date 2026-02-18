@@ -391,6 +391,7 @@ PCスキルは後でいい。ダンベルを持とう、と書いたのはマナ
 
 ■ Substances
 - Cannabis 0.5g (Sativa) (16:50)
+- Cannabis 1g (Indica) (20:29)
 
 ■ Note
 - AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
