@@ -99,9 +99,7 @@ require dirname(__DIR__) . '/header.php';
 
 <p>ここまでやって、体力が余ったら作業する。余ってなかったら、何もしない。副業の時間が取れなくてもOK。</p>
 
-<p>結果として僕は、20代の頃のエネルギーが復活しました。ログは全て公開してるので、参考にどうぞ📝</p>
-
-<p><a href="https://mblog.com/health-log" target="_blank">https://mblog.com/health-log</a></p>
+<p>結果として僕は、20代の頃のエネルギーが復活しました。<a href="https://mblog.com/health-log" target="_blank">ログ</a>は全て公開してるので、参考にどうぞ📝</p>
 
 <hr>
 
