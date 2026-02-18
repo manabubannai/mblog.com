@@ -400,6 +400,8 @@ Protein per meal: 58g → 72g → 31g → 30g（前半に集中、後半はカ�
 ■ Substances
 - Cannabis 0.5g (Sativa) (16:50)
 - Cannabis 1g (Indica) (20:29)
+- Jarrow Ashwagandha KSM-66 300mg x1 (22:10)
+- Thorne Multi-Vitamin Elite P.M. x2 (22:10)
 
 ■ Note
 - AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
