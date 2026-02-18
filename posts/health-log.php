@@ -375,8 +375,8 @@ PCスキルは後でいい。ダンベルを持とう、と書いたのはマナ
 
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
 
-- Pre-Dinner (18:50): Bird's Nest Soup with Goji Berries [Total: ~80kcal, P: 5g, F: 0g, C: 15g]
-  *Feedback from AI: [Beauty Recovery] 燕の巣2日連続。シアル酸の蓄積効果で免疫+肌ターンオーバーが加速する。クコの実のゼアキサンチンで眼精疲労ケア。マッサージ後の軽い補食として最適 — 胃に負担をかけずに栄養補給。低カロリー高栄養でディナーへの繋ぎに◎。
+- Pre-Dinner (18:50): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Beef Slices, Pickled Mustard Greens, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 14g, C: 90g]
+  *Feedback from AI: [Warm Combo Day 2] 燕の巣+蘭州拉麺が2日連続のルーティンに。シアル酸の連日摂取で免疫効果が蓄積する。今日は牛肉スライス — 豚肉だった昨日と比べて鉄分+亜鉛がさらに豊富。酸菜（高菜漬け）の乳酸菌が腸内環境ケア。パクチー+ネギのアリシンが牛肉のビタミンB12吸収を促進。マッサージ後の温かいスープで血行促進と相乗効果◎。
 
 ■ Treatment
 - Massage (16:50): 90min Thai Massage
