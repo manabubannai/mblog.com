@@ -71,7 +71,7 @@ require dirname(__DIR__) . '/header.php';
 
 <p>AIの急速な進化で、もう厳しい。以前は「スキル＝学習時間の投資」だった。だからプログラミングを学ぶと、努力の対価があった。</p>
 
-<p>しかし今は違う。AI時代では「スキル＝コピペ」です。AIに「<a href="https://claude.ai/share/c8d083a2-d5ca-4539-af40-45f3031ce320">マーケ能力</a>」をコピペしたら１秒で学習。次のとおり。</p>
+<p>しかし今は違う。AI時代では「スキル＝コピペ」です。AIに「<a href="https://claude.ai/share/c8d083a2-d5ca-4539-af40-45f3031ce320" target="_blank">マーケ能力</a>」をコピペしたら１秒で学習。次のとおり。</p>
 
 <table>
 <tr><th>スキル名</th><th>概要</th></tr>
@@ -136,7 +136,7 @@ require dirname(__DIR__) . '/header.php';
 ここは最後でOK。というか実行しなくてもOK。</p>
 
 <ul>
-<li>行動を変える → 僕は筋トレに本気を出し、チェンマイ移住して、そこから「健康ログを作るか」となり「<a href="https://mblog.com/health-log">Health Log</a>」が生まれた。</li>
+<li>行動を変える → 僕は筋トレに本気を出し、チェンマイ移住して、そこから「健康ログを作るか」となり「<a href="https://mblog.com/health-log" target="_blank">Health Log</a>」が生まれた。</li>
 </ul>
 
 <p>もう少しコツを書いてから、記事を終えます🙋‍♂️</p>
