@@ -60,7 +60,7 @@ require dirname(__DIR__) . '/header.php';
 
 <div class="article-jp">
 
-<p class="brand" style="font-family: Sukhumvit Sukhumvit Set, serif; font-size: 28px; font-weight: 600; letter-spacing: 0.3px;"><a href="https://mblog.com/" style="text-decoration:none; color:#333;">manablog</a></p>
+<div class="logo"><a href="https://mblog.com/" style="text-decoration:none;"><img src="https://old.mblog.com/img/logo.png" style="max-width: 150px;"></a></div>
 <time>17 Feb, 2026</time>
 <h1 class="title">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</h1>
 
