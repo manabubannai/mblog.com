@@ -375,6 +375,12 @@ PCスキルは後でいい。ダンベルを持とう、と書いたのはマナ
 
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
 
+■ Treatment
+- Massage (16:50): 90min Thai Massage
+
+■ Substances
+- Cannabis 0.5g (Sativa) (16:50)
+
 ■ Note
 - AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
 - 現状の発信は、読者からの反応、友人との会話、外出での気づきをベースに書いている。つまりソーシャルセクションが重要。
