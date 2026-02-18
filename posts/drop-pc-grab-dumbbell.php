@@ -7,7 +7,7 @@ require dirname(__DIR__) . '/header.php';
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap");
 
-  body.article-jp {
+  body.jp-article {
     font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -15,20 +15,20 @@ require dirname(__DIR__) . '/header.php';
     color: rgb(51, 51, 51);
     max-width: 680px;
   }
-  .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp ul, .article-jp ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
-  .article-jp ul li, .article-jp ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp ul.long_list li { line-height: 1.7; }
-  .article-jp a { color: #337ab7; text-decoration: underline; }
-  .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
-  .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
+  .jp-article h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article ul, .jp-article ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
+  .jp-article ul li, .jp-article ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article ul.long_list li { line-height: 1.7; }
+  .jp-article a { color: #337ab7; text-decoration: underline; }
+  .jp-article time { font-size: 16.5px; margin-bottom: 20px; display: block; }
+  .jp-article hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
 
   @media all and (max-width: 480px) {
-    .article-jp h1.title { font-size: 20px; margin-bottom: 22px; }
-    .article-jp p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
-    .article-jp ul, .article-jp ol { font-size: 14.7px; line-height: 1.7; margin-top: 12px; margin-bottom: 22px; }
-    .article-jp time { font-size: 12px; margin-bottom: 10px; }
+    .jp-article h1.title { font-size: 20px; margin-bottom: 22px; }
+    .jp-article p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
+    .jp-article ul, .jp-article ol { font-size: 14.7px; line-height: 1.7; margin-top: 12px; margin-bottom: 22px; }
+    .jp-article time { font-size: 12px; margin-bottom: 10px; }
   }
 </style>
 

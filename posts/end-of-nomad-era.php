@@ -7,7 +7,7 @@ require dirname(__DIR__) . '/header.php';
 <style>
   @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap");
 
-  body.article-jp {
+  body.jp-article {
     font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -15,43 +15,43 @@ require dirname(__DIR__) . '/header.php';
     color: rgb(51, 51, 51);
     max-width: 680px;
   }
-  .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h2 { font-size: 24px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h2::before { content: "■ "; font-family: system-ui; font-size: 100%; }
-  .article-jp h3 { font-size: 21px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h3::before { content: "□ "; font-family: system-ui; font-size: 100%; }
-  .article-jp h4 { font-size: 18px; font-weight: 600; margin-top: 40px; margin-bottom: -5px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h4::before { content: "✓ "; font-family: system-ui; font-size: 100%; }
-  .article-jp p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp ul, .article-jp ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
-  .article-jp ul li, .article-jp ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp blockquote { padding-left: 20px; border-left: 2.5px solid rgba(86,86,86,0.85); font-style: italic; margin: 20px 0 35px; }
-  .article-jp blockquote p { margin: 0; font-size: 16.5px; }
-  .article-jp blockquote p::before { content: "» "; }
-  .article-jp a { color: #337ab7; text-decoration: underline; }
-  .article-jp img { max-width: 75%; display: block; margin: auto; margin-bottom: 25px; }
-  .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
-  .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
-  .article-jp table { width: 100%; border-collapse: collapse; margin: 28px 0 28px; font-size: 15px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
-  .article-jp table th { background: #f5f5f5; font-weight: 600; text-align: left; padding: 10px 14px; border: 1px solid #e0e0e0; }
-  .article-jp table td { padding: 10px 14px; border: 1px solid #e0e0e0; }
+  .jp-article h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article h2 { font-size: 24px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article h2::before { content: "■ "; font-family: system-ui; font-size: 100%; }
+  .jp-article h3 { font-size: 21px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article h3::before { content: "□ "; font-family: system-ui; font-size: 100%; }
+  .jp-article h4 { font-size: 18px; font-weight: 600; margin-top: 40px; margin-bottom: -5px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article h4::before { content: "✓ "; font-family: system-ui; font-size: 100%; }
+  .jp-article p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article ul, .jp-article ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
+  .jp-article ul li, .jp-article ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .jp-article blockquote { padding-left: 20px; border-left: 2.5px solid rgba(86,86,86,0.85); font-style: italic; margin: 20px 0 35px; }
+  .jp-article blockquote p { margin: 0; font-size: 16.5px; }
+  .jp-article blockquote p::before { content: "» "; }
+  .jp-article a { color: #337ab7; text-decoration: underline; }
+  .jp-article img { max-width: 75%; display: block; margin: auto; margin-bottom: 25px; }
+  .jp-article time { font-size: 16.5px; margin-bottom: 20px; display: block; }
+  .jp-article hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
+  .jp-article table { width: 100%; border-collapse: collapse; margin: 28px 0 28px; font-size: 15px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
+  .jp-article table th { background: #f5f5f5; font-weight: 600; text-align: left; padding: 10px 14px; border: 1px solid #e0e0e0; }
+  .jp-article table td { padding: 10px 14px; border: 1px solid #e0e0e0; }
 
   @media all and (max-width: 480px) {
-    .article-jp h1.title { font-size: 20px; margin-bottom: 22px; }
-    .article-jp h2 { font-size: 19px; }
-    .article-jp h3 { font-size: 17px; }
-    .article-jp h4 { font-size: 16px; }
-    .article-jp p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
-    .article-jp ul, .article-jp ol { font-size: 14.7px; line-height: 1.7; margin-top: 12px; margin-bottom: 22px; }
-    .article-jp blockquote { margin: 15px 0 22px; }
-    .article-jp blockquote p { font-size: 15px; }
-    .article-jp time { font-size: 12px; margin-bottom: 10px; }
-    .article-jp img { max-width: 95%; }
-    .article-jp table { font-size: 13px; }
-    .article-jp table th, .article-jp table td { padding: 8px 10px; }
+    .jp-article h1.title { font-size: 20px; margin-bottom: 22px; }
+    .jp-article h2 { font-size: 19px; }
+    .jp-article h3 { font-size: 17px; }
+    .jp-article h4 { font-size: 16px; }
+    .jp-article p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
+    .jp-article ul, .jp-article ol { font-size: 14.7px; line-height: 1.7; margin-top: 12px; margin-bottom: 22px; }
+    .jp-article blockquote { margin: 15px 0 22px; }
+    .jp-article blockquote p { font-size: 15px; }
+    .jp-article time { font-size: 12px; margin-bottom: 10px; }
+    .jp-article img { max-width: 95%; }
+    .jp-article table { font-size: 13px; }
+    .jp-article table th, .jp-article table td { padding: 8px 10px; }
   }
 
-  .article-jp ul.long_list li {
+  .jp-article ul.long_list li {
     line-height: 2;
   }
 </style>
