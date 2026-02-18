@@ -768,6 +768,9 @@ Dream Analysis (by AI — Jungian Framework):
 - Stretch 20min
 </pre>
 
+<!-- ② Lazy load: older entries hidden by default -->
+<div id="older-entries" style="display:none;">
+
   <h2># 2026-02-11</h2>
   <pre>
 - Sleep: 00:00 - 08:00
@@ -2828,7 +2831,8 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
 </pre>
 
 
-</div>
+</div><!-- close #older-entries -->
+</div><!-- close #copy-target -->
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btnAll = document.getElementById("copyBtn");
@@ -2884,4 +2888,8 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
     }
   });
 </script>
+<!-- ② "もっと見る" button for older entries -->
+<div id="showOlderWrap" style="text-align:center;margin:30px 0;">
+<button onclick="document.getElementById('older-entries').style.display='block';document.getElementById('showOlderWrap').style.display='none';" style="background:#f8f8f8;border:1px solid #ddd;border-radius:6px;padding:10px 28px;font-size:15px;color:#525150;cursor:pointer;font-family:inherit;">📜 過去のログを表示する</button>
+</div>
 <?php require dirname(__DIR__) . '/footer.php'; ?>

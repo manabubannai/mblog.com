@@ -1,14 +1,23 @@
-<?php // Valentine's animation removed 2026-02-18 ?>
+
 </body>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDYR9GB6SV"></script>
+<!-- ④ GA deferred loading -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QDYR9GB6SV');
+(function(){
+  var d=document,s;
+  function loadGA(){
+    s=d.createElement('script');
+    s.src='https://www.googletagmanager.com/gtag/js?id=G-QDYR9GB6SV';
+    s.async=true;
+    d.head.appendChild(s);
+    window.dataLayer=window.dataLayer||[];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js',new Date());
+    gtag('config','G-QDYR9GB6SV');
+  }
+  if(d.readyState==='complete'){setTimeout(loadGA,100);}
+  else{window.addEventListener('load',function(){setTimeout(loadGA,100);});}
+})();
 </script>
 
 </html>
