@@ -50,6 +50,14 @@ require dirname(__DIR__) . '/header.php';
     .article-jp table { font-size: 13px; }
     .article-jp table th, .article-jp table td { padding: 8px 10px; }
   }
+
+  .article-jp ul.long_list li {
+    margin-bottom: 20px;
+    line-height: 1.7;
+  }
+  .article-jp ul.long_list li:last-child {
+    margin-bottom: 0;
+  }
 </style>
 
 <div class="article-jp">
@@ -143,10 +151,10 @@ require dirname(__DIR__) . '/header.php';
 
 <p>行動のコツは、酒でベロベロになっても語れる分野を選ぶこと。</p>
 
-<ul>
-<li>僕の友人は筋トレマニア。ずっと筋肉を語っている。そこから僕は学ぶ。彼は10歳くらい歳下ですが、筋トレでは大先輩。筋トレを教えるGiveです。</li>
-<li>もしくはアトピーの友人がいます。色々と試行錯誤しまくって、徐々に回復している。アトピー関連の健康知識は、鬼のように豊富なはず。大きなGiveが可能です。</li>
-<li>相手から好かれるのが得意な友人がいます。言うならば、人たらし。AI時代で人たらしは最強。バーを開くとか、溜まり場を作ることでGiveです。</li>
+<ul class="long_list">
+<li><b>僕の友人は筋トレマニア</b>。ずっと筋肉を語っている。そこから僕は学ぶ。彼は10歳くらい歳下ですが、筋トレでは大先輩。筋トレを教えるGiveです。</li>
+<li><b>もしくはアトピーの友人がいます</b>。色々と試行錯誤しまくって、徐々に回復している。アトピー関連の健康知識は、鬼のように豊富なはず。大きなGiveが可能です。</li>
+<li><b>相手から好かれるのが得意な友人がいます</b>。言うならば、人たらし。AI時代で人たらしは最強。バーを開くとか、溜まり場を作ることでGiveです。</li>
 </ul>
 
 <p>こんな感じ。僕はテクノロジーが好きだしプログラミングも出来る。<br>
