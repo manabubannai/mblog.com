@@ -360,8 +360,8 @@ NAC 500 mg (Thorne)
 - Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed Protein (2 scoops), Coconut Sugar (大さじ1) [Total: ~565kcal, P: 58g, F: 13g, C: 54g]
   *Feedback from AI: [Lean Recovery Morning] 昨夜の蒸し魚を無駄なく活用 — 冷めた魚のタンパク質は変性しないので栄養価そのまま。ライスベリー継続でアントシアニン+食物繊維。キムチの乳酸菌で朝から腸内環境ケア。外食翌日に自炊+シンプル構成で胃腸を休める良い判断。タンパク質58gは朝としてかなり優秀。3 Seed Protein 2スクープが効いている。
 
-- Lunch (14:50): Roast Duck on Rice (ข้าวหน้าเป็ด), Clear Soup, Pickled Ginger, Cucumber, Chinese Broccoli (カイラン) [Total: ~650kcal, P: 35g, F: 22g, C: 75g]
-  *Feedback from AI: [Thai-Chinese Classic] ローストダックは皮のパリパリ部分に脂質が集中するが、鶏肉より鉄分・亜鉛が豊富。昨日シーフード中心だったので肉系に切り替えたのはバランス◎。カイランのビタミンK+カルシウムで骨代謝サポート。クリアスープで水分+電解質補給。ガリ（酢漬け生姜）のジンゲロールが消化促進+抗炎症。きゅうりのシリカがコラーゲン生成を助ける。タンパク質35gはランチとしてはやや控えめ — ディナーで補いたい。
+- Lunch (14:42): MK Roasted Duck on Rice, Clear Soup, Pickled Ginger, Cucumber, Chinese Broccoli + MK Suki: Sliced Kurobuta Pork Set, Pig's Liver, King of Oyster Mushrooms, Wakame, Spring Onions, Japanese Pumpkin [Total: ~1,150kcal, P: 72g, F: 38g, C: 95g]
+  *Feedback from AI: [MK Full Course] ダックライス+しゃぶしゃぶの2段構成で栄養密度が高い。黒豚（クロブタ）はビタミンB1が通常豚の1.5倍 — 疲労回復+糖質代謝に◎。豚レバーは鉄分・ビタミンA・B12の最強ソース — 造血+免疫+視力サポート。エリンギのβグルカンで免疫活性化+食物繊維。ワカメのフコイダンが腸内環境を整え、ヨウ素で甲状腺機能サポート。かぼちゃのβカロテンはしゃぶしゃぶの油脂で吸収率UP。昨日シーフードデーだったので、今日は肉系+内臓肉で鉄分・B群を重点補給。タンパク質72gでバルクアップ目標に大きく貢献。
 
 ■ 今日の積み上げ（理念順）
 マナブさんの理念：「３年前の自分を救う」
