@@ -368,6 +368,7 @@ NAC 500 mg (Thorne)
 [ ] スイッチの初期不良を修理
 [ ] オフ会の日程確定と連絡
 ↓ 優先の低めのタスク ↓
+[ ] 休日ルーティーンを作る（筋トレなしの日。犬と遊ぶ、奥さんとの時間を優先化）
 [ ] Claude Skillを使ってみる：claude-seo — サイト分析・SEO改善提案、Product-Manager-Skills — サービス・マネタイズ戦略
 [ ] Google Cloud サービスアカウント作成（Sheets API + Search Console + GA4 → 質問自動返信・アナリティクス自動化）
 [ ] 音声クローンのテスト（Fish Audio等で自分の声をAI化 → Voicy自動配信の検証）
