@@ -52,11 +52,7 @@ require dirname(__DIR__) . '/header.php';
   }
 
   .article-jp ul.long_list li {
-    margin-bottom: 20px;
-    line-height: 1.7;
-  }
-  .article-jp ul.long_list li:last-child {
-    margin-bottom: 0;
+    line-height: 2;
   }
 </style>
 
