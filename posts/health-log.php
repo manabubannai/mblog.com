@@ -351,6 +351,26 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed Protein (2 scoops), Coconut Sugar (大さじ1) [Total: ~565kcal, P: 58g, F: 13g, C: 54g]
   *Feedback from AI: [Lean Recovery Morning] 昨夜の蒸し魚を無駄なく活用 — 冷めた魚のタンパク質は変性しないので栄養価そのまま。ライスベリー継続でアントシアニン+食物繊維。キムチの乳酸菌で朝から腸内環境ケア。外食翌日に自炊+シンプル構成で胃腸を休める良い判断。タンパク質58gは朝としてかなり優秀。3 Seed Protein 2スクープが効いている。
+
+■ 今日の積み上げ
+[ ] 理念から優先度を考える
+[ ] AIと一緒にコンテンツ作成
+[ ] スイッチの初期不良を修理
+↓ 優先の低めのタスク ↓
+[ ] Google Cloud サービスアカウント作成（Sheets API + Search Console + GA4 → 質問自動返信・アナリティクス自動化）
+[ ] 音声クローンのテスト（Fish Audio等で自分の声をAI化 → Voicy自動配信の検証）
+[ ] GA4スプレッドシートに日付ディメンション追加（日別PV取得のため）
+[ ] オフ会の日程確定と連絡
+[ ] バレンタイン機能をオフ
+[ ] OuraとWithingsをOpenClawに連携
+[ ] スタンディングデスクの購入
+[ ] PM用のメガネを買う
+[ ] Health Logのページ上部に、現在と１年後の体の比較画像を置く
+[ ] 若い子を集めて教育する寺子屋をやりたい
+
+■ ドラフト（下書き）
+- 編集中：<a href="/draft-04">その上司のメール、AIが書いています</a>
+- 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
 </pre>
 
   <h2># 2026-02-17</h2>
