@@ -23,9 +23,13 @@ if (!headers_sent()) {
 	<meta property="og:description" content="<?= htmlspecialchars($page_description) ?>">
 	<?php endif; ?>
 	<meta property="og:site_name" content="manablog">
-	<!-- ① Preconnect + font-display for Typekit -->
+	<!-- ① Preconnect + font-display for Typekit & Google Fonts -->
 	<link rel="preconnect" href="https://use.typekit.net" crossorigin>
 	<link rel="preconnect" href="https://p.typekit.net" crossorigin>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" media="print" onload="this.media='all'">
+	<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"></noscript>
 	<link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css" media="print" onload="this.media='all'">
 	<noscript><link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css"></noscript>
 	<!-- ① Inline critical CSS -->
@@ -55,7 +59,7 @@ blockquote p{font-size:17px;font-style:italic;color:#6a6a6a}
 blockquote p:before{content:"» "}
 .jp-article{color:#333}
 .jp-article h1.brand,.jp-article p.brand{font-family:Sukhumvit Sukhumvit Set,serif!important;font-size:28px;font-weight:600;letter-spacing:.3px;margin-top:12px;margin-bottom:25px}
-.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{font-family:"Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",Meiryo,sans-serif}
+.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{font-family:"Noto Sans JP","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",Meiryo,sans-serif}
 .jp-article h1.title{font-weight:700;line-height:1.4;font-size:24px;margin-bottom:35px;color:#333}
 .jp-article h2{font-size:20px;font-weight:700;margin-top:40px;margin-bottom:20px;padding-bottom:0;color:#333}
 .jp-article h3,.jp-article time,.jp-article p,.jp-article li{color:#333}
