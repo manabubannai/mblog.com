@@ -59,11 +59,11 @@ blockquote p{font-size:17px;font-style:italic;color:#6a6a6a}
 blockquote p:before{content:"» "}
 .jp-article{color:#333}
 .jp-article h1.brand,.jp-article p.brand{font-family:Sukhumvit Sukhumvit Set,serif!important;font-size:28px;font-weight:600;letter-spacing:.3px;margin-top:12px;margin-bottom:25px}
-.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{font-family:"Noto Sans JP","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",Meiryo,sans-serif}
+.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{font-family:"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,Helvetica,Arial,sans-serif;letter-spacing:0}
 .jp-article h1.title{font-weight:700;line-height:1.4;font-size:24px;margin-bottom:35px;color:#333}
 .jp-article h2{font-size:20px;font-weight:700;margin-top:40px;margin-bottom:20px;padding-bottom:0;color:#333}
 .jp-article h3,.jp-article time,.jp-article p,.jp-article li{color:#333}
-.jp-article p{font-size:16px;line-height:1.9;margin-bottom:1.8em;letter-spacing:.03em}
+.jp-article p{font-size:17px;line-height:1.9;margin-bottom:1.8em;letter-spacing:0}
 .jp-article ul,.jp-article li{font-size:15.5px;line-height:1.8}
 .jp-article pre{font-family:Menlo,Monaco,Consolas,"Courier New",monospace;font-size:13.5px;background-color:#f7f7f7;border:1px solid #eee;border-radius:4px;color:#333}
 @media(min-width:768px){p{font-size:17px}img{max-width:60%}}
