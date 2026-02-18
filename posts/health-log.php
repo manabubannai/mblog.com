@@ -421,6 +421,14 @@ Total: ~3,280kcal | P: 162g | F: 97g | C: 373g
 ■ Note
 相手が聞きたい言葉を考える。
 ブログと同じ＝日常で使う。
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) with breakfast
+- Omega-3 (Fish Oil) with breakfast
+- NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
+- Lemon Juice in water
+- Great Lakes Collagen with breakfast
+- Creatine (Thorne) with breakfast
 </pre>
 
   <h2># 2026-02-16</h2>
