@@ -63,8 +63,6 @@ blockquote p:before{content:"» "}
 .jp-article h1.title{font-weight:700;line-height:1.4;font-size:24px;margin-bottom:35px;color:#333}
 .jp-article h2{font-size:20px;font-weight:700;margin-top:40px;margin-bottom:20px;padding-bottom:0;color:#333}
 .jp-article h3,.jp-article time,.jp-article p,.jp-article li{color:#333}
-.jp-article p{font-size:16px;line-height:1.9;margin-bottom:1.8em;letter-spacing:0}
-.jp-article ul,.jp-article li{font-size:15.5px;line-height:1.8}
 .jp-article pre{font-family:Menlo,Monaco,Consolas,"Courier New",monospace;font-size:13.5px;background-color:#f7f7f7;border:1px solid #eee;border-radius:4px;color:#333}
 @media(min-width:768px){p{font-size:17px}img{max-width:60%}}
 @media(max-width:767px){p{font-size:17px}ul{font-size:16.5px;line-height:1.6}.jp-article pre{padding:15px!important;word-break:break-all}}
