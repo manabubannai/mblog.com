@@ -31,7 +31,7 @@ ul.toppage {
 	background-color: #fff;
 	outline: none;
 }
-ul.toppage li { display: flex; padding: 10px 0; }
+ul.toppage li { display: flex; padding: 5px 0; }
 time { flex: 0 0 105px; }
 a    { flex: 1; }
 
