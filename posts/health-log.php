@@ -386,6 +386,14 @@ PCスキルは後でいい。ダンベルを持とう、と書いたのはマナ
 - Pre-Dinner (18:50): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Beef Slices, Pickled Mustard Greens, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 14g, C: 90g]
   *Feedback from AI: [Warm Combo Day 2] 燕の巣+蘭州拉麺が2日連続のルーティンに。シアル酸の連日摂取で免疫効果が蓄積する。今日は牛肉スライス — 豚肉だった昨日と比べて鉄分+亜鉛がさらに豊富。酸菜（高菜漬け）の乳酸菌が腸内環境ケア。パクチー+ネギのアリシンが牛肉のビタミンB12吸収を促進。マッサージ後の温かいスープで血行促進と相乗効果◎。
 
+- Dinner (20:29): Japanese Curry (Beef, Potato, Carrot) over Riceberry Rice (~200g), Side Salad (Lettuce, Cherry Tomatoes, Cucumber, Lime, Pumpkin Seeds, Cheese) [Total: ~820kcal, P: 30g, F: 29g, C: 98g]
+  *Feedback from AI: [Comfort Curry Night] インディカ後のカレーライスは最高の組み合わせ。ライスベリー継続でアントシアニン+食物繊維のベースは崩さない。カレーのターメリック（クルクミン）は抗炎症+脳保護作用 — 大麻のCBDと相乗効果あり。じゃがいも+にんじんでビタミンC+βカロテン。サラダボウルが優秀：トマトのリコピン、きゅうりのカリウム（むくみ防止）、かぼちゃの種の亜鉛+マグネシウム、チーズのカルシウム+カゼインプロテイン。ライムのビタミンCがサラダの鉄分吸収を促進。1日トータルP:191gでバルクアップ目標達成 🎯
+
+■ Daily Summary (by AI)
+Total: ~3,195kcal | P: 191g 🎯 | F: 94g | C: 337g
+Protein per meal: 58g → 72g → 31g → 30g（前半に集中、後半はカレー+サラダで回復食）
+特筆: 4食構成で3,000kcal超え。バルクアップに十分なカロリーとタンパク質。朝の蒸し魚リカバリー → 昼のMKフルコース（レバーで鉄分補給）→ 燕の巣で免疫 → カレー+サラダで〆。内臓肉・発酵食品・燕の巣と、栄養の多様性が際立つ1日。90分マッサージ+カレーのターメリックで抗炎症コンボも◎。
+
 ■ Treatment
 - Massage (16:50): 90min Thai Massage
 
