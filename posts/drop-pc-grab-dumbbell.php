@@ -16,19 +16,16 @@ require dirname(__DIR__) . '/header.php';
     max-width: 680px;
   }
   .article-jp h1.title { font-size: 29px; font-weight: 600; margin-top: 0; margin-bottom: 40px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h2 { font-size: 24px; font-weight: 600; margin-top: 40px; margin-bottom: 15px; line-height: 1.7; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
-  .article-jp h2::before { content: "■ "; font-family: system-ui; font-size: 100%; }
   .article-jp p { font-size: 16.5px; line-height: 1.7; margin-top: 18px; margin-bottom: 28px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
   .article-jp ul, .article-jp ol { font-size: 16.5px; line-height: 2; background-color: rgba(250,250,250,0.48); outline: 1px solid rgba(228,228,228,0.87); padding: 20px 10px 20px 30px; margin-top: 18px; margin-bottom: 28px; list-style: disc; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
   .article-jp ul li, .article-jp ol li { line-height: 2; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); }
+  .article-jp ul.long_list li { line-height: 2; }
   .article-jp a { color: #337ab7; text-decoration: underline; }
   .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
   .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
-  .article-jp ul.long_list li { line-height: 2; }
 
   @media all and (max-width: 480px) {
     .article-jp h1.title { font-size: 20px; margin-bottom: 22px; }
-    .article-jp h2 { font-size: 19px; }
     .article-jp p { font-size: 15px; line-height: 1.6; margin-top: 12px; margin-bottom: 22px; }
     .article-jp ul, .article-jp ol { font-size: 14.7px; line-height: 1.7; margin-top: 12px; margin-bottom: 22px; }
     .article-jp time { font-size: 12px; margin-bottom: 10px; }
@@ -41,12 +38,11 @@ require dirname(__DIR__) . '/header.php';
 <time>12 Feb, 2026</time>
 <h1 class="title">PCを捨てて、ダンベルを持とう🏋️</h1>
 
-<p>こんにちは、マナブです。<br>
-AI活用で書きました。僕がプロデューサーで、弟子AIを鍛えてます。内容は僕が精査済み。さっそく始めます🙋‍♂️</p>
+<p>こんにちは、マナブです。AI活用で書きました。僕がプロデューサーで、弟子AIを鍛えてます。内容は僕が精査済み。さっそく始めます🙋‍♂️</p>
 
 <p>※補足 : このようなライティングは「Claude Opus 4.6」を使うと快適に書けます。最新のAIは素晴らしいです。</p>
 
-<h2>フリーランスは、徐々に失業する</h2>
+<p>■ フリーランスは、徐々に失業する</p>
 
 <p>最近のAIを見てますか。文章を書く、資料を作る、コードを書く、分析する。去年まで人間がやってたことを、AIが数秒で終わらせる。もう、止まらないです。</p>
 
@@ -59,7 +55,7 @@ AI活用で書きました。僕がプロデューサーで、弟子AIを鍛え�
 
 <p>僕はぶっちゃけ、AI時代の知的ワーカーの競争で勝てる自信はありません。発信ならギリ戦えるかな、くらいです。</p>
 
-<h2>じゃあ、どうしたらいいのか？</h2>
+<p>■ じゃあ、どうしたらいいのか？</p>
 
 <p>「AIを学べ」とか「プログラミングを覚えろ」と言う人がいます。しかしAIをゴリゴリ活用して勝てる人は極少数。</p>
 
@@ -70,7 +66,7 @@ AI活用で書きました。僕がプロデューサーで、弟子AIを鍛え�
 
 <p>パソコンより、ダンベルです。わりと本気で言ってます。行動からも証明するので後述します。</p>
 
-<h2>５億円を稼いで、自分が壊れた</h2>
+<p>■ ５億円を稼いで、自分が壊れた</p>
 
 <p>ブログを毎日更新して、YouTubeも毎日。1000日以上で休まず働き、合計５億円を稼ぎました。そして壊れました。</p>
 
@@ -81,7 +77,7 @@ AI活用で書きました。僕がプロデューサーで、弟子AIを鍛え�
 
 <p>回復に３年かかりました。毎日１時間の瞑想を３年続け、全ての生活を見直して、気付いた。順番が逆でした。</p>
 
-<h2>健康が溢れたら、作業してみる</h2>
+<p>■ 健康が溢れたら、作業してみる</p>
 
 <p>僕の活動は、とてもシンプルです。</p>
 
@@ -95,10 +91,11 @@ AI活用で書きました。僕がプロデューサーで、弟子AIを鍛え�
 
 <p>ここまでやって、体力が余ったら作業する。余ってなかったら、何もしない。副業の時間が取れなくてもOK。</p>
 
-<p>結果として僕は、20代の頃のエネルギーが復活しました。ログは全て公開してるので、参考にどうぞ📝<br>
-<a href="https://mblog.com/health-log" target="_blank">https://mblog.com/health-log</a></p>
+<p>結果として僕は、20代の頃のエネルギーが復活しました。ログは全て公開してるので、参考にどうぞ📝</p>
 
-<h2>脳疲労は、年間で30日を無駄にする</h2>
+<p><a href="https://mblog.com/health-log" target="_blank">https://mblog.com/health-log</a></p>
+
+<p>■ 脳疲労は、年間で30日を無駄にする</p>
 
 <p>ブライアン・ジョンソンという人がいます。年間３億円を自分の健康に投資する人。そして彼が言います。</p>
 
@@ -108,14 +105,14 @@ AI活用で書きました。僕がプロデューサーで、弟子AIを鍛え�
 
 <p>１ヶ月です。丸ごと無駄にしてる。無理して作業しても、別の日のパフォーマンス低下で帳消し。疲れてるなら休んで、そしてログを取り、そこから人生を改善してください。</p>
 
-<h2>空いた時間で、何をすべき？</h2>
+<p>■ 空いた時間で、何をすべき？</p>
 
 <p>僕の結論は、次の３つです。</p>
 
 <ul class="long_list">
-<li><b>① 今の仕事を頑張る</b> → AIに奪われない価値は「人との信頼」です。信頼は、コツコツ貯めるしかない。</li>
-<li><b>② 疲れているなら休む</b> → 脳疲労してるのに頑張るのは逆効果。年間で30日を無駄にするくらいなら、寝る方が良い。</li>
-<li><b>③ 収入より、健康を積み上げ</b> → 時代タイミングに合ってます。体は一生の資本です。</li>
+<li>① 今の仕事を頑張る → AIに奪われない価値は「人との信頼」です。信頼は、コツコツ貯めるしかない。</li>
+<li>② 疲れているなら休む → 脳疲労してるのに頑張るのは逆効果。年間で30日を無駄にするくらいなら、寝る方が良い。</li>
+<li>③ 収入より、健康を積み上げ → 時代タイミングに合ってます。体は一生の資本です。</li>
 </ul>
 
 <p>以上です。読んで頂き、ありがとうございます🙆‍♂️</p>
