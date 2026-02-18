@@ -349,7 +349,7 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-18</h2>
   <pre>
 ■ Food
-- Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed, Coconut Sugar (大さじ1) [Total: ~630kcal, P: 44g, F: 14g, C: 75g]
+- Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed Protein, Coconut Sugar (大さじ1) [Total: ~630kcal, P: 44g, F: 14g, C: 75g]
   *Feedback from AI: [Lean Recovery Morning] 昨夜の蒸し魚を無駄なく活用 — 冷めた魚のタンパク質は変性しないので栄養価そのまま。ライスベリー継続でアントシアニン+食物繊維。キムチの乳酸菌で朝から腸内環境ケア。外食翌日に自炊+シンプル構成で胃腸を休める良い判断。タンパク質42gは朝としてしっかり確保。
 </pre>
 
@@ -364,7 +364,7 @@ NAC 500 mg (Thorne)
 - Breakfast (8:38): Omelette (3 Eggs), Riceberry Rice (~150g), Avocado (1), Cherry Tomatoes red &amp; yellow (~5, half left), Gold Kiwi (1), Pomelo (~200g) [Total: ~850kcal, P: 23g, F: 38g, C: 93g]
   *Feedback from AI: [Antioxidant Morning] ライスベリー全食統一おめでとう — 昨日の改善ポイントを即実行。アボカド1個でグルタチオン+カリウム+食物繊維を一気に確保。チェリートマトのリコピンは卵+アボカドの脂質で吸収率4倍UP。ポメロ+キウイでビタミンC~250mg、サプリの非ヘム鉄吸収を強力にサポート。キウイのアクチニジン酵素が卵タンパクの消化を促進。朝から抗酸化フルコース。タンパク質24gはやや控えめなので、ランチでしっかり補いたい。
 
-- Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce), 3 Seed, Collagen, Coconut Sugar (小さじ2杯) [Total: ~1,020kcal, P: 60g, F: 26g, C: 125g]
+- Lunch (14:06): Air Fried Salmon (~200g), Riceberry Rice (~150g), Natto with Kimchi, Soy Sauce, Banana (1), Boiled Vegetables (Carrot, Onion, Lettuce), 3 Seed Protein, Collagen, Coconut Sugar (小さじ2杯) [Total: ~1,020kcal, P: 60g, F: 26g, C: 125g]
   *Feedback from AI: [Gut Power Combo] 納豆キムチが最高の組み合わせ。納豆のナットウキナーゼ（血栓溶解）+キムチの乳酸菌で腸内環境をダブルサポート。納豆のビタミンK2がカルシウムの骨への沈着を促進。キムチのカプサイシンが代謝を上げ、サーモンのオメガ3と合わせて抗炎症効果◎。ライスベリー継続で食物繊維+アントシアニンも確保。タンパク質52gで朝の不足分をしっかり補えた。発酵食品2種（納豆+キムチ）の組み合わせは善玉菌の多様性を高める最強コンボ。3 Seed+コラーゲンで関節・肌・髪のサポートも追加。
 
 - Pre-Dinner (18:00): Bird's Nest Soup with Goji Berries, Lanzhou Noodle Soup (蘭州拉麺) — Hand-pulled Noodles, Pork Slices, Cilantro, Green Onion [Total: ~660kcal, P: 31g, F: 15g, C: 90g]
