@@ -31,7 +31,10 @@ ul.toppage {
 	background-color: #fff;
 	outline: none;
 }
-ul.toppage li { display: flex; padding: 5px 0; }
+ul.toppage li { display: flex; padding: 3px 0; }
+@media all and (max-width: 480px) {
+  ul.toppage li { padding: 5px 0; }
+}
 time { flex: 0 0 105px; }
 a    { flex: 1; }
 
