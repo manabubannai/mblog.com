@@ -20,6 +20,11 @@ require __DIR__ . '/header.php';
 <ul class="toppage">
 
 <li>
+<time datetime="2026-02-18">18 Feb, 2026</time>
+<a href="end-of-nomad-era">ノマド時代は終わりますね。通勤しよう 😌🚃</a>
+</li>
+
+<li>
 <time datetime="2026-02-17">17 Feb, 2026</time>
 <a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
 </li>
