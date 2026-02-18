@@ -375,6 +375,9 @@ PCスキルは後でいい。ダンベルを持とう、と書いたのはマナ
 
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
 
+- Pre-Dinner (18:50): Bird's Nest Soup with Goji Berries [Total: ~80kcal, P: 5g, F: 0g, C: 15g]
+  *Feedback from AI: [Beauty Recovery] 燕の巣2日連続。シアル酸の蓄積効果で免疫+肌ターンオーバーが加速する。クコの実のゼアキサンチンで眼精疲労ケア。マッサージ後の軽い補食として最適 — 胃に負担をかけずに栄養補給。低カロリー高栄養でディナーへの繋ぎに◎。
+
 ■ Treatment
 - Massage (16:50): 90min Thai Massage
 
