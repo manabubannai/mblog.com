@@ -1,7 +1,7 @@
 <?php
 $page_title = '【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】';
 $page_description = '5億円稼いで心が壊れた僕が、瞑想で2年かけて回復した方法。挫折OK。3年の実体験から、やり方・呼吸法・コツ・よくある質問まで全て書きました。';
-\$extra_css = ['/jp-article.css'];
+$extra_css = ['/jp-article.css'];
 require dirname(__DIR__) . '/header.php';
 ?>
 

@@ -1,7 +1,7 @@
 <?php
 $page_title = 'PCを捨てて、ダンベルを持とう🏋️';
 $page_description = 'AI時代にフリーランスが失業する理由と、健康を最優先にすべき理由。5億円稼いで壊れた経験から。';
-\$extra_css = ['/jp-article.css'];
+$extra_css = ['/jp-article.css'];
 require dirname(__DIR__) . '/header.php';
 ?>
 
