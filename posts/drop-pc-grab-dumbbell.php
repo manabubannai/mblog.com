@@ -129,6 +129,8 @@ require dirname(__DIR__) . '/header.php';
 
 <p>以上。こういった話は身内のLINEに流してます。</p>
 
+<img src="/img/line-screenshot.png">
+
 <p>このような話が出来る友人を増やしたいので、前回のメルマガで、ゆるい集まりを企画しました。</p>
 
 <p>以上です。読んで頂き、ありがとうございます🙆‍♂️</p>
