@@ -59,7 +59,7 @@ blockquote p{font-size:17px;font-style:italic;color:#6a6a6a}
 blockquote p:before{content:"» "}
 .jp-article{color:#333}
 .jp-article h1.brand,.jp-article p.brand{font-family:Sukhumvit Sukhumvit Set,serif!important;font-size:28px;font-weight:600;letter-spacing:.3px;margin-top:12px;margin-bottom:25px}
-.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{font-family:"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,Helvetica,Arial,sans-serif;letter-spacing:0}
+.jp-article h1.title,.jp-article h2,.jp-article h3,.jp-article p,.jp-article li,.jp-article time{letter-spacing:0}
 .jp-article h1.title{font-weight:700;line-height:1.4;font-size:24px;margin-bottom:35px;color:#333}
 .jp-article h2{font-size:20px;font-weight:700;margin-top:40px;margin-bottom:20px;padding-bottom:0;color:#333}
 .jp-article h3,.jp-article time,.jp-article p,.jp-article li{color:#333}
