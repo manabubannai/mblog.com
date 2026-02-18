@@ -1,51 +1,10 @@
 <?php
 $page_title = '【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】';
 $page_description = 'A daily log tracking food, sleep, supplements, meditation, and workouts. Includes AI-powered nutrition feedback. A biohacking and health optimization experiment.';
+\$extra_css = ['/health-log.css'];
 require dirname(__DIR__) . '/header.php';
 ?>
 
-<!-- 日本語のみに適応 -->
-<style>
-  .jp-font {
-    font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 28px;
-    color: inherit;
-    -webkit-font-smoothing: antialiased;
-  }
-
-  .health-section {
-    font-family: Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.8;
-    color: #333;
-    -webkit-font-smoothing: antialiased;
-  }
-
-  pre {
-    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-    font-size: 13.5px;
-    line-height: 1.6;
-    padding: 15px !important;
-    border: 1px solid #eee !important;
-    border-radius: 4px;
-    color: #333;
-    white-space: pre-wrap;
-  }
-
-  pre a {
-    color: #1a73e8 !important;
-    text-decoration: underline;
-  }
-
-  pre a:hover {
-    color: #174ea6 !important;
-  }
-</style>
 <script>
   window.onload = function () {
     // Copy AI prompt

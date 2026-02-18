@@ -1,6 +1,7 @@
 <?php
 $page_title = 'OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順';
 $page_description = 'OpenClawをHetzner VPSに安全にインストールする方法。Tailscale・Cloudflare・SSH鍵認証の設定を10ステップで解説。月額2.5ドルで自分だけのAIアシスタントを構築。';
+\$extra_css = ['/jp-article.css'];
 require dirname(__DIR__) . '/header.php';
 ?>
 
