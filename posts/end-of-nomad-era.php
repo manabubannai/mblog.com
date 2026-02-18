@@ -32,7 +32,7 @@ require dirname(__DIR__) . '/header.php';
   .article-jp img { max-width: 75%; display: block; margin: auto; margin-bottom: 25px; }
   .article-jp time { font-size: 16.5px; margin-bottom: 20px; display: block; }
   .article-jp hr { background-color: rgba(0,0,0,0.1); height: 1px; border: 0; margin: 30px 0; }
-  .article-jp table { width: 100%; border-collapse: collapse; margin: 18px 0 28px; font-size: 15px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
+  .article-jp table { width: 100%; border-collapse: collapse; margin: 28px 0 28px; font-size: 15px; font-family: Noto, "Noto Sans JP", "Hiragino Sans", Helvetica, Arial, sans-serif; }
   .article-jp table th { background: #f5f5f5; font-weight: 600; text-align: left; padding: 10px 14px; border: 1px solid #e0e0e0; }
   .article-jp table td { padding: 10px 14px; border: 1px solid #e0e0e0; }
 
