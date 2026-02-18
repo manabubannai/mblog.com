@@ -211,7 +211,7 @@ body.jp-article {
   }
   .jp-article h1.title {
     font-size: 20px;
-    margin-bottom: 22px;
+    margin-bottom: 25px;
   }
   .jp-article h2 {
     font-size: 19px;
@@ -226,14 +226,14 @@ body.jp-article {
     font-size: 15px;
     line-height: 1.6;
     margin-top: 12px;
-    margin-bottom: 22px;
+    margin-bottom: 25px;
   }
   .jp-article ul,
   .jp-article ol {
     font-size: 14.7px;
     line-height: 1.7;
     margin-top: 12px;
-    margin-bottom: 22px;
+    margin-bottom: 25px;
   }
   .jp-article blockquote {
     margin: 15px 0 22px;
