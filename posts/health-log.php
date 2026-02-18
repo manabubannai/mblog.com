@@ -351,6 +351,14 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi [Total: ~550kcal, P: 42g, F: 10g, C: 65g]
   *Feedback from AI: [Lean Recovery Morning] 昨夜の蒸し魚を無駄なく活用 — 冷めた魚のタンパク質は変性しないので栄養価そのまま。ライスベリー継続でアントシアニン+食物繊維。キムチの乳酸菌で朝から腸内環境ケア。外食翌日に自炊+シンプル構成で胃腸を休める良い判断。タンパク質42gは朝としてしっかり確保。
+
+■ Substances
+- Multi-Vitamin Elite AM (Thorne) with breakfast
+- Omega-3 (Fish Oil) with breakfast
+- NMN Pro Complete (ProHealth) — NMN 1g / Res 1g / TMG 0.5g with breakfast
+- Lemon Juice in water
+- Great Lakes Collagen with breakfast
+- Creatine (Thorne) with breakfast
 </pre>
 
   <h2># 2026-02-17</h2>
