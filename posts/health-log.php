@@ -447,6 +447,9 @@ Total: ~3,310kcal | P: 170g | F: 101g | C: 368g
 - 編集中：<a href="/draft-04">その上司のメール、AIが書いています</a>
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
 
+■ Substances
+- Cannabis 0.5g (Indica) (22:00)
+
 ■ Note
 相手が聞きたい言葉を考える。
 ブログと同じ＝日常で使う。
