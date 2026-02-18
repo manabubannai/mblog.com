@@ -353,6 +353,10 @@ NAC 500 mg (Thorne)
 - Spirit: 9/10
 
 ※note: AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
+※note: 現状の発信は、読者からの反応、友人との会話、外出での気づきをベースに書いている。つまりソーシャルセクションが重要。
+
+■ Social
+-
 
 ■ Food
 - Breakfast (9:00): Steamed Fish (leftover, ~2/3), Riceberry Rice (~150g), Kimchi, 3 Seed Protein (2 scoops), Coconut Sugar (大さじ1) [Total: ~565kcal, P: 58g, F: 13g, C: 54g]
