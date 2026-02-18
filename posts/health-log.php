@@ -487,7 +487,7 @@ Total: ~2,880kcal | P: 148g | F: 101g | C: 317g
 - Breakfast: 3 Fried Eggs (Black Pepper), White Rice (~150g), Miso Soup (Wakame, Tofu, Bamboo Shoot, Aburaage), Cucumber Slices, Red &amp; Yellow Bell Pepper [Total: ~650kcal, P: 28g, F: 18g, C: 80g]
   *Feedback from AI: [Veggie Boost] 昨日の食物繊維不足を朝から補強 — きゅうりのカリウム+わかめの水溶性食物繊維で腸内環境ケア。パプリカのビタミンCは卵の鉄分吸収を2-3倍に高める好組み合わせ。卵3個でコリン450mg確保。味噌汁の発酵菌+わかめのフコイダンが免疫サポート。白米はライスベリーに替えると食物繊維+アントシアニンがさらにUP。
 
-- Snack: EVOO (1 tbsp), 3 Seed Protein, Coconut Sugar (2 tsp) [Total: ~200kcal, P: 15g, F: 14g, C: 10g]
+- Snack: EVOO (1 tbsp), 3 Seed Protein (2 scoops), Coconut Sugar (2 tsp) [Total: ~260kcal, P: 18g, F: 22g, C: 12g]
   *Feedback from AI: [Quick Fuel] ランチまでの繋ぎとして良い選択。EVOOのオレイン酸が血糖値の急上昇を抑え、プロテインで筋分解を防ぐ。ココナッツシュガーは白砂糖よりGI値が低く（35 vs 65）ミネラルも含む。
 - Lunch (15:29): Protein Bowl — Air Fried Salmon 200g, Tempe 100g, Boiled Eggs x2, Edamame 40g, Broccoli 100g, Carrot 100g, Tomato 100g, Raw Beetroot 30g, Black Olive 20g, Jasmine Rice 100g, Mix Rice 100g, Mediterranean Garlic Dressing [Total: ~1050kcal, P: 78g, F: 32g, C: 95g]
   *Feedback from AI: [Perfect Bulk Meal] バルクアップの教科書的な1食。サーモン200gでEPA/DHA+タンパク質40g超、テンペの発酵菌が腸内環境を強化。ゆで卵2個でコリン300mg追加（朝と合わせて750mg、推奨量超え）。ブロッコリーのスルフォラファンが抗がん+解毒作用。ビーツの硝酸塩が一酸化窒素を産生し血流改善→筋トレ前の摂取として理想的。枝豆のイソフラボン+オリーブのオレイン酸で抗炎症。ミックスライスで食物繊維も確保。文句なし。
@@ -545,7 +545,7 @@ AIとの会話のスクショを見せて、「マナブさんはもう諦めて
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g), EVOO (1 tbsp), Yogurt (90g), Oats (25g), 3 Seed Protein, Great Lakes Collagen, Almond Milk (100ml), Coconut Sugar (2 tsp) [Total: ~965kcal, P: 49g, F: 35g, C: 91g]
+- Breakfast (09:37): 3 Fried Eggs, Riceberry (~150g), EVOO (1 tbsp), Yogurt (90g), Oats (25g), 3 Seed Protein (2 scoops), Great Lakes Collagen, Almond Milk (100ml), Coconut Sugar (2 tsp) [Total: ~1,025kcal, P: 58g, F: 39g, C: 93g]
   *Feedback from AI: [Choline Boost] 卵3個でコリン約450mg確保（1日推奨量の80%超）。ライスベリーは白米比で食物繊維3倍+アントシアニンの抗酸化効果。ただしタンパク質21gはバルクアップ朝食としては控えめ → Seed Protein or 豆腐の追加で改善。EVOOを加えると卵の脂溶性ビタミン（A/D/E）の吸収率が向上する。
 - Lunch: Carbonara Pasta, Mushroom Cream Soup (half), White Fish Meunière (Herb Butter Sauce) w/ Mashed Potato (half) [Total: ~1150kcal, P: 52g, F: 43g, C: 115g]
   *Feedback from AI: [Protein Rescued] 白身魚追加でタンパク質52gに改善 — 魚のタンパク質は消化吸収率95%超で筋合成に効率的。ハーブバターのパセリにビタミンK+鉄分。マッシュルームのエルゴチオネイン（細胞保護）+魚のセレンで抗酸化を二重カバー。カルボナーラの飽和脂肪酸は多めだが、魚の不飽和脂肪酸が脂質バランスを改善。腹八分目で残したのは消化負担の軽減にも◎。
@@ -598,7 +598,7 @@ Dream Analysis (by AI — Jungian Framework):
 - Spirit: 8/10
 
 ■ Food
-- Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (drink), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~870kcal, P: 43g, F: 27g, C: 110g]
+- Breakfast (08:08): Rice (Large portion, ~250g), 3 Seed Protein (2 scoops), Oats (40g), Tofu (100g), Honey (少々, ~10g), EVOO (1 tbsp), MCT Oil (1 tsp), Great Lakes Collagen, 整腸剤 [Total: ~930kcal, P: 52g, F: 31g, C: 112g]
   *Feedback from AI: [Glycemic Control + Protein Boost] オーツ40gのβグルカンが白米+蜂蜜の血糖スパイクを緩和。豆腐100g追加でタンパク質43gに改善 — 植物性イソフラボンが抗酸化+骨密度維持に寄与。動物性（コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を幅広くカバー。整腸剤+オーツの食物繊維で腸内環境の正常化を促進。
 - Lunch (12:30): Sushiro — Negitoro (2 plates), Maguro (1 plate), Salmon (2 plates), Salmon w/ Cheese (1 plate), Udon, Chawanmushi, Asari Miso Soup [Total: ~1150kcal, P: 62g, F: 28g, C: 130g]
   *Feedback from AI: [Omega-3 Rich] マグロ+サーモン計6貫でEPA/DHA推定2g以上 — 抗炎症・脳機能に優秀。ネギトロのネギにアリシンが含まれ、ビタミンB1の吸収を促進。茶碗蒸しの卵でコリン確保。アサリは鉄分+ビタミンB12の優秀な供給源（造血に必須）。チーズ乗せでカルシウム+カゼインプロテインも追加。うどんの精製炭水化物が血糖を上げやすいが、味噌汁の食物繊維と脂質（魚の脂）が緩和。
@@ -656,9 +656,9 @@ Dream Analysis (by AI — Jungian Framework):
 - [ ] Claudeでチーム制作をやってみる（職業割振り、ソフトウェアハウス化させる）
 
 ■ Food
-- Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein, Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~750kcal, P: 46g, F: 30g, C: 74g]
+- Breakfast (09:54): Rice (Normal portion, ~180g), 1 Boiled Egg, Tofu (100g), 3 Seed Protein (2 scoops), Great Lakes Collagen, Coconut Sugar (1 tsp), MCT Oil (1 tsp), EVOO (1 tbsp) [Total: ~810kcal, P: 55g, F: 34g, C: 76g]
   *Feedback from AI: [Protein Quality: Excellent] 動物性（卵/コラーゲン）と植物性（豆腐/Seed Protein）の混合で必須アミノ酸を網羅。豆腐のイソフラボンは抗酸化作用に加え、骨密度維持にも寄与。EVOOのポリフェノール（オレオカンタール）は抗炎症作用がイブプロフェンに匹敵する研究あり。ただし白米+ココナッツシュガーで血糖スパイクが起きやすい → オーツや野菜で食物繊維を追加すると改善。
-- Lunch (16:43): Coconut Yogurt (100g), 2 Bananas, Honey (24g), 3 Seed Protein (1 scoop, 9g protein), Oats (50g), Grilled Salmon (~150g), Steamed Vegetables (Broccoli ~100g, Bell Peppers ~80g, Onion ~50g) [Total: ~1097kcal, P: 58g, F: 36g, C: 134g]
+- Lunch (16:43): Coconut Yogurt (100g), 2 Bananas, Honey (24g), 3 Seed Protein (2 scoops), Oats (50g), Grilled Salmon (~150g), Steamed Vegetables (Broccoli ~100g, Bell Peppers ~80g, Onion ~50g) [Total: ~1,157kcal, P: 67g, F: 40g, C: 136g]
   *Feedback from AI: [Omega-3 & Antioxidants] サーモン150gでEPA/DHA約1.5g確保 — 抗炎症・筋肉回復に有効。ココナッツヨーグルトのMCTは即座にエネルギー変換される。パプリカ（赤+黄）でビタミンC約120mg確保（1日推奨量超）→ コラーゲン合成を促進。ブロッコリーのスルフォラファン+玉ねぎのケルセチンで抗酸化の相乗効果。オーツのβグルカンが食物繊維を補完し、血糖上昇を緩やかにする。
 - Dinner (19:59): Oyakodon — Chicken (~100g), 2 Eggs, Rice (~250g), Nori, Green Onion + Miso Soup (Tofu, Wakame) + Extra Tofu (100g) + 1 Large Avocado [Total: ~1090kcal, P: 50g, F: 53g, C: 108g]
   *Feedback from AI: [Amino Acid Synergy] 鶏肉+卵+豆腐の3種タンパク源で、ロイシン（筋合成トリガー）を十分確保。味噌汁のわかめはフコイダン（抗炎症）とヨウ素（甲状腺機能）を供給。アボカドのカリウム（~700mg）+食物繊維（~10g）が本日の不足分を大幅に補完。味噌の発酵菌が腸内フローラを支援。夕食20時前は消化時間も確保でき、睡眠への影響は最小限。
