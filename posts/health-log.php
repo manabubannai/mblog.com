@@ -410,16 +410,16 @@ NAC 500 mg (Thorne)
 - Lunch (14:30): Grilled Salmon (1 fillet), Riceberry Rice (~200g, 大盛り), Boiled Vegetables (Oyster Mushrooms, Carrot 1/2, Potato 1, Cabbage) [Total: ~770kcal, P: 41g, F: 18g, C: 90g]
   *Feedback from AI: [Salmon + Veggie Power Lunch] サーモンのアスタキサンチン+オメガ3で抗炎症コンボ。野菜煮込みが優秀：にんじんのβカロテンはオイスターマッシュルームの油脂で吸収UP。じゃがいものビタミンCは加熱しても壊れにくい。キャベツのビタミンKで骨密度サポート。エリンギのβグルカンで免疫活性化。ライスベリー大盛りでバルクに必要なカロリー確保。Running total: P:67g。
 
-- Dinner (19:00): Oden (Daikon 1 piece ~150g, Boiled Egg x1, Oden Broth), Salmon Nigiri x3 (Raw Salmon, Aburi Salmon, Salmon Mayo), Karaage x2 (~80g), Pickled Ginger, Wasabi [Total: ~595kcal, P: 38g, F: 35g, C: 37g]
-  *Feedback from AI: [Japanese Izakaya Night] おでん+サーモン握り+唐揚げの3品構成。唐揚げ2個で鶏のタンパク質+脂質を追加——揚げ物なので脂質は高めだが、夜の総タンパク質を38gまで引き上げる貢献度大。サーモンのオメガ3が今日2回目の補給（抗炎症効果蓄積）。大根の消化酵素が揚げ物の脂の消化をサポート。バランスは取れた居酒屋メシ。
+- Dinner (19:00): Oden (Daikon 1 piece ~150g, Boiled Egg x1, Oden Broth), Salmon Nigiri x3 (Raw Salmon, Aburi Salmon, Salmon Mayo), Karaage x2 (~80g), Yakitori — Sunagimo x2, Asparagus Pork Roll x2, Buta Bara x1, Pickled Ginger, Wasabi [Total: ~1,015kcal, P: 64g, F: 67g, C: 39g]
+  *Feedback from AI: [Full Izakaya Course] 居酒屋フルコース完成。砂肝はコラーゲン+ビタミンB12+鉄分が豊富でコスパ最強の内臓肉。アスパラ豚巻きのアスパラギン酸は疲労回復を助けるアミノ酸。豚バラは脂質高めだが、ビタミンB1が糖質をエネルギーに変換するのを助ける。サーモン2回+砂肝+豚肉で今日のタンパク質を一気に補填。大根の消化酵素が脂っこい食事の消化をサポート。
 
 ■ Daily Summary (by AI)
 - 朝食：510kcal / P:26g / F:18g / C:52g
 - 昼食：770kcal / P:41g / F:18g / C:90g
-- 夕食：595kcal / P:38g / F:35g / C:37g
-- 合計：1,875kcal / P:105g / F:71g / C:179g
+- 夕食：1,015kcal / P:64g / F:67g / C:39g
+- 合計：2,295kcal / P:131g / F:103g / C:181g
 
-バルクアップ目標（2,500〜2,800kcal / P:130g+）に対してカロリー・タンパク質ともにまだ不足。ただし今日の食事の質は高い——サーモン（昼+夜）、ライスベリー、野菜煮込み、キムチ、唐揚げと栄養密度は◎。睡眠スコア85・瞑想30分・体組成（筋肉量53.6kg）も良好。明日は朝食のプロテイン量を意識して増やすと良い。
+バルクアップ目標（2,500〜2,800kcal / P:130g+）に対してタンパク質131gはほぼ達成 🎯 カロリーはあと200〜500kcal不足だが許容範囲。脂質が高めの一日だったので、明日は揚げ物控えめにするとバランスが整う。睡眠スコア85・瞑想30分・体組成（筋肉量53.6kg）も好調——このまま継続すれば確実にバルクアップのペースに乗る。
   </pre>
 
   <h2># 2026-02-18</h2>
