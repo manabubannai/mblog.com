@@ -14,7 +14,7 @@ require dirname(__DIR__) . '/header.php';
 
 <hr>
 
-<p>Here is how I set it up securely:</p>
+<p>Here is how to set up:</p>
 
 <ul>
   <li>Step 1: Create a VPS on <a href="https://www.hetzner.com/" target="_blank">Hetzner</a> — $2.50/month. Add your SSH key during setup.</li>
