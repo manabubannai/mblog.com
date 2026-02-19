@@ -7,12 +7,12 @@ require dirname(__DIR__) . '/header.php';
 
 <style>
 .comparison-section {
-  margin: 0 0 32px;
+  margin: 0 0 40px;
 }
 
 .comparison-section h2 {
-  font-size: 13px;
-  color: #999;
+  font-size: 12px;
+  color: #aaa;
   font-weight: normal;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -23,7 +23,7 @@ require dirname(__DIR__) . '/header.php';
 .comparison-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 12px;
+  gap: 10px;
 }
 
 .comparison-card {
@@ -40,9 +40,17 @@ require dirname(__DIR__) . '/header.php';
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #bbb;
+  color: #ccc;
   font-size: 12px;
   font-family: 'adelle', serif;
+}
+
+.comparison-card .photo-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  display: block;
 }
 
 .comparison-card .card-body {
@@ -50,11 +58,11 @@ require dirname(__DIR__) . '/header.php';
 }
 
 .comparison-card .label {
-  font-size: 11px;
-  color: #999;
+  font-size: 10px;
+  color: #aaa;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom: 6px;
+  letter-spacing: 0.07em;
+  margin-bottom: 3px;
   font-family: 'adelle', serif;
 }
 
@@ -72,9 +80,9 @@ require dirname(__DIR__) . '/header.php';
   margin: 0;
   outline: none;
   background: none;
-  font-size: 12.5px;
-  line-height: 1.9;
-  color: #555;
+  font-size: 12px;
+  line-height: 1;
+  color: #666;
   font-family: 'adelle', serif;
 }
 
@@ -82,7 +90,7 @@ require dirname(__DIR__) . '/header.php';
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid rgba(0,0,0,0.04);
-  padding: 2px 0;
+  padding: 5px 0;
 }
 
 .comparison-card .stats li:last-child {
@@ -90,61 +98,54 @@ require dirname(__DIR__) . '/header.php';
 }
 
 .comparison-card .stats .val {
-  font-weight: 500;
+  font-weight: 600;
   color: #333;
 }
 
-.card-now {
-  border-color: rgba(0,0,0,0.1);
+.card-goal {
+  border-color: rgba(45, 74, 62, 0.2);
 }
 
-.card-goal {
-  border-color: rgba(45, 74, 62, 0.25);
-  background: rgba(45, 74, 62, 0.02);
+.card-goal .label {
+  color: #2d4a3e;
 }
 
 .card-goal .date {
   color: #2d4a3e;
 }
-
-.card-goal .photo-slot {
-  background: rgba(45, 74, 62, 0.07);
-  color: #2d4a3e;
-  opacity: 0.5;
-}
 </style>
 
 <div style="max-width: 640px; margin: 0 auto; padding: 20px;">
 
-  <p style="font-size: 13px; color: #aaa; margin-bottom: 24px; font-family: 'adelle', serif;">
-    🧪 テストページ — Health Logのページ上部に置く「体の比較」セクションのデザイン案
+  <p style="font-size: 12px; color: #bbb; margin-bottom: 32px; font-family: 'adelle', serif;">
+    🧪 テストページ — Health Log 体の比較セクション
   </p>
 
-  <!-- パターン A: シンプル数値のみ -->
+  <!-- パターン A: 写真スロット付き -->
   <div class="comparison-section">
-    <h2>パターン A — 数値のみ（写真なし）</h2>
+    <h2>パターン A — 写真 + 数値</h2>
     <div class="comparison-grid">
-      <div class="comparison-card card-now">
+      <div class="comparison-card">
+        <div class="photo-slot">📷 写真を追加</div>
         <div class="card-body">
           <div class="label">Now</div>
           <div class="date">Feb 2026</div>
           <ul class="stats">
             <li><span>体重</span><span class="val">61.6 kg</span></li>
-            <li><span>体脂肪率</span><span class="val">—%</span></li>
-            <li><span>筋肉量</span><span class="val">— kg</span></li>
-            <li><span>内臓脂肪</span><span class="val">—</span></li>
+            <li><span>目標</span><span class="val">バルクアップ</span></li>
           </ul>
         </div>
       </div>
       <div class="comparison-card card-goal">
+        <div class="photo-slot">
+          <img src="/img/body-goal-2027.jpg" alt="Goal body Feb 2027">
+        </div>
         <div class="card-body">
           <div class="label">Goal</div>
           <div class="date">Feb 2027</div>
           <ul class="stats">
             <li><span>体重</span><span class="val">65 kg</span></li>
-            <li><span>体脂肪率</span><span class="val">15%</span></li>
-            <li><span>筋肉量</span><span class="val">↑ kg</span></li>
-            <li><span>内臓脂肪</span><span class="val">↓</span></li>
+            <li><span>体脂肪</span><span class="val">↓ 絞る</span></li>
           </ul>
         </div>
       </div>
@@ -153,32 +154,24 @@ require dirname(__DIR__) . '/header.php';
 
   <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.06); margin: 32px 0;">
 
-  <!-- パターン B: 写真スロット付き -->
+  <!-- パターン B: 写真大きめ・数値なし -->
   <div class="comparison-section">
-    <h2>パターン B — 写真スロット付き</h2>
+    <h2>パターン B — 写真メイン・シンプル</h2>
     <div class="comparison-grid">
-      <div class="comparison-card card-now">
-        <div class="photo-slot">📷 Feb 2026</div>
+      <div class="comparison-card">
+        <div class="photo-slot">📷 写真を追加</div>
         <div class="card-body">
           <div class="label">Now</div>
-          <div class="date">Feb 2026</div>
-          <ul class="stats">
-            <li><span>体重</span><span class="val">61.6 kg</span></li>
-            <li><span>体脂肪率</span><span class="val">—%</span></li>
-            <li><span>筋肉量</span><span class="val">— kg</span></li>
-          </ul>
+          <div class="date">Feb 2026<br><span style="font-size:11px;font-weight:400;color:#aaa;">61.6 kg</span></div>
         </div>
       </div>
       <div class="comparison-card card-goal">
-        <div class="photo-slot">🎯 Feb 2027</div>
+        <div class="photo-slot">
+          <img src="/img/body-goal-2027.jpg" alt="Goal body Feb 2027">
+        </div>
         <div class="card-body">
           <div class="label">Goal</div>
-          <div class="date">Feb 2027</div>
-          <ul class="stats">
-            <li><span>体重</span><span class="val">65 kg</span></li>
-            <li><span>体脂肪率</span><span class="val">15%</span></li>
-            <li><span>筋肉量</span><span class="val">↑</span></li>
-          </ul>
+          <div class="date">Feb 2027<br><span style="font-size:11px;font-weight:400;color:#aaa;">目標体型</span></div>
         </div>
       </div>
     </div>
@@ -186,19 +179,25 @@ require dirname(__DIR__) . '/header.php';
 
   <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.06); margin: 32px 0;">
 
-  <!-- パターン C: ひとつの帯に横並び -->
+  <!-- パターン C: 写真のみ・ラベルオーバーレイ -->
   <div class="comparison-section">
-    <h2>パターン C — シンプル帯スタイル</h2>
-    <div style="background: #f8f8f8; border-radius: 10px; padding: 16px; display: flex; gap: 0;">
-      <div style="flex: 1; padding-right: 16px; border-right: 1px solid rgba(0,0,0,0.08);">
-        <div style="font-size: 11px; color: #aaa; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; font-family: 'adelle', serif;">Now — Feb 2026</div>
-        <div style="font-size: 22px; font-weight: 700; color: #333; font-family: 'adelle', serif;">61.6 <span style="font-size: 13px; font-weight: 400; color: #888;">kg</span></div>
-        <div style="font-size: 12px; color: #999; margin-top: 4px; font-family: 'adelle', serif;">バルクアップ開始</div>
+    <h2>パターン C — 写真のみ・オーバーレイ</h2>
+    <div class="comparison-grid">
+      <div style="position:relative; border-radius:10px; overflow:hidden; aspect-ratio:3/4; background:#f0f0f0; display:flex; align-items:center; justify-content:center; color:#ccc; font-size:12px; font-family:'adelle',serif;">
+        📷 写真を追加
+        <div style="position:absolute; bottom:0; left:0; right:0; background:rgba(0,0,0,0.45); color:#fff; padding:10px 12px;">
+          <div style="font-size:10px; opacity:0.7; letter-spacing:0.05em;">NOW</div>
+          <div style="font-size:14px; font-weight:600;">Feb 2026</div>
+          <div style="font-size:12px; opacity:0.8;">61.6 kg</div>
+        </div>
       </div>
-      <div style="flex: 1; padding-left: 16px;">
-        <div style="font-size: 11px; color: #2d4a3e; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; font-family: 'adelle', serif;">Goal — Feb 2027</div>
-        <div style="font-size: 22px; font-weight: 700; color: #2d4a3e; font-family: 'adelle', serif;">65 <span style="font-size: 13px; font-weight: 400; color: #888;">kg</span></div>
-        <div style="font-size: 12px; color: #999; margin-top: 4px; font-family: 'adelle', serif;">筋肉量↑ 体脂肪↓</div>
+      <div style="position:relative; border-radius:10px; overflow:hidden; aspect-ratio:3/4;">
+        <img src="/img/body-goal-2027.jpg" alt="Goal" style="width:100%; height:100%; object-fit:cover; object-position:top; display:block;">
+        <div style="position:absolute; bottom:0; left:0; right:0; background:rgba(45,74,62,0.7); color:#fff; padding:10px 12px;">
+          <div style="font-size:10px; opacity:0.8; letter-spacing:0.05em;">GOAL</div>
+          <div style="font-size:14px; font-weight:600;">Feb 2027</div>
+          <div style="font-size:12px; opacity:0.8;">目標体型</div>
+        </div>
       </div>
     </div>
   </div>
