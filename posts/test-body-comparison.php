@@ -126,7 +126,7 @@ require dirname(__DIR__) . '/header.php';
     <h2>パターン A — 写真 + 数値</h2>
     <div class="comparison-grid">
       <div class="comparison-card">
-        <div class="photo-slot">📷 写真を追加</div>
+        <div class="photo-slot"><img src="/img/body-now-2026.jpg" alt="Now Feb 2026"></div>
         <div class="card-body">
           <div class="label">Now</div>
           <div class="date">Feb 2026</div>
@@ -159,7 +159,7 @@ require dirname(__DIR__) . '/header.php';
     <h2>パターン B — 写真メイン・シンプル</h2>
     <div class="comparison-grid">
       <div class="comparison-card">
-        <div class="photo-slot">📷 写真を追加</div>
+        <div class="photo-slot"><img src="/img/body-now-2026.jpg" alt="Now Feb 2026"></div>
         <div class="card-body">
           <div class="label">Now</div>
           <div class="date">Feb 2026<br><span style="font-size:11px;font-weight:400;color:#aaa;">61.6 kg</span></div>
@@ -183,8 +183,8 @@ require dirname(__DIR__) . '/header.php';
   <div class="comparison-section">
     <h2>パターン C — 写真のみ・オーバーレイ</h2>
     <div class="comparison-grid">
-      <div style="position:relative; border-radius:10px; overflow:hidden; aspect-ratio:3/4; background:#f0f0f0; display:flex; align-items:center; justify-content:center; color:#ccc; font-size:12px; font-family:'adelle',serif;">
-        📷 写真を追加
+      <div style="position:relative; border-radius:10px; overflow:hidden; aspect-ratio:3/4;">
+        <img src="/img/body-now-2026.jpg" alt="Now Feb 2026" style="width:100%; height:100%; object-fit:cover; object-position:top; display:block;">
         <div style="position:absolute; bottom:0; left:0; right:0; background:rgba(0,0,0,0.45); color:#fff; padding:10px 12px;">
           <div style="font-size:10px; opacity:0.7; letter-spacing:0.05em;">NOW</div>
           <div style="font-size:14px; font-weight:600;">Feb 2026</div>
