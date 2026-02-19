@@ -9,14 +9,14 @@ require __DIR__ . '/header.php';
 <ul class="toppage">
 
 <li>
-<time datetime="2026-1-11">11 Jan, 2026</time>
+<time datetime="2026-1-4">11 Jan, 2026</time>
 <a href="health-log">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</a>
 </li>
 
 </ul>
 
 <hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
-<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">📝 Articles</h2>
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">📖 How-to</h2>
 <ul class="toppage">
 
 <li>
@@ -25,18 +25,8 @@ require __DIR__ . '/header.php';
 </li>
 
 <li>
-<time datetime="2026-02-18">18 Feb, 2026</time>
-<a href="end-of-nomad-era">ノマド時代は終わりますね。通勤しよう 😌🚃</a>
-</li>
-
-<li>
 <time datetime="2026-02-17">17 Feb, 2026</time>
 <a href="how-to-meditate">【挫折OK】瞑想のやり方【5億円を稼ぎ、心が壊れた僕の治し方】</a>
-</li>
-
-<li>
-<time datetime="2026-02-12">12 Feb, 2026</time>
-<a href="drop-pc-grab-dumbbell">PCを捨てて、ダンベルを持とう🏋️</a>
 </li>
 
 <li>
@@ -44,13 +34,35 @@ require __DIR__ . '/header.php';
 <a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
 
+</ul>
+
+<hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">📣 Opinion</h2>
+<ul class="toppage">
+
 <li>
-<time datetime="2026-01-04">4 Jan, 2026</time>
+<time datetime="2026-02-18">18 Feb, 2026</time>
+<a href="end-of-nomad-era">ノマド時代は終わりますね。通勤しよう 😌🚃</a>
+</li>
+
+<li>
+<time datetime="2026-02-12">12 Feb, 2026</time>
+<a href="drop-pc-grab-dumbbell">PCを捨てて、ダンベルを持とう🏋️</a>
+</li>
+
+</ul>
+
+<hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
+<h2 class="section-label" style="font-size: 14px; color: #888; font-weight: normal; margin: 16px 0 8px; font-family: 'adelle', serif;">📚 Review</h2>
+<ul class="toppage">
+
+<li>
+<time datetime="2026-1-4">4 Jan, 2026</time>
 <a href="siddhartha-hermann-hesse-book-review">Siddhartha (Hermann Hesse) — Book Review for Burned-Out Entrepreneurs</a>
 </li>
 
 <li>
-<time datetime="2025-12-30">30 Dec, 2025</time>
+<time datetime="2025-12-28">30 Dec, 2025</time>
 <a href="spiritual-trip-2025-12-30">My Reflection on a Spiritual Trip (Personal Note)</a>
 </li>
 
