@@ -34,7 +34,7 @@ require dirname(__DIR__) . '/header.php';
 
 <hr>
 
-<p>My bot is called HealthBot. I use it to manage my <a href="/health-log" target="_blank">Health Log</a> — daily records of food, sleep, and supplements — and as a marketing strategist for my content comeback.</p>
+<p>My bot is called HealthBot. I use it to manage my <a href="/health-log" target="_blank">Health Log</a> — daily records of food, sleep, and supplements — and as a marketing strategist.</p>
 
 <pre>
 Your name is "HealthBot."
