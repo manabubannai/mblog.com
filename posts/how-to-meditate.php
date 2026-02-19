@@ -151,7 +151,6 @@ require dirname(__DIR__) . '/header.php';
 
 <p>今回に継続できた理由は、心の病を治そうと思ったから。なにか<a href="https://forms.gle/CYduajUuR3uEh1G5A" target="_blank" rel="noopener noreferrer nofollow">疑問</a>があれば回答するので、挫折前提でトライもあり。</p>
 
-<p><i>※補足：読者さんからの質問に回答です🙋‍♂️</i></p>
 
 <p class="faq-q"><b>Q. 瞑想するのに朝起きてすぐ、とのことですが、本当に起き上がってすぐですか？</b></p>
 
