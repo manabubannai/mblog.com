@@ -311,7 +311,7 @@ NAC 500 mg (Thorne)
 - 優先順位の再設計：「最速で拡大」vs「丁寧に向き合う」。コンテンツ制作が常に最優先になり、読者へのメール返信が後回しになっている問題。拡大だけが正義なのか？改めて考える
 
 ■ Food
-- Breakfast (10:00): Fried Eggs x3, Riceberry Rice (~150g), Kimchi [Total: ~480kcal, P: 24g, F: 18g, C: 48g]
+- Breakfast (10:00): Fried Eggs x3, Riceberry Rice (~150g), Kimchi, Boiled Okra, Cucumber [Total: ~510kcal, P: 26g, F: 18g, C: 52g]
   *Feedback from AI: [Simple Protein Morning] 卵3個で良質なタンパク質+コリン（脳機能サポート）。ライスベリーのアントシアニンは毎日継続で抗酸化効果が蓄積。キムチの乳酸菌で朝から腸活。瞑想30分後の朝食 — コルチゾールが下がった状態での食事は消化効率◎。シンプルだけどバランス良い。昼で肉or魚のタンパク質を足せばバルクアップペースに乗る。
   </pre>
 
