@@ -423,6 +423,7 @@ NAC 500 mg (Thorne)
 
 ■ Substances
 - Cannabis 0.5g (Indica) (20:00)
+- Cannabis 0.8g (Indica) (22:00)
 
 ■ ドラフト（下書き）
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
