@@ -377,8 +377,8 @@ NAC 500 mg (Thorne)
 - Breakfast (10:00): Fried Eggs x3, Riceberry Rice (~150g), Kimchi, Boiled Okra, Cucumber [Total: ~510kcal, P: 26g, F: 18g, C: 52g]
   *Feedback from AI: [Simple Protein Morning] 卵3個で良質なタンパク質+コリン（脳機能サポート）。ライスベリーのアントシアニンは毎日継続で抗酸化効果が蓄積。キムチの乳酸菌で朝から腸活。瞑想30分後の朝食 — コルチゾールが下がった状態での食事は消化効率◎。シンプルだけどバランス良い。昼で肉or魚のタンパク質を足せばバルクアップペースに乗る。
 
-- Lunch (14:30): Grilled Salmon (1 fillet), Riceberry Rice (~200g, 大盛り) [Total: ~650kcal, P: 38g, F: 18g, C: 72g]
-  *Feedback from AI: [Salmon Power Lunch] サーモンのアスタキサンチンは最強クラスの抗酸化物質 — ビタミンCの6,000倍。オメガ3（EPA/DHA）が抗炎症+脳機能サポート。ライスベリー大盛りでバルクアップに必要なカロリーを確保。朝の卵+昼のサーモンで動物性タンパク質をバランスよく分散。Running total: P:64g。夕食であと60-70g積めば130g超え。
+- Lunch (14:30): Grilled Salmon (1 fillet), Riceberry Rice (~200g, 大盛り), Boiled Vegetables (Oyster Mushrooms, Carrot 1/2, Potato 1, Cabbage) [Total: ~770kcal, P: 41g, F: 18g, C: 90g]
+  *Feedback from AI: [Salmon + Veggie Power Lunch] サーモンのアスタキサンチン+オメガ3で抗炎症コンボ。野菜煮込みが優秀：にんじんのβカロテンはオイスターマッシュルームの油脂で吸収UP。じゃがいものビタミンCは加熱しても壊れにくい。キャベツのビタミンKで骨密度サポート。エリンギのβグルカンで免疫活性化。ライスベリー大盛りでバルクに必要なカロリー確保。Running total: P:67g。
   </pre>
 
   <h2># 2026-02-18</h2>
