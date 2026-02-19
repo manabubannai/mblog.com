@@ -8,9 +8,9 @@ require dirname(__DIR__) . '/header.php';
 <time>19 Feb, 2026</time>
 <h1 class="title">How to Run OpenClaw Safely — Hetzner VPS + Tailscale Setup</h1>
 
-<p>OpenClaw is a game changer. This kind of technology is worth understanding from the ground up.</p>
+<p>OpenClaw is a game changer. It is worth understanding.</p>
 
-<p><em>Note: If the security setup feels overwhelming, <a href="https://x.com/levelsio/status/2023960543959101938" target="_blank">claude-code-telegram</a> is a simpler alternative.</em></p>
+<p><em>Note: If you're worried about security, <a href="https://x.com/levelsio/status/2023960543959101938" target="_blank">claude-code-telegram</a> is a simpler alternative.</em></p>
 
 <hr>
 
