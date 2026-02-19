@@ -423,6 +423,11 @@ NAC 500 mg (Thorne)
 
 ■ Substances
 - Cannabis 0.5g (Indica) (20:00)
+
+■ ドラフト（下書き）
+- 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
+- 編集中：<a href="https://mblog.substack.com">Newsletter #4：AIスキルの話</a>
+- 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
   </pre>
 
   <h2># 2026-02-18</h2>
