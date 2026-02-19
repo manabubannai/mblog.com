@@ -129,31 +129,31 @@ require dirname(__DIR__) . '/header.php';
 
 <p class="faq-a">A. 問題なし。僕も同じです。集中しなくちゃ、、とか。足が痛いなぁ、とか。雑念が出たら戻す。この「戻す行為 = 瞑想の練習」です。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 10分も我慢できません。長すぎる</b></p>
 
 <p class="faq-a">A. 最初は５分でOK。人生で最も長い「５分」を経験できます。そして徐々に慣れる。鬼滅の刃を見ると、呼吸の技が出るのでモチベUP🏋️</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 瞑想に、アプリは必要ですか？</b></p>
 
 <p class="faq-a">A. 僕は使いません。4-4-6-2呼吸も、大切なのは正確な秒数じゃなく、体をリラックスさせることです。最初の１ヶ月だけ使うのもあり。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 座り方は、あぐらじゃないとダメ？</b></p>
 
 <p class="faq-a">A. 椅子でOK。むしろ椅子の方が、足が痛くならないし良い。僕の場合はあぐらの方が、体全体が地面に乗るイメージを持てて快適です。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 夜にやっても効果ありますか？</b></p>
 
 <p class="faq-a">A. あります。睡眠の質が上がります。とはいえ夜は意思力も減っているので、サボりやすくなるはず。僕は朝の瞑想をオススメします。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. ２年も継続できる気がしません</b></p>
 
@@ -162,14 +162,14 @@ require dirname(__DIR__) . '/header.php';
 <p>今回に継続できた理由は、心の病を治そうと思ったから。なにか<a href="https://forms.gle/CYduajUuR3uEh1G5A" target="_blank" rel="noopener noreferrer nofollow">疑問</a>があれば回答するので、挫折前提でトライもあり。</p>
 
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 瞑想するのに朝起きてすぐ、とのことですが、本当に起き上がってすぐですか？</b></p>
 
 <p class="faq-a">A. いえ、僕の場合は「①起きる → ②犬と遊ぶ → ③日光を浴びる（夜の眠りを深くする為に大切） → ④瞑想」です。</p>
 <p class="faq-a">この時間は、意識的に何も考えないようにします。まさに「瞑想的に生きる朝」の実践です。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 瞑想し始めると、よく寝てしまいます。意識が飛ぶ感じです。</b></p>
 
@@ -178,7 +178,7 @@ require dirname(__DIR__) . '/header.php';
 <p class="faq-a">瞑想中の脳波は睡眠に近いです。しかし睡眠との違いは集中力も保てているということ。</p>
 <p class="faq-a">意識はあるのに思考だけ手放す。この状態を、徐々に脳が覚えていきます。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 朝の通勤電車(座れる)でも可能でしょうか。</b></p>
 
@@ -187,13 +187,13 @@ require dirname(__DIR__) . '/header.php';
 <p class="faq-a">可能なら「自宅で集中して瞑想 → 足りない部分だけ移動中に瞑想」といったスタイルが良いと思います。</p>
 <p class="faq-a">移動中だけ瞑想したらいいや、みたいな気持ちだと、成長しづらいと思います。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 自分のブログで紹介したいです</b></p>
 
 <p class="faq-a">A. ありがとうございます。ぜひ、ご自由に紹介してください😌🙏✨</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 目は閉じて瞑想しますか？全て鼻呼吸ですか？</b></p>
 
@@ -201,7 +201,7 @@ require dirname(__DIR__) . '/header.php';
 <p class="faq-a">慣れないうちは「アイマスクと耳栓」をする方が、瞑想に入りやすいです。</p>
 <p class="faq-a">あと部屋が明るいと瞑想しづらいので、なるべく光を遮断してください。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 瞑想の効果を感じません。どのような感覚になるのですか？</b></p>
 
@@ -211,7 +211,7 @@ require dirname(__DIR__) . '/header.php';
 <p class="faq-a">撃ち合いのゲームは緊張します。しかし普段から瞑想していると、撃ち合いの瞬間に「あ、心拍数が上がっているから、まずは呼吸に集中して落ち着かせるか」と考えることができます。</p>
 <p class="faq-a">イメージは「自分の体 = コントロールできる肉の塊になる」という感じで、そこに意識が乗っかっており、その意識のSelf-Controlが強まるイメージです。言葉にすると難しいですが、こんな感じです。</p>
 
-<hr style="border:none;border-top:1px solid rgba(0,0,0,0.06);margin:30px 0;">
+<p style="text-align:center;color:rgba(0,0,0,0.2);margin:30px 0;letter-spacing:8px;">· · ·</p>
 
 <p class="faq-q"><b>Q. 瞑想中に背筋を伸ばすと呼吸が浅くなります。リラックスしつつ体幹を保つには？</b></p>
 
