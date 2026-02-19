@@ -124,7 +124,6 @@ require dirname(__DIR__) . '/header.php';
 
 <hr>
 
-<p><i>※補足：AIが「よくある質問」を出したので回答です🙋‍♂️</i></p>
 
 <p class="faq-q"><b>Q. 雑念が止まりません。失敗ですか？</b></p>
 
