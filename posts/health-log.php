@@ -91,7 +91,7 @@ require dirname(__DIR__) . '/header.php';
 
 <div>
   <p style="font-family: Noto, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Meiryo, sans-serif; font-size: 14px;">マナブの日常データです。食事、サプリ、運動、作業、思考など、全て公開です。データ公開からプレッシャーを生み、継続を加速してます。同時に、データが誰かの役に立てば幸いです🧘</p>
-  <ul>
+  <ul style="font-size: 14px;">
     <li>Name: Manabu Bannai </li>
     <li>Date of Birth: 1990-05-24</li>
     <li>Location: Chiang Mai, Thailand </li>
