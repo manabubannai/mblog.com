@@ -117,6 +117,12 @@ ul.long_list li:last-child {
 
 pre {
   white-space: pre-wrap;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 13.5px;
+  line-height: 1.75;
+  padding: 20px;
+  background-color: #f7f7f7;
+  outline: 1px solid rgba(210, 210, 210, 0.8);
 }
 
 pre a {
