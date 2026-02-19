@@ -300,11 +300,6 @@ NAC 500 mg (Thorne)
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
 
-  <p>
-    <a id="copyBtn" style="text-decoration: underline; cursor: pointer;">» Click here to copy all the data</a><br>
-    <a id="copyLast10Btn" style="text-decoration: underline; cursor: pointer;">» Click here to copy last 10 days</a>
-  </p>
-
   <h2># 2026-02-19</h2>
   <pre>
 📋 今日の積み上げ（理念順）
@@ -2846,61 +2841,6 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
 
 </div><!-- close #older-entries -->
 </div><!-- close #copy-target -->
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const btnAll = document.getElementById("copyBtn");
-    if (btnAll) {
-      btnAll.onclick = () => {
-        navigator.clipboard.writeText(
-          document.getElementById("copy-target").innerText
-        ).then(() => alert("All the data has been copied"));
-      };
-    }
-
-    const btn10 = document.getElementById("copyLast10Btn");
-    if (btn10) {
-      btn10.onclick = () => {
-        const container = document.getElementById("copy-target");
-        let textToCopy = "";
-
-        // 1. Get Fixed Section (Goals/Routine)
-        const firstPre = container.querySelector('pre');
-        if (firstPre && (!firstPre.previousElementSibling || !firstPre.previousElementSibling.tagName.match(/^H2/))) {
-          textToCopy += "■ Goals & Routine\n" + firstPre.textContent + "\n\n" + "=".repeat(20) + "\n\n";
-        }
-
-        // 2. Get Last 10 Daily Logs
-        const allH2s = Array.from(container.querySelectorAll('h2'));
-        const dateHeaders = allH2s.filter(h => h.textContent.trim().startsWith('#'));
-
-        // Take top 10 (Reverse Chronological)
-        const targetHeaders = dateHeaders.slice(0, 10);
-
-        targetHeaders.forEach((h2) => {
-          textToCopy += h2.textContent + "\n"; // Date Header
-
-          let next = h2.nextElementSibling;
-          while (next && next.tagName !== 'H2') {
-            const ignoreTags = ['SCRIPT', 'STYLE', 'BUTTON', 'NOSCRIPT'];
-            if (!ignoreTags.includes(next.tagName)) {
-              if (next.textContent.trim() !== "") {
-                textToCopy += next.textContent + "\n";
-              }
-            }
-            next = next.nextElementSibling;
-          }
-          textToCopy += "\n"; // Separator
-        });
-
-        if (textToCopy) {
-          navigator.clipboard.writeText(textToCopy).then(() => alert("Last 10 days data has been copied"));
-        } else {
-          alert("No data found to copy.");
-        }
-      };
-    }
-  });
-</script>
 <!-- ② "もっと見る" button for older entries -->
 <div id="showOlderWrap" style="text-align:center;margin:30px 0;">
 <button onclick="document.getElementById('older-entries').style.display='block';document.getElementById('showOlderWrap').style.display='none';" style="background:#f8f8f8;border:1px solid #ddd;border-radius:6px;padding:10px 28px;font-size:15px;color:#525150;cursor:pointer;font-family:inherit;">📜 過去のログを表示する</button>
