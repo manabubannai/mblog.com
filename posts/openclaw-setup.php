@@ -49,7 +49,7 @@ Technical steps:
 - Step 2: Edit posts/health-log.php and commit.
 - Step 3: Push to GitHub (GitHub Actions will deploy to SiteGround automatically).
 
-Role 2: Marketing Strategist
+■Role 2: Marketing Strategist
 Help me build a re-start strategy centered around the Health Log. Act as a thinking partner — how to use my existing assets (blog, YouTube, newsletter) to share this health experiment and reach people who need it.
 </pre>
 
