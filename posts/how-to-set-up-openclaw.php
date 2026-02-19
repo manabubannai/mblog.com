@@ -12,6 +12,8 @@ require dirname(__DIR__) . '/header.php';
 
 <p>OpenClawはゲームチェンジャーだと思う。<br>こういった技術はベースから理解することが大切。</p>
 
+<p>※補足：OpenClawがセキュリティ的に怖いと感じるなら、代わりの方法として「<a href="https://x.com/levelsio/status/2023960543959101938" target="_blank">claude-code-telegram</a>」を使えます。</p>
+
 <h2>安全にOpenClawを動かす方法</h2>
 <ul class="long_list">
   <li>手順①：VPSを作成（Hetznerだと月額2.5ドル／作成時にSSH鍵を追加）</li>
