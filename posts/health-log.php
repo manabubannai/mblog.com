@@ -410,16 +410,16 @@ NAC 500 mg (Thorne)
 - Lunch (14:30): Grilled Salmon (1 fillet), Riceberry Rice (~200g, 大盛り), Boiled Vegetables (Oyster Mushrooms, Carrot 1/2, Potato 1, Cabbage) [Total: ~770kcal, P: 41g, F: 18g, C: 90g]
   *Feedback from AI: [Salmon + Veggie Power Lunch] サーモンのアスタキサンチン+オメガ3で抗炎症コンボ。野菜煮込みが優秀：にんじんのβカロテンはオイスターマッシュルームの油脂で吸収UP。じゃがいものビタミンCは加熱しても壊れにくい。キャベツのビタミンKで骨密度サポート。エリンギのβグルカンで免疫活性化。ライスベリー大盛りでバルクに必要なカロリー確保。Running total: P:67g。
 
-- Dinner (19:00): Oden (Daikon 1 piece ~150g, Boiled Egg x1, Oden Broth), Salmon Nigiri x3 (Raw Salmon, Aburi Salmon, Salmon Mayo), Karaage x2 (~80g), Yakitori — Sunagimo x2, Asparagus Pork Roll x2, Buta Bara x1, Pickled Ginger, Wasabi [Total: ~1,015kcal, P: 64g, F: 67g, C: 39g]
-  *Feedback from AI: [Full Izakaya Course] 居酒屋フルコース完成。砂肝はコラーゲン+ビタミンB12+鉄分が豊富でコスパ最強の内臓肉。アスパラ豚巻きのアスパラギン酸は疲労回復を助けるアミノ酸。豚バラは脂質高めだが、ビタミンB1が糖質をエネルギーに変換するのを助ける。サーモン2回+砂肝+豚肉で今日のタンパク質を一気に補填。大根の消化酵素が脂っこい食事の消化をサポート。
+- Dinner (19:00): Oden (Daikon 1 piece ~150g, Boiled Egg x1, Oden Broth), Salmon Nigiri x3 (Raw Salmon, Aburi Salmon, Salmon Mayo), Karaage x2 (~80g), Yakitori — Sunagimo x2, Asparagus Pork Roll x2, Buta Bara x1, Soba (締め) with Wakame, Tenkasu, Katsuobushi, Cucumber, Daikon Oroshi, Wasabi [Total: ~1,415kcal, P: 78g, F: 80g, C: 96g]
+  *Feedback from AI: [Perfect Izakaya Close] 締めの蕎麦で居酒屋フルコース完結。砂肝はコラーゲン+ビタミンB12+鉄分が豊富。アスパラ豚巻きのアスパラギン酸は疲労回復アミノ酸。蕎麦のルチンが血管強化+低GIで血糖値の急上昇を防ぐ。わかめのフコイダンで腸内環境ケア、カツオのイノシン酸でエネルギー代謝UP。きゅうり+大根おろしの消化酵素が脂っこい食事の後処理を助ける。締めとして栄養的にも◎。
 
 ■ Daily Summary (by AI)
 - 朝食：510kcal / P:26g / F:18g / C:52g
 - 昼食：770kcal / P:41g / F:18g / C:90g
-- 夕食：1,015kcal / P:64g / F:67g / C:39g
-- 合計：2,295kcal / P:131g / F:103g / C:181g
+- 夕食：1,415kcal / P:78g / F:80g / C:96g
+- 合計：2,695kcal / P:145g / F:116g / C:238g
 
-バルクアップ目標（2,500〜2,800kcal / P:130g+）に対してタンパク質131gはほぼ達成 🎯 カロリーはあと200〜500kcal不足だが許容範囲。脂質が高めの一日だったので、明日は揚げ物控えめにするとバランスが整う。睡眠スコア85・瞑想30分・体組成（筋肉量53.6kg）も好調——このまま継続すれば確実にバルクアップのペースに乗る。
+バルクアップ目標（2,500〜2,800kcal / P:130g+）を両方クリア 🎯🎯 カロリー2,695kcal・タンパク質145g。脂質は高めだが居酒屋の夜として十分。睡眠スコア85・瞑想30分・体組成（筋肉量53.6kg）と今日はトータルで好調な一日。明日は揚げ物を少し抑えると理想のバランスに。
   </pre>
 
   <h2># 2026-02-18</h2>
