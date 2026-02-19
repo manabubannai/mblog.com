@@ -121,8 +121,8 @@ require dirname(__DIR__) . '/header.php';
       <div class="bc-label">Goal</div>
       <div class="bc-date">Feb 2027</div>
       <ul class="bc-stats">
-        <li><span>体重</span><span class="bc-val">65 kg</span></li>
-        <li><span>体脂肪</span><span class="bc-val">↓ 絞る</span></li>
+        <li><span>体重</span><span class="bc-val">67 kg</span></li>
+        <li><span>体脂肪</span><span class="bc-val">10%</span></li>
       </ul>
     </div>
   </div>
