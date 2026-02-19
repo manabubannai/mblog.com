@@ -332,6 +332,13 @@ NAC 500 mg (Thorne)
 - Readiness Score: 85
 - Substances before bed: Ashwagandha 300mg, Thorne PM x2, Cannabis 1g Indica
 
+■ Meditation (Oura Ring)
+- Session: 09:06 → 09:36（30分）
+- Avg HR: 62bpm（Baseline: 49bpm）
+- Avg HRV: 34ms（Baseline: 37ms）
+- Skin Temp: 上昇トレンド（副交感神経活性化）
+- Judgment: Better than usual
+
 ■ 今日の積み上げ（理念順）
 理念：３年前の自分を救う
 優先①：オフ会の運営／優先②：最速で拡大
