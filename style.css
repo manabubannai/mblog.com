@@ -97,7 +97,7 @@ hr {
 
 ul, pre {
   font-size: 16.5px;
-  background-color: #f8f8f8;
+  background-color: rgba(250, 250, 250, 0.48);
   outline: 1px solid rgba(228, 228, 228, 0.87);
   list-style: disc;
   padding: 20px 20px 21px 30px;
