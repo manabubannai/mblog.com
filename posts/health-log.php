@@ -114,7 +114,7 @@ require dirname(__DIR__) . '/header.php';
 ・<a href="/health-log">AIを使った食事管理（公開も良い）</a>
 
 ■ 別軸：AIの解説記事（AIが執筆する）
-・スキルの概念が、コピペに変わった話
+・<a href="/end-of-nomad-era">スキルの概念が、コピペに変わった話</a>
 ・今、何を学ぶべき？ → なし。AIで遊ぶ
 ・マナブのブログ設計 → 自分がボトルネック
 
