@@ -310,6 +310,16 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-19</h2>
   <pre>
+■ Body (Withings Body Scan)
+- Weight: 61.6kg
+- Fat Mass: 5.2kg（Fat Ratio: 8.4%）
+- Muscle Mass: 53.6kg
+- Fat Free Mass: 56.5kg
+- Bone Mass: 2.9kg
+- Hydration: 40.5kg
+- Visceral Fat: 1.2
+- Pulse Wave Velocity: 6.2 m/s
+
 ■ Sleep (Oura Ring)
 - Bedtime: 23:15 → 8:00（8時間46分）
 - Total Sleep: 8時間2分
