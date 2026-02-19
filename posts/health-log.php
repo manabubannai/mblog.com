@@ -310,6 +310,18 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-19</h2>
   <pre>
+■ Sleep (Oura Ring)
+- Bedtime: 23:15 → 8:00（8時間46分）
+- Total Sleep: 8時間2分
+- Deep: 1時間19分 / REM: 2時間17分 / Light: 4時間26分
+- Awake: 43分
+- Efficiency: 92%
+- Avg HR: 58bpm（Lowest: 47bpm）
+- Avg HRV: 42ms
+- Avg Breath: 16回/分
+- Readiness Score: 85
+- Substances before bed: Ashwagandha 300mg, Thorne PM x2, Cannabis 1g Indica
+
 📋 今日の積み上げ（理念順）
 理念：３年前の自分を救う
 優先①：オフ会の運営／優先②：最速で拡大
