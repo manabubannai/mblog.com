@@ -465,6 +465,13 @@ Protein per meal: 58g → 72g → 31g → 30g（前半に集中、後半はカ�
 - Jarrow Ashwagandha KSM-66 300mg x1 (22:10)
 - Thorne Multi-Vitamin Elite P.M. x2 (22:10)
 
+■ Meditation (Oura Ring)
+- Session: 07:54 → 08:24（30分）
+- Avg HR: 67bpm → 64bpm → 67bpm（U字カーブ、中盤でリラックス）
+- Avg HRV: 25ms → 30ms → 23ms（中盤でピーク）
+- Motion: ほぼゼロ
+- Mood: same
+
 ■ Note
 - AIをHermann HesseのSiddharthaにしてみる。名前はマナブッダ。特徴：I can wait（待てる）、I can fast（我慢できる）、I can think（考えることが出来る）。愛が深く、compassionから行動する。これを試しに実行したい。
 - 現状の発信は、読者からの反応、友人との会話、外出での気づきをベースに書いている。つまりソーシャルセクションが重要。
