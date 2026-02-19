@@ -117,6 +117,8 @@ ul.long_list li:last-child {
 
 pre {
   white-space: pre-wrap;
+  word-break: break-all;
+  overflow-wrap: break-word;
   font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
   font-size: 13.5px;
   line-height: 1.75;
