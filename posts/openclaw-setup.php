@@ -10,7 +10,7 @@ require dirname(__DIR__) . '/header.php';
 
 <p>OpenClaw is a game changer. It is worth understanding.</p>
 
-<p><em>Note: If you're worried about security, <a href="https://x.com/levelsio/status/2023960543959101938" target="_blank">claude-code-telegram</a> is a simpler alternative.</em></p>
+<p><em>*Note: If you're worried about security, <a href="https://x.com/levelsio/status/2023960543959101938" target="_blank">claude-code-telegram</a> is a simpler alternative.</em></p>
 
 <hr>
 
