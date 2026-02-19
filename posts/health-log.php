@@ -409,6 +409,17 @@ NAC 500 mg (Thorne)
 
 - Lunch (14:30): Grilled Salmon (1 fillet), Riceberry Rice (~200g, 大盛り), Boiled Vegetables (Oyster Mushrooms, Carrot 1/2, Potato 1, Cabbage) [Total: ~770kcal, P: 41g, F: 18g, C: 90g]
   *Feedback from AI: [Salmon + Veggie Power Lunch] サーモンのアスタキサンチン+オメガ3で抗炎症コンボ。野菜煮込みが優秀：にんじんのβカロテンはオイスターマッシュルームの油脂で吸収UP。じゃがいものビタミンCは加熱しても壊れにくい。キャベツのビタミンKで骨密度サポート。エリンギのβグルカンで免疫活性化。ライスベリー大盛りでバルクに必要なカロリー確保。Running total: P:67g。
+
+- Dinner (19:00): Oden — Daikon (1 piece, ~150g), Boiled Egg x1, Oden Broth [Total: ~130kcal, P: 7g, F: 6g, C: 8g]
+  *Feedback from AI: [Light Oden Night] 大根は95%が水分、カロリー最小でグルコシノレートが肝臓の解毒酵素を活性化。おでん出汁の昆布グルタミン酸が腸壁を保護。卵でコリン+良質タンパク質を補給。夕食としてはかなり軽め——今日は全体的にカロリー不足気味なので、就寝前にプロテインや豆腐などで補うと◎。
+
+■ Daily Summary (by AI)
+- 朝食：510kcal / P:26g / F:18g / C:52g
+- 昼食：770kcal / P:41g / F:18g / C:90g
+- 夕食：130kcal / P:7g / F:6g / C:8g
+- 合計：1,410kcal / P:74g / F:42g / C:150g
+
+バルクアップ目標（推定必要量：2,500〜2,800kcal / P:130g以上）に対して、今日はカロリー・タンパク質ともに大幅不足。昼のサーモン+ライスベリー大盛りが今日のMVP食。夕食がおでん1品と軽すぎた分、明日の朝〜昼で補うのがベスト。睡眠スコア85、瞑想30分、体組成も良好——トレーニング翌日にしっかり食べる日を意識的に作ると筋合成が加速する。
   </pre>
 
   <h2># 2026-02-18</h2>
