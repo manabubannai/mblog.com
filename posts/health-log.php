@@ -310,6 +310,11 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-19</h2>
   <pre>
+- Body: 9/10
+- Mind: 8/10
+- Spirit: 8/10
+※note：アシュワガンダのせいか、朝起きてすぐに体にブーストがかかりつらい。頭がもったり。でも、よくなれた。
+
 ■ Body (Withings Body Scan)
 - Weight: 61.6kg
 - Fat Mass: 5.2kg（Fat Ratio: 8.4%）
