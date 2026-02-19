@@ -337,8 +337,7 @@ NAC 500 mg (Thorne)
 優先①：オフ会の運営／優先②：最速で拡大
 
 [高] 理念に直結するもの
-[x] 優先順位の再設計：「最速で拡大」vs「丁寧に向き合う」
-<a href="/note-priority-redesign">結論：最優先は毎週のオフ会の継続。次に最速での拡大</a>
+[x] <a href="/note-priority-redesign">優先順位の再設計：「最速で拡大」vs「丁寧に向き合う」</a>
 [x] オフ会の日程確定と連絡（26日の11時〜＠LINEを聞く）
 [x] 読者質問に個別メール返信
 [x] 読者質問をFAQに追加（how-to-meditate）
