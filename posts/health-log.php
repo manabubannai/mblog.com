@@ -88,6 +88,35 @@ require dirname(__DIR__) . '/header.php';
 ※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️ by マナブ
 </p>
 
+<div class="body-comparison">
+  <div class="bc-card">
+    <div class="bc-photo">
+      <img src="/img/body-now-2026.jpg" alt="Feb 2026">
+    </div>
+    <div class="bc-body">
+      <div class="bc-label">Now</div>
+      <div class="bc-date">Feb 2026</div>
+      <ul class="bc-stats">
+        <li><span>体重</span><span class="bc-val">61.6 kg</span></li>
+        <li><span>目標</span><span class="bc-val">バルクアップ</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="bc-card bc-goal">
+    <div class="bc-photo">
+      <img src="/img/body-goal-2027.jpg" alt="Goal Feb 2027">
+    </div>
+    <div class="bc-body">
+      <div class="bc-label">Goal</div>
+      <div class="bc-date">Feb 2027</div>
+      <ul class="bc-stats">
+        <li><span>体重</span><span class="bc-val">65 kg</span></li>
+        <li><span>体脂肪</span><span class="bc-val">↓ 絞る</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div>
   <p style="font-family: Noto, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Meiryo, sans-serif; font-size: 16px;">マナブの日常データです。食事、サプリ、運動、作業、思考など、全て公開です。データ公開からプレッシャーを生み、継続を加速してます。同時に、データが誰かの役に立てば幸いです🧘</p>
   <ul>

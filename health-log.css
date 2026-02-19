@@ -37,3 +37,90 @@ pre a {
 pre a:hover {
   color: #174ea6 !important;
 }
+
+/* Body Comparison Section */
+.body-comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 20px 0 24px;
+}
+
+.body-comparison .bc-card {
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.body-comparison .bc-card.bc-goal {
+  border-color: rgba(45, 74, 62, 0.2);
+}
+
+.body-comparison .bc-photo {
+  width: 100%;
+  aspect-ratio: 3/4;
+  overflow: hidden;
+}
+
+.body-comparison .bc-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+}
+
+.body-comparison .bc-body {
+  padding: 10px 12px 12px;
+}
+
+.body-comparison .bc-label {
+  font-size: 10px;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 2px;
+}
+
+.body-comparison .bc-goal .bc-label {
+  color: #2d4a3e;
+}
+
+.body-comparison .bc-date {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.body-comparison .bc-goal .bc-date {
+  color: #2d4a3e;
+}
+
+.body-comparison .bc-stats {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  background: none;
+  font-size: 11.5px;
+  line-height: 1;
+  color: #666;
+}
+
+.body-comparison .bc-stats li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0,0,0,0.04);
+  padding: 4px 0;
+}
+
+.body-comparison .bc-stats li:last-child {
+  border-bottom: none;
+}
+
+.body-comparison .bc-stats .bc-val {
+  font-weight: 600;
+  color: #333;
+}
