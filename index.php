@@ -29,6 +29,11 @@ require __DIR__ . '/header.php';
 <a href="how-to-set-up-openclaw">OpenClawの設定方法 — VPS＋Tailscaleで安全に動かす手順</a>
 </li>
 
+<li>
+<time datetime="2026-02-19">19 Feb, 2026</time>
+<a href="openclaw-setup">How to Run OpenClaw Safely — Hetzner VPS + Tailscale Setup</a>
+</li>
+
 </ul>
 
 <hr style="border: none; border-top: 0.3px solid rgba(0,0,0,0.03); margin: 24px 0 0;">
