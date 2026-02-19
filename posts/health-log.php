@@ -124,6 +124,7 @@ require dirname(__DIR__) . '/header.php';
     <li>Date of Birth: 1990-05-24</li>
     <li>Location: Chiang Mai, Thailand </li>
     <li>Job: Ex-Influencer. Now I&#39;m resting</li>
+    <li>■ 理念：３年前の自分を救う</li>
   </ul>
 
   <pre>
