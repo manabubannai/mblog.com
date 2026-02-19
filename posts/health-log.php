@@ -88,7 +88,7 @@ require dirname(__DIR__) . '/header.php';
 ※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️ by マナブ
 </p>
 
-<div id="copy-target">
+<div>
   <p style="font-family: Noto, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Meiryo, sans-serif; font-size: 16px;">マナブの日常データです。食事、サプリ、運動、作業、思考など、全て公開です。データ公開からプレッシャーを生み、継続を加速してます。同時に、データが誰かの役に立てば幸いです🧘</p>
   <ul>
     <li>Name: Manabu Bannai </li>
@@ -124,8 +124,6 @@ require dirname(__DIR__) . '/header.php';
 ■ では、どの順番で実行すべきか？
 ３年前の自分が、最も救われるコンテンツから。
 </pre>
-
-  <!-- copy buttons moved below latest log -->
 
   <pre>
 🚩 2月の目標 : 姿勢を正す 🏋️
@@ -2840,7 +2838,7 @@ My undersatanding is that “action is challenge, activity is habit-oriented doi
 
 
 </div><!-- close #older-entries -->
-</div><!-- close #copy-target -->
+</div>
 <!-- ② "もっと見る" button for older entries -->
 <div id="showOlderWrap" style="text-align:center;margin:30px 0;">
 <button onclick="document.getElementById('older-entries').style.display='block';document.getElementById('showOlderWrap').style.display='none';" style="background:#f8f8f8;border:1px solid #ddd;border-radius:6px;padding:10px 28px;font-size:15px;color:#525150;cursor:pointer;font-family:inherit;">📜 過去のログを表示する</button>
