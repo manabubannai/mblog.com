@@ -340,6 +340,14 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-20</h2>
   <pre>
+■ Body Check Day
+<img src="img/health-log/20260220_front.jpg" alt="https://mblog.com/img/health-log/20260220_front.jpg">
+<img src="img/health-log/20260220_side.jpg" alt="https://mblog.com/img/health-log/20260220_side.jpg">
+<img src="img/health-log/20260220_back.jpg" alt="https://mblog.com/img/health-log/20260220_back.jpg">
+*source: https://mblog.com/img/health-log/20260220_front.jpg
+*source: https://mblog.com/img/health-log/20260220_side.jpg
+*source: https://mblog.com/img/health-log/20260220_back.jpg
+
 ■ Morning Self-Check
 - Body: 10/10
 - Mind: 10/10
