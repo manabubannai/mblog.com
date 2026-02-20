@@ -382,6 +382,8 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 
 作業しようと思ったけど、OuraのReadinessが76だったので、緩めの作業にする。たぶん１日中、AIを使っている毎日だから脳疲労している。ペースを落とす。
 
+昨夜は寝る直前までAIをガチャガチャと触っていたので、そのせいで今朝の集中力が弱まっているのかも。
+
 ■ Food
 - Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g), Collagen Peptides 20g (Vital Proteins) [Total: ~635kcal, P:50g, F:21g, C:54g]
   *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。コラーゲンペプチド20gで関節・皮膚のコラーゲン合成を後押し。タンパク質50gで朝から筋合成全開。バルクアップに向けた理想的な朝食構成。
