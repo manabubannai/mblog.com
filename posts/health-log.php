@@ -425,6 +425,10 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 - Dinner (19:00): Salmon Donburi（大盛り、ご飯~300g）, Chawanmushi x1 [Total: ~870kcal, P:45g, F:21g, C:114g]
   *Feedback from AI: [Post-Workout Recovery Bowl] 筋トレ後のサーモン丼は理想的な回復食。サーモンのアスタキサンチン＋オメガ3が筋肉の炎症を鎮め、筋合成を促進。大盛りご飯で炭水化物114g — トレーニングで枯渇したグリコーゲンを速やかに補充。茶碗蒸しの卵タンパク＋出汁のグルタミンで胃腸を労わりながら追加タンパク質。シンプルだが回復という観点では満点に近い構成。
 
+■ Social
+- 友人と一緒にジムで筋トレ（Back Day）
+- 友人と一緒にディナー（サーモン丼）
+
 ■ Workout (16:30〜 / Back Day / Oura計測)
 1. Chinning（チンニング）
 - 10 / 10 / 10 reps
