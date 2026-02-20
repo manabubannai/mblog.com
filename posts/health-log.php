@@ -364,8 +364,8 @@ NAC 500 mg (Thorne)
 [ ] 若い子を集めて教育する寺子屋をやりたい
 
 ■ Food
-- Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5 [Total: ~455kcal, P:23g, F:16g, C:46g]
-  *Feedback from AI: [Antioxidant Morning] ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化を二重強化。卵3個でコリン（記憶・集中サポート）＋良質な脂質。ビタミンCも自然に摂れてる。昼でタンパク質を増やすとバルクペースに乗る。
+- Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g) [Total: ~565kcal, P:32g, F:21g, C:54g]
+  *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。タンパク質32gで朝から筋合成スタート。バルクアップに向けた理想的な朝食構成。
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
