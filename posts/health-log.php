@@ -365,6 +365,9 @@ NAC 500 mg (Thorne)
 [ ] Google Cloud サービスアカウント作成 → 質問自動返信 = 理念のスケール化インフラ
 [ ] Cloudflare CDN導入（無料プラン） → サイト爆速。アカウント作成+ネームサーバー変更
 
+■ Note
+Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に精神が乱れる。良いデータを作ることは諦める。なぜ瞑想しているかを考える、集中を高め、脳のリラックスを増やし、人生のQOLを高めるため。データを良くすることは全くもって本質じゃない。
+
 ■ Food
 - Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g), Collagen Peptides 20g (Vital Proteins) [Total: ~635kcal, P:50g, F:21g, C:54g]
   *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。コラーゲンペプチド20gで関節・皮膚のコラーゲン合成を後押し。タンパク質50gで朝から筋合成全開。バルクアップに向けた理想的な朝食構成。
