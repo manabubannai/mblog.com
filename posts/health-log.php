@@ -393,11 +393,8 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 - Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g), Collagen Peptides 20g (Vital Proteins) [Total: ~635kcal, P:50g, F:21g, C:54g]
   *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。コラーゲンペプチド20gで関節・皮膚のコラーゲン合成を後押し。タンパク質50gで朝から筋合成全開。バルクアップに向けた理想的な朝食構成。
 
-- Lunch (14:11): Charcoal Grilled Steak & Parmesan Open Sandwich（半分）+ Pineapple Smoothie [Total: ~640kcal, P:27g, F:24g, C:83g]
-  *Feedback from AI: [Pre-Workout Power Lunch] サーロイン（半量）でタンパク質27g確保。シューストリングフライ＋サワードウパンで炭水化物83g — 筋トレのグリコーゲン燃料として◎。パイナップルのブロメラインが消化を助けつつ、天然糖で速攻エネルギーも補給。脂質24gはアイオリ＋パルメザン由来でやや高め、トレ90分前摂取が理想。半分に抑えた判断は胃への負担軽減として正解。
-
-- Lunch cont. (14:xx): Chicken Tacos x2（3枚中2枚分）+ Mexican Rice（2/3）+ Black Beans（2/3）+ Avocado, Pico de Gallo, Sour Cream [Total: ~705kcal, P:42g, F:23g, C:95g]
-  *Feedback from AI: [Mexican Muscle Fuel] チキンタコスはバルクアップに理想的な構成。チキン40g超のタンパク質＋トルティーヤ＋メキシカンライスで炭水化物95g — グリコーゲン満タン。ブラックビーンズは植物性タンパク＋食物繊維で腸内環境にも◎。アボカドの良質な脂質（モノ不飽和脂肪酸）で抗炎症サポート。2/3に抑えたのも適切。筋トレ前のカーボローディングとして文句なし。
+- Lunch (14:11): Charcoal Grilled Steak & Parmesan Open Sandwich（半分）, Pineapple Smoothie, Chicken Tacos x2（3枚中2枚分）, Mexican Rice（2/3）, Black Beans（2/3）, Avocado, Pico de Gallo, Sour Cream [Total: ~1,345kcal, P:69g, F:47g, C:178g]
+  *Feedback from AI: [Pre-Workout Power Combo] ステーキ＋チキンタコスのダブルタンパク質でP:69g確保。サワードウ＋フライ＋トルティーヤ＋メキシカンライスで炭水化物178g — 筋トレ前のグリコーゲン満タン状態。ブラックビーンズの植物性タンパク＋食物繊維で腸内環境◎。アボカドのモノ不飽和脂肪酸で抗炎症サポート。パイナップルのブロメラインが消化酵素として全体の消化を促進。筋トレ前の食事として申し分なし。
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
