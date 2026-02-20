@@ -366,6 +366,9 @@ NAC 500 mg (Thorne)
 ■ Food
 - Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g) [Total: ~565kcal, P:32g, F:21g, C:54g]
   *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。タンパク質32gで朝から筋合成スタート。バルクアップに向けた理想的な朝食構成。
+
+■ Supplements
+- Vital Proteins Collagen Peptides 20g（朝食時）
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
