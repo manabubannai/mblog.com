@@ -392,6 +392,9 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 ■ Food
 - Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5, Natto x1 pack (~50g), Kimchi (~30g), Collagen Peptides 20g (Vital Proteins) [Total: ~635kcal, P:50g, F:21g, C:54g]
   *Feedback from AI: [Gut & Brain Morning] 納豆（納豆菌）＋キムチ（乳酸菌）で腸内フローラを朝から二重強化。ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化も重ねてる。卵のコリンで脳機能サポート。コラーゲンペプチド20gで関節・皮膚のコラーゲン合成を後押し。タンパク質50gで朝から筋合成全開。バルクアップに向けた理想的な朝食構成。
+
+- Lunch (14:11): Charcoal Grilled Steak & Parmesan Open Sandwich（半分）+ Pineapple Smoothie [Total: ~640kcal, P:27g, F:24g, C:83g]
+  *Feedback from AI: [Pre-Workout Power Lunch] サーロイン（半量）でタンパク質27g確保。シューストリングフライ＋サワードウパンで炭水化物83g — 筋トレのグリコーゲン燃料として◎。パイナップルのブロメラインが消化を助けつつ、天然糖で速攻エネルギーも補給。脂質24gはアイオリ＋パルメザン由来でやや高め、トレ90分前摂取が理想。半分に抑えた判断は胃への負担軽減として正解。
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
