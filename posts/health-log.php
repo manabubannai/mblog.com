@@ -338,6 +338,38 @@ NAC 500 mg (Thorne)
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
 
+  <h2># 2026-02-20</h2>
+  <pre>
+- Body: /10
+- Mind: /10
+- Spirit: /10
+
+■ 今日の積み上げ（理念順）
+理念：３年前の自分を救う
+優先①：オフ会の運営／優先②：最速で拡大
+
+[高] 理念に直結するもの
+[ ] メルマガで読者質問まとめて共有
+
+[中] 理念を加速するもの
+[ ] 音声クローンのテスト → Voicy復活 = リーチ拡大。耳からも「3年前の自分」に届く。
+[ ] マナブッダをキャラクター化して動画配信を始める → AIが主役のコンテンツ。
+[ ] Claude Skillを使ってみる → 5スキルインストール済み。「obviously-awesomeスキルで mblog.com を分析して」でスタート。
+[ ] Google Cloud サービスアカウント作成 → 質問自動返信 = 理念のスケール化インフラ。
+[ ] Cloudflare CDN導入（無料プラン） → サイト爆速化。
+
+[低] いつでもいい
+[x] GA4スプレッドシートに日付ディメンション追加
+[x] PM用のメガネを買う
+[ ] 寺子屋をやりたい
+
+■ Food
+- Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g) [Total: ~440kcal, P:22g, F:16g, C:42g]
+  *Feedback from AI: [Antioxidant Morning] ライスベリーのアントシアニンで抗酸化スタート。卵3個でコリン（記憶・集中サポート）＋良質な脂質。シンプルだけど機能的な朝食。昼でタンパク質を増やすとバルクペースに乗る。
+  </pre>
+
+  <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
+
   <h2># 2026-02-19</h2>
   <pre>
 - Body: 9/10
