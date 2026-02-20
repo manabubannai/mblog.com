@@ -395,6 +395,9 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 
 - Lunch (14:11): Charcoal Grilled Steak & Parmesan Open Sandwich（半分）+ Pineapple Smoothie [Total: ~640kcal, P:27g, F:24g, C:83g]
   *Feedback from AI: [Pre-Workout Power Lunch] サーロイン（半量）でタンパク質27g確保。シューストリングフライ＋サワードウパンで炭水化物83g — 筋トレのグリコーゲン燃料として◎。パイナップルのブロメラインが消化を助けつつ、天然糖で速攻エネルギーも補給。脂質24gはアイオリ＋パルメザン由来でやや高め、トレ90分前摂取が理想。半分に抑えた判断は胃への負担軽減として正解。
+
+- Lunch cont. (14:xx): Chicken Tacos x2（3枚中2枚分）+ Mexican Rice（2/3）+ Black Beans（2/3）+ Avocado, Pico de Gallo, Sour Cream [Total: ~705kcal, P:42g, F:23g, C:95g]
+  *Feedback from AI: [Mexican Muscle Fuel] チキンタコスはバルクアップに理想的な構成。チキン40g超のタンパク質＋トルティーヤ＋メキシカンライスで炭水化物95g — グリコーゲン満タン。ブラックビーンズは植物性タンパク＋食物繊維で腸内環境にも◎。アボカドの良質な脂質（モノ不飽和脂肪酸）で抗炎症サポート。2/3に抑えたのも適切。筋トレ前のカーボローディングとして文句なし。
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
