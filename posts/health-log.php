@@ -345,6 +345,15 @@ NAC 500 mg (Thorne)
 - Mind: 10/10
 - Spirit: 8/10
 
+■ Body (Withings Body Scan)
+- Weight: 61.2kg
+- Fat Mass: 4.4kg（Fat Ratio: 7.2%）
+- Muscle Mass: 53.9kg
+- Fat Free Mass: 56.8kg
+- Bone Mass: 2.9kg
+- Hydration: 40.8kg
+- Visceral Fat: 1.1
+
 ■ Sleep (Oura Ring)
 - Bedtime: 23:55 → 08:01（8時間6分）
 - Total Sleep: 7時間17分
@@ -355,6 +364,11 @@ NAC 500 mg (Thorne)
 - Avg HRV: 35ms
 - Avg Breath: 16回/分
 - Readiness Score: 76
+
+■ Meditation (Oura Ring)
+- Session: 08:45 → 09:15（30分）
+- Avg HR: 65bpm
+- Avg HRV: 34ms
 
 ■今日の積み上げ
 ・理念：３年前の自分を救う
