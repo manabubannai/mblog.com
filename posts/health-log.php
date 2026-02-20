@@ -364,8 +364,8 @@ NAC 500 mg (Thorne)
 [ ] 若い子を集めて教育する寺子屋をやりたい
 
 ■ Food
-- Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g) [Total: ~440kcal, P:22g, F:16g, C:42g]
-  *Feedback from AI: [Antioxidant Morning] ライスベリーのアントシアニンで抗酸化スタート。卵3個でコリン（記憶・集中サポート）＋良質な脂質。シンプルだけど機能的な朝食。昼でタンパク質を増やすとバルクペースに乗る。
+- Breakfast (09:00): Fried Eggs x3, Riceberry Rice (~150g), Cherry Tomatoes x5 [Total: ~455kcal, P:23g, F:16g, C:46g]
+  *Feedback from AI: [Antioxidant Morning] ライスベリーのアントシアニン＋ミニトマトのリコピンで抗酸化を二重強化。卵3個でコリン（記憶・集中サポート）＋良質な脂質。ビタミンCも自然に摂れてる。昼でタンパク質を増やすとバルクペースに乗る。
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
