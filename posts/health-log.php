@@ -345,6 +345,17 @@ NAC 500 mg (Thorne)
 - Mind: 10/10
 - Spirit: 8/10
 
+■ Sleep (Oura Ring)
+- Bedtime: 23:55 → 08:01（8時間6分）
+- Total Sleep: 7時間17分
+- Deep: 1時間40分 / REM: 1時間16分 / Light: 4時間21分
+- Awake: 49分
+- Efficiency: 90%
+- Avg HR: 58bpm（Lowest: 51bpm）
+- Avg HRV: 35ms
+- Avg Breath: 16回/分
+- Readiness Score: 76
+
 ■今日の積み上げ
 ・理念：３年前の自分を救う
 ・優先①：オフ会を定期開催
