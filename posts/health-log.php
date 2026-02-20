@@ -431,34 +431,37 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 
 ■ Workout (16:00〜18:07 / 127分 / Back Day)
 - Avg HR: 118bpm / Peak: 135bpm（Oura装着：16:00〜16:24のみ）
+
 1. Chinning（チンニング）
 - 10 / 10 / 10 reps
-※note: 久しぶりで腕の疲弊を感じる
+※note: 久しぶりの復帰なので、重量は低め
 
 2. Deadlift（デッドリフト）
-- 100kg x 4
-- 80kg x 3
-- 60kg x 4
-※note: 久しぶりで重量に影響
+- 60kg × 4
+- 80kg × 3
+- 100kg × 4
 
 3. Bent Over Rowing — Smith Machine（ベントオーバーロウ）
-- Warmup: 40kg
-- 60kg x 10
-- 75kg x 10
-- 65kg x 7
-- 60kg x 10
-- 55kg x 10
-※note: 肩の筋肉がだんだん疲弊。Smith Machine bar 3kg補正
+- 40kg × 10
+- 60kg × 10
+- 75kg × 10
+- 65kg × 7
+- 60kg × 10
+- 55kg × 10
+※note: 足の幅は肩幅くらい
+※note: 自分はフォームが崩れている可能性。フォーム確認した。腰をまげる。
+※note: 完全に、腕を伸ばしきるフォーム
 
 4. T-Bar Row（Tバーロウ）
-- 40kg x 10
-- 40kg x 7
+- 40kg × 10
+- 40kg × 7
+※note: 胸の部分が少し痛い
 
-5. Rack Pull Down（ラックプルダウン）
-- 45kg x (8+2c)
-- 45kg x (5+3c)
-- 45kg x (6+2c)
-※note: 後半バテてる（cはチートレップ）
+5. Lat Pull Down（ラットプルダウン）
+- 45kg × (8 + 2c)
+- 45kg × (5 + 3c)
+- 45kg × (6 + 2c)
+※note: 集中力が、少し低かった
 
 ■ Daily Summary (by AI)
 - 朝食：635kcal / P:50g / F:21g / C:54g
