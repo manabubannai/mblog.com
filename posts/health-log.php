@@ -340,6 +340,7 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-20</h2>
   <pre>
+■ Morning Self-Check
 - Body: 10/10
 - Mind: 10/10
 - Spirit: 8/10
@@ -372,6 +373,7 @@ NAC 500 mg (Thorne)
 
   <h2># 2026-02-19</h2>
   <pre>
+■ Morning Self-Check
 - Body: 9/10
 - Mind: 8/10
 - Spirit: 8/10
