@@ -10,3 +10,9 @@ router.php
 village-data/
 meetup-data/
 config.php
+.env
+.env.*
+*.pem
+*.key
+*_secret*
+*credentials*.json
