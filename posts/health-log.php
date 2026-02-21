@@ -421,20 +421,20 @@ NAC 500 mg (Thorne)
   ~1,150kcal / P:48g / F:36g / C:158g
   *Feedback from AI: [Plant-Based Power Bowl] テンペは発酵大豆由来でP:24g＋プレバイオティクス効果。ブロメライン（パイナップル酵素）が食前の消化促進を担い、味噌の発酵菌との相乗効果で腸内環境◎。ただし大盛り白米でC:158gとバルク向けに高カロリー構成。チーズでカルシウム補強。Running total: P:105g / 目標136gまで残り31g。ディナーで肉や魚を追加すれば目標達成圏内。
 
-- Dinner (20:00): Chicken Curry with Rice（Healthy Junk Express）＋ブロッコリー 50g＋ケール 40g
-  ~300kcal / P:28g / F:7g / C:30g（店舗表示：264kcal ＋野菜追加分）
-  *Feedback from AI: [Micronutrient Grand Slam] ブロッコリー＋ケールのコンビは最強の抗酸化コンボ。ビタミンK・C・鉄・食物繊維をまとめて補給。チキンカレーでP:28g確保。ただし264kcalは全体的に低カロリー設計のため、バルク目的では補食が必要。
+- Dinner (20:00): Chicken Curry with Rice（Healthy Junk Express）＋ブロッコリー 50g＋ケール 40g＋バナナ 2本
+  ~510kcal / P:31g / F:8g / C:84g（チキンカリー+野菜：300kcal / バナナ2本：210kcal）
+  *Feedback from AI: [Micronutrient Grand Slam + Gut Reset] ブロッコリー＋ケールで抗酸化コンボ、チキンカレーでP:28g確保。バナナのペクチン（水溶性食物繊維）が腸粘膜を保護してお腹が緩い状態を自然にケア。カリウムで電解質補給。補食としてバナナ2本を追加したことでカロリー・Cともに大幅改善、目標達成圏内に。
 
 ■ Substances
 - Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
 
 ■ Daily Summary (by AI)
 食事    実績         目標         達成率
-カロリー  2,429kcal   2,650kcal    92%
-P        133g        136g         98%
-F         87g         74g        118% ⚠️
-C        282g        361g         78% 📉
-食物繊維   ~14g        25g         56% 📉
+カロリー  2,639kcal   2,650kcal   100% ✅
+P        136g        136g        100% ✅
+F         88g         74g        119% ⚠️
+C        336g        361g         93%
+食物繊維   ~20g        25g         80%
 
 ■ マナブの1日（AIが行動ログから生成）
 08:05 起床。Readiness 92、HRV 40ms。
@@ -445,7 +445,7 @@ C        282g        361g         78% 📉
 15:00〜 情報収集タイム。weirdoをSOULに刻む。セキュリティチェック実施。
 17:00（推定）マッサージへ。背中の筋肉痛ケア。
 19:47 Cannabis Compound Z 0.4gで中断。最少量記録。
-20:00 ディナー（チキンボウル＋ケール）。
+20:00 ディナー（チキンカリー＋ケール＋バナナ2本）。
 この日の一言：「Cannabis量が減る。意思決定を体が先にしていた。」
   </pre>
 
