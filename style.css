@@ -56,10 +56,14 @@ a {
 }
 
 h1, h2, h3, time, p, li, pre {
-  font-family: "Crimson Text", Noto, "Hiragino Sans", Helvetica, Arial, georgia, serif;
+  font-family: Noto, "Hiragino Sans", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   color: #333333;
+}
+
+h1, h2, h3 {
+  font-family: "Crimson Text", georgia, Noto, "Hiragino Sans", Helvetica, Arial, serif;
 }
 
 h1.title {
