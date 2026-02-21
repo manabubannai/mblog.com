@@ -1,26 +1,26 @@
 /* ============================================
    Dark Mode — mblog.com
-   prefers-color-scheme: auto-detect
-   data-theme="dark" | "light" : manual override
+   Loaded LAST in header.php — cascade wins
+   over jp-article.css without !important
    ============================================ */
 
 /* ---- Light mode defaults (CSS vars) ---- */
 :root {
-  --bg:          #ffffff;
-  --bg-sub:      #f7f7f7;
-  --bg-ul:       rgba(250, 250, 250, 0.48);
-  --text:        #333333;
-  --text-muted:  #6a6a6a;
-  --text-title:  #454545;
-  --link:        #2121d3d9;
-  --link-pre:    #2121d3d9;
-  --border:      rgba(228, 228, 228, 0.87);
-  --border-pre:  rgba(210, 210, 210, 0.8);
-  --hr:          rgba(0, 0, 0, 0.15);
-  --bq-border:   rgba(75, 75, 75, 0.8);
+  --bg:         #ffffff;
+  --bg-sub:     #f7f7f7;
+  --bg-ul:      rgba(250, 250, 250, 0.48);
+  --text:       #333333;
+  --text-muted: #6a6a6a;
+  --text-title: #454545;
+  --link:       #2121d3d9;
+  --link-pre:   #2121d3d9;
+  --border:     rgba(228, 228, 228, 0.87);
+  --border-pre: rgba(210, 210, 210, 0.8);
+  --hr:         rgba(0, 0, 0, 0.15);
+  --bq-border:  rgba(75, 75, 75, 0.8);
 }
 
-/* ---- Dark mode vars ---- */
+/* ---- Dark mode vars (system preference) ---- */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg:         #141414;
@@ -38,6 +38,7 @@
   }
 }
 
+/* ---- Dark mode vars (manual toggle) ---- */
 [data-theme="dark"] {
   --bg:         #141414;
   --bg-sub:     #242424;
@@ -53,144 +54,59 @@
   --bq-border:  rgba(160, 160, 160, 0.4);
 }
 
-/* ============================================
-   DARK MODE — apply to all elements
-   !important needed to override jp-article.css
-   hardcoded rgb() values
-   ============================================ */
+/* ---- Base elements (style.css override) ---- */
+body { background-color: var(--bg); }
+h1, h2, h3, h4, p, li, time, pre { color: var(--text); }
+h1.title { color: var(--text-title); }
+h1.brand a, p.brand a { color: var(--text); }
+a { color: var(--link); }
+hr { background-color: var(--hr); }
+ul { background-color: var(--bg-ul); outline: 1px solid var(--border); }
+ul.toppage { background-color: var(--bg); }
+pre { background-color: var(--bg-sub); outline: 1px solid var(--border-pre); }
+pre a { color: var(--link-pre); }
+blockquote { border-left-color: var(--bq-border); }
+blockquote p { color: var(--text-muted); }
 
-/* Helper mixin via selector grouping */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) body,
-  :root:not([data-theme="light"]) body.jp-article {
-    background-color: #141414 !important;
-    color: #d4d4d4 !important;
-  }
-}
-[data-theme="dark"] body,
-[data-theme="dark"] body.jp-article {
-  background-color: #141414 !important;
-  color: #d4d4d4 !important;
-}
+/* ---- JP Article (jp-article.css override — wins via cascade, loaded last) ---- */
+body.jp-article { background-color: var(--bg); color: var(--text); }
 
-/* Text elements */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) h1,
-  :root:not([data-theme="light"]) h2,
-  :root:not([data-theme="light"]) h3,
-  :root:not([data-theme="light"]) h4,
-  :root:not([data-theme="light"]) p,
-  :root:not([data-theme="light"]) li,
-  :root:not([data-theme="light"]) time,
-  :root:not([data-theme="light"]) pre,
-  :root:not([data-theme="light"]) .jp-article,
-  :root:not([data-theme="light"]) .jp-article h1,
-  :root:not([data-theme="light"]) .jp-article h1.title,
-  :root:not([data-theme="light"]) .jp-article h2,
-  :root:not([data-theme="light"]) .jp-article h3,
-  :root:not([data-theme="light"]) .jp-article h4,
-  :root:not([data-theme="light"]) .jp-article p,
-  :root:not([data-theme="light"]) .jp-article li,
-  :root:not([data-theme="light"]) .jp-article time { color: #d4d4d4 !important; }
-}
-[data-theme="dark"] h1,
-[data-theme="dark"] h2,
-[data-theme="dark"] h3,
-[data-theme="dark"] h4,
-[data-theme="dark"] p,
-[data-theme="dark"] li,
-[data-theme="dark"] time,
-[data-theme="dark"] pre,
-[data-theme="dark"] .jp-article,
-[data-theme="dark"] .jp-article h1,
-[data-theme="dark"] .jp-article h1.title,
-[data-theme="dark"] .jp-article h2,
-[data-theme="dark"] .jp-article h3,
-[data-theme="dark"] .jp-article h4,
-[data-theme="dark"] .jp-article p,
-[data-theme="dark"] .jp-article li,
-[data-theme="dark"] .jp-article time { color: #d4d4d4 !important; }
+.jp-article { color: var(--text); }
+.jp-article h1.title { color: var(--text-title); }
+.jp-article h2,
+.jp-article h3,
+.jp-article h4 { color: var(--text); }
+.jp-article p { color: var(--text); }
+.jp-article li { color: var(--text); }
+.jp-article time { color: var(--text-muted); }
 
-/* Links */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) a,
-  :root:not([data-theme="light"]) .jp-article a,
-  :root:not([data-theme="light"]) pre a { color: #8c8cff !important; }
-  :root:not([data-theme="light"]) h1.brand a,
-  :root:not([data-theme="light"]) p.brand a { color: #d4d4d4 !important; }
-}
-[data-theme="dark"] a,
-[data-theme="dark"] .jp-article a,
-[data-theme="dark"] pre a { color: #8c8cff !important; }
-[data-theme="dark"] h1.brand a,
-[data-theme="dark"] p.brand a { color: #d4d4d4 !important; }
+.jp-article a { color: var(--link); }
 
-/* Backgrounds */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) ul,
-  :root:not([data-theme="light"]) .jp-article ul,
-  :root:not([data-theme="light"]) .jp-article ol {
-    background-color: rgba(30,30,30,0.6) !important;
-    outline: 1px solid rgba(60,60,60,0.9) !important;
-  }
-  :root:not([data-theme="light"]) ul.toppage { background-color: #141414 !important; }
-  :root:not([data-theme="light"]) pre,
-  :root:not([data-theme="light"]) .jp-article pre {
-    background-color: #242424 !important;
-    border-color: rgba(55,55,55,0.9) !important;
-    outline: 1px solid rgba(55,55,55,0.9) !important;
-  }
-}
-[data-theme="dark"] ul,
-[data-theme="dark"] .jp-article ul,
-[data-theme="dark"] .jp-article ol {
-  background-color: rgba(30,30,30,0.6) !important;
-  outline: 1px solid rgba(60,60,60,0.9) !important;
-}
-[data-theme="dark"] ul.toppage { background-color: #141414 !important; }
-[data-theme="dark"] pre,
-[data-theme="dark"] .jp-article pre {
-  background-color: #242424 !important;
-  border-color: rgba(55,55,55,0.9) !important;
-  outline: 1px solid rgba(55,55,55,0.9) !important;
+.jp-article ul,
+.jp-article ol {
+  background-color: var(--bg-ul);
+  outline: 1px solid var(--border);
 }
 
-/* Dividers */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) hr,
-  :root:not([data-theme="light"]) .jp-article hr { background-color: rgba(255,255,255,0.1) !important; }
-  :root:not([data-theme="light"]) blockquote,
-  :root:not([data-theme="light"]) .jp-article blockquote { border-left-color: rgba(160,160,160,0.4) !important; }
-  :root:not([data-theme="light"]) blockquote p,
-  :root:not([data-theme="light"]) .jp-article blockquote p { color: #888888 !important; }
+.jp-article pre {
+  background-color: var(--bg-sub);
+  border-color: var(--border-pre);
+  color: var(--text);
 }
-[data-theme="dark"] hr,
-[data-theme="dark"] .jp-article hr { background-color: rgba(255,255,255,0.1) !important; }
-[data-theme="dark"] blockquote,
-[data-theme="dark"] .jp-article blockquote { border-left-color: rgba(160,160,160,0.4) !important; }
-[data-theme="dark"] blockquote p,
-[data-theme="dark"] .jp-article blockquote p { color: #888888 !important; }
 
-/* Tables */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .jp-article table th {
-    background: #242424 !important;
-    border-color: rgba(60,60,60,0.9) !important;
-    color: #d4d4d4 !important;
-  }
-  :root:not([data-theme="light"]) .jp-article table td {
-    border-color: rgba(60,60,60,0.9) !important;
-    color: #d4d4d4 !important;
-  }
+.jp-article hr { background-color: var(--hr); }
+
+.jp-article blockquote { border-left-color: var(--bq-border); }
+.jp-article blockquote p { color: var(--text-muted); }
+
+.jp-article table th {
+  background: var(--bg-sub);
+  border-color: var(--border);
+  color: var(--text);
 }
-[data-theme="dark"] .jp-article table th {
-  background: #242424 !important;
-  border-color: rgba(60,60,60,0.9) !important;
-  color: #d4d4d4 !important;
-}
-[data-theme="dark"] .jp-article table td {
-  border-color: rgba(60,60,60,0.9) !important;
-  color: #d4d4d4 !important;
+.jp-article table td {
+  border-color: var(--border);
+  color: var(--text);
 }
 
 /* ---- Toggle button ---- */
