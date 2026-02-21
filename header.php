@@ -34,6 +34,9 @@ if (!headers_sent()) {
 	<noscript><link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css"></noscript>
 <!-- ① Base CSS -->
 	<link rel="stylesheet" href="/style.css">
+	<link rel="stylesheet" href="/dark-mode.css">
+	<!-- Dark mode: set theme before render to prevent flash -->
+	<script>(function(){var t=localStorage.getItem('mblog-theme');var d=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;if(t==='dark'||(t!=='light'&&d)){document.documentElement.setAttribute('data-theme','dark');}})();</script>
 	<?php if (!empty($extra_css)): ?>
 	<?php foreach ($extra_css as $css): ?>
 	<link rel="stylesheet" href="<?= $css ?>">

@@ -1,93 +1,53 @@
 <?php
 $page_title = 'Dark Mode Test — mblog.com';
-$page_description = 'ダークモードのテストページ。実装確認用。';
-$extra_css = ['/dark-mode.css'];
+$page_description = 'ダークモード表示確認ページ。全記事のリンクから各ページでデザインを確認できます。';
 require dirname(__DIR__) . '/header.php';
 ?>
 
-<button id="dark-toggle" onclick="toggleDark()">🌙 ダーク</button>
-
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
-<time>21 Feb, 2026</time>
-<h1 class="title">ダークモード — テストページ</h1>
+<time>Dark Mode Test</time>
+<h1 class="title">🌙 ダークモード — 全記事確認ページ</h1>
 
-<p>これはダークモードの表示確認用ページです。右上のボタンでライト/ダークを切り替えられます。ページをリロードしてもモードが維持されます（localStorage使用）。</p>
-
-<h2>テキストと見出し</h2>
-
-<p>本文テキスト。<a href="#">リンクの色</a>もダークモード対応。通常のテキストは読みやすいグレーに。背景は #141414。</p>
-
-<h3>小見出し（h3）</h3>
-
-<p>段落テキスト。バイオハッキング・健康最適化・AIの実験記録。毎日のHealth Logで積み上げている。</p>
+<p>右下の 🌙 ボタンでダーク/ライトを切り替え。設定はリロード後も維持されます。下のリンクから各ページのデザインを確認してください。</p>
 
 <hr>
 
-<h2>リスト</h2>
-
+<h2>Health Log</h2>
 <ul>
-  <li>Oura Ring — 睡眠・HRV・Readinessスコア</li>
-  <li>Withings Body Scan — 体重・体脂肪・筋肉量</li>
-  <li>3 Seeds Protein + EVOO + ライスベリーライス</li>
-  <li>Cannabis × 瞑想 → HRV計測実験（進行中）</li>
+  <li><a href="/health-log" target="_blank">Health Log（毎日更新）</a></li>
 </ul>
 
-<h2>コードブロック / Health Log形式</h2>
+<h2>How-to</h2>
+<ul>
+  <li><a href="/how-to-set-up-openclaw" target="_blank">OpenClaw のセットアップ方法</a></li>
+  <li><a href="/openclaw-setup" target="_blank">How to Set Up OpenClaw (English)</a></li>
+  <li><a href="/how-to-meditate" target="_blank">瞑想のやり方</a></li>
+</ul>
 
-<pre>■ Morning Self-Check
-- Body: 8/10
-- Mind: 9/10
-- Spirit: 8/10
+<h2>Opinion</h2>
+<ul>
+  <li><a href="/end-of-nomad-era" target="_blank">ノマド時代は終わりますね。通勤しよう</a></li>
+  <li><a href="/drop-pc-grab-dumbbell" target="_blank">PCを捨てて、ダンベルを持て</a></li>
+  <li><a href="/note-priority-redesign" target="_blank">優先順位の再設計</a></li>
+</ul>
 
-■ Sleep (Oura Ring)
-- Total Sleep: 7時間17分
-- Avg HRV: 35ms
-- Readiness: 76
-
-■ Food
-- Breakfast: オムレツ（卵3個）+ ライスベリーライス
-  ~694kcal / P:32g / F:28g / C:77g
-  *Feedback from AI: [Recovery Plate] ...</pre>
-
-<h2>引用ブロック</h2>
-
-<blockquote>
-  <p>HRVはストレスの量を測るのではなく、身体がストレスにどう反応するかを測る。</p>
-</blockquote>
-
-<p>以上がダークモードのテスト。右上ボタンで切り替えてください。</p>
+<h2>Review</h2>
+<ul>
+  <li><a href="/siddhartha-hermann-hesse-book-review" target="_blank">シッダールタ — ヘルマン・ヘッセ</a></li>
+  <li><a href="/joy-by-osho-book-review" target="_blank">JOY — Osho</a></li>
+  <li><a href="/intuition-by-osho-book-review" target="_blank">INTUITION — Osho</a></li>
+  <li><a href="/dog-friendly-hotel-in-phitsanulok" target="_blank">犬連れで泊まれるホテル（ピッサヌローク）</a></li>
+  <li><a href="/spiritual-trip-2025-12-30" target="_blank">スピリチュアルな旅 2025-12-30</a></li>
+</ul>
 
 <hr>
-<p style="font-size:14px; opacity:0.5;">※ このページは確認後に削除します。</p>
 
-<script>
-function toggleDark() {
-  const html = document.documentElement;
-  const btn = document.getElementById('dark-toggle');
-  if (html.getAttribute('data-theme') === 'dark') {
-    html.setAttribute('data-theme', 'light');
-    localStorage.setItem('theme', 'light');
-    btn.textContent = '🌙 ダーク';
-  } else {
-    html.setAttribute('data-theme', 'dark');
-    localStorage.setItem('theme', 'dark');
-    btn.textContent = '☀️ ライト';
-  }
-}
+<pre>// ダークモード仕様
+- prefers-color-scheme: dark に自動追従
+- 🌙 ボタンで手動切り替え
+- localStorage で設定を記憶
+- 全ページで有効（dark-mode.css + header.php）</pre>
 
-// Restore preference on load
-(function() {
-  const saved = localStorage.getItem('theme');
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const html = document.documentElement;
-  const btn = document.getElementById('dark-toggle');
-  if (saved === 'dark' || (!saved && prefersDark)) {
-    html.setAttribute('data-theme', 'dark');
-    if (btn) btn.textContent = '☀️ ライト';
-  } else {
-    html.setAttribute('data-theme', 'light');
-  }
-})();
-</script>
+<p style="font-size:14px; opacity:0.5; margin-top:30px;">※ このページは確認用。本番適用後に削除します。</p>
 
 <?php require dirname(__DIR__) . '/footer.php'; ?>
