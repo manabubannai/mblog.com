@@ -361,6 +361,7 @@ NAC 500 mg (Thorne)
 [ ] メルマガで読者質問まとめて共有（次回メルマガ配信時に追記する）
 [ ] クローンした音声でPodcastを撮ってみる
 [ ] 筋トレフォームチェックAIサービスの開発（ベータ版試作中）
+[ ] mblogをHetznerのVPSに移転しつつ、Claude Code Telegramを入れる（ref: levelsio）
 
 [中] 理念を加速するもの
 [ ] Claude Codeが権限を持ちすぎかもなのでセキュリティチェックする
