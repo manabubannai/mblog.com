@@ -33,10 +33,11 @@ if (!headers_sent()) {
 	<link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css" media="print" onload="this.media='all'">
 	<noscript><link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css"></noscript>
 <!-- ① Base CSS -->
-	<link rel="stylesheet" href="/style.css">
+	<?php $cv = '20260221b'; ?>
+	<link rel="stylesheet" href="/style.css?v=<?= $cv ?>">
 	<?php if (!empty($extra_css)): ?>
 	<?php foreach ($extra_css as $css): ?>
-	<link rel="stylesheet" href="<?= $css ?>">
+	<link rel="stylesheet" href="<?= $css ?>?v=<?= $cv ?>">
 	<?php endforeach; ?>
 	<?php endif; ?>
 	<link rel="shortcut icon" href="https://manablog.org/wp-content/themes/manabu/images/favicon.ico">
