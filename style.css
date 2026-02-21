@@ -1,7 +1,6 @@
 body {
   max-width: 650px;
   font-size: 16px;
-  line-height: 2;
   margin: auto;
   padding: 20px;
   -webkit-font-smoothing: antialiased;
@@ -56,14 +55,10 @@ a {
 }
 
 h1, h2, h3, time, p, li, pre {
-  font-family: Noto, "Hiragino Sans", Helvetica, Arial, sans-serif;
+  font-family: "adelle", Noto, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, serif;
   font-style: normal;
   font-weight: 400;
   color: #333333;
-}
-
-h1, h2, h3 {
-  font-family: "Crimson Text", georgia, Noto, "Hiragino Sans", Helvetica, Arial, serif;
 }
 
 h1.title {
@@ -76,14 +71,12 @@ h1.title {
 
 h2, h3 {
   font-weight: 600;
-  line-height: 1.7;
 }
 
 p {
   font-size: 20px;
-  line-height: 1.7;
+  line-height: 1.75;
 }
-
 
 a {
   color: #2121d3d9;
