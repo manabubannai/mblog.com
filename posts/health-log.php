@@ -420,20 +420,20 @@ NAC 500 mg (Thorne)
   ~1,150kcal / P:48g / F:36g / C:158g
   *Feedback from AI: [Plant-Based Power Bowl] テンペは発酵大豆由来でP:24g＋プレバイオティクス効果。ブロメライン（パイナップル酵素）が食前の消化促進を担い、味噌の発酵菌との相乗効果で腸内環境◎。ただし大盛り白米でC:158gとバルク向けに高カロリー構成。チーズでカルシウム補強。Running total: P:105g / 目標136gまで残り31g。ディナーで肉や魚を追加すれば目標達成圏内。
 
-- Dinner (20:00): チキン丼（パープルライス・スパイスチキン～135g・ブロッコリー・にんじん・タイバジル・グレーズソース）＋ケール炒め（約90g）
-  ~640kcal / P:43g / F:14g / C:81g
-  *Feedback from AI: [Micronutrient Grand Slam] ブロッコリー＋ケールのコンビは最強の抗酸化コンボ。ビタミンK・C・鉄・食物繊維をまとめて補給。チキンでP:32g確保。パープルライスのアントシアニンが血管保護。ケールの食物繊維が今日の腸の調子を整える。
+- Dinner (20:00): Chicken Curry with Rice（Healthy Junk Express）＋ブロッコリー 50g＋ケール 40g
+  ~300kcal / P:28g / F:7g / C:30g（店舗表示：264kcal ＋野菜追加分）
+  *Feedback from AI: [Micronutrient Grand Slam] ブロッコリー＋ケールのコンビは最強の抗酸化コンボ。ビタミンK・C・鉄・食物繊維をまとめて補給。チキンカレーでP:28g確保。ただし264kcalは全体的に低カロリー設計のため、バルク目的では補食が必要。
 
 ■ Substances
 - Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
 
 ■ Daily Summary (by AI)
 食事    実績         目標         達成率
-カロリー  2,769kcal   2,650kcal   105% ✅
-P        148g        136g        109% ✅
-F         94g         74g        127% ⚠️
-C        333g        361g         92%
-食物繊維   ~20g        25g         80% 📉
+カロリー  2,429kcal   2,650kcal    92%
+P        133g        136g         98%
+F         87g         74g        118% ⚠️
+C        282g        361g         78% 📉
+食物繊維   ~14g        25g         56% 📉
 
 ■ マナブの1日（AIが行動ログから生成）
 08:05 起床。Readiness 92、HRV 40ms。
