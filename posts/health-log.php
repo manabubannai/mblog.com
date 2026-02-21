@@ -358,6 +358,14 @@ NAC 500 mg (Thorne)
 - Resting HR: 58bpm / Lowest: 49bpm
 - Readiness: 92
 
+■ Meditation (Oura Ring)
+- Session: 08:45 → 09:15（30分）
+- Avg HR: 65bpm
+- Avg HRV: 34ms
+
+■ Stretch
+- Session: 13:00（実施済み）
+
 ■ 後で読む / 見る
 - <a href="https://ilmostromberg.com/1000-days-with-oura-ring/" target="_blank">1000 days with Oura ring – My revelations with HRV</a>
 - <a href="https://bannerpeakhealth.com/heart-rate-variability-stress-management/" target="_blank">Heart Rate Variability: A New Tool for Stress Management</a>
