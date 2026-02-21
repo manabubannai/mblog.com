@@ -346,7 +346,7 @@ NAC 500 mg (Thorne)
 - Body: 9/10
 - Mind: 9/10
 - Spirit: 8/10
-※note: 背中の関節痛がけっこうある。しっかりストレッチする。もしくはマッサージを検討。
+※note: 背中の筋肉痛が結構ある。しっかりストレッチする。もしくはマッサージを検討。
 
 ■ Body (Withings Body Scan) — 01:04
 - Weight: 61.5kg
