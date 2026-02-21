@@ -470,16 +470,16 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 
 ■ Workout (16:00〜18:07 / 127分 / Back Day)
 
-1. Chinning（チンニング）
+1. Chinning
 - 10 / 10 / 10 reps
 ※note: 久しぶりの復帰なので、重量は低め
 
-2. Deadlift（デッドリフト）
+2. Deadlift
 - 60kg × 4
 - 80kg × 3
 - 100kg × 4
 
-3. Bent Over Rowing — Smith Machine（ベントオーバーロウ）
+3. Bent Over Rowing — Smith Machine
 - 40kg × 10
 - 60kg × 10
 - 75kg × 10
@@ -490,12 +490,12 @@ Oura Ringを使った瞑想で良いデータを作ろうとすると、逆に�
 ※note: 自分はフォームが崩れている可能性。フォーム確認した。腰をまげる。
 ※note: 完全に、腕を伸ばしきるフォーム
 
-4. T-Bar Row（Tバーロウ）
+4. T-Bar Row
 - 40kg × 10
 - 40kg × 7
 ※note: 胸の部分が少し痛い
 
-5. Lat Pull Down（ラットプルダウン）
+5. Lat Pull Down
 - 45kg × (8 + 2c)
 - 45kg × (5 + 3c)
 - 45kg × (6 + 2c)
