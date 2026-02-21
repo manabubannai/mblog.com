@@ -1,0 +1,126 @@
+/* ============================================
+   Dark Mode — mblog.com
+   prefers-color-scheme: auto-detect
+   data-theme="dark" | "light" : manual override
+   ============================================ */
+
+/* ---- Light mode defaults (CSS vars) ---- */
+:root {
+  --bg:          #ffffff;
+  --bg-sub:      #f7f7f7;
+  --bg-ul:       rgba(250, 250, 250, 0.48);
+  --text:        #333333;
+  --text-muted:  #6a6a6a;
+  --text-title:  #454545;
+  --link:        #2121d3d9;
+  --link-pre:    #2121d3d9;
+  --border:      rgba(228, 228, 228, 0.87);
+  --border-pre:  rgba(210, 210, 210, 0.8);
+  --hr:          rgba(0, 0, 0, 0.15);
+  --bq-border:   rgba(75, 75, 75, 0.8);
+}
+
+/* ---- Dark mode vars (system preference) ---- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:          #141414;
+    --bg-sub:      #242424;
+    --bg-ul:       rgba(30, 30, 30, 0.6);
+    --text:        #d4d4d4;
+    --text-muted:  #888888;
+    --text-title:  #c4c4c4;
+    --link:        rgba(140, 140, 255, 0.85);
+    --link-pre:    #9999ff;
+    --border:      rgba(60, 60, 60, 0.9);
+    --border-pre:  rgba(55, 55, 55, 0.9);
+    --hr:          rgba(255, 255, 255, 0.1);
+    --bq-border:   rgba(160, 160, 160, 0.4);
+  }
+}
+
+/* ---- Dark mode vars (manual override) ---- */
+[data-theme="dark"] {
+  --bg:          #141414;
+  --bg-sub:      #242424;
+  --bg-ul:       rgba(30, 30, 30, 0.6);
+  --text:        #d4d4d4;
+  --text-muted:  #888888;
+  --text-title:  #c4c4c4;
+  --link:        rgba(140, 140, 255, 0.85);
+  --link-pre:    #9999ff;
+  --border:      rgba(60, 60, 60, 0.9);
+  --border-pre:  rgba(55, 55, 55, 0.9);
+  --hr:          rgba(255, 255, 255, 0.1);
+  --bq-border:   rgba(160, 160, 160, 0.4);
+}
+
+/* ---- Apply CSS vars to elements ---- */
+body {
+  background-color: var(--bg);
+  transition: background-color 0.25s, color 0.25s;
+}
+
+h1, h2, h3, time, p, li, pre {
+  color: var(--text);
+}
+
+h1.title {
+  color: var(--text-title);
+}
+
+h1.brand a,
+p.brand a {
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+}
+
+hr {
+  background-color: var(--hr);
+}
+
+ul, pre {
+  background-color: var(--bg-ul);
+  outline: 1px solid var(--border);
+}
+
+ul.toppage {
+  background-color: var(--bg);
+}
+
+pre {
+  background-color: var(--bg-sub);
+  outline: 1px solid var(--border-pre);
+}
+
+pre a {
+  color: var(--link-pre);
+}
+
+blockquote {
+  border-left-color: var(--bq-border);
+}
+
+blockquote p {
+  color: var(--text-muted);
+}
+
+/* ---- Toggle button ---- */
+#dark-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  background: var(--bg-sub);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-size: 13px;
+  cursor: pointer;
+  z-index: 999;
+  transition: all 0.2s;
+  font-family: "adelle", Noto, sans-serif;
+}
+#dark-toggle:hover { opacity: 0.75; }
