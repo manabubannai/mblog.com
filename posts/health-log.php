@@ -341,9 +341,10 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-21</h2>
   <pre>
 ■ Morning Self-Check
-- Body: -/10
-- Mind: -/10
-- Spirit: -/10
+- Body: 9/10
+- Mind: 9/10
+- Spirit: 8/10
+※note: 背中の関節痛がけっこうある。しっかりストレッチする。もしくはマッサージを検討。
 
 ■ 後で読む
 - <a href="https://ilmostromberg.com/1000-days-with-oura-ring/" target="_blank">1000 days with Oura ring – My revelations with HRV</a>
