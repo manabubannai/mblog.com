@@ -107,6 +107,93 @@ blockquote p {
   color: var(--text-muted);
 }
 
+/* ---- JP Article overrides (jp-article.css has hardcoded colors) ---- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) body,
+  :root:not([data-theme="light"]) .jp-article,
+  :root:not([data-theme="light"]) .jp-article h1.title,
+  :root:not([data-theme="light"]) .jp-article h2,
+  :root:not([data-theme="light"]) .jp-article h3,
+  :root:not([data-theme="light"]) .jp-article h4,
+  :root:not([data-theme="light"]) .jp-article p,
+  :root:not([data-theme="light"]) .jp-article ul li,
+  :root:not([data-theme="light"]) .jp-article ol li,
+  :root:not([data-theme="light"]) .jp-article pre { color: var(--text); }
+
+  :root:not([data-theme="light"]) body.jp-article { background-color: var(--bg); }
+
+  :root:not([data-theme="light"]) .jp-article a { color: var(--link); }
+
+  :root:not([data-theme="light"]) .jp-article ul,
+  :root:not([data-theme="light"]) .jp-article ol {
+    background-color: var(--bg-ul);
+    outline: 1px solid var(--border);
+  }
+
+  :root:not([data-theme="light"]) .jp-article pre {
+    background-color: var(--bg-sub);
+    border-color: var(--border-pre);
+  }
+
+  :root:not([data-theme="light"]) .jp-article hr { background-color: var(--hr); }
+
+  :root:not([data-theme="light"]) .jp-article blockquote {
+    border-left-color: var(--bq-border);
+  }
+
+  :root:not([data-theme="light"]) .jp-article table th {
+    background: var(--bg-sub);
+    border-color: var(--border);
+    color: var(--text);
+  }
+  :root:not([data-theme="light"]) .jp-article table td {
+    border-color: var(--border);
+    color: var(--text);
+  }
+}
+
+[data-theme="dark"] .jp-article,
+[data-theme="dark"] .jp-article h1.title,
+[data-theme="dark"] .jp-article h2,
+[data-theme="dark"] .jp-article h3,
+[data-theme="dark"] .jp-article h4,
+[data-theme="dark"] .jp-article p,
+[data-theme="dark"] .jp-article ul li,
+[data-theme="dark"] .jp-article ol li,
+[data-theme="dark"] .jp-article pre { color: var(--text); }
+
+[data-theme="dark"] body.jp-article { background-color: var(--bg); }
+[data-theme="dark"] body { background-color: var(--bg); }
+
+[data-theme="dark"] .jp-article a { color: var(--link); }
+
+[data-theme="dark"] .jp-article ul,
+[data-theme="dark"] .jp-article ol {
+  background-color: var(--bg-ul);
+  outline: 1px solid var(--border);
+}
+
+[data-theme="dark"] .jp-article pre {
+  background-color: var(--bg-sub);
+  border-color: var(--border-pre);
+}
+
+[data-theme="dark"] .jp-article hr { background-color: var(--hr); }
+
+[data-theme="dark"] .jp-article blockquote {
+  border-left-color: var(--bq-border);
+}
+
+[data-theme="dark"] .jp-article table th {
+  background: var(--bg-sub);
+  border-color: var(--border);
+  color: var(--text);
+}
+[data-theme="dark"] .jp-article table td {
+  border-color: var(--border);
+  color: var(--text);
+}
+
 /* ---- Toggle button ---- */
 #dark-toggle {
   position: fixed;
