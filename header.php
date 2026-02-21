@@ -23,15 +23,11 @@ if (!headers_sent()) {
 	<meta property="og:description" content="<?= htmlspecialchars($page_description) ?>">
 	<?php endif; ?>
 	<meta property="og:site_name" content="manablog">
-	<!-- ① Preconnect + font-display for Typekit & Google Fonts -->
-	<link rel="preconnect" href="https://use.typekit.net" crossorigin>
-	<link rel="preconnect" href="https://p.typekit.net" crossorigin>
+	<!-- ① Preconnect + font-display for Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" media="print" onload="this.media='all'">
-	<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"></noscript>
-	<link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css" media="print" onload="this.media='all'">
-	<noscript><link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css"></noscript>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&family=Crimson+Text:wght@400;600&display=swap" media="print" onload="this.media='all'">
+	<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&family=Crimson+Text:wght@400;600&display=swap"></noscript>
 <!-- ① Base CSS -->
 	<link rel="stylesheet" href="/style.css">
 	<?php if (!empty($extra_css)): ?>
