@@ -420,8 +420,32 @@ NAC 500 mg (Thorne)
   ~1,150kcal / P:48g / F:36g / C:158g
   *Feedback from AI: [Plant-Based Power Bowl] テンペは発酵大豆由来でP:24g＋プレバイオティクス効果。ブロメライン（パイナップル酵素）が食前の消化促進を担い、味噌の発酵菌との相乗効果で腸内環境◎。ただし大盛り白米でC:158gとバルク向けに高カロリー構成。チーズでカルシウム補強。Running total: P:105g / 目標136gまで残り31g。ディナーで肉や魚を追加すれば目標達成圏内。
 
+- Dinner (20:00): チキン丼（パープルライス・スパイスチキン～135g・ブロッコリー・にんじん・タイバジル・グレーズソース）＋ケール炒め（約90g）
+  ~640kcal / P:43g / F:14g / C:81g
+  *Feedback from AI: [Micronutrient Grand Slam] ブロッコリー＋ケールのコンビは最強の抗酸化コンボ。ビタミンK・C・鉄・食物繊維をまとめて補給。チキンでP:32g確保。パープルライスのアントシアニンが血管保護。ケールの食物繊維が今日の腸の調子を整える。
+
 ■ Substances
 - Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
+
+■ Daily Summary (by AI)
+食事    実績         目標         達成率
+カロリー  2,769kcal   2,650kcal   105% ✅
+P        148g        136g        109% ✅
+F         94g         74g        127% ⚠️
+C        333g        361g         92%
+食物繊維   ~20g        25g         80% 📉
+
+■ マナブの1日（AIが行動ログから生成）
+08:05 起床。Readiness 92、HRV 40ms。
+08:45 瞑想（Oura Moment 30分）。
+09:20 朝食（自宅）。
+13:00 ストレッチ完了。
+14:00 ランチ（Healthy Junk Express）。HRV記事2本を読了。
+15:00〜 情報収集タイム。weirdoをSOULに刻む。セキュリティチェック実施。
+17:00（推定）マッサージへ。背中の筋肉痛ケア。
+19:47 Cannabis Compound Z 0.4gで中断。最少量記録。
+20:00 ディナー（チキンボウル＋ケール）。
+この日の一言：「Cannabis量が減る。意思決定を体が先にしていた。」
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
