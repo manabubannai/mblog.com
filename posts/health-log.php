@@ -338,6 +338,21 @@ NAC 500 mg (Thorne)
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
 
+  <h2># 2026-02-21</h2>
+  <pre>
+■ Morning Self-Check
+- Body: -/10
+- Mind: -/10
+- Spirit: -/10
+
+■ Food
+- Breakfast (09:20): オムレツ（卵3個・ハム入り）＋ライスベリーライス 茶碗1杯
+  ~530kcal / P:28g / F:27g / C:41g
+  *Feedback from AI: [Morning Protein + Complex Carb] 卵3個でP:18g＋ハムで追加タンパク。ライスベリーライスはアントシアニン豊富な紫米で抗酸化作用◎。GI値が白米より低く血糖スパイクを抑制。食物繊維も確保で腸内環境サポート。バルクアップ期の朝食としてシンプルで質が高い。筋トレ翌日（背中Day after）の回復食としても◎。脂質はオムレツの卵黄+調理油で適度に確保。
+  </pre>
+
+  <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
+
   <h2># 2026-02-20</h2>
   <pre>
 ■ Body Check Day
