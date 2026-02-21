@@ -347,6 +347,17 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 ※note: 背中の関節痛がけっこうある。しっかりストレッチする。もしくはマッサージを検討。
 
+■ Body (Withings)
+- Weight: 61.5kg
+
+■ Sleep (Oura) — 2026-02-20 22:30 → 2026-02-21 08:05
+- Total: 8h38m
+- Deep: 61min / REM: 2h2m
+- Efficiency: 90%
+- HRV avg: 40ms ↑（前日35ms → Cannabis量 0.7g、回復傾向）
+- Resting HR: 58bpm / Lowest: 49bpm
+- Readiness: 92
+
 ■ 後で読む / 見る
 - <a href="https://ilmostromberg.com/1000-days-with-oura-ring/" target="_blank">1000 days with Oura ring – My revelations with HRV</a>
 - <a href="https://bannerpeakhealth.com/heart-rate-variability-stress-management/" target="_blank">Heart Rate Variability: A New Tool for Stress Management</a>
@@ -359,6 +370,7 @@ NAC 500 mg (Thorne)
 
 [高] 理念に直結するもの
 [x] 犬とボール遊び
+[x] ストレッチ（13時）
 [ ] AIとコンテンツ作成
 [ ] メルマガで読者質問まとめて共有（次回メルマガ配信時に追記する）
 [ ] クローンした音声でPodcastを撮ってみる
