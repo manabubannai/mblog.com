@@ -348,8 +348,19 @@ NAC 500 mg (Thorne)
 - Spirit: 8/10
 ※note: 背中の関節痛がけっこうある。しっかりストレッチする。もしくはマッサージを検討。
 
-■ Body (Withings)
+■ Body (Withings Body Scan) — 01:04
 - Weight: 61.5kg
+- Fat Mass: 4.8kg（Fat Ratio: 7.8%）
+- Fat Free Mass: 56.7kg
+- Muscle Mass: 53.9kg
+- Bone Mass: 2.9kg
+- Hydration: 40.8kg（細胞外水分: 16.2kg / 細胞内水分: 24.6kg）
+- Visceral Fat Index: 1.2
+- BMR: 1,628 kcal/day
+- Vascular Age: 34.5歳（実年齢35歳）
+- Pulse Wave Velocity (PWV): 6.25 m/s
+- Standing HR: 102bpm
+- Electrodermal Activity (Feet): 84.9 μS
 
 ■ Sleep (Oura) — 2026-02-20 22:30 → 2026-02-21 08:05
 - Total: 8h38m
