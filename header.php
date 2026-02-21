@@ -33,16 +33,12 @@ if (!headers_sent()) {
 	<link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css" media="print" onload="this.media='all'">
 	<noscript><link rel="stylesheet" href="https://use.typekit.net/jkb4xph.css"></noscript>
 <!-- ① Base CSS -->
-	<!-- Dark mode: set theme before render to prevent flash -->
-	<script>(function(){var t=localStorage.getItem('mblog-theme');var d=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;if(t==='dark'||(t!=='light'&&d)){document.documentElement.setAttribute('data-theme','dark');}})();</script>
 	<link rel="stylesheet" href="/style.css">
 	<?php if (!empty($extra_css)): ?>
 	<?php foreach ($extra_css as $css): ?>
 	<link rel="stylesheet" href="<?= $css ?>">
 	<?php endforeach; ?>
 	<?php endif; ?>
-	<!-- dark-mode.css must load LAST to override all other stylesheets via cascade -->
-	<link rel="stylesheet" href="/dark-mode.css">
 	<link rel="shortcut icon" href="https://manablog.org/wp-content/themes/manabu/images/favicon.ico">
 </head>
 

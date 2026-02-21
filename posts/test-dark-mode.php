@@ -1,8 +1,10 @@
 <?php
 $page_title = 'Dark Mode Test — mblog.com';
 $page_description = 'ダークモード表示確認ページ。全記事のリンクから各ページでデザインを確認できます。';
+$extra_css = ['/dark-mode.css'];
 require dirname(__DIR__) . '/header.php';
 ?>
+<script>(function(){var t=localStorage.getItem('mblog-theme');var d=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;if(t==='dark'||(t!=='light'&&d)){document.documentElement.setAttribute('data-theme','dark');}})();</script>
 
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>Dark Mode Test</time>

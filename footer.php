@@ -1,24 +1,4 @@
 
-<!-- Dark mode toggle button -->
-<button id="dark-toggle" onclick="mblogToggleTheme()" aria-label="ダークモード切り替え" title="ダークモード切り替え">🌙</button>
-<script>
-function mblogToggleTheme(){
-  var html=document.documentElement;
-  var isDark=html.getAttribute('data-theme')==='dark';
-  var next=isDark?'light':'dark';
-  html.setAttribute('data-theme',next);
-  localStorage.setItem('mblog-theme',next);
-  document.getElementById('dark-toggle').textContent=isDark?'🌙':'☀️';
-}
-(function(){
-  var t=localStorage.getItem('mblog-theme');
-  var d=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;
-  var isDark=(t==='dark')||(t!=='light'&&d);
-  var btn=document.getElementById('dark-toggle');
-  if(btn)btn.textContent=isDark?'☀️':'🌙';
-})();
-</script>
-
 </body>
 
 <!-- ④ GA deferred loading -->
