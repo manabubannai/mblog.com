@@ -345,6 +345,10 @@ NAC 500 mg (Thorne)
 - Mind: -/10
 - Spirit: -/10
 
+■ 後で読む
+- https://ilmostromberg.com/1000-days-with-oura-ring/ （Oura 1000日 / HRV考察）
+- https://bannerpeakhealth.com/heart-rate-variability-stress-management/ （HRV×ストレス管理 / 医師の4ヶ月実験）
+
 ■今日の積み上げ
 ・理念：３年前の自分を救う
 ・優先①：オフ会を定期開催
