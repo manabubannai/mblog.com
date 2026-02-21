@@ -421,7 +421,7 @@ NAC 500 mg (Thorne)
   *Feedback from AI: [Plant-Based Power Bowl] テンペは発酵大豆由来でP:24g＋プレバイオティクス効果。ブロメライン（パイナップル酵素）が食前の消化促進を担い、味噌の発酵菌との相乗効果で腸内環境◎。ただし大盛り白米でC:158gとバルク向けに高カロリー構成。チーズでカルシウム補強。Running total: P:105g / 目標136gまで残り31g。ディナーで肉や魚を追加すれば目標達成圏内。
 
 ■ Substances
-- Cannabis: Compound Z 0.7g Hybrid (19:47)
+- Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
