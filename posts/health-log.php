@@ -379,7 +379,7 @@ NAC 500 mg (Thorne)
 - Session: 13:00（実施済み）
 
 ■ 後で読む / 見る
-- <a href="https://ilmostromberg.com/1000-days-with-oura-ring/" target="_blank">1000 days with Oura ring – My revelations with HRV</a>
+- [読了] <a href="https://ilmostromberg.com/1000-days-with-oura-ring/" target="_blank">1000 days with Oura ring – My revelations with HRV</a>
 - <a href="https://bannerpeakhealth.com/heart-rate-variability-stress-management/" target="_blank">Heart Rate Variability: A New Tool for Stress Management</a>
 - <a href="https://youtu.be/YFjfBk8HI5o" target="_blank">OpenClaw: The Viral AI Agent that Broke the Internet — Peter Steinberger | Lex Fridman Podcast #491</a>
 
