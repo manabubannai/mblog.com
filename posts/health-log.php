@@ -84,7 +84,7 @@ require dirname(__DIR__) . '/header.php';
 <p class="brand"><a href="https://mblog.com/">manablog</a></p>
 <time>11 Jan, 2026</time>
 <h1 class="title">【全公開】マナブの健康ログ：Health Log【食事・睡眠・サプリの記録】</h1>
-<p class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #4a6a8a; margin-bottom: 16px; font-style: italic;">
+<p class="health-section hs-notice">
 ※このページはAIに管理を任せています。たまに間違った情報があるかもなので、ご理解くださいませ。ただ随時で、僕が点検しています🙆‍♂️ by マナブ
 </p>
 
@@ -187,14 +187,14 @@ require dirname(__DIR__) . '/header.php';
 </pre>
 
   <!-- AI Health Log Prompt Section -->
-  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">📝 AIで食事管理を始める</p>
-    <p style="font-size: 14px; line-height: 1.7; color: #555; margin-bottom: 12px;">
+  <div class="health-section hs-box hs-gray">
+    <p class="hs-title">📝 AIで食事管理を始める</p>
+    <p class="hs-desc">
       下のプロンプトをコピーしてAIに貼り付けるだけで、写真を送るだけの食事管理が始められます。<br>
       <strong>推奨AI：</strong> <a href="https://claude.ai" target="_blank">Claude Opus 4.6</a> / <a href="https://gemini.google.com" target="_blank">Gemini Pro</a>
     </p>
     <div style="position: relative;">
-      <pre id="ai-prompt" style="font-size: 12px; line-height: 1.5; max-height: 200px; overflow-y: auto; background: #fff; cursor: text;">あなたは栄養管理AIアシスタントです。
+      <pre id="ai-prompt" class="hs-prompt">あなたは栄養管理AIアシスタントです。
 
 ■ 役割
 ユーザーの食事を記録し、栄養科学に基づいたフィードバックを返します。
@@ -247,27 +247,27 @@ Breakfast/Lunch/Dinner (時刻): メニュー [Total: ~〇〇kcal, P: 〇g, F: �
 - 目標: [バルクアップ / ダイエット / 健康維持]（ユーザーに聞く）
 - 1日のカロリー目標: [ユーザーに聞く or 自動算出]
 - アレルギー・制限: [ユーザーに聞く]</pre>
-      <a id="copyPromptBtn" style="display: inline-block; margin-top: 10px; padding: 8px 20px; background: #111; color: #fff; border-radius: 6px; text-decoration: none; cursor: pointer; font-size: 14px;">📋 プロンプトをコピー</a>
+      <a id="copyPromptBtn" class="hs-copy-btn">📋 プロンプトをコピー</a>
     </div>
   </div>
   <!-- End AI Prompt Section -->
 
   <!-- AI Feedback Section -->
-  <div class="health-section" style="background: #f0f7ff; border: 1px solid #c8ddf5; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">🤖 AIの食事管理を試してみる</p>
-    <p style="font-size: 13px; color: #666; margin-bottom: 12px;">AI費用はマナブ負担で、大量に使われると破産です。程々にお願いします🏋️🙏</p>
-    <textarea id="meal-input" rows="4" maxlength="2000" placeholder="例: 朝食 — 卵3個スクランブル、白米1杯、味噌汁（わかめ・豆腐）、納豆1パック" style="width: 100%; box-sizing: border-box; padding: 12px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; border: 1px solid #ccc; border-radius: 6px; resize: vertical; line-height: 1.6;"></textarea>
+  <div class="health-section hs-box hs-blue">
+    <p class="hs-title">🤖 AIの食事管理を試してみる</p>
+    <p class="hs-subdesc">AI費用はマナブ負担で、大量に使われると破産です。程々にお願いします🏋️🙏</p>
+    <textarea id="meal-input" rows="4" maxlength="2000" placeholder="例: 朝食 — 卵3個スクランブル、白米1杯、味噌汁（わかめ・豆腐）、納豆1パック" class="hs-textarea"></textarea>
     <div style="display: flex; align-items: center; gap: 12px; margin-top: 10px;">
-      <button id="ai-feedback-btn" style="padding: 10px 24px; background: #111; color: #fff; border: none; border-radius: 6px; font-size: 14px; cursor: pointer;">🤖 AIに聞く</button>
+      <button id="ai-feedback-btn" class="hs-btn">🤖 AIに聞く</button>
       <span id="ai-loading" style="display: none; font-size: 13px; color: #888;">⏳ 分析中...</span>
     </div>
-    <div id="ai-feedback-result" style="display: none; margin-top: 16px; padding: 16px; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; font-size: 14px; font-family: Noto, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; line-height: 1.8; white-space: pre-wrap; word-wrap: break-word;"></div>
+    <div id="ai-feedback-result" style="display: none;" class="hs-result"></div>
   </div>
   <!-- End AI Feedback Section -->
 
   <!-- Supplement Stack Section -->
-  <div class="health-section" style="background: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin: 20px 0;">
-    <p style="font-weight: bold; font-size: 16px; margin-top: 0;">💊 僕が飲んでいるサプリ一覧</p>
+  <div class="health-section hs-box hs-gray">
+    <p class="hs-title">💊 僕が飲んでいるサプリ一覧</p>
     <p style="font-size: 13px; color: #888; margin-bottom: 16px;">毎朝、朝食と一緒に摂取しています。<br>※アフィリエイトリンクですが、利用者に割引が入るので使っています。使いたくない場合は、商品名で検索してください🙋‍♂️</p>
     <table style="width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.7;">
       <tr style="border-bottom: 1px solid #e0e0e0;">

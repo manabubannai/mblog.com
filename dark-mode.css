@@ -109,6 +109,24 @@ body.jp-article { background-color: var(--bg); color: var(--text); }
   color: var(--text);
 }
 
+/* ---- Health Log sections (hs-* classes in health-log.css) ---- */
+.hs-gray, .hs-blue, .hs-notice {
+  background: var(--bg-sub);
+  border-color: var(--border);
+  color: var(--text);
+}
+.hs-desc, .hs-subdesc { color: var(--text-muted); }
+.hs-prompt, .hs-result {
+  background: var(--bg);
+  border-color: var(--border);
+  color: var(--text);
+}
+.hs-textarea {
+  background: var(--bg);
+  border-color: var(--border);
+  color: var(--text);
+}
+
 /* ---- Toggle button ---- */
 #dark-toggle {
   position: fixed;
