@@ -384,7 +384,7 @@ NAC 500 mg (Thorne)
 - Session 3: 15:53〜16:04（11分 / 1.6km / 37kcal / moderate）
 - 合計：63分 / 10.3km / 225kcal
 
-■ Workout (16:10〜 / Chest Day)
+■ Workout (16:10〜18:00 / 110分 / Chest Day)
 1. Bench Press (Smith Machine)
    - 50kg + Bar x 6
    - 55kg + Bar x 4
