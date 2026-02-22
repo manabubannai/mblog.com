@@ -385,6 +385,40 @@ NAC 500 mg (Thorne)
 - Calories: 112kcal
 - Intensity: moderate
 
+■ Workout (16:00〜 / Chest Day)
+1. Bench Press (Smith Machine)
+   - 50kg + Bar x 6
+   - 55kg + Bar x 4
+   - 60kg + Bar x 2
+   - 50kg + Bar x 6
+   - 45kg + Bar x 8
+   - 40kg + Bar x 10
+   - 40kg + Bar x 6+1c
+2. Dips
+   - x10
+   - x10
+   - x6 → Rest → x4
+3. Incline Bench Press
+   - 10kg + Bar x 10
+   - 10kg + Bar x 6
+   - 10kg + Bar x 6
+   - 10kg + Bar x 6
+4. Incline Chest Press Machine
+   - 20kg x 12
+   - 30kg x 7
+   - 30kg x 7
+   - 25kg x 8+2c
+   - 25kg x 7
+5. Pec Fly
+   - 24kg x 10
+   - 24kg x 6+2c
+   - 24kg x 7
+6. Incline Dumbbell Press
+   - 7.5kg x 10
+   - 10kg x 6+1c
+   - 7.5kg x 8+1c
+   - 7.5kg x 10
+
 ■ Note
 ※note: ルナ（犬）もログに載せることにした。
 ※note: 本日は精神的な苛立ちが、少しあったように思う。HRVとの相関あり？ データを追っていく。
