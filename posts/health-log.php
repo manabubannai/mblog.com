@@ -343,9 +343,9 @@ NAC 500 mg (Thorne)
   <h2># 2026-02-22</h2>
   <pre>
 ■ Morning Self-Check
-- Body: -/10
-- Mind: -/10
-- Spirit: -/10
+- Body: 10/10
+- Mind: 9/10
+- Spirit: 8/10
 
 ■今日の積み上げ
 ・理念：３年前の自分を救う
@@ -378,6 +378,9 @@ NAC 500 mg (Thorne)
 - Breakfast (10:00): アボカドスムージー（大グラス）＋生ハムサラダ（ルッコラ・生ハム・くるみ・チーズ・オリーブオイルドレッシング）＋おかゆ（豚ひき肉・半熟卵・生姜・小ネギ）
   ~1,110kcal / P:52g / F:62g / C:77g（スムージー+サラダ：630kcal / おかゆ：480kcal）
   *Feedback from AI: [Recovery Brunch] アボカド+くるみのオメガ系脂質コンボに加え、おかゆで消化に優しいC:46gを補給。お腹が緩い翌日におかゆは最適解 — 米のデンプンが腸粘膜を保護し、豚ひき肉+卵でP:25g追加。ただしF:62gは今日の目標74gの84%をすでに朝食で消費。ランチ・ディナーは低脂質・高炭水化物で調整が必要。Running total: P:52g / 目標136gまで残り84g。
+
+■ Substances
+- Cannabis: Indica 0.4g (22:15)（1イキでDynamicな体験）
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
