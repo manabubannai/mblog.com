@@ -375,7 +375,6 @@ NAC 500 mg (Thorne)
 ■ ドラフト（下書き）
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
-- 編集中：<a href="https://mblog.substack.com">Newsletter #4：AIスキルの話</a>
 - 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
 - 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
 
@@ -825,7 +824,6 @@ Readiness 76からのスタートで「緩めの日」と宣言したが、実�
 ■ ドラフト（下書き）
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
-- 編集中：<a href="https://mblog.substack.com">Newsletter #4：AIスキルの話</a>
 - 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
 - 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
   </pre>
