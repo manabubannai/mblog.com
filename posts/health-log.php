@@ -385,38 +385,38 @@ NAC 500 mg (Thorne)
 - 合計：63分 / 10.3km / 225kcal
 
 ■ Workout (16:10〜18:00 / 110分 / Chest Day)
-1. Bench Press (Smith Machine)
-   - 50kg + Bar x 6
-   - 55kg + Bar x 4
-   - 60kg + Bar x 2
-   - 50kg + Bar x 6
-   - 45kg + Bar x 8
-   - 40kg + Bar x 10
-   - 40kg + Bar x 6+1c
+1. Bench Press with Smith Machine
+   - 50 kg + Bar x 6
+   - 55 kg + Bar x 4 (+ Bar)
+   - 60 kg + Bar x 2
+   - 50 kg + Bar x 6
+   - 45 kg + Bar x 8
+   - 40 kg + Bar x 10
+   - 40 kg + Bar x (6 + 1c)
 2. Dips
-   - x10
-   - x10
-   - x6 → Rest → x4
+   - 10
+   - 10
+   - 6 → Rest → 4
 3. Incline Bench Press
-   - 10kg + Bar x 10
-   - 10kg + Bar x 6
-   - 10kg + Bar x 6
-   - 10kg + Bar x 6
+   - 10 kg + Bar : 10
+   - 10 kg + Bar : 6
+   - 10 kg + Bar : 6
+   - 10 kg + Bar : 6
 4. Incline Chest Press Machine
-   - 20kg x 12
-   - 30kg x 7
-   - 30kg x 7
-   - 25kg x 8+2c
-   - 25kg x 7
+   - 20 kg x 12
+   - 30 kg x 7
+   - 30 kg x 7
+   - 25 kg x (8 + 2c)
+   - 25 kg x 7
 5. Pec Fly
-   - 24kg x 10
-   - 24kg x 6+2c
-   - 24kg x 7
+   - 24 kg x 10
+   - 24 kg x (6 + 2c)
+   - 24 kg x 7
 6. Incline Dumbbell Press
-   - 7.5kg x 10
-   - 10kg x 6+1c
-   - 7.5kg x 8+1c
-   - 7.5kg x 10
+   - 7.5 kg x 10
+   - 10 kg x (6 + 1c)
+   - 7.5 kg x (8 + 1c)
+   - 7.5 kg x 10
 
 ■ Note
 ※note: ルナ（犬）もログに載せることにした。
