@@ -371,6 +371,12 @@ NAC 500 mg (Thorne)
 [ ] スマートウォッチを買う
 [ ] mblog.comにダークモードを実装する
 
+■ Cycling (Oura Ring) — 13:44〜14:12
+- Duration: 28分
+- Distance: 6.3km
+- Calories: 112kcal
+- Intensity: moderate
+
 ■ Note
 ※note: ルナ（犬）もログに載せることにした。
 
