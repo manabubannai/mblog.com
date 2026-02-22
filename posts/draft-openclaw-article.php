@@ -39,5 +39,16 @@ OpenClawのユースケース集。コミュニティが「こんなことに使
 ・PM2.5毎朝通知
 
 むしろマナブさんのHealth Log AIシステムをここに投稿したら面白い。OpenClawユーザーに「バイオハッキング×AI日記管理」として刺さる内容です。weirdoの見せ所でもある。
+
+---
+
+【記事アイデア】Claude Code × Telegram連携でiPhoneからプログラミングする方法
+
+・Claude Codeをサーバー上で動かす
+・TelegramのBotを通じてiPhoneから指示を送る
+・iPhoneだけでコードを書き、デプロイまでできる
+・パソコン不要でどこでも開発できる
+
+ターゲット：PCを持ち歩かずスマホだけで作業したい人、カフェや移動中にコーディングしたい人
 </pre>
 <?php require dirname(__DIR__) . '/footer.php'; ?>
