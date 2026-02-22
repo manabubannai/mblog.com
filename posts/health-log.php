@@ -371,6 +371,13 @@ NAC 500 mg (Thorne)
 [ ] mblog.comにダークモードを実装する
 [ ] GA4スプレッドシートに日付ディメンションを追加する（日次PV比較レポートに必要）
 
+■ ドラフト（下書き）
+- 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
+- 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
+- 編集中：<a href="https://mblog.substack.com">Newsletter #4：AIスキルの話</a>
+- 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
+- 構想中：Claude Code × Telegram連携でiPhoneからプログラミングする方法
+
 ■ Cycling (Oura Ring) — 13:44〜14:12
 - Duration: 28分
 - Distance: 6.3km
