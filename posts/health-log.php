@@ -378,6 +378,11 @@ NAC 500 mg (Thorne)
 - 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
 - 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
 
+■ Meditation (Oura Moment) — 21:32〜21:50（17分41秒）
+- Lowest HR: 76bpm（ベースライン 49bpm）
+- Avg HRV: 18ms（ベースライン 38ms）
+※note: 筋トレ110分＋サイクリング63分後の夕方瞑想。HRV 18ms は夜間ベースライン38msの47%。激しいトレーニング後の交感神経優位が続いている状態。Cannabis×瞑想HRVタスクと合致する可能性あり（Substances要確認）。
+
 ■ Cycling (Oura Ring) — 合計3セッション
 - Session 1: 13:44〜14:12（28分 / 6.3km / 112kcal / moderate）
 - Session 2: 14:59〜15:23（24分 / 2.4km / 76kcal / moderate）
