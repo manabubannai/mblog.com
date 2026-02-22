@@ -477,7 +477,7 @@ NAC 500 mg (Thorne)
 
 ■ Substances
 - Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
-- Cannabis: Indica 0.4g (22:15)（1イキでDynamicな体験）
+- Cannabis: Indica 0.4g (22:15)
 
 ■ Daily Summary (by AI)
 食事    実績         目標         達成率
@@ -497,7 +497,7 @@ C        336g        361g         93%
 17:00（推定）マッサージへ。背中の筋肉痛ケア。
 19:47 Cannabis Compound Z 0.4gで中断。最少量記録。
 20:00 ディナー（チキンカリー＋ケール＋バナナ2本）。
-22:15 Cannabis Indica 0.4g。1イキでDynamic。
+22:15 Cannabis Indica 0.4g。
 この日の一言：「Cannabis量が減る。意思決定を体が先にしていた。」
   </pre>
 
