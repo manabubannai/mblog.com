@@ -375,6 +375,7 @@ NAC 500 mg (Thorne)
 ■ ドラフト（下書き）
 - 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
 - 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
+- 編集中：<a href="/draft-cannabis-hrv-experiment">Cannabis×瞑想でHRV計測してみた。過去最悪のデータが出た話。</a>
 - 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
 - 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
 
@@ -383,7 +384,7 @@ NAC 500 mg (Thorne)
 - Avg HRV: 18ms（ベースライン 38ms）
 - Skin Temp: セッション開始から上昇 → プラトー → 微減（末梢血管拡張＝副交感神経活性）
 - Self-rating: Better than usual 😊
-※note: 夕食後、Cannabis吸引しながらの瞑想（Cannabis×瞑想HRV実験 実施）。HRVは蓄積疲労で18msと低いが、皮膚温の上昇＋主観「Better than usual」は副交感神経が機能している証拠。トレーニング疲労下でもCannabis×瞑想の組み合わせで質を確保できた。夜間HRV（明日のOuraデータ）と比較予定。
+※note: 夕食後、Cannabis吸引しながらの瞑想（Cannabis×瞑想HRV実験 第7回）。過去最悪のデータ。HR +27（ベースライン比）、HRV 18ms（これまでの最低25msをさらに更新）。全7回推移：最低心拍 64/64/62/61/64/62/76、HRV 45/25/34/26/35/31/18。Cannabis後の瞑想は交感神経を刺激し、主観的なリラックス感と生理的データが真逆になる。Ouraの「Better than usual」は皮膚温上昇を見ているが、HR・HRVでは明らかにストレス状態。結論：瞑想の質を上げたいならCannabis後は避ける。
 
 ■ Cycling (Oura Ring) — 合計3セッション
 - Session 1: 13:44〜14:12（28分 / 6.3km / 112kcal / moderate）
