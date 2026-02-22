@@ -451,7 +451,8 @@ NAC 500 mg (Thorne)
   *Feedback from AI: [Post-Workout Plant Power] 筋トレ後のゴールデンタイムにテンペP:22g＋ラザニアP:10gで植物性タンパク質を合計32g確保。テンペの発酵菌が腸内の回復を加速し、筋タンパク合成を底上げ。ライスベリーライス＋ラザニアのC:64gでグリコーゲン補充◎。春菊・きゅうり・エリンギの多彩なフィトケミカルが炎症を鎮める。アーモンドのビタミンEが筋肉の酸化ストレス軽減。一皿にした植物性の多様性は満点。
 
 ■ Supplements
-（未記録）
+- Thorne PM x2
+- Ashwagandha 300mg
 
 ■ Treatment
 （なし）
