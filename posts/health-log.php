@@ -379,8 +379,6 @@ NAC 500 mg (Thorne)
   ~1,110kcal / P:52g / F:62g / C:77g（スムージー+サラダ：630kcal / おかゆ：480kcal）
   *Feedback from AI: [Recovery Brunch] アボカド+くるみのオメガ系脂質コンボに加え、おかゆで消化に優しいC:46gを補給。お腹が緩い翌日におかゆは最適解 — 米のデンプンが腸粘膜を保護し、豚ひき肉+卵でP:25g追加。ただしF:62gは今日の目標74gの84%をすでに朝食で消費。ランチ・ディナーは低脂質・高炭水化物で調整が必要。Running total: P:52g / 目標136gまで残り84g。
 
-■ Substances
-- Cannabis: Indica 0.4g (22:15)（1イキでDynamicな体験）
   </pre>
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
@@ -476,6 +474,7 @@ NAC 500 mg (Thorne)
 
 ■ Substances
 - Cannabis: Compound Z 0.4g Hybrid (19:47)（0.7g用意したが0.4gで中断）
+- Cannabis: Indica 0.4g (22:15)（1イキでDynamicな体験）
 
 ■ Daily Summary (by AI)
 食事    実績         目標         達成率
@@ -495,6 +494,7 @@ C        336g        361g         93%
 17:00（推定）マッサージへ。背中の筋肉痛ケア。
 19:47 Cannabis Compound Z 0.4gで中断。最少量記録。
 20:00 ディナー（チキンカリー＋ケール＋バナナ2本）。
+22:15 Cannabis Indica 0.4g。1イキでDynamic。
 この日の一言：「Cannabis量が減る。意思決定を体が先にしていた。」
   </pre>
 
