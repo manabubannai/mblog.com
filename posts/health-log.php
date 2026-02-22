@@ -379,13 +379,13 @@ NAC 500 mg (Thorne)
 - 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
 - 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
 
-■ Cycling (Oura Ring) — 13:44〜14:12
-- Duration: 28分
-- Distance: 6.3km
-- Calories: 112kcal
-- Intensity: moderate
+■ Cycling (Oura Ring) — 合計3セッション
+- Session 1: 13:44〜14:12（28分 / 6.3km / 112kcal / moderate）
+- Session 2: 14:59〜15:23（24分 / 2.4km / 76kcal / moderate）
+- Session 3: 15:53〜16:04（11分 / 1.6km / 37kcal / moderate）
+- 合計：63分 / 10.3km / 225kcal
 
-■ Workout (16:00〜 / Chest Day)
+■ Workout (16:10〜 / Chest Day)
 1. Bench Press (Smith Machine)
    - 50kg + Bar x 6
    - 55kg + Bar x 4
