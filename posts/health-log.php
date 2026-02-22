@@ -381,7 +381,9 @@ NAC 500 mg (Thorne)
 ■ Meditation (Oura Moment) — 21:32〜21:50（17分41秒）
 - Lowest HR: 76bpm（ベースライン 49bpm）
 - Avg HRV: 18ms（ベースライン 38ms）
-※note: 筋トレ110分＋サイクリング63分後の夕方瞑想。HRV 18ms は夜間ベースライン38msの47%。激しいトレーニング後の交感神経優位が続いている状態。Cannabis×瞑想HRVタスクと合致する可能性あり（Substances要確認）。
+- Skin Temp: セッション開始から上昇 → プラトー → 微減（末梢血管拡張＝副交感神経活性）
+- Self-rating: Better than usual 😊
+※note: 筋トレ110分＋サイクリング63分後の夕方瞑想。HRVは蓄積疲労で18msと低いが、皮膚温の上昇＋主観「Better than usual」は副交感神経が機能している証拠。トレーニング疲労下でも瞑想の質は確保できている。Cannabis×瞑想HRVタスクと合致する可能性あり（Substances要確認）。
 
 ■ Cycling (Oura Ring) — 合計3セッション
 - Session 1: 13:44〜14:12（28分 / 6.3km / 112kcal / moderate）
@@ -477,6 +479,7 @@ C          341g          361g         94%
 16:10 Chest Day筋トレ開始。Bench Press×7set / Dips / Incline Bench / Machine Press / Pec Fly / Incline DB。
 18:00 筋トレ終了（110分）。
 19:00 ディナー（推定）。テンペ＋ビーガンラザニア＋野菜多品目。
+21:32 Oura Moment（瞑想 17分41秒）。HRV 18ms / Better than usual。
 この日の一言：「サイクリングも筋トレも動き続けた。体は応えてくれた。」
   </pre>
 
