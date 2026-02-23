@@ -380,7 +380,9 @@ NAC 500 mg (Thorne)
 - Lowest HR: 60bpm（ベースライン 48bpm）
 - Avg HRV: 29ms（ベースライン 38ms）
 - HRV推移：セッション開始から上昇（20ms→30ms）
-※note: Cannabis無しの朝瞑想。昨夜Cannabis実験（第7回）との比較：HR +12 vs +27、HRV 29ms vs 18ms。HRVが上昇パターン = 副交感神経が正常機能。「Cannabis後の瞑想は避けるべき」がデータで証明された。全8回推移（最低心拍）：64/64/62/61/64/62/76/60、（HRV）：45/25/34/26/35/31/18/29。
+- Skin Temp：セッション終了まで連続上昇（Cannabis時は中盤でプラトー・微減）
+- Self-rating: Same as usual
+※note: Cannabis無しの朝瞑想。昨夜Cannabis実験（第7回）との比較：HR +12 vs +27、HRV 29ms vs 18ms。主観と客観の逆転が鮮明 — Cannabis時「Better than usual」なのに生理データは過去最悪。Cannabis無し「Same as usual」なのに生理データは健全。皮膚温も今日は終始上昇、Cannabis時は中盤でプラトー。HRVが上昇パターン = 副交感神経が正常機能。全8回推移（最低心拍）：64/64/62/61/64/62/76/60、（HRV）：45/25/34/26/35/31/18/29。
 
 ■ Food
 
