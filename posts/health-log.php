@@ -357,6 +357,8 @@ NAC 500 mg (Thorne)
 [ ] メルマガで読者質問まとめて共有（次回メルマガ配信時に追記する）
 [x] クローンした音声でPodcastを撮ってみる
 [ ] mblog.comをHetznerに移転しつつ、Claude Codeでセットアップする。現状のシステム設計とCSS設計が美しくないので、全てを作り替える。
+[ ] Hetznerに移転したmblogのセキュリティ設定（Tailscale）
+[ ] Hetznerに移転したmblogサーバーに、Claude Code Telegramを入れる
 [ ] 自分の相棒となるAIキャラを作る（そのキャラが音声配信、動画に登場などする。キャラ設定や声、性格など固める必要あり）
 
 [中] 理念を加速するもの
