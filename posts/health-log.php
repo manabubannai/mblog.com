@@ -340,6 +340,60 @@ NAC 500 mg (Thorne)
 
   <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
 
+  <h2># 2026-02-23</h2>
+  <pre>
+■ Morning Self-Check
+- Body: ?/10
+- Mind: ?/10
+- Spirit: ?/10
+
+■今日の積み上げ
+・理念：３年前の自分を救う
+・優先①：オフ会を定期開催
+・優先②：最速で拡大をする
+
+[高] 理念に直結するもの
+[ ] AIとコンテンツ作成
+[ ] メルマガで読者質問まとめて共有（次回メルマガ配信時に追記する）
+[ ] クローンした音声でPodcastを撮ってみる
+[ ] mblog.comをHetznerに移転しつつ、Claude Codeでセットアップする。現状のシステム設計とCSS設計が美しくないので、全てを作り替える。
+
+[中] 理念を加速するもの
+[ ] スクリーンタイムをAIに同期できるか確認（スマホやPCの使い過ぎとHRVの相関を見ていく）
+[ ] ストレッチルーティンの見直し（更に良いストレッチがあるかリサーチする）
+[ ] 若い子を集めて教育する寺子屋をやりたい
+[ ] マナブッダをキャラクター化して動画配信 → AIが主役コンテンツ。新しい発信形態
+
+[低] いつでもいい
+[ ] スマートウォッチを買う
+[ ] mblog.comにダークモードを実装する
+[ ] GA4スプレッドシートに日付ディメンションを追加する（日次PV比較レポートに必要）
+
+■ ドラフト（下書き）
+- 構想中：<a href="/draft-openclaw-article">OpenClawってなに？何がすごいの？</a>
+- 構想中：<a href="/draft-cannabis-article">大麻関連の記事</a>
+- 編集中：<a href="/draft-cannabis-hrv-experiment">Cannabis×瞑想でHRV計測してみた。過去最悪のデータが出た話。</a>
+- 構想中：あなたのAIを「最高の栄養士パートナー」にする方法
+- 構想中：<a href="/draft-iphone-programming">Claude Code × Telegram連携でiPhoneからプログラミングする方法</a>
+
+■ Meditation (Oura Moment) — 08:36〜09:06（30分30秒）
+- Lowest HR: 60bpm（ベースライン 48bpm）
+- Avg HRV: 29ms（ベースライン 38ms）
+- HRV推移：セッション開始から上昇（20ms→30ms）
+※note: Cannabis無しの朝瞑想。昨夜Cannabis実験（第7回）との比較：HR +12 vs +27、HRV 29ms vs 18ms。HRVが上昇パターン = 副交感神経が正常機能。「Cannabis後の瞑想は避けるべき」がデータで証明された。全8回推移（最低心拍）：64/64/62/61/64/62/76/60、（HRV）：45/25/34/26/35/31/18/29。
+
+■ Food
+
+■ Supplements
+
+■ Treatment
+
+■ Substances
+
+  </pre>
+
+  <hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.06); margin: 50px 0 40px;">
+
   <h2># 2026-02-22</h2>
   <pre>
 ■ Morning Self-Check
